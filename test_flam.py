@@ -45,7 +45,7 @@ query_image = Image.open(
     ).raw
 )
 
-query_image = Image.open('data/train/comic/EXP-1925-01-22-a-i0059.jpg')
+query_image = Image.open("data/test/comic/EXP-1956-07-25-a-i0105.jpg")
 
 """
 Step 2: Preprocessing images
