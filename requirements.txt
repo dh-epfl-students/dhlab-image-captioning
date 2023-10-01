@@ -5,3 +5,5 @@ ftfy
 regex
 tqdm
 open-flamingo
+transformers
+os
