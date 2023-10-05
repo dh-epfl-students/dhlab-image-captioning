@@ -4,6 +4,9 @@ from PIL import Image
 import os
 import numpy as np
 from transformers import CLIPProcessor, CLIPModel
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 ##model, preprocess = clip.load("ViT-B/32", device=device)
@@ -13,7 +16,7 @@ model = CLIPModel.from_pretrained(model_id)
 preprocess = CLIPProcessor.from_pretrained(model_id)
 
 ##tokenizing text (classes)
-prefix = "a photo of a"
+prefix = "an image of a"
 possible_labels = [
     "drawing",
     "game",
@@ -27,6 +30,18 @@ possible_labels = [
     "other"]
 ##text = clip.tokenize(possible_labels).to(device)
 
+class_descriptions = [
+    "drawing",
+    "entertaining board game", ##sports game, video game (disjunction of <adjective> game should work fine)
+    "graph",
+    "emblematic brand logo", 
+    "comic",
+    "map",
+    "diverse",
+    "photograph",
+    "title font letter",
+    "other"
+]
 
 ##Preprocessing the images
 ##image = preprocess(Image.open(
@@ -43,7 +58,7 @@ for image_path in image_file_paths:
     images.append(image)
 
 ##contains input ids and attention masks tensors
-class_tokens = preprocess(text=possible_labels, return_tensors="pt", padding=True).to(device)
+class_tokens = preprocess(text=class_descriptions, return_tensors="pt", padding=True).to(device)
 
 images = preprocess(images=images, return_tensors='pt')['pixel_values'].to(device)
 
@@ -53,7 +68,7 @@ with torch.no_grad():
     ##text_features = model.encode_text(text)
     class_emb = model.get_text_features(**class_tokens)
     class_emb = class_emb.detach().cpu().numpy()
-    ##normalize class_emb to apply dot product similarity
+    ##Normalize class_emb to apply dot product similarity
     class_emb = class_emb / np.linalg.norm(class_emb, axis=0)
     print(f"Shape of class embedding:", class_emb.shape)
     
@@ -69,7 +84,7 @@ with torch.no_grad():
     ##Computes embeddings for both the image and text inputs simultaneously.
     ##logits_per_image, logits_per_text = model(image, text)
 
-    ##Probability distribution
+    ##Similarity matrix using dot product 
     preds = []
     scores = np.dot(img_emb, class_emb.T)
     preds.extend(np.argmax(scores, axis=1))
@@ -78,7 +93,7 @@ with torch.no_grad():
 ##for label, prob in zip(possible_labels, probs):
 ##    print(f"The probability of the image to be {label} is: {prob*100.0:.2f} %")
 
-##TODO: compute accuracy on this test data
+##Compute accuracy on this test data
 labelled_data = []
 for image_path in image_file_paths: 
      label = os.path.basename(os.path.dirname(image_path))
@@ -91,9 +106,46 @@ for image_path in image_file_paths:
 
 true_preds = []
 for i, img_data in enumerate(labelled_data):
+    ##doubt
     if img_data["label_id"] == preds[i]:
         true_preds.append(1)
     else:
         true_preds.append(0)
 
 print(f"Accuracy:", sum(true_preds) / len(true_preds))
+
+
+##Plotting
+x= preds
+y= np.zeros(len(preds))
+true_labels = [item["label_id"] for item in labelled_data]
+
+tuple_counts = {}
+
+# Iterate through the list of tuples
+for tpl in list(zip(preds, true_labels)):
+    
+    # Use the hashable object as the key in the dictionary and increment the count
+    if tpl in tuple_counts:
+        tuple_counts[tpl] += 1
+    else:
+        tuple_counts[tpl] = 1
+
+# Convert the dictionary into a list of tuples
+data_list = [(k[0], k[1], v) for k, v in tuple_counts.items()]
+
+# Create a Pandas DataFrame
+df = pd.DataFrame(data_list, columns=['prediction', 'true class', 'frequency'])
+
+# Print the DataFrame
+#df
+
+sns.scatterplot(data=df, x="prediction", y="true class", size="frequency", legend = False)
+p= possible_labels
+
+# Plot the y=x line
+plt.plot(p, p, color='red', linestyle='--', label='y=x')
+
+
+# Show the plot
+plt.show()
