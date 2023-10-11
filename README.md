@@ -14,8 +14,6 @@ _Objective_: On the basis of these initial experiments and the annotated dataset
 
 ## **Usage:**
 
-- Download the needed data from this drive (<https://drive.google.com/file/d/1f7N3RB9NpDy9noyQD_lH-jASdALCkIZH/view>), have it at the dataset_HASYv2 folder. <br />
-
 To run the code, execute the following command in your terminal: <br />
 
 - python clip_test.py --clip <br />
