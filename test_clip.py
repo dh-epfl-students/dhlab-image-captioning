@@ -7,6 +7,7 @@ from transformers import CLIPProcessor, CLIPModel
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
+import sklearn
 from sklearn.metrics import confusion_matrix, accuracy_score, f1_score
 import argparse
 
@@ -141,13 +142,8 @@ elif args.clip:
         df.to_csv(args.filename)
         
 
-acc = accuracy_score(true_labels, preds)
-f1_per_class = f1_score(true_labels, preds, average=None)
-f1_per_class = [f'{score:.2f}' for score in f1_per_class]
-f1_weighted = f1_score(true_labels, preds, average='weighted')
-print(f"Accuracy:", acc)
-print(f"f1 score (per class):", f1_per_class)
-print(f"f1 score (weighted)", f1_weighted)
+report = sklearn.metrics.classification_report(true_labels, preds)
+print(report)
 
 cm = confusion_matrix(
         y_true = true_labels,
