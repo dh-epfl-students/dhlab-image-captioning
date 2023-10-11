@@ -41,6 +41,7 @@ if args.load_csv:
     df = pd.read_csv(args.load_csv)
     true_labels = list(df['True_label'].values)
     preds = list(df['Prediction'].values)
+    scores = list(df['Scores'])
 elif args.clip: 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     ##model, preprocess = clip.load("ViT-B/32", device=device)
@@ -127,12 +128,12 @@ elif args.clip:
 
     true_labels = [item["label_id"] for item in labelled_data]
     img_paths = [item["path"] for item in labelled_data]
-    score_tuples = [tuple(row) for row in scores]
+    ##score_tuples = [tuple(row) for row in scores]
     data_dic = {
         "Image_path": img_paths,
         "True_label": true_labels, 
         "Prediction": preds,
-        "Scores": score_tuples
+        "Scores": np.max(scores, axis=1)
     }
     
     df = pd.DataFrame(data_dic)
@@ -144,6 +145,20 @@ elif args.clip:
 
 report = sklearn.metrics.classification_report(true_labels, preds)
 print(report)
+
+##Confidence level
+class_max_prob_sums = np.zeros(10)
+class_data_unit_counts = np.zeros(10)
+print(scores)
+for pred, score in zip(preds, scores):
+    class_max_prob_sums[pred] += score
+    class_data_unit_counts[pred] += 1
+
+# Calculate the confidence levels for each class
+confidence_levels = np.array(class_max_prob_sums) / np.array(class_data_unit_counts)
+
+
+print(f"confidence levels:", confidence_levels)
 
 cm = confusion_matrix(
         y_true = true_labels,
