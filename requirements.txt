@@ -7,3 +7,5 @@ tqdm
 open-flamingo
 transformers
 os
+seaborn
+pandas
