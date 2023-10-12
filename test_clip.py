@@ -153,24 +153,49 @@ elif args.clip:
         df.to_csv(args.filename)
         
 
+
+##Classification report
 report = sklearn.metrics.classification_report(true_labels, preds)
 print(report)
 
-##Confidence level
+##Confidence levels for each class
+print(f"Confidence level per class:")
 class_max_prob_sums = np.zeros(len(possible_labels))
 class_data_unit_counts = np.zeros(len(possible_labels))
-
 for pred, percentage in zip(preds, max_percentages):
     class_max_prob_sums[pred] += percentage
     class_data_unit_counts[pred] += 1
-
-# Calculate the confidence levels for each class
 confidence_levels = np.array(class_max_prob_sums) / np.array(class_data_unit_counts)
+for index, confidence_level in enumerate(confidence_levels): 
+    print(f"    {possible_labels[index]}: {confidence_level*100.0:.2f} %")
+
+# Avegerage Confidence level of all classes
 avg_confidence_level = np.average(confidence_levels)
+print(f"The average confidence level is: {avg_confidence_level:.2f}")
 
-print(f"confidence levels:", confidence_levels)
-print(f"average confidence level:", avg_confidence_level)
+# Accuracy per class
+acc = accuracy_score(true_labels, preds)
+print(f"The average accuracy is:", acc)
 
+##Understanding missclassification
+idx_of_diverse = possible_labels.index("diverse")
+##missclassified data points st true label = diverse but predicted != diverse
+missclassified_diverse = []
+##missclassified data points st true label != diverse but predicted == diverse
+false_diverse = []
+for true_label, pred, score, conf in zip(true_labels, preds, scores, max_percentages):
+    if  true_label == idx_of_diverse and preds != idx_of_diverse:
+        missclassified_diverse.append([true_label, pred, score, conf*100])
+
+missclassified_diverse = pd.DataFrame(missclassified_diverse)
+false_diverse = pd.DataFrame(false_diverse)
+missclassified_diverse.columns = ["True label", "Prediction", "Score", "Confidence in %"]
+
+##print(f"Missclassified diverse:")
+##print(missclassified_diverse)
+##print(f"Average confidence for missclassified true diverse:", np.average(list(missclassified_diverse['Confidence in %'].values)))
+
+##Confusion Matrix
 cm = confusion_matrix(
         y_true = true_labels,
         y_pred = preds,
@@ -182,3 +207,4 @@ plt.xlabel('Predicted')
 plt.ylabel('Actual')
 plt.title('Confusion Matrix')
 plt.show()
+
