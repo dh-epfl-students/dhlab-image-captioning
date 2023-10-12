@@ -10,6 +10,7 @@ import pandas as pd
 import sklearn
 from sklearn.metrics import confusion_matrix, accuracy_score, f1_score
 import argparse
+import scipy.special
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--clip', action='store_true', help = "computes new predictions")
@@ -61,7 +62,7 @@ elif args.clip:
         "graph",
         "emblematic brand logo", 
         "comic",
-        "map",
+        "geographical map", ##trying out disjunction:geographical or meteorological map
         "diverse",
         "photograph",
         "title font letter",
@@ -109,6 +110,8 @@ elif args.clip:
         preds = []
         scores = np.dot(img_emb, class_emb.T)
         preds.extend(np.argmax(scores, axis=1))
+
+        percentages = scipy.special.softmax(scores, 1)
         
 
     ##for label, prob in zip(possible_labels, probs):
@@ -118,13 +121,14 @@ elif args.clip:
     labelled_data = []
     for image_path in image_file_paths: 
         label = os.path.basename(os.path.dirname(image_path))
-        img_data = {
-            "img": Image.open(image_path),
-            "label": label,
-            "label_id": possible_labels.index(label),
-            "path": image_path
-        }
-        labelled_data.append(img_data)
+        if label in possible_labels:
+            img_data = {
+                "img": Image.open(image_path),
+                "label": label,
+                "label_id": possible_labels.index(label),
+                "path": image_path
+            }
+            labelled_data.append(img_data)
 
     true_labels = [item["label_id"] for item in labelled_data]
     img_paths = [item["path"] for item in labelled_data]
@@ -147,11 +151,12 @@ report = sklearn.metrics.classification_report(true_labels, preds)
 print(report)
 
 ##Confidence level
-class_max_prob_sums = np.zeros(10)
-class_data_unit_counts = np.zeros(10)
-print(scores)
-for pred, score in zip(preds, scores):
-    class_max_prob_sums[pred] += score
+class_max_prob_sums = np.zeros(len(percentages[0]))
+class_data_unit_counts = np.zeros(len(percentages[0]))
+
+for pred, row in zip(preds, percentages):
+    percentage = row[pred]
+    class_max_prob_sums[pred] += percentage
     class_data_unit_counts[pred] += 1
 
 # Calculate the confidence levels for each class
