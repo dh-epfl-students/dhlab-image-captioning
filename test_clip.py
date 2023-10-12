@@ -42,7 +42,9 @@ if args.load_csv:
     df = pd.read_csv(args.load_csv)
     true_labels = list(df['True_label'].values)
     preds = list(df['Prediction'].values)
-    scores = list(df['Scores'])
+    scores = list(df['Scores'].values)
+    max_percentages = list(df['Confidence'].values)
+
 elif args.clip: 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     ##model, preprocess = clip.load("ViT-B/32", device=device)
@@ -110,14 +112,17 @@ elif args.clip:
         preds = []
         scores = np.dot(img_emb, class_emb.T)
         preds.extend(np.argmax(scores, axis=1))
+        max_scores = np.max(scores, axis=1)
 
         percentages = scipy.special.softmax(scores, 1)
+        max_percentages = np.max(percentages, axis=1)
         
 
     ##for label, prob in zip(possible_labels, probs):
     ##    print(f"The probability of the image to be {label} is: {prob*100.0:.2f} %")
 
-    ##Compute accuracy on this test data
+
+    ##Create the labelled data dictionary
     labelled_data = []
     for image_path in image_file_paths: 
         label = os.path.basename(os.path.dirname(image_path))
@@ -137,7 +142,8 @@ elif args.clip:
         "Image_path": img_paths,
         "True_label": true_labels, 
         "Prediction": preds,
-        "Scores": np.max(scores, axis=1)
+        "Scores": max_scores,
+        "Confidence": max_percentages,
     }
     
     df = pd.DataFrame(data_dic)
@@ -151,19 +157,19 @@ report = sklearn.metrics.classification_report(true_labels, preds)
 print(report)
 
 ##Confidence level
-class_max_prob_sums = np.zeros(len(percentages[0]))
-class_data_unit_counts = np.zeros(len(percentages[0]))
+class_max_prob_sums = np.zeros(len(possible_labels))
+class_data_unit_counts = np.zeros(len(possible_labels))
 
-for pred, row in zip(preds, percentages):
-    percentage = row[pred]
+for pred, percentage in zip(preds, max_percentages):
     class_max_prob_sums[pred] += percentage
     class_data_unit_counts[pred] += 1
 
 # Calculate the confidence levels for each class
 confidence_levels = np.array(class_max_prob_sums) / np.array(class_data_unit_counts)
-
+avg_confidence_level = np.average(confidence_levels)
 
 print(f"confidence levels:", confidence_levels)
+print(f"average confidence level:", avg_confidence_level)
 
 cm = confusion_matrix(
         y_true = true_labels,
