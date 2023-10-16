@@ -69,16 +69,16 @@ if __name__ == "__main__" :
         ##text = clip.tokenize(possible_labels).to(device)
 
         class_descriptions = [
-            "drawing",
-            "entertaining board game", ##sports game, video game (disjunction of <adjective> game should work fine)
-            "graph",
-            "emblematic brand logo", 
-            "comic",
-            "geographical map", ##trying out disjunction:geographical or meteorological map
-            "diverse",
-            "photograph",
-            "title font letter",
-            "other"
+            "traditional drawing",
+            "board game",
+            "graphical representation",
+            "emblematic logo",
+            "traditional comic",
+            "informative map",
+            "diversified image",
+            "historical photograph",
+            "title-font letter",
+            "unclassified image"
         ]
 
         possible_changes = [
@@ -152,7 +152,6 @@ if __name__ == "__main__" :
         true_labels = [item["label_id"] for item in labelled_data]
         img_paths = [item["path"] for item in labelled_data]
         ##score_tuples = [tuple(row) for row in scores]
-        
         
 
         if args.create_csv:
