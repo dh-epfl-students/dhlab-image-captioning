@@ -69,16 +69,16 @@ if __name__ == "__main__" :
         ##text = clip.tokenize(possible_labels).to(device)
 
         class_descriptions = [
-            "traditional drawing",
-            "board game",
-            "graphical representation",
-            "emblematic logo",
-            "traditional comic",
-            "informative map",
-            "diversified image",
-            "historical photograph",
-            "title-font letter",
-            "unclassified image"
+           "A drawing is like a window into the artist's imagination, where the viewer can glimpse the world as the artist envisions it.",
+            "A game is like a journey on a winding road. It's filled with challenges, surprises, and opportunities to learn and grow.",
+            "A graph is like a roadmap for data. It serves as a guide to make sense of complex data, much like a roadmap helps people make sense of geographical landscapes.",
+            "A logo is like a firm handshake. It's the first impression and introduction of a brand to the world.",
+            "A comic is like a rollercoaster ride for your imagination. Just as a rollercoaster takes you on a thrilling journey with its twists, turns, and unexpected drops, a comic carries you through a captivating narrative using the dynamic interplay of visuals and words.",
+            "A map is like a treasure map for exploring the real world. It provides the key to unlocking the secrets of a geographic area, revealing paths, destinations, and points of interest along the way.",
+            "A diverse picture is like a colorful mosaic. Just as a mosaic is made up of various differently shaped and colored tiles, a diverse picture describes a situation or group that is composed of individuals with a wide range of characteristics.",
+            "A photograph is like a frozen moment in time, a memory preserved in a frame. It's a window into the past, a portal that transports us to the exact time and place where the image was taken, no matter how much time has passed.",
+            "A title is like a signpost on the road of knowledge. Just as a signpost provides direction and hints at what lies ahead on a journey, a title serves as a guide and preview for what the content of a text, article, or creative work is about.",
+            "other"
         ]
 
         possible_changes = [
@@ -169,23 +169,23 @@ if __name__ == "__main__" :
             possible_changes.append(type_of_change)
 
     ##Classification report
-    report = sklearn.metrics.classification_report(true_labels, preds)
+    report = sklearn.metrics.classification_report(true_labels, preds, target_names = possible_labels)
     print(report)
 
     ##Confidence levels for each class
-    print(f"Confidence level per class:")
+    #print(f"Confidence level per class:")
     class_max_prob_sums = np.zeros(len(possible_labels))
     class_data_unit_counts = np.zeros(len(possible_labels))
     for pred, percentage in zip(preds, max_percentages):
         class_max_prob_sums[pred] += percentage
         class_data_unit_counts[pred] += 1
     confidence_levels = np.array(class_max_prob_sums) / np.array(class_data_unit_counts)
-    for index, confidence_level in enumerate(confidence_levels): 
-        print(f"    {possible_labels[index]}: {confidence_level*100.0:.2f} %")
+    #for index, confidence_level in enumerate(confidence_levels): 
+    #    print(f"    {possible_labels[index]}: {confidence_level*100.0:.2f} %")
 
     # Avegerage Confidence level of all classes
     avg_confidence_level = np.average(confidence_levels)
-    print(f"The average confidence level is: {avg_confidence_level:.2f}")
+    #print(f"The average confidence level is: {avg_confidence_level:.2f}")
 
     # Accuracy per class
     acc = accuracy_score(true_labels, preds)
