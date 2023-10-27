@@ -9,3 +9,7 @@ transformers
 os
 seaborn
 pandas
+argparse
+scipy.special
+natsort
+cv

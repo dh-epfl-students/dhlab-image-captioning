@@ -11,6 +11,9 @@ import sklearn
 from sklearn.metrics import confusion_matrix, accuracy_score, f1_score
 import argparse
 import scipy.special
+from natsort import natsorted
+from sklearn.metrics import ConfusionMatrixDisplay
+import cv2
 
 if __name__ == "__main__" : 
     parser = argparse.ArgumentParser()
@@ -18,12 +21,14 @@ if __name__ == "__main__" :
 
     parser.add_argument('--create_csv', action='store_true', help= "Create a .csv file, is false by default." ) #enter --create_csv to create a .csv file
     parser.add_argument('--add_csv_to_results', action='store_true', help='Appends results of the given .csv to results.csv')
+    parser.add_argument('--add_all_csvs_to_results', action='store_true', help='Create a file containing the results from all experiments (excluding diverse and other)')
     parser.add_argument('--load_csv', action='store_true', help='Path to the .csv file to be loaded.')
     parser.add_argument('filename', type=str, nargs='?', const=None, help= "Enter filename.csv if you wish to create a csv file or add the content of a csv file to results.csv.")
     parser.add_argument('type_of_change', type=str, nargs='?', const=None, help= "Enter the type of change made to the text descriptions if you wish to create a csv file.")
-    
-    parser.add_argument('--results', action='store_true', help= "Shows results.")
-    
+    parser.add_argument('--open_images', action='store_true', help= "Opens a list of images" ) 
+
+    #parser.add_argument('--results', action='store_true', help= "Shows results.")
+    parser.add_argument('--show_results', action='store_true', help="loads all csvs from the experimental folder plots")
     args = parser.parse_args()
     type_of_change = args.type_of_change
 
@@ -37,10 +42,89 @@ if __name__ == "__main__" :
         "logo",
         "comic",
         "map",
-        "diverse",
         "photo",
         "title",
-        "other"]
+    ]
+    
+    if args.show_results: 
+        results = []
+        accs_per_change = []
+        csv_files = [file for file in os.listdir('experimental-results-excluding-diverse-other/') if file.endswith('.csv')]
+
+        # Sort the CSV files based on a specific criterion (e.g., by file name)
+        
+        csv_files_english = ("change_0.csv", "change_1.csv", "change_2.csv", "change_3.csv", "change_4.csv", "change_5.csv", "change_6.csv", "change_7.csv", "change_8.csv", "change_9.csv", "change_10.csv", "change_11.csv", "change_12.csv")
+        csv_files_languages = ("change_0.csv", "change_chinese.csv", "change_russian.csv", "change_french.csv")
+        
+        def plot_f1_vs_change(csv_files, xlabels):
+  
+            for file in csv_files:
+                        df_change_i = pd.read_csv(os.path.join('experimental-results-excluding-diverse-other/', file))
+                        #true_labels = [label for label in list(df_change_i['True_label']) if label not in [6, 9]]
+                        #preds = [pred for pred in list(df_change_i['Prediction']) if pred not in [6, 9]]
+                        f1_scores =sklearn.metrics.f1_score(list(df_change_i['True_label']), list(df_change_i['Prediction']), average=None)
+                        acc = sklearn.metrics.accuracy_score(df_change_i['True_label'], list(df_change_i['Prediction']), normalize=True, sample_weight=None)
+                        results.append(f1_scores)
+                        accs_per_change.append(acc)
+            
+            plt.plot(accs_per_change)
+            plt.ylabel('accuracy')
+            plt.xticks(ticks = range(len(xlabels)), labels = xlabels)
+            plt.xlabel("Class descriptions from simple to more complex")
+            for x in range(len(xlabels)): 
+                plt.axvline(x=x, color='lightsteelblue', linestyle='-', linewidth=1)
+            plt.show()
+            print(accs_per_change)
+            for i, col in enumerate(range(len(results[0]))):  
+                if not (i == 6 or i == 9):
+                    column = [row[col] for row in results]
+                    plt.plot(column,  label=possible_labels[i])
+                    
+            for x in range(len(xlabels)): 
+                plt.axvline(x=x, color='gray', linestyle='--', linewidth=1)
+            # Add labels and legend
+            plt.xticks(ticks = range(len(xlabels)), labels = xlabels)
+            plt.ylabel('F1-score')
+            plt.xlabel("Class descriptions from simple to more complex")
+            
+            # Display or save the plot
+            plt.legend(loc=1)
+            plt.show()
+
+        #heat map showing f1 score increase/decrease/stagnation over changes
+        def hm_f1_evolution(csv_files, xlabels): 
+            hm = pd.DataFrame()
+             #results from f1 change - f1 change_0.csv
+            text_is_class_names = pd.read_csv("experimental-results-excluding-diverse-other/change_0.csv")
+            f1_scores_0 =sklearn.metrics.f1_score(list(text_is_class_names['True_label']), list(text_is_class_names['Prediction']), average=None)
+            for file in csv_files:
+                        df_change_i = pd.read_csv(os.path.join('experimental-results-excluding-diverse-other/', file))
+                        f1_scores_i =sklearn.metrics.f1_score(list(df_change_i['True_label']), list(df_change_i['Prediction']), average=None)
+                        diff = np.array(f1_scores_i - f1_scores_0)
+                        diff = np.round(diff, 2)
+                        diff_df = pd.DataFrame(diff)
+                        #each vector diff is a column of the hm
+                        hm = pd.concat([hm, diff_df], axis = 1)
+
+            hm_plt = sns.heatmap(hm, cmap=sns.diverging_palette(0, 150, as_cmap=True), center=0, annot= True, yticklabels=("drawing", "game", "graph", "logo", "comic", "map", "photo", "title"))
+            hm_plt.set_xticklabels(range(1, 13))
+            hm_plt.set(xlabel= "Class descriptions from simple to complex", ylabel="Accuracy")
+            #hm.set(xlabel=len(xlabels), ylabel=("drawing", "game", "graph", "logo", "comic", "map", "photo", "title"))
+            plt.show()
+            hm_arr = hm.to_numpy()
+            average_increase = np.mean(hm_arr, axis= 1)
+            print(average_increase)
+            #avg_plot = sns.heatmap(average_increase, cmap=sns.diverging_palette(0, 150, as_cmap=True), center=0, annot= True, xticklabels=range(1, 13))
+            #avg_plot.set(xlabel= "Class descriptions from simple to complex", ylabel="Average change in f1 score")
+            #plt.show()
+            
+
+        plot_f1_vs_change(csv_files_english, range(13))
+        hm_f1_evolution(csv_files_english[1:], range(12))
+        #plot_f1_vs_change(csv_files_languages, ("english", "french", "russian", "chineese"))
+        
+        #plot the averages!!!
+
 
     if args.create_csv and (args.filename is None or args.type_of_change is None):
         parser.error("If --create_csv is chosen, 'filename' and 'type_of_change' are required.")
@@ -69,21 +153,16 @@ if __name__ == "__main__" :
         ##text = clip.tokenize(possible_labels).to(device)
 
         class_descriptions = [
-           "A drawing is like a window into the artist's imagination, where the viewer can glimpse the world as the artist envisions it.",
-            "A game is like a journey on a winding road. It's filled with challenges, surprises, and opportunities to learn and grow.",
-            "A graph is like a roadmap for data. It serves as a guide to make sense of complex data, much like a roadmap helps people make sense of geographical landscapes.",
-            "A logo is like a firm handshake. It's the first impression and introduction of a brand to the world.",
-            "A comic is like a rollercoaster ride for your imagination. Just as a rollercoaster takes you on a thrilling journey with its twists, turns, and unexpected drops, a comic carries you through a captivating narrative using the dynamic interplay of visuals and words.",
-            "A map is like a treasure map for exploring the real world. It provides the key to unlocking the secrets of a geographic area, revealing paths, destinations, and points of interest along the way.",
-            "A diverse picture is like a colorful mosaic. Just as a mosaic is made up of various differently shaped and colored tiles, a diverse picture describes a situation or group that is composed of individuals with a wide range of characteristics.",
-            "A photograph is like a frozen moment in time, a memory preserved in a frame. It's a window into the past, a portal that transports us to the exact time and place where the image was taken, no matter how much time has passed.",
-            "A title is like a signpost on the road of knowledge. Just as a signpost provides direction and hints at what lies ahead on a journey, a title serves as a guide and preview for what the content of a text, article, or creative work is about.",
-            "other"
+            "non-textual illustration or cartoon or caricature or descriptive drawing",
+            "puzzle game or board game or didactic game",
+            "line graph or bar graph",
+            "company logo or brand logo or institution logo",
+            "entertaining traditional comic including text",
+            "country map or regional map or weather map",
+            "historical photograph or journal photograph or portait photograph",
+            "title or alphabet letter"
         ]
-
-        possible_changes = [
-
-        ]
+        possible_changes = []
 
         ##Preprocessing the images
         ##image = preprocess(Image.open(
@@ -125,6 +204,7 @@ if __name__ == "__main__" :
             ##Similarity matrix using dot product 
             preds = []
             scores = np.dot(img_emb, class_emb.T)
+            print(scores[:4])
             preds.extend(np.argmax(scores, axis=1))
             max_scores = np.max(scores, axis=1)
 
@@ -165,58 +245,71 @@ if __name__ == "__main__" :
         }
         
             df = pd.DataFrame(data_dic)
-            df.to_csv('experimental-results/'+args.filename, index=False)
+            df.to_csv('experimental-results-excluding-diverse-other/'+args.filename, index=False)
             possible_changes.append(type_of_change)
 
-    ##Classification report
-    report = sklearn.metrics.classification_report(true_labels, preds, target_names = possible_labels)
-    print(report)
+    if not args.show_results and not args.add_all_csvs_to_results and not args.open_images:
+        ##Classification report
+        report = sklearn.metrics.classification_report(true_labels, preds, target_names = possible_labels)
+        print(report)
 
-    ##Confidence levels for each class
-    #print(f"Confidence level per class:")
-    class_max_prob_sums = np.zeros(len(possible_labels))
-    class_data_unit_counts = np.zeros(len(possible_labels))
-    for pred, percentage in zip(preds, max_percentages):
-        class_max_prob_sums[pred] += percentage
-        class_data_unit_counts[pred] += 1
-    confidence_levels = np.array(class_max_prob_sums) / np.array(class_data_unit_counts)
-    #for index, confidence_level in enumerate(confidence_levels): 
-    #    print(f"    {possible_labels[index]}: {confidence_level*100.0:.2f} %")
+        ##Confidence levels for each class
+        #print(f"Confidence level per class:")
+        class_max_prob_sums = np.zeros(len(possible_labels))
+        class_data_unit_counts = np.zeros(len(possible_labels))
+        for pred, percentage in zip(preds, max_percentages):
+            class_max_prob_sums[pred] += percentage
+            class_data_unit_counts[pred] += 1
+        confidence_levels = np.array(class_max_prob_sums) / np.array(class_data_unit_counts)
+        #for index, confidence_level in enumerate(confidence_levels): 
+        #    print(f"    {possible_labels[index]}: {confidence_level*100.0:.2f} %")
 
-    # Avegerage Confidence level of all classes
-    avg_confidence_level = np.average(confidence_levels)
-    #print(f"The average confidence level is: {avg_confidence_level:.2f}")
+        # Avegerage Confidence level of all classes
+        avg_confidence_level = np.average(confidence_levels)
+        #print(f"The average confidence level is: {avg_confidence_level:.2f}")
 
-    # Accuracy per class
-    acc = accuracy_score(true_labels, preds)
-    print(f"The average accuracy is:", acc)
+        # Accuracy per class
+        acc = accuracy_score(true_labels, preds)
+        print(f"The average accuracy is:", acc)
 
-    ##Understanding missclassification
-    idx_of_diverse = possible_labels.index("diverse")
-    ##missclassified data points st true label = diverse but predicted != diverse
-    missclassified_diverse = []
-    ##missclassified data points st true label != diverse but predicted == diverse
-    false_diverse = []
-    for true_label, pred, score, conf in zip(true_labels, preds, scores, max_percentages):
-        if  true_label == idx_of_diverse and preds != idx_of_diverse:
-            missclassified_diverse.append([true_label, pred, score, conf*100])
+        ##Confusion Matrix
+        cm = confusion_matrix(
+            y_true = true_labels,
+            y_pred = preds,
+            sample_weight = None,
+            normalize= None,
+        )
 
-    missclassified_diverse = pd.DataFrame(missclassified_diverse)
-    false_diverse = pd.DataFrame(false_diverse)
-    missclassified_diverse.columns = ["True label", "Prediction", "Score", "Confidence in %"]
+        sns.heatmap(cm, vmin= None, vmax=None, cmap='Blues', center=None, robust=None, annot=True, fmt='d', xticklabels= possible_labels , yticklabels= possible_labels)
+        plt.xlabel('Predicted')
+        plt.ylabel('Actual')
+        plt.title('Confusion Matrix')
+        plt.show()
 
-    ##print(f"Missclassified diverse:")
-    ##print(missclassified_diverse)
-    ##print(f"Average confidence for missclassified true diverse:", np.average(list(missclassified_diverse['Confidence in %'].values)))
+        f1_scores_ = f1_score(true_labels, preds, average=None)
+        plt.barh(possible_labels[::-1], f1_scores_[::-1])
+        plt.xlabel('F1 Score')
+        plt.ylabel('Possible Labels')
+        plt.title('F1 score per class prompting CLIP with the class name')
 
-    if args.add_csv_to_results: 
-            df_from_csv = pd.read_csv(args.filename)
-            #df_from_csv.sort_index(by=['True_label'], ascending=False)
-            #df_from_csv.set_index(['Type_of_change', 'True_label'], inplace=True)
-            #report = sklearn.metrics.classification_report(true_labels, preds)
+        # Add values on the bars
+        for i, score in enumerate(f1_scores_[::-1]):
+            plt.text(score, i, f'{score:.2f}', ha='left', va='center')
+        plt.show()
 
-            new_exp = {
-                "Type_of_change": list(df_from_csv['Type_of_change'])[:10],
+
+        ##print(f"Missclassified diverse:")
+        ##print(missclassified_diverse)
+        ##print(f"Average confidence for missclassified true diverse:", np.average(list(missclassified_diverse['Confidence in %'].values)))
+
+    def add_csv_to_results_(filename, results_filename): 
+        df_from_csv = pd.read_csv(filename)
+        #df_from_csv.sort_index(by=['True_label'], ascending=False)
+        #df_from_csv.set_index(['Type_of_change', 'True_label'], inplace=True)
+        #report = sklearn.metrics.classification_report(true_labels, preds)
+
+        new_exp = {
+                "Type_of_change": list(df_from_csv['Type_of_change'])[:len(possible_labels)],
                 "Class": possible_labels,
                 "f1_score": [f'{score:.2f}' for score in f1_score(true_labels, preds, average=None)],
                 "Precision": [f'{score:.2f}' for score in sklearn.metrics.precision_score(true_labels, preds, average=None)],
@@ -224,22 +317,56 @@ if __name__ == "__main__" :
                 "Confidence": avg_confidence_level
             }
 
-            new_exp_df = pd.DataFrame(new_exp)
-            #Append the new experiment results to results.csv
-            new_exp_df.to_csv('results.csv', mode='a', index=False, header=False)
+        new_exp_df = pd.DataFrame(new_exp)
+        #Append the new experiment results to results.csv
+        
+
+    if args.add_csv_to_results: 
+            add_csv_to_results_(args.filename)
+
+    if args.add_all_csvs_to_results:
+        
+
+        # Sort the CSV files based on a specific criterion (e.g., by file name)
+        
+        csv_files_english = ("change_0.csv", "change_1.csv", "change_2.csv", "change_3.csv", "change_4.csv", "change_5.csv", "change_6.csv", "change_7.csv", "change_8.csv", "change_9.csv", "change_10.csv", "change_11.csv", "change_12.csv")
+        csv_files_languages = ("change_0.csv", "change_chinese.csv", "change_russian.csv", "change_french.csv")
+        results = []
+        def plot_f1_vs_change(csv_files, xlabels):
+        
+            for file in csv_files_english:
+                    add_csv_to_results_(file, "results_english.csv")
+            for file in csv_files_languages:
+                    add_csv_to_results_(file, "results_languages.csv")
+
+    ##Understanding missclassification
+    if args.open_images: 
+        image_paths = [
+        'data/test/drawing/EXP-1986-07-04-a-i0361.jpg',
+        'data/test/drawing/IMP-1949-09-30-a-i0010.jpg',
+        'data/test/drawing/IMP-1955-01-31-a-i0053.jpg',
+        'data/test/drawing/IMP-1992-02-10-a-i0160.jpg',
+        'data/test/drawing/IMP-1911-01-14-a-i0027.jpg',
+        'data/test/drawing/IMP-1989-08-28-a-i0011.jpg',
+        ]
+
+        for image_path in image_paths:
+            if os.path.isfile(image_path):
+                # Read the image using OpenCV
+                image = cv2.imread(os.path.abspath(image_path))
             
-    ##Confusion Matrix
-    cm = confusion_matrix(
-            y_true = true_labels,
-            y_pred = preds,
-            sample_weight = None,
-            normalize= None,
-        )
-    sns.heatmap(cm, vmin= None, vmax=None, cmap='Blues', center=None, robust=None, annot=True, fmt='d', xticklabels= possible_labels , yticklabels= possible_labels)
-    plt.xlabel('Predicted')
-    plt.ylabel('Actual')
-    plt.title('Confusion Matrix')
-    plt.show()
+            else:
+                print(f"Unable to read the image at {image_path}")
+        else:
+            print(f"File not found: {image_path}")
+
+        
+
+
+                
+    
+
+
 
     
             
