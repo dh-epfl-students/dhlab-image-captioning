@@ -14,6 +14,7 @@ model, image_processor, tokenizer = create_model_and_transforms(
     tokenizer_path="anas-awadalla/mpt-1b-redpajama-200b",
     cross_attn_every_n_layers=1,
     # cache_dir="temp"  # Defaults to ~/.cache
+    device=device
 )
 
 checkpoint_path = hf_hub_download(
