@@ -1,5 +1,3 @@
-# grab model checkpoint from huggingface hub
-
 from open_flamingo import create_model_and_transforms
 from huggingface_hub import hf_hub_download
 from PIL import Image
