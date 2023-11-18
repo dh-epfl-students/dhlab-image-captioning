@@ -4,8 +4,11 @@ from open_flamingo import create_model_and_transforms
 from huggingface_hub import hf_hub_download
 from PIL import Image
 import torch
+import warnings
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+# Suppress all warnings
+warnings.filterwarnings("ignore")
 
 model, image_processor, tokenizer = create_model_and_transforms(
     clip_vision_encoder_path="ViT-L-14",
@@ -13,8 +16,6 @@ model, image_processor, tokenizer = create_model_and_transforms(
     lang_encoder_path="anas-awadalla/mpt-1b-redpajama-200b",
     tokenizer_path="anas-awadalla/mpt-1b-redpajama-200b",
     cross_attn_every_n_layers=1,
-    # cache_dir="temp"  # Defaults to ~/.cache
-    device=device
 )
 
 checkpoint_path = hf_hub_download(
@@ -22,9 +23,10 @@ checkpoint_path = hf_hub_download(
     "checkpoint.pt")
 model.load_state_dict(torch.load(checkpoint_path), strict=False)
 
-model.to(device)
+# model.to(device)
+model.eval()
 
-query_image = Image.open("../../data/test/comic/EXP-1956-07-25-a-i0105.jpg")
+query_image = Image.open("../data/test/drawing/GDL-1979-06-15-a-i0026_2.jpg")
 
 vision_x = [image_processor(query_image).unsqueeze(0)]
 vision_x = torch.cat(vision_x, dim=0)
