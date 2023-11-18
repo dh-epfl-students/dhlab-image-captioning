@@ -30,9 +30,12 @@ model.load_state_dict(torch.load(checkpoint_path), strict=False)
 
 model.eval()
 
+# Here you can add other prompts that you want to test
+
 PROMPT_LIST = [
     "<image>Classify this image into one of the following classes: comic, drawing, game, graph, logo, map, photo, title. "
 ]
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description="Generate text for images in given classes.")
@@ -91,27 +94,4 @@ if __name__ == '__main__':
                         except Exception as e:
                             print(f"Error processing file {file_path}: {e}")
 
-
-    #
-    # query_image = Image.open("../data/test/drawing/GDL-1979-06-15-a-i0026_2.jpg")
-    #
-    # vision_x = [image_processor(query_image).unsqueeze(0)]
-    # vision_x = torch.cat(vision_x, dim=0)
-    # vision_x = vision_x.unsqueeze(1).unsqueeze(0)
-    #
-    # tokenizer.padding_side = "left"  # For generation padding tokens should be on the left
-    #
-    # lang_x = tokenizer(
-    #     ["<image>Classify this image into one of the following classes: comic, drawing, game, graph, logo, map, photo, title. "],
-    #     return_tensors="pt",
-    # )
-    #
-    # generated_text = model.generate(
-    #     vision_x=vision_x,
-    #     lang_x=lang_x["input_ids"],
-    #     attention_mask=lang_x["attention_mask"],
-    #     max_new_tokens=20,
-    #     num_beams=3,
-    # )
-    #
-    # print("Generated text: ", tokenizer.decode(generated_text[0]))
+    print('Done!')
