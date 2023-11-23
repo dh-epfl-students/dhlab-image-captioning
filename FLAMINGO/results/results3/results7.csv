@@ -1,0 +1,726 @@
+File Path,Prompt,Class Name,Predicted Text
+../data/test/title/LCE-1913-01-08-a-i0015.jpg,<image>This image can be classified as a,title,newspaper clipping.  It is a black and white image of the letter E.
+../data/test/title/LCE-1911-12-06-a-i0016.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1948-06-09-a-i0015.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1943-01-27-a-i0017.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1907-08-14-a-i0009.jpg,<image>This image can be classified as a,title,letter N
+../data/test/title/LCE-1952-02-27-a-i0002.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1906-02-03-a-i0003.jpg,<image>This image can be classified as a,title,letter L
+../data/test/title/LCE-1912-11-23-a-i0020.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1913-02-15-a-i0009.jpg,<image>This image can be classified as a,title,letter F.
+../data/test/title/LCE-1913-03-01-a-i0008.jpg,<image>This image can be classified as a,title,bookmark. It is a black and white image of the letter E.
+../data/test/title/LCE-1910-04-27-a-i0002.jpg,<image>This image can be classified as a,title,symbol of the letter C.
+../data/test/title/LCE-1942-01-02-a-i0012.jpg,<image>This image can be classified as a,title,letter D.
+../data/test/title/LCE-1908-10-07-a-i0011.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1904-07-02-a-i0002.jpg,<image>This image can be classified as a,title,letter L
+../data/test/title/LCE-1923-03-09-a-i0051.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1907-01-01-a-i0016.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1912-10-19-a-i0010.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1904-06-15-a-i0019.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1933-05-03-a-i0012.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1948-09-17-a-i0020.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1911-10-18-a-i0084.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1908-03-07-a-i0008.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1933-10-09-a-i0017.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1949-12-19-a-i0016.jpg,<image>This image can be classified as a,title,letter D.
+../data/test/title/LCE-1909-05-01-a-i0001.jpg,<image>This image can be classified as a,title,black and white version of the letter O.
+../data/test/title/LCE-1944-03-31-a-i0017.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1908-08-05-a-i0017.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1935-06-10-a-i0011.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1906-03-14-a-i0020.jpg,<image>This image can be classified as a,title,letter C.
+../data/test/title/LCE-1943-01-27-a-i0008.jpg,<image>This image can be classified as a,title,black and white image of the number 0.
+../data/test/title/LCE-1900-08-29-a-i0011.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1915-04-07-a-i0012.jpg,<image>This image can be classified as a,title,logo or a symbol. It is a letter C.
+../data/test/title/LCE-1908-01-22-a-i0011_2.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1911-10-18-a-i0002.jpg,<image>This image can be classified as a,title,letter C
+../data/test/title/LCE-1919-12-12-a-i0013.jpg,<image>This image can be classified as a,title,bookplate.
+../data/test/title/LCE-1958-06-16-a-i0011.jpg,<image>This image can be classified as a,title,logo. It is a black and white photograph of the word fe.
+../data/test/title/LCE-1903-04-15-a-i0005.jpg,<image>This image can be classified as a,title,letter N.
+../data/test/title/LCE-1906-07-25-a-i0010.jpg,<image>This image can be classified as a,title,number 0
+../data/test/title/LCE-1912-10-12-a-i0009.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1915-12-08-a-i0013.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1932-07-15-a-i0019.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1900-03-17-a-i0006.jpg,<image>This image can be classified as a,title,letter N
+../data/test/title/LCE-1914-05-11-a-i0016.jpg,<image>This image can be classified as a,title,letter L
+../data/test/title/LCE-1907-12-28-a-i0001.jpg,<image>This image can be classified as a,title,letter O.
+../data/test/title/LCE-1933-09-15-a-i0015.jpg,<image>This image can be classified as a,title,capital letter D.
+../data/test/title/LCE-1919-07-12-a-i0020.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1905-04-08-a-i0010.jpg,<image>This image can be classified as a,title,symbol of the number 0.
+../data/test/title/LCE-1950-02-24-a-i0001.jpg,<image>This image can be classified as a,title,book cover. It is a black and white photograph of the letter E.
+../data/test/title/LCE-1914-05-01-a-i0002.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1920-12-03-a-i0084.jpg,<image>This image can be classified as a,title,letter D.
+../data/test/title/LCE-1941-08-18-a-i0015.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1942-05-20-a-i0019.jpg,<image>This image can be classified as a,title,logo or a symbol. It is a black and white image of the letter E.
+../data/test/title/LCE-1908-09-26-a-i0010.jpg,<image>This image can be classified as a,title,black and white photograph of a large letter 'E' on a white background.
+../data/test/title/LCE-1908-03-28-a-i0012.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1914-07-10-a-i0015.jpg,<image>This image can be classified as a,title,letter E
+../data/test/title/LCE-1921-12-09-a-i0059.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1915-04-17-a-i0011.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1904-01-20-a-i0002.jpg,<image>This image can be classified as a,title,letter C.
+../data/test/title/LCE-1914-06-19-a-i0015.jpg,<image>This image can be classified as a,title,letter N.
+../data/test/title/LCE-1901-02-16-a-i0011.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1931-05-08-a-i0014.jpg,<image>This image can be classified as a,title,letter D.
+../data/test/title/LCE-1926-12-24-a-i0057.jpg,<image>This image can be classified as a,title,capital letter D.
+../data/test/title/LCE-1942-01-21-a-i0014.jpg,<image>This image can be classified as a,title,letter D.
+../data/test/title/LCE-1914-05-15-a-i0014.jpg,<image>This image can be classified as a,title,letter C
+../data/test/title/LCE-1953-06-26-a-i0014.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1952-05-02-a-i0002.jpg,<image>This image can be classified as a,title,letter L
+../data/test/title/LCE-1901-06-01-a-i0012.jpg,<image>This image can be classified as a,title,letter R.
+../data/test/title/LCE-1909-08-11-a-i0007_2.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1910-04-02-a-i0009.jpg,<image>This image can be classified as a,title,stylized letter N.
+../data/test/title/LCE-1904-03-09-a-i0001.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1904-07-27-a-i0010.jpg,<image>This image can be classified as a,title,black and white image of the letter O.
+../data/test/title/LCE-1906-06-09-a-i0002.jpg,<image>This image can be classified as a,title,letter C.
+../data/test/title/LCE-1906-06-06-a-i0018.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1906-10-13-a-i0019.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1931-07-10-a-i0012.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1933-02-01-a-i0009.jpg,<image>This image can be classified as a,title,black and white silhouette of an O.
+../data/test/title/LCE-1913-04-09-a-i0015.jpg,<image>This image can be classified as a,title,capital letter D.
+../data/test/title/LCE-1910-12-31-a-i0018.jpg,<image>This image can be classified as a,title,monogram.
+../data/test/title/LCE-1902-02-19-a-i0007.jpg,<image>This image can be classified as a,title,letter N.
+../data/test/title/LCE-1948-04-05-a-i0009.jpg,<image>This image can be classified as a,title,number 0
+../data/test/map/GDL-1991-06-01-a-i0298.jpg,<image>This image can be classified as a,map,weather map.
+../data/test/map/EXP-1992-02-14-a-i0439_3.jpg,<image>This image can be classified as a,map,political map of Europe.
+../data/test/map/JDG-1940-03-08-a-i0008.jpg,<image>This image can be classified as a,map,map of Georgia.
+../data/test/map/EXP-1957-07-04-a-i0103_2.jpg,<image>This image can be classified as a,map,railroad map.
+../data/test/map/EXP-1979-10-23-a-i0132_2.jpg,<image>This image can be classified as a,map,topographic map.
+../data/test/map/IMP-1960-01-16-a-i0024.jpg,<image>This image can be classified as a,map,map of the Soviet Union.
+../data/test/map/EXP-2003-09-29-a-i0014.jpg,<image>This image can be classified as a,map,political map of Hong Kong.
+../data/test/map/GDL-1907-04-02-a-i0069.jpg,<image>This image can be classified as a,map,geologic map.
+../data/test/map/JDG-1959-02-02-a-i0018.jpg,<image>This image can be classified as a,map,"map, a political cartoon, or an illustration of a map. It is a map of the French"
+../data/test/map/GDL-1950-05-17-a-i0056.jpg,<image>This image can be classified as a,map,map or a diagram. It is a map of the area around the town of Comblat in
+../data/test/map/EXP-2017-08-02-a-i0209.jpg,<image>This image can be classified as a,map,newspaper article.
+../data/test/map/GDL-1918-12-02-a-i0002.jpg,<image>This image can be classified as a,map,map or a diagram. It is a map of the Zambesi River and its tributaries.
+../data/test/map/EXP-2009-01-31-a-i0302_2.jpg,<image>This image can be classified as a,map,weather map.
+../data/test/map/LCE-1998-03-06-a-i0015_2.jpg,<image>This image can be classified as a,map,topographic map.
+../data/test/map/GDL-1941-07-15-a-i0121.jpg,<image>This image can be classified as a,map,map of the Middle East.
+../data/test/map/JDG-1987-04-10-a-i0203_2.jpg,<image>This image can be classified as a,map,political map of Switzerland.
+../data/test/logo/JDG-1925-08-29-a-i0041.jpg,<image>This image can be classified as a,logo,symbol of the French Revolution.
+../data/test/logo/JDG-1977-12-17-a-i0244.jpg,<image>This image can be classified as a,logo,black and white image of a flower.
+../data/test/logo/LCE-1977-11-18-a-i0010.jpg,<image>This image can be classified as a,logo,logo.
+../data/test/logo/EXP-1979-05-04-a-i0025.jpg,<image>This image can be classified as a,logo,symbol of the French police.
+../data/test/logo/LCE-1952-08-29-a-i0021.jpg,<image>This image can be classified as a,logo,logo or a sign. It is a black and white image of a rubber stamp with the words Rub
+../data/test/logo/LCE-1939-02-22-a-i0036.jpg,<image>This image can be classified as a,logo,book cover. It is a black-and-white photograph of the front cover of a book entitled
+../data/test/logo/LCE-1981-02-17-a-i0063_2.jpg,<image>This image can be classified as a,logo,logo or a symbol. It is a circle with the letters ASSA in the center. The letters
+../data/test/logo/IMP-1979-12-27-a-i0050.jpg,<image>This image can be classified as a,logo,"newspaper clipping. It is a newspaper clipping from the French newspaper, Le Figaro, dated"
+../data/test/logo/JDG-1907-11-03-a-i0012.jpg,<image>This image can be classified as a,logo,symbol of the Democratic Party.
+../data/test/logo/IMP-1973-01-30-a-i0025.jpg,<image>This image can be classified as a,logo,word collage. The word 'page' is made up of a variety of different words.
+../data/test/logo/LCE-1909-05-26-a-i0023.jpg,<image>This image can be classified as a,logo,logo or a sign. It is a black and white image of the H.A.S.
+../data/test/logo/GDL-1978-02-27-a-i0145.jpg,<image>This image can be classified as a,logo,rooster.
+../data/test/logo/JDG-1909-10-12-a-i0099.jpg,<image>This image can be classified as a,logo,micrograph.
+../data/test/logo/IMP-1915-06-08-a-i0031.jpg,<image>This image can be classified as a,logo,musical staff.
+../data/test/logo/LCE-1924-03-03-a-i0033.jpg,<image>This image can be classified as a,logo,black and white version of a postcard.  It shows a tower on a hill.  The
+../data/test/logo/EXP-1923-03-21-a-i0023.jpg,<image>This image can be classified as a,logo,label. It is a circular label with the word 'MODE' printed on it. The word '
+../data/test/logo/JDG-1907-12-13-a-i0050.jpg,<image>This image can be classified as a,logo,woodcut. It is a woodcut of a cross with a sun in the center. The sun
+../data/test/logo/LCE-1970-06-23-a-i0095_2.jpg,<image>This image can be classified as a,logo,coat of arms.
+../data/test/logo/IMP-1980-04-03-a-i0263.jpg,<image>This image can be classified as a,logo,vector clip art.
+../data/test/logo/LCE-1903-12-23-a-i0048.jpg,<image>This image can be classified as a,logo,comic strip. It is a black and white illustration of a chocolate bar with the word 'chocolate
+../data/test/logo/LCE-1952-05-16-a-i0010.jpg,<image>This image can be classified as a,logo,newspaper ad.
+../data/test/logo/EXP-1966-11-11-a-i0429.jpg,<image>This image can be classified as a,logo,logo or a symbol. It is a stylized letter 'V' with the letter 'T'
+../data/test/logo/LCE-1908-11-04-a-i0048.jpg,<image>This image can be classified as a,logo,coat of arms
+../data/test/logo/IMP-1915-03-27-a-i0043.jpg,<image>This image can be classified as a,logo,musical staff.
+../data/test/logo/LCE-1929-06-14-a-i0044.jpg,<image>This image can be classified as a,logo,trade card for Citron.
+../data/test/logo/EXP-2003-01-31-a-i0051.jpg,<image>This image can be classified as a,logo,service mark.
+../data/test/logo/LCE-1904-11-26-a-i0031.jpg,<image>This image can be classified as a,logo,copyright symbol.
+../data/test/logo/EXP-2017-10-24-a-i0150.jpg,<image>This image can be classified as a,logo,telephone number or a website address. It is not a telephone number. It is a website address.
+../data/test/logo/IMP-2016-11-03-a-i0254.jpg,<image>This image can be classified as a,logo,logo for La Mejor
+../data/test/logo/LCE-1970-04-14-a-i0026.jpg,<image>This image can be classified as a,logo,logo. It is a black and white version of a logo.
+../data/test/logo/IMP-2014-01-03-a-i0088.jpg,<image>This image can be classified as a,logo,logo of the Agenda.
+../data/test/logo/LCE-1952-05-09-a-i0053_2.jpg,<image>This image can be classified as a,logo,poster. It is a French poster for the movie Nouvelle Eléna.
+../data/test/logo/EXP-2005-11-16-a-i0232_2.jpg,<image>This image can be classified as a,logo,newspaper clipping. It is a black and white photo of a basketball player.
+../data/test/logo/GDL-1965-04-27-a-i0119.jpg,<image>This image can be classified as a,logo,bookplate.
+../data/test/logo/JDG-1982-07-05-a-i0042.jpg,<image>This image can be classified as a,logo,flower.
+../data/test/logo/EXP-2016-03-11-a-i0182.jpg,<image>This image can be classified as a,logo,logo or a symbol for the Indicateurs
+../data/test/logo/EXP-1906-02-05-a-i0060.jpg,<image>This image can be classified as a,logo,"trademark, copyright, or copyrighted symbol. It is a trademark, copyright, or copyrighted symbol. It"
+../data/test/logo/LCE-1903-11-04-a-i0027.jpg,<image>This image can be classified as a,logo,poster. It is an advertisement for a theatre company. It is in black and white. It is
+../data/test/logo/IMP-1963-03-12-a-i0199.jpg,<image>This image can be classified as a,logo,crown.
+../data/test/logo/JDG-1970-04-09-a-i0185.jpg,<image>This image can be classified as a,logo,Stamp
+../data/test/logo/IMP-1996-03-27-a-i0210_2.jpg,<image>This image can be classified as a,logo,woodcut. It is a black and white image of a man's head with a large mouth and
+../data/test/logo/LCE-1923-06-22-a-i0016.jpg,<image>This image can be classified as a,logo,newspaper clipping. It is a newspaper clipping from the French newspaper Le Petit Vingti
+../data/test/logo/EXP-1953-05-30-a-i0157.jpg,<image>This image can be classified as a,logo,newspaper advertisement. It is an advertisement for the Sappenzeppelner Syphilitic
+../data/test/logo/LCE-1975-02-14-a-i0004.jpg,<image>This image can be classified as a,logo,logo or a sign. It is a black and white image of the word 'DIRECTE' in
+../data/test/logo/IMP-1990-08-22-a-i0508.jpg,<image>This image can be classified as a,logo,logo of the club
+../data/test/game/IMP-2002-05-06-a-i0141.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/GDL-1926-07-12-a-i0063_2.jpg,<image>This image can be classified as a,game,word search.
+../data/test/game/IMP-2008-10-15-a-i0133_3.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/IMP-1985-07-06-a-i0063.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/EXP-1936-02-14-a-i0035.jpg,<image>This image can be classified as a,game,chess diagram.
+../data/test/game/GDL-1971-03-06-a-i0329.jpg,<image>This image can be classified as a,game,chess diagram.
+../data/test/game/EXP-1939-12-13-a-i0083.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/JDG-1974-09-14-a-i0221.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/JDG-1943-06-09-a-i0074.jpg,<image>This image can be classified as a,game,grid.
+../data/test/game/EXP-1996-12-30-a-i0048.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/IMP-1958-06-25-a-i0118.jpg,<image>This image can be classified as a,game,Sudoku puzzle.
+../data/test/game/EXP-1981-09-01-a-i0332_3.jpg,<image>This image can be classified as a,game,comic strip. It is a drawing of a man and a woman standing in a room. The man
+../data/test/game/JDG-1942-06-09-a-i0052.jpg,<image>This image can be classified as a,game,chess diagram.
+../data/test/game/GDL-1958-03-15-a-i0317.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/IMP-1973-09-01-a-i0208.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/IMP-1981-10-23-a-i0114.jpg,<image>This image can be classified as a,game,word search puzzle.
+../data/test/game/EXP-2013-08-14-a-i0109.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/EXP-2011-10-25-a-i0292.jpg,<image>This image can be classified as a,game,Sudoku puzzle.
+../data/test/game/IMP-1989-07-01-a-i0086_3.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/EXP-1956-03-05-a-i0103.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/IMP-2017-11-18-a-i0260.jpg,<image>This image can be classified as a,game,Sudoku puzzle.
+../data/test/game/EXP-2000-11-14-a-i0347_2.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/EXP-2014-07-11-a-i0125.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/EXP-1976-05-15-a-i0373.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/GDL-1938-09-18-a-i0054.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/IMP-1973-10-31-a-i0019.jpg,<image>This image can be classified as a,game,Sudoku puzzle.
+../data/test/game/JDG-1988-01-20-a-i0172.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/EXP-2017-07-07-a-i0104.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/EXP-1967-09-29-a-i0450_2.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/GDL-1964-05-30-a-i0320.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/EXP-1965-10-04-a-i0242.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/JDG-1987-11-06-a-i0201.jpg,<image>This image can be classified as a,game,chess diagram.
+../data/test/game/JDG-1936-02-07-a-i0064.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/EXP-1959-02-20-a-i0098.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/GDL-1974-11-02-a-i0180_9.jpg,<image>This image can be classified as a,game,"diagram of a stringed instrument, a diagram of a stringed instrument, or a diagram of a"
+../data/test/game/GDL-1915-07-04-a-i0099.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/IMP-1967-05-03-a-i0276.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/JDG-1974-05-18-a-i0221_2.jpg,<image>This image can be classified as a,game,chess diagram.
+../data/test/game/JDG-1947-12-27-a-i0052.jpg,<image>This image can be classified as a,game,deck of playing cards.
+../data/test/game/EXP-1972-06-12-a-i0345_2.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/GDL-1964-05-30-a-i0320_6.jpg,<image>This image can be classified as a,game,chess diagram.
+../data/test/game/GDL-1961-04-08-a-i0326.jpg,<image>This image can be classified as a,game,chess diagram.
+../data/test/game/EXP-1981-09-01-a-i0332.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/game/EXP-2009-03-18-a-i0136.jpg,<image>This image can be classified as a,game,word search puzzle.
+../data/test/game/IMP-1941-10-18-a-i0034.jpg,<image>This image can be classified as a,game,crossword puzzle.
+../data/test/photo/EXP-1929-08-19-a-i0011.jpg,<image>This image can be classified as a,photo,cabinet card. It is a portrait of a man with a mustache.
+../data/test/photo/IMP-1977-11-14-a-i0107.jpg,<image>This image can be classified as a,photo,black and white photo of a man and a woman sitting at a table with a microphone in front of
+../data/test/photo/EXP-2012-03-20-a-i0180.jpg,<image>This image can be classified as a,photo,"screenshot from a video posted online by the French far-right Front National (FN) party, showing"
+../data/test/photo/IMP-1915-05-01-a-i0007.jpg,<image>This image can be classified as a,photo,postcard. It shows a steamship in the water.
+../data/test/photo/GDL-1928-01-12-a-i0003.jpg,<image>This image can be classified as a,photo,black and white photograph of a man wearing a military uniform.
+../data/test/photo/IMP-1976-06-14-a-i0140.jpg,<image>This image can be classified as a,photo,black and white photo of a large group of girls doing gymnastics.
+../data/test/photo/IMP-2015-06-19-a-i0017.jpg,<image>This image can be classified as a,photo,street view of a residential building
+../data/test/photo/IMP-2017-05-10-a-i0059.jpg,<image>This image can be classified as a,photo,photo of a road construction site.
+../data/test/photo/IMP-1944-04-03-a-i0005.jpg,<image>This image can be classified as a,photo,woodpecker trap.
+../data/test/photo/IMP-2010-08-14-a-i0188.jpg,<image>This image can be classified as a,photo,close-up of two women standing in a field of grass. The woman on the left is smiling
+../data/test/photo/LCE-1989-09-22-a-i0018.jpg,<image>This image can be classified as a,photo,view of a vineyard.
+../data/test/photo/IMP-1913-07-31-a-i0020.jpg,<image>This image can be classified as a,photo,collage of several images of the wreckage of the train.
+../data/test/photo/EXP-1967-08-21-a-i0234.jpg,<image>This image can be classified as a,photo,black and white photo of a racing car.
+../data/test/photo/LCE-1970-07-28-a-i0070.jpg,<image>This image can be classified as a,photo,black and white or sepia toned photograph of a man. He is wearing a dark suit and
+../data/test/photo/EXP-2012-06-14-a-i0072.jpg,<image>This image can be classified as a,photo,photo of a man and a woman at a table with a bottle of vodka and a bottle of vodka
+../data/test/photo/JDG-1945-02-16-a-i0075_2.jpg,<image>This image can be classified as a,photo,publicity still or promotional still. It is a black and white photograph of a man and a woman.
+../data/test/photo/IMP-1997-08-09-a-i0216.jpg,<image>This image can be classified as a,photo,still from a movie or television show. It shows a man and a woman standing in front of a
+../data/test/photo/EXP-1971-12-02-a-i0451.jpg,<image>This image can be classified as a,photo,black and white photo of a woman in a white dress and hat. She is standing in front of
+../data/test/photo/EXP-1971-08-30-a-i0012.jpg,<image>This image can be classified as a,photo,black and white photograph of a man in a bathing suit.
+../data/test/photo/EXP-1913-03-10-a-i0089.jpg,<image>This image can be classified as a,photo,postcard.  It is a view of the town from the top of the hill.  The
+../data/test/photo/GDL-1940-07-31-a-i0068.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a portrait of a young girl wearing a hat.
+../data/test/photo/IMP-1972-04-20-a-i0026.jpg,<image>This image can be classified as a,photo,"publicity still from a film. It shows a young man in a white shirt and blue jeans, holding"
+../data/test/photo/IMP-1981-01-08-a-i0013.jpg,<image>This image can be classified as a,photo,"postcard, but it is not a postcard. It is a picture of a truck with a"
+../data/test/photo/EXP-1940-12-13-a-i0002.jpg,<image>This image can be classified as a,photo,black and white photo of a man with a mustache. He is wearing a black suit and a
+../data/test/photo/EXP-1940-06-14-a-i0005.jpg,<image>This image can be classified as a,photo,mock-up of a tank.
+../data/test/photo/EXP-2010-12-02-a-i0036.jpg,<image>This image can be classified as a,photo,close-up of a person holding a blood sample
+../data/test/photo/EXP-2007-10-16-a-i0176.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a picture of a soccer player kicking the ball.
+../data/test/photo/IMP-2012-11-05-a-i0101.jpg,<image>This image can be classified as a,photo,still from a video.
+../data/test/photo/IMP-1990-10-02-a-i0036.jpg,<image>This image can be classified as a,photo,"hoax, but it's not. It's a photo of a nuclear power plant in France."
+../data/test/photo/JDG-1979-05-09-a-i0130.jpg,<image>This image can be classified as a,photo,still from a newsreel. It shows a group of soldiers in a shop. The soldiers are
+../data/test/photo/EXP-1957-05-08-a-i0009.jpg,<image>This image can be classified as a,photo,black and white photograph of a group of men and women participating in a reenactment of the
+../data/test/photo/JDG-1959-11-11-a-i0141.jpg,<image>This image can be classified as a,photo,"sketch. It is a view of a bridge over a canal, with a house in the foreground."
+../data/test/photo/IMP-2010-01-14-a-i0019.jpg,<image>This image can be classified as a,photo,"still from a movie. It shows a mother and her children in Port-au-Prince, Haiti"
+../data/test/photo/IMP-1969-09-13-a-i0155.jpg,<image>This image can be classified as a,photo,black and white photograph of a construction site.
+../data/test/photo/EXP-1966-02-18-a-i0473.jpg,<image>This image can be classified as a,photo,postcard.  It is a photograph of the Saturn V rocket.  The rocket is standing on
+../data/test/photo/IMP-1980-11-07-a-i0383.jpg,<image>This image can be classified as a,photo,rugby league photograph.
+../data/test/photo/IMP-1969-10-06-a-i0157.jpg,<image>This image can be classified as a,photo,photo of a display table. It shows a display table with a number of models on it. The
+../data/test/photo/IMP-1949-12-22-a-i0014.jpg,<image>This image can be classified as a,photo,black and white or sepia photograph. It is a black and white photograph of a man standing in
+../data/test/photo/EXP-1999-02-26-a-i0228.jpg,<image>This image can be classified as a,photo,photo of a person holding a flag
+../data/test/photo/EXP-1929-04-20-a-i0006.jpg,<image>This image can be classified as a,photo,stereograph. The stereograph is a photographic process in which two photographs are taken at the same time
+../data/test/photo/IMP-1961-09-04-a-i0048.jpg,<image>This image can be classified as a,photo,"black and white photo and a color photo. In the black and white photo, there is a woman"
+../data/test/photo/IMP-1961-09-08-a-i0166.jpg,<image>This image can be classified as a,photo,black and white photo of a man wearing a suit and tie. He is standing in front of a
+../data/test/photo/IMP-2016-03-02-a-i0381.jpg,<image>This image can be classified as a,photo,close-up of a woman looking at her reflection in the mirror of a car.
+../data/test/photo/IMP-1982-06-11-a-i0227.jpg,<image>This image can be classified as a,photo,black and white photograph of a tower on a hill.
+../data/test/photo/IMP-1914-04-14-a-i0002.jpg,<image>This image can be classified as a,photo,cabinet card. It is a portrait of Queen Victoria.
+../data/test/photo/JDG-1990-05-08-a-i0116.jpg,<image>This image can be classified as a,photo,black and white photo of a group of people wearing hazmat suits.
+../data/test/photo/EXP-1988-06-27-a-i0026.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photograph of a racing car.
+../data/test/photo/EXP-1975-11-27-a-i0296.jpg,<image>This image can be classified as a,photo,black and white photograph of a wood burning stove.
+../data/test/photo/JDG-1989-11-07-a-i0090.jpg,<image>This image can be classified as a,photo,still from a documentary film. It is a black and white photograph of a group of people standing in
+../data/test/photo/IMP-2006-03-11-a-i0243.jpg,<image>This image can be classified as a,photo,publicity still or promotional still. It is a black and white photo of a man in a suit and
+../data/test/photo/IMP-2012-06-27-a-i0062.jpg,<image>This image can be classified as a,photo,still from a movie or a still from a TV series. It is a picture of a man and
+../data/test/photo/EXP-1993-11-12-a-i0261.jpg,<image>This image can be classified as a,photo,still from a video. It is a still from a video showing a group of people standing in front
+../data/test/photo/JDG-1937-11-19-a-i0106.jpg,<image>This image can be classified as a,photo,photo of a woman wearing a fur coat.
+../data/test/photo/LCE-1969-07-09-a-i0083.jpg,<image>This image can be classified as a,photo,black and white photo of a bridge.
+../data/test/photo/IMP-1945-05-09-a-i0006.jpg,<image>This image can be classified as a,photo,portrait of a soldier.
+../data/test/photo/IMP-1943-06-05-a-i0002.jpg,<image>This image can be classified as a,photo,"postcard, but it is not a postcard.  It is a photograph of a group of"
+../data/test/photo/JDG-1943-09-20-a-i0023.jpg,<image>This image can be classified as a,photo,postcard. It is a photograph of a German Panzerkampfwagen VI Tiger tank.
+../data/test/photo/EXP-1962-02-01-a-i0167.jpg,<image>This image can be classified as a,photo,black and white photograph of the front of the building.
+../data/test/photo/JDG-1945-04-11-a-i0005.jpg,<image>This image can be classified as a,photo,propaganda image. It shows a group of young boys in uniform standing in front of a large group of
+../data/test/photo/EXP-2005-01-21-a-i0307.jpg,<image>This image can be classified as a,photo,publicity still or promotional still. It is a black and white photograph of a man and a woman sitting
+../data/test/photo/IMP-1960-07-16-a-i0064.jpg,<image>This image can be classified as a,photo,black and white photograph of a giraffe.
+../data/test/photo/EXP-1925-02-14-a-i0084.jpg,<image>This image can be classified as a,photo,postcard. It is a photograph of a Douglas DC-3.
+../data/test/photo/EXP-1996-09-14-a-i0295.jpg,<image>This image can be classified as a,photo,black and white photo of a woman in a garden. She is wearing a sweater and is holding a
+../data/test/photo/LCE-1970-06-23-a-i0095.jpg,<image>This image can be classified as a,photo,composite of several different photos of the car.
+../data/test/photo/EXP-2014-01-10-a-i0101_2.jpg,<image>This image can be classified as a,photo,photo of the Burj Al Arab.
+../data/test/photo/EXP-1936-12-25-a-i0104.jpg,<image>This image can be classified as a,photo,post-war reconstruction of the aftermath of the attack.
+../data/test/photo/EXP-1938-12-12-a-i0119.jpg,<image>This image can be classified as a,photo,black and white photograph of the ruins of the mill.
+../data/test/photo/LCE-1974-11-05-a-i0010.jpg,<image>This image can be classified as a,photo,photo of a basketball game.
+../data/test/photo/IMP-2015-06-29-a-i0115.jpg,<image>This image can be classified as a,photo,"photojournalist's photo of a burning tent at the Burning Man festival in Black Rock Desert,"
+../data/test/photo/IMP-1946-05-06-a-i0008.jpg,<image>This image can be classified as a,photo,postcard. It shows a group of people standing in front of a line of luggage
+../data/test/photo/EXP-2007-06-21-a-i0331.jpg,<image>This image can be classified as a,photo,black and white photograph of a tree in a forest.
+../data/test/photo/EXP-1950-03-31-a-i0008.jpg,<image>This image can be classified as a,photo,"postcard, but it is not a postcard. It is a photograph of a man in a"
+../data/test/photo/IMP-1958-10-24-a-i0187.jpg,<image>This image can be classified as a,photo,postcard. It is a black and white photograph of a wrecked military vehicle.
+../data/test/photo/EXP-1978-11-11-a-i0510.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a black-and-white photocopy of a black-
+../data/test/photo/EXP-1957-02-04-a-i0014.jpg,<image>This image can be classified as a,photo,still from a film or video. It is a black and white photograph of a man in a suit
+../data/test/photo/IMP-1967-04-21-a-i0279.jpg,<image>This image can be classified as a,photo,black and white photo of a man wearing a black jacket and a white cross on his chest. He
+../data/test/photo/EXP-1940-07-24-a-i0012.jpg,<image>This image can be classified as a,photo,black and white photograph of a group of men standing in front of a building. The men are wearing
+../data/test/photo/JDG-1945-02-16-a-i0075.jpg,<image>This image can be classified as a,photo,publicity still or promotional still. It is a black and white photograph of a man and a woman.
+../data/test/photo/IMP-1928-07-27-a-i0003.jpg,<image>This image can be classified as a,photo,black and white or sepia photograph of a man in a military uniform. The man is wearing a
+../data/test/photo/EXP-1987-06-09-a-i0138.jpg,<image>This image can be classified as a,photo,black and white photo of a large group of people standing in front of a large stage with a large
+../data/test/photo/IMP-2002-06-13-a-i0314.jpg,<image>This image can be classified as a,photo,still from a video. It shows a man standing in front of a group of children. He is
+../data/test/photo/IMP-1956-01-23-a-i0034.jpg,<image>This image can be classified as a,photo,composite of several photographs taken at the time of the demolition of the Babri Masjid.
+../data/test/photo/IMP-1939-04-29-a-i0002.jpg,<image>This image can be classified as a,photo,publicity still from a movie. It shows a woman in a bathing suit.
+../data/test/photo/GDL-1951-03-09-a-i0008.jpg,<image>This image can be classified as a,photo,black and white photocopy of an original photograph of a man in a military uniform. The man is
+../data/test/photo/EXP-2006-08-03-a-i0195.jpg,<image>This image can be classified as a,photo,composite of two people. The person on the left is wearing a red t-shirt and a black
+../data/test/photo/EXP-2003-04-09-a-i0164.jpg,<image>This image can be classified as a,photo,still image from a video. It is a black and white photo of a man in a suit and
+../data/test/photo/IMP-1998-07-13-a-i0062.jpg,<image>This image can be classified as a,photo,black and white photo of a man standing in front of a La Poste sign.
+../data/test/photo/IMP-1936-03-10-a-i0003.jpg,<image>This image can be classified as a,photo,black and white photograph of a crowd of people in a city street
+../data/test/photo/JDG-1941-10-29-a-i0004.jpg,<image>This image can be classified as a,photo,"postcard.  It is a view of the Imperial Palace in St. Petersburg, Russia."
+../data/test/photo/EXP-1941-04-19-a-i0003.jpg,<image>This image can be classified as a,photo,"postcard. It is a view of the burning port of Thessaloniki, Greece,"
+../data/test/photo/IMP-1936-05-11-a-i0011.jpg,<image>This image can be classified as a,photo,"composite of two images. The first is of a Swiss Air Force P-51D Mustang,"
+../data/test/photo/EXP-2004-11-29-a-i0091.jpg,<image>This image can be classified as a,photo,black and white photo of a nun.
+../data/test/photo/GDL-1985-09-04-a-i0027.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a handout photo. It is a black-and-
+../data/test/photo/GDL-1927-10-20-a-i0005.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photo of a man with a mustache.
+../data/test/photo/IMP-2005-05-30-a-i0078.jpg,<image>This image can be classified as a,photo,black and white photo of a woman wearing a traditional Bavarian costume.
+../data/test/photo/IMP-1964-09-14-a-i0232.jpg,<image>This image can be classified as a,photo,black and white photo of a horse-drawn carriage.
+../data/test/photo/IMP-1938-02-02-a-i0008.jpg,<image>This image can be classified as a,photo,pin-up of a nurse.
+../data/test/photo/IMP-2016-04-07-a-i0034.jpg,<image>This image can be classified as a,photo,public domain photo of Peter Mansbridge.
+../data/test/photo/GDL-1925-12-14-a-i0044.jpg,<image>This image can be classified as a,photo,photograph of a sled.
+../data/test/photo/EXP-1956-04-06-a-i0012.jpg,<image>This image can be classified as a,photo,postcard. It is a photograph of a train wreck.
+../data/test/photo/EXP-2016-03-22-a-i0009.jpg,<image>This image can be classified as a,photo,"public domain photo, which means that it can be used for any purpose without having to seek permission from"
+../data/test/photo/EXP-2011-06-01-a-i0189.jpg,<image>This image can be classified as a,photo,public domain image.  The author is unknown.  This image is in the public domain.
+../data/test/photo/IMP-2001-08-24-a-i0185.jpg,<image>This image can be classified as a,photo,black and white photo of two horses
+../data/test/photo/EXP-2007-09-04-a-i0328.jpg,<image>This image can be classified as a,photo,still image from a video. It shows a woman holding a glass of wine in her hand.
+../data/test/photo/IMP-1913-01-18-a-i0043.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photo of a man in a suit. He is
+../data/test/photo/IMP-1948-10-02-a-i0104.jpg,<image>This image can be classified as a,photo,black and white photo of a man and a woman standing in front of a podium. The man is
+../data/test/photo/EXP-1968-07-02-a-i0132.jpg,<image>This image can be classified as a,photo,black and white photograph of a farm with hay bales in the foreground and a barn in the background
+../data/test/photo/IMP-1944-08-08-a-i0008.jpg,<image>This image can be classified as a,photo,black and white photo of two horses.
+../data/test/photo/EXP-1988-05-07-a-i0236.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photo of a group of people standing in front of
+../data/test/photo/LCE-1969-01-09-a-i0002.jpg,<image>This image can be classified as a,photo,black-and-white photograph of a mountainous landscape with a village in the foreground.
+../data/test/photo/IMP-1943-02-06-a-i0003_3.jpg,<image>This image can be classified as a,photo,black and white photograph of a swan in a shop window.
+../data/test/photo/IMP-2002-11-08-a-i0065.jpg,<image>This image can be classified as a,photo,photo of a group of swimmers.
+../data/test/photo/EXP-2007-12-27-a-i0146.jpg,<image>This image can be classified as a,photo,photo of a football player
+../data/test/photo/EXP-2003-10-16-a-i0129.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a black-and-white photocopy of a black-
+../data/test/photo/GDL-1993-03-13-a-i0130.jpg,<image>This image can be classified as a,photo,black and white or sepia toned photograph of Ayrton Senna in the cockpit of his
+../data/test/photo/EXP-1928-11-07-a-i0065.jpg,<image>This image can be classified as a,photo,postcard.  It is a view of a house in the village of Oberstdorf.
+../data/test/photo/EXP-2009-06-27-a-i0182.jpg,<image>This image can be classified as a,photo,photo of Roger Federer
+../data/test/photo/IMP-1965-12-30-a-i0057.jpg,<image>This image can be classified as a,photo,black and white photocopy of a black and white photocopy of a black and white photocopy of
+../data/test/photo/EXP-1965-12-16-a-i0130.jpg,<image>This image can be classified as a,photo,postcard.  It is a view of a house in a flooded area.  The house is
+../data/test/photo/IMP-1926-12-28-a-i0009.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white image of two men standing in front of a trophy
+../data/test/photo/IMP-1969-10-08-a-i0121.jpg,<image>This image can be classified as a,photo,collage.
+../data/test/photo/LCE-1988-01-12-a-i0057.jpg,<image>This image can be classified as a,photo,still from a film or video. It is a black and white photograph of a group of people standing
+../data/test/photo/EXP-2012-06-13-a-i0167.jpg,<image>This image can be classified as a,photo,public domain photo. It was released by the BBC.
+../data/test/photo/IMP-1968-02-01-a-i0304.jpg,<image>This image can be classified as a,photo,"car crash, but it's not. It's a photo of a car crash, but it's"
+../data/test/photo/IMP-2008-02-13-a-i0283.jpg,<image>This image can be classified as a,photo,medical device.
+../data/test/photo/EXP-1972-07-26-a-i0286.jpg,<image>This image can be classified as a,photo,vintage black and white photo of a woman. She is wearing a long black dress and has her hair
+../data/test/photo/EXP-1962-08-21-a-i0108.jpg,<image>This image can be classified as a,photo,black and white photo of a motorcycle racer.
+../data/test/photo/EXP-2000-01-31-a-i0255.jpg,<image>This image can be classified as a,photo,publicity still or promotional still. It is a black and white photo of a man and a woman holding
+../data/test/photo/JDG-1975-10-18-a-i0186.jpg,<image>This image can be classified as a,photo,drinking glass.
+../data/test/photo/JDG-1937-11-21-a-i0098.jpg,<image>This image can be classified as a,photo,black and white photo of a building with two cars parked in front of it.
+../data/test/photo/EXP-2000-10-18-a-i0167.jpg,<image>This image can be classified as a,photo,black and white photocopy of a photograph. It is a close-up of a woman's face
+../data/test/photo/EXP-1988-08-20-a-i0138.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photo of a group of people sitting outside a restaurant
+../data/test/photo/JDG-1969-07-12-a-i0114.jpg,<image>This image can be classified as a,photo,black and white negative. It is a photograph of the exterior of a building.
+../data/test/photo/EXP-2002-02-14-a-i0206.jpg,<image>This image can be classified as a,photo,black-and-white or sepia-toned photograph. It is a black-and-
+../data/test/photo/IMP-1941-08-29-a-i0071.jpg,<image>This image can be classified as a,photo,pin-up.
+../data/test/photo/EXP-1940-11-05-a-i0011.jpg,<image>This image can be classified as a,photo,bust of a person.  It is a portrait of a man.  The man is wearing a
+../data/test/photo/IMP-2004-06-19-a-i0149.jpg,<image>This image can be classified as a,photo,still from a movie. It is a picture of a man and a woman standing on a balcony.
+../data/test/photo/EXP-1912-07-13-a-i0109.jpg,<image>This image can be classified as a,photo,postcard. It shows a group of children dancing in front of a house.
+../data/test/photo/GDL-1991-06-01-a-i0197.jpg,<image>This image can be classified as a,photo,black-and-white photograph of a group of children digging a hole in the ground.
+../data/test/photo/EXP-1989-06-08-a-i0011.jpg,<image>This image can be classified as a,photo,black and white photo of a helicopter on a roof.
+../data/test/photo/IMP-1977-11-07-a-i0242.jpg,<image>This image can be classified as a,photo,publicity still from a film. It shows a woman performing acrobatic stunts on a horse.
+../data/test/photo/EXP-1969-10-17-a-i0065.jpg,<image>This image can be classified as a,photo,vintage black and white photo of a man carrying a child on his back.
+../data/test/photo/IMP-1944-09-14-a-i0067.jpg,<image>This image can be classified as a,photo,black and white photograph of the wreckage of the plane.
+../data/test/photo/EXP-1990-11-24-a-i0086.jpg,<image>This image can be classified as a,photo,still from a film. It is a black and white photograph of a woman sitting on a stage with
+../data/test/photo/GDL-1935-05-12-a-i0074.jpg,<image>This image can be classified as a,photo,black and white photograph of a damaged building.
+../data/test/photo/IMP-1993-07-05-a-i0166.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a photograph of children playing with boxes.
+../data/test/photo/EXP-2010-05-04-a-i0036.jpg,<image>This image can be classified as a,photo,"public domain photo, as it was released by the PLR."
+../data/test/photo/JDG-1984-01-16-a-i0145.jpg,<image>This image can be classified as a,photo,black and white or sepia photograph of a man wearing a black cap and a black jacket. He
+../data/test/photo/EXP-2002-11-14-a-i0041.jpg,<image>This image can be classified as a,photo,still from a video. It is a view of a stage set up in the middle of a large
+../data/test/photo/IMP-2013-01-24-a-i0107.jpg,<image>This image can be classified as a,photo,photo of a person wearing a leather jacket and smiling.
+../data/test/photo/GDL-1934-07-16-a-i0002.jpg,<image>This image can be classified as a,photo,postcard.  It is a view of a farm with a train in the foreground.  The
+../data/test/photo/LCE-1978-10-27-a-i0067.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a hand-drawn drawing of a man's head and shoulders
+../data/test/photo/EXP-2017-04-22-a-i0197.jpg,<image>This image can be classified as a,photo,screenshot from the video of the match
+../data/test/photo/IMP-1945-07-28-a-i0096.jpg,<image>This image can be classified as a,photo,"composite of two photos, one of General Patton and the other of General Eisenhower."
+../data/test/photo/EXP-1987-01-03-a-i0205.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a photocopy of a photocopy of a photocopy of
+../data/test/photo/EXP-1970-06-20-a-i0575.jpg,<image>This image can be classified as a,photo,black-and-white photo of a man wearing a suit and tie. He is looking at the
+../data/test/photo/EXP-1936-07-17-a-i0002.jpg,<image>This image can be classified as a,photo,group of soldiers marching.
+../data/test/photo/IMP-1953-12-23-a-i0123.jpg,<image>This image can be classified as a,photo,black-and-white photo of a team of horses pulling a cart.
+../data/test/photo/IMP-1940-06-22-a-i0008.jpg,<image>This image can be classified as a,photo,black and white or sepia photograph. It is a black and white photograph of a man wearing a
+../data/test/photo/IMP-1946-09-13-a-i0004.jpg,<image>This image can be classified as a,photo,collage of several photos of President John F. Kennedy and First Lady Jacqueline Kennedy on the
+../data/test/photo/IMP-1952-08-07-a-i0004.jpg,<image>This image can be classified as a,photo,postcard.  It is a view of a lake and mountains.
+../data/test/photo/IMP-1983-10-28-a-i0354.jpg,<image>This image can be classified as a,photo,"window, but it is not a window."
+../data/test/photo/JDG-1990-02-23-a-i0168.jpg,<image>This image can be classified as a,photo,photocopy of a photocopy of a photocopy of a photocopy of a photocopy of a
+../data/test/photo/IMP-1932-09-19-a-i0005.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photograph of Queen Elizabeth II and the Duke of Edinburgh
+../data/test/photo/IMP-2013-01-05-a-i0213.jpg,<image>This image can be classified as a,photo,close-up of a waitress in a restaurant.
+../data/test/photo/GDL-1939-10-30-a-i0044.jpg,<image>This image can be classified as a,photo,newspaper clipping.  It is a photograph of a cannon on a pedestal.  It is
+../data/test/photo/IMP-2009-12-01-a-i0072.jpg,<image>This image can be classified as a,photo,still from a Christmas movie.
+../data/test/photo/EXP-1913-09-17-a-i0084_2.jpg,<image>This image can be classified as a,photo,black and white photograph of a man in a top hat walking down a street with two other men in
+../data/test/photo/GDL-1980-05-08-a-i0114.jpg,<image>This image can be classified as a,photo,black and white photograph of a group of people standing in front of a line of cars
+../data/test/photo/EXP-1928-01-09-a-i0056.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photo of a man in a suit and tie.
+../data/test/photo/IMP-1968-08-09-a-i0158.jpg,<image>This image can be classified as a,photo,postcard.  It is a view of a building with a tower in the background.  The
+../data/test/photo/IMP-2011-11-08-a-i0030.jpg,<image>This image can be classified as a,photo,double rainbow
+../data/test/photo/EXP-1979-08-10-a-i0158.jpg,<image>This image can be classified as a,photo,black and white photo of a large hole in the ground.
+../data/test/photo/EXP-1928-03-06-a-i0061.jpg,<image>This image can be classified as a,photo,collage of two photographs. The first is a photograph of the interior of St. Peter's Church
+../data/test/photo/EXP-1900-12-31-a-i0138_2.jpg,<image>This image can be classified as a,photo,black and white photograph of a young boy wearing a nurse's uniform.
+../data/test/photo/EXP-2012-02-11-a-i0244.jpg,<image>This image can be classified as a,photo,still from a television show. It is a close-up of a man and a woman standing in
+../data/test/photo/IMP-2008-03-18-a-i0121.jpg,<image>This image can be classified as a,photo,publicity still from the film The Man Who Shot Liberty Valance.
+../data/test/photo/IMP-1917-02-20-a-i0007.jpg,<image>This image can be classified as a,photo,propaganda poster. It shows a group of soldiers saluting an officer.
+../data/test/photo/IMP-2014-03-27-a-i0062.jpg,<image>This image can be classified as a,photo,close-up of a man wearing a chain with a pendant with a picture of a man wearing a
+../data/test/photo/EXP-1994-08-23-a-i0129.jpg,<image>This image can be classified as a,photo,black and white or sepia photograph of a man wearing a suit and tie. He is smiling and
+../data/test/photo/EXP-1971-09-15-a-i0392.jpg,<image>This image can be classified as a,photo,stereotype of a Bedouin.
+../data/test/photo/IMP-1927-03-07-a-i0026.jpg,<image>This image can be classified as a,photo,wood engraving.  It is a view of the construction of the Great Western Railway viaduct
+../data/test/photo/IMP-2015-08-22-a-i0196.jpg,<image>This image can be classified as a,photo,still image from a video. It is a still image from a video. It is a still image
+../data/test/photo/EXP-1970-05-26-a-i0397.jpg,<image>This image can be classified as a,photo,black and white or sepia photograph. It is a photograph of a goalkeeper making a save.
+../data/test/photo/EXP-2015-04-24-a-i0167.jpg,<image>This image can be classified as a,photo,photo of a woman holding a placard with a picture of a man and a woman standing in front
+../data/test/photo/IMP-2014-01-29-a-i0191.jpg,<image>This image can be classified as a,photo,photo of a hockey player.
+../data/test/photo/EXP-1913-11-21-a-i0082.jpg,<image>This image can be classified as a,photo,postcard. It is a black and white photograph of a train wreck.
+../data/test/photo/EXP-1915-11-19-a-i0077.jpg,<image>This image can be classified as a,photo,postcard.  It is a photograph of a ship docked at a wharf.  The
+../data/test/photo/IMP-1948-06-24-a-i0036.jpg,<image>This image can be classified as a,photo,black-and-white photo of a man and a woman standing in front of a group of people
+../data/test/photo/GDL-1985-05-04-a-i0023.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photograph of a woman sitting at a computer. She
+../data/test/photo/IMP-1960-07-25-a-i0010.jpg,<image>This image can be classified as a,photo,publicity still from a film. It shows a woman wearing a hat.
+../data/test/photo/JDG-1937-10-07-a-i0003.jpg,<image>This image can be classified as a,photo,"postcard, but it is not a postcard. It is a photograph of a group of men"
+../data/test/photo/GDL-1966-07-28-a-i0169.jpg,<image>This image can be classified as a,photo,black-and-white photograph of a woman in a wedding dress.
+../data/test/photo/IMP-1992-10-17-a-i0264.jpg,<image>This image can be classified as a,photo,"postcard.  It is a view of a street in the city of Strasbourg, France"
+../data/test/photo/IMP-1941-09-09-a-i0010.jpg,<image>This image can be classified as a,photo,postcard.  It is a view of a railroad yard with a train in the foreground.
+../data/test/photo/EXP-1938-03-31-a-i0087.jpg,<image>This image can be classified as a,photo,nude male figure.
+../data/test/photo/IMP-1923-05-14-a-i0034.jpg,<image>This image can be classified as a,photo,boxing match.
+../data/test/photo/IMP-1963-07-24-a-i0171.jpg,<image>This image can be classified as a,photo,black and white photo of a man and a woman standing in front of a group of people. The
+../data/test/photo/IMP-1966-10-07-a-i0138.jpg,<image>This image can be classified as a,photo,black and white scan of a black and white scan of a black and white scan of a black and
+../data/test/photo/IMP-1974-11-11-a-i0066.jpg,<image>This image can be classified as a,photo,black and white photograph of a large gathering of people in a large room.
+../data/test/photo/IMP-2004-02-19-a-i0002.jpg,<image>This image can be classified as a,photo,black and white photo of two boys sitting on the floor with their heads in their hands.
+../data/test/photo/EXP-1987-03-11-a-i0009.jpg,<image>This image can be classified as a,photo,black and white photograph of a woman working in a laboratory. She is wearing a white lab coat and
+../data/test/photo/IMP-1934-12-26-a-i0010.jpg,<image>This image can be classified as a,photo,propaganda image. It shows a group of men in uniform standing in front of a group of men in
+../data/test/photo/JDG-1978-12-19-a-i0056.jpg,<image>This image can be classified as a,photo,black and white photograph of the signing of the Treaty of Peace and Friendship between the Soviet Union and
+../data/test/photo/EXP-1993-11-05-a-i0131.jpg,<image>This image can be classified as a,photo,publicity still or promotional still. It is a black and white photograph of Joan Baez performing on
+../data/test/photo/EXP-2002-04-06-a-i0048.jpg,<image>This image can be classified as a,photo,"library, but it's not. It's a record store."
+../data/test/photo/IMP-2010-01-26-a-i0273.jpg,<image>This image can be classified as a,photo,Portrait of a Woman.  It is a black and white photo of a woman with brown hair
+../data/test/photo/JDG-1986-08-16-a-i0178.jpg,<image>This image can be classified as a,photo,black and white photograph of a construction site.
+../data/test/photo/GDL-1982-03-17-a-i0121.jpg,<image>This image can be classified as a,photo,black-and-white photograph of a man wearing glasses and a suit. He is standing in front
+../data/test/photo/IMP-2012-05-18-a-i0083.jpg,<image>This image can be classified as a,photo,front view of a white Renault Megane.
+../data/test/photo/IMP-1966-12-10-a-i0326.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a black-and-white photocopy of a black-
+../data/test/photo/JDG-1958-01-11-a-i0079.jpg,<image>This image can be classified as a,photo,"black and white photo of Indira Gandhi with her husband, Rajiv Gandhi, and her son,"
+../data/test/photo/IMP-2015-06-23-a-i0053.jpg,<image>This image can be classified as a,photo,public domain image. It is a photo of a woman holding two babies.
+../data/test/photo/IMP-1949-07-18-a-i0007.jpg,<image>This image can be classified as a,photo,fresco.
+../data/test/photo/JDG-1982-04-21-a-i0076.jpg,<image>This image can be classified as a,photo,photograph of the interior of a museum.
+../data/test/photo/IMP-2001-08-15-a-i0127.jpg,<image>This image can be classified as a,photo,"propaganda image. It shows a tank in the foreground, with a mosque in the background. The tank"
+../data/test/photo/LCE-1982-12-14-a-i0038.jpg,<image>This image can be classified as a,photo,black-and-white photograph of a man standing on a snow-covered mountain. He is wearing
+../data/test/photo/EXP-1961-06-08-a-i0104.jpg,<image>This image can be classified as a,photo,composite of several different photos of the Le Mans 24-hour race.
+../data/test/photo/IMP-1949-03-03-a-i0063.jpg,<image>This image can be classified as a,photo,"propaganda poster, but it is not a propaganda poster. It is a photograph of a parade in the"
+../data/test/photo/IMP-1966-12-26-a-i0116.jpg,<image>This image can be classified as a,photo,match report.
+../data/test/photo/IMP-2000-05-29-a-i0059.jpg,<image>This image can be classified as a,photo,black and white photo of a young girl standing in front of a market stall. She is wearing a
+../data/test/photo/IMP-2016-08-05-a-i0071.jpg,<image>This image can be classified as a,photo,photo of a person holding a smartphone and taking a photo of a food product.
+../data/test/photo/EXP-2002-11-11-a-i0237.jpg,<image>This image can be classified as a,photo,black and white photo of a hockey player in action.
+../data/test/photo/IMP-1949-04-14-a-i0055.jpg,<image>This image can be classified as a,photo,posthumous photograph of the funeral cortege of Queen Victoria.
+../data/test/photo/EXP-2016-01-22-a-i0238.jpg,<image>This image can be classified as a,photo,still from a video. It shows a man in a suit driving a car.
+../data/test/photo/JDG-1979-11-20-a-i0091.jpg,<image>This image can be classified as a,photo,black and white photo of a police officer standing in the middle of the road with a motorcycle in front
+../data/test/photo/EXP-1948-12-08-a-i0100.jpg,<image>This image can be classified as a,photo,topographic map.
+../data/test/photo/EXP-1987-08-13-a-i0007.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a black-and-white photocopy of a black-
+../data/test/photo/EXP-1963-12-18-a-i0160.jpg,<image>This image can be classified as a,photo,black and white photograph of a warehouse full of crates.
+../data/test/photo/IMP-2001-10-11-a-i0283.jpg,<image>This image can be classified as a,photo,"photograph of a fireplace, but it is not a photograph of a fireplace. It is a photograph of"
+../data/test/photo/LCE-1969-11-08-a-i0113.jpg,<image>This image can be classified as a,photo,publicity still from a Soviet propaganda film.
+../data/test/photo/EXP-1932-03-16-a-i0064.jpg,<image>This image can be classified as a,photo,black and white photograph of a group of men standing in front of a group of men standing in front
+../data/test/photo/IMP-1986-09-08-a-i0222.jpg,<image>This image can be classified as a,photo,"publicity shot, as it was taken at the time of the opening of the railway. It shows the"
+../data/test/photo/GDL-1965-11-27-a-i0316.jpg,<image>This image can be classified as a,photo,"still from a movie, but it is a still from a newsreel. It is a still"
+../data/test/photo/IMP-1941-06-23-a-i0009.jpg,<image>This image can be classified as a,photo,composite of two photographs. The first is a photograph taken from the air and shows a group of soldiers
+../data/test/photo/EXP-2016-04-04-a-i0128.jpg,<image>This image can be classified as a,photo,"public domain photo, which means it is in the public domain and can be used for any purpose."
+../data/test/photo/EXP-1938-06-07-a-i0066.jpg,<image>This image can be classified as a,photo,team photo of the Swiss national football team.
+../data/test/photo/IMP-2004-09-04-a-i0354.jpg,<image>This image can be classified as a,photo,still from a motion picture. It is a black and white photograph of a woman in a white dress
+../data/test/photo/GDL-1958-02-01-a-i0009.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a black-and-white photocopy of a black-
+../data/test/photo/EXP-2017-05-03-a-i0038.jpg,<image>This image can be classified as a,photo,close-up of a woman getting her hair done by a barber.
+../data/test/photo/IMP-1999-05-27-a-i0288.jpg,<image>This image can be classified as a,photo,publicity still from a film. It shows a young boy wearing sunglasses.
+../data/test/photo/IMP-1962-03-23-a-i0300.jpg,<image>This image can be classified as a,photo,"postcard, but it is not a postcard. It is a photograph of a street scene in"
+../data/test/photo/IMP-1999-12-31-a-i0037.jpg,<image>This image can be classified as a,photo,snowboarder.
+../data/test/photo/LCE-1943-07-12-a-i0010.jpg,<image>This image can be classified as a,photo,micrograph of a fly.
+../data/test/photo/EXP-1982-07-29-a-i0138.jpg,<image>This image can be classified as a,photo,photograph of a football match. It shows a goalkeeper making a save.
+../data/test/photo/JDG-1979-10-17-a-i0143.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a black-and-white photocopy of a black-
+../data/test/photo/IMP-1996-09-21-a-i0207.jpg,<image>This image can be classified as a,photo,black and white photo of a man and a woman standing next to each other. The man is holding
+../data/test/photo/EXP-1988-12-22-a-i0069.jpg,<image>This image can be classified as a,photo,caricature of an elephant.
+../data/test/photo/EXP-2002-11-01-a-i0192.jpg,<image>This image can be classified as a,photo,black and white or sepia toned photograph. It is a black and white or sepia ton
+../data/test/photo/IMP-2006-10-05-a-i0259.jpg,<image>This image can be classified as a,photo,close-up of a man and a man. The man is looking at the camera and the man
+../data/test/photo/IMP-1974-11-29-a-i0092.jpg,<image>This image can be classified as a,photo,postcard. It is a black and white photograph of a railway bridge in France. The caption reads
+../data/test/photo/GDL-1984-06-26-a-i0081.jpg,<image>This image can be classified as a,photo,black and white photo of a football match
+../data/test/photo/EXP-1926-08-11-a-i0064.jpg,<image>This image can be classified as a,photo,postcard. It is a black and white photograph of a group of people standing in front of a
+../data/test/photo/EXP-1991-06-10-a-i0093.jpg,<image>This image can be classified as a,photo,still from a video. It is a still from a video of a television studio. The camera is
+../data/test/photo/EXP-1989-12-22-a-i0227.jpg,<image>This image can be classified as a,photo,black and white photo of a hockey player in action.
+../data/test/photo/EXP-1914-06-02-a-i0100.jpg,<image>This image can be classified as a,photo,clipping from a newspaper. It shows a steamship in the middle of the ocean.
+../data/test/photo/EXP-1979-10-23-a-i0132.jpg,<image>This image can be classified as a,photo,black-and-white photograph of a group of men working on a fence.
+../data/test/photo/EXP-1970-05-26-a-i0220.jpg,<image>This image can be classified as a,photo,black and white photograph of a building. The building is in the middle of a street. The building
+../data/test/photo/LCE-1909-06-23-a-i0020.jpg,<image>This image can be classified as a,photo,cabinet card. It is a portrait of a man and a woman. The man is wearing a suit
+../data/test/photo/EXP-2008-06-21-a-i0182.jpg,<image>This image can be classified as a,photo,photo of Cristiano Ronaldo
+../data/test/photo/EXP-1975-09-10-a-i0205.jpg,<image>This image can be classified as a,photo,composite of several different images of the same player. The player in the foreground is a player from the
+../data/test/photo/IMP-1978-09-23-a-i0009.jpg,<image>This image can be classified as a,photo,black and white photograph of a group of people standing in front of a water tower. The water tower
+../data/test/photo/IMP-2008-11-18-a-i0067.jpg,<image>This image can be classified as a,photo,"still from a movie, but it's actually a photo of the team behind The Great British Bake Off"
+../data/test/photo/IMP-1984-09-11-a-i0275.jpg,<image>This image can be classified as a,photo,black and white photograph of a woman kneeling in front of a large painting of a woman kneeling
+../data/test/photo/IMP-1938-03-17-a-i0003.jpg,<image>This image can be classified as a,photo,still from a motion picture or video. It is a still from a motion picture or video.
+../data/test/photo/EXP-2001-03-16-a-i0237.jpg,<image>This image can be classified as a,photo,black and white photo of a hockey game
+../data/test/photo/EXP-1934-09-17-a-i0013.jpg,<image>This image can be classified as a,photo,"postcard, but it is not a postcard. It is a photograph of a bridge over the"
+../data/test/photo/IMP-2017-12-23-a-i0248.jpg,<image>This image can be classified as a,photo,promotional image for the film adaptation of Alice in Wonderland.
+../data/test/photo/IMP-2017-07-05-a-i0077.jpg,<image>This image can be classified as a,photo,Portrait of a Woman with Long Brown Hair
+../data/test/photo/JDG-1928-05-27-a-i0061.jpg,<image>This image can be classified as a,photo,woodcut. It is a print of a woodcut.
+../data/test/photo/IMP-1993-05-08-a-i0276.jpg,<image>This image can be classified as a,photo,black and white photocopy of a photograph. It is a black and white photo of a man in
+../data/test/photo/IMP-1966-07-23-a-i0027.jpg,<image>This image can be classified as a,photo,"black-and-white photo of a man, a woman, a boy, and a girl standing"
+../data/test/photo/IMP-2003-01-17-a-i0027.jpg,<image>This image can be classified as a,photo,black and white photocopy of a photograph. It is a close-up of a man's face
+../data/test/photo/EXP-1968-12-12-a-i0341.jpg,<image>This image can be classified as a,photo,black and white photo of a man wearing a helmet and glasses.
+../data/test/photo/IMP-1960-06-16-a-i0011.jpg,<image>This image can be classified as a,photo,publicity still from a film. It is a portrait of a woman wearing a white dress. She has
+../data/test/photo/LCE-1970-03-16-a-i0098.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a black-and-white photograph of a man in glasses
+../data/test/photo/EXP-1930-06-03-a-i0004.jpg,<image>This image can be classified as a,photo,"postcard, but it is not a postcard.  It is a photograph of a railway carriage"
+../data/test/photo/EXP-2007-08-03-a-i0293.jpg,<image>This image can be classified as a,photo,close-up of a man wearing a mask.
+../data/test/photo/JDG-1974-05-18-a-i0221.jpg,<image>This image can be classified as a,photo,publicity still from a play.
+../data/test/photo/EXP-2016-09-17-a-i0140.jpg,<image>This image can be classified as a,photo,logo for the Indicateurs
+../data/test/photo/EXP-1954-02-16-a-i0010.jpg,<image>This image can be classified as a,photo,hockey game.
+../data/test/photo/IMP-1914-05-30-a-i0005.jpg,<image>This image can be classified as a,photo,cabinet card. It is a portrait of a young woman.
+../data/test/photo/IMP-1943-02-06-a-i0003_2.jpg,<image>This image can be classified as a,photo,"postcard, but it is in fact a photograph of a German Panzer Division marching through the streets"
+../data/test/photo/IMP-1956-04-24-a-i0007.jpg,<image>This image can be classified as a,photo,black and white photograph of a house destroyed by fire.
+../data/test/photo/EXP-2004-11-04-a-i0200.jpg,<image>This image can be classified as a,photo,still from a video. It is a black and white image of a man in a suit and tie
+../data/test/photo/EXP-1998-10-09-a-i0256.jpg,<image>This image can be classified as a,photo,black and white or sepia photograph of a man wearing a racing suit and helmet. He is wearing
+../data/test/photo/EXP-1964-05-26-a-i0222.jpg,<image>This image can be classified as a,photo,black and white photo of a procession of people dressed in medieval costumes.
+../data/test/photo/IMP-2013-04-30-a-i0141.jpg,<image>This image can be classified as a,photo,book cover. It is the cover of the French edition of the book Pouqué en m
+../data/test/photo/EXP-1937-02-20-a-i0144.jpg,<image>This image can be classified as a,photo,propaganda poster. It shows a woman with a sword in her hand.
+../data/test/photo/EXP-2001-10-30-a-i0026.jpg,<image>This image can be classified as a,photo,composite of two separate photographs. The first is a composite of two separate photographs. The first is a
+../data/test/photo/IMP-1940-02-08-a-i0008.jpg,<image>This image can be classified as a,photo,stereotype of a Native American.
+../data/test/photo/IMP-1926-08-25-a-i0008.jpg,<image>This image can be classified as a,photo,photomontage.  It is a collage of several photographs.  The photograph on the
+../data/test/photo/IMP-2016-04-04-a-i0034.jpg,<image>This image can be classified as a,photo,photo of a woman voting at a polling station.
+../data/test/photo/IMP-1938-12-15-a-i0014.jpg,<image>This image can be classified as a,photo,postcard. It is a view of a street decorated for Christmas.
+../data/test/photo/EXP-1996-09-10-a-i0259.jpg,<image>This image can be classified as a,photo,black and white photo of Steve Jobs
+../data/test/photo/IMP-1929-08-23-a-i0002.jpg,<image>This image can be classified as a,photo,"postcard, but it is not a postcard."
+../data/test/photo/LCE-1956-11-16-a-i0030.jpg,<image>This image can be classified as a,photo,black and white or sepia toned photograph. The subject of the photograph appears to be wearing a
+../data/test/photo/IMP-1965-04-20-a-i0007.jpg,<image>This image can be classified as a,photo,black-and-white photo of a football player in a white shirt and black shorts. The player
+../data/test/photo/IMP-1940-08-06-a-i0014.jpg,<image>This image can be classified as a,photo,postcard.  It is a portrait of a man in profile.  The man is wearing a
+../data/test/photo/EXP-1989-07-29-a-i0029.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a colour photograph. It is a black-and-white
+../data/test/photo/IMP-1958-01-03-a-i0117.jpg,<image>This image can be classified as a,photo,black and white photograph of a cityscape with buildings in the foreground and mountains in the background.
+../data/test/photo/EXP-1930-08-27-a-i0004.jpg,<image>This image can be classified as a,photo,composite of several photos.  It shows a group of men standing in front of a flag.
+../data/test/photo/IMP-1972-11-23-a-i0328.jpg,<image>This image can be classified as a,photo,black and white photo of a man and a woman on skis.
+../data/test/photo/IMP-1985-11-11-a-i0143.jpg,<image>This image can be classified as a,photo,black-and-white photocopy of a photograph. It is a close-up portrait of a
+../data/test/photo/GDL-1995-11-18-a-i0107.jpg,<image>This image can be classified as a,photo,"photograph, a drawing, or a painting. It is a black and white photograph of a poster for"
+../data/test/photo/EXP-1937-04-29-a-i0053.jpg,<image>This image can be classified as a,photo,black and white photograph of a large obelisk in the shape of a pyramid. The obel
+../data/test/photo/IMP-1940-02-21-a-i0005.jpg,<image>This image can be classified as a,photo,propaganda poster. It shows a group of British soldiers in winter clothing marching in a snowy landscape.
+../data/test/photo/EXP-1946-03-15-a-i0147.jpg,<image>This image can be classified as a,photo,postcard. It is a black and white photograph of a group of soldiers standing outside a building.
+../data/test/photo/IMP-1968-08-23-a-i0248.jpg,<image>This image can be classified as a,photo,"photograph of a rugby match, but it is not a photograph of a rugby match. It is a"
+../data/test/photo/IMP-1989-08-16-a-i0106.jpg,<image>This image can be classified as a,photo,photo of a man running on a track
+../data/test/photo/IMP-1959-03-13-a-i0169.jpg,<image>This image can be classified as a,photo,black and white photo of a man in a suit standing next to a car. The man is holding
+../data/test/photo/IMP-2008-10-13-a-i0075.jpg,<image>This image can be classified as a,photo,photo of a drummer.
+../data/test/photo/EXP-1999-12-02-a-i0140.jpg,<image>This image can be classified as a,photo,black and white photo of a man driving a car with a horse on the back.
+../data/test/photo/IMP-2008-02-13-a-i0010.jpg,<image>This image can be classified as a,photo,public domain photo of a woman standing in front of a building. She is wearing a long black coat
+../data/test/photo/EXP-1995-06-24-a-i0240.jpg,<image>This image can be classified as a,photo,black and white photo of two cyclists.
+../data/test/photo/EXP-1953-08-18-a-i0007.jpg,<image>This image can be classified as a,photo,still from a motion picture. It shows a young woman standing in front of a large tree. She
+../data/test/photo/EXP-1970-05-04-a-i0007.jpg,<image>This image can be classified as a,photo,composite of several photographs showing a British armoured personnel carrier (APC)
+../data/test/photo/EXP-1935-06-11-a-i0006.jpg,<image>This image can be classified as a,photo,still from a motion picture. It shows a large group of people seated around a table. There are
+../data/test/photo/EXP-1958-06-30-a-i0012.jpg,<image>This image can be classified as a,photo,black and white photo of a group of people standing in front of a plane.
+../data/test/photo/LCE-1977-12-20-a-i0030.jpg,<image>This image can be classified as a,photo,black-and-white photograph of a storefront with a sign reading 'Au Beau Trousseaud
+../data/test/photo/IMP-2008-09-16-a-i0309.jpg,<image>This image can be classified as a,photo,close-up of a soccer goal.
+../data/test/photo/IMP-1930-01-08-a-i0004.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white image of King George V.
+../data/test/photo/EXP-2015-07-13-a-i0127.jpg,<image>This image can be classified as a,photo,still image from a video released by the Croatian government showing Croatian President Kolinda Grabar-
+../data/test/photo/EXP-1967-04-24-a-i0127.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photo of a man holding up a picture frame.
+../data/test/photo/EXP-1987-10-22-a-i0509.jpg,<image>This image can be classified as a,photo,car crash.
+../data/test/photo/IMP-2016-05-31-a-i0193.jpg,<image>This image can be classified as a,photo,photo of a basketball player
+../data/test/photo/IMP-1929-08-10-a-i0004.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photograph of a man sitting at a desk. He
+../data/test/photo/IMP-1965-04-03-a-i0361.jpg,<image>This image can be classified as a,photo,publicity still or promotional still. It is a black and white photograph of a man in a white shirt
+../data/test/photo/GDL-1970-05-21-a-i0034.jpg,<image>This image can be classified as a,photo,monochrome woodcut
+../data/test/photo/IMP-2008-06-02-a-i0067.jpg,<image>This image can be classified as a,photo,street scene or a crowd of people.
+../data/test/photo/GDL-1979-05-08-a-i0045.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photo of a man in a suit and tie.
+../data/test/photo/IMP-1948-05-05-a-i0044.jpg,<image>This image can be classified as a,photo,pin-up.
+../data/test/photo/JDG-1995-03-30-a-i0189.jpg,<image>This image can be classified as a,photo,black and white photo of a man and a woman standing in front of each other. The man is
+../data/test/photo/JDG-1909-11-09-a-i0050.jpg,<image>This image can be classified as a,photo,portrait of a man with a mustache.
+../data/test/photo/EXP-2010-07-14-a-i0108.jpg,<image>This image can be classified as a,photo,still from the movie Toy Story 3.
+../data/test/photo/IMP-2009-05-04-a-i0182.jpg,<image>This image can be classified as a,photo,stock photo of a hockey player.
+../data/test/photo/IMP-2002-12-28-a-i0029.jpg,<image>This image can be classified as a,photo,still from a video. It shows a young man standing in front of a newsagent. He is
+../data/test/photo/GDL-1955-07-23-a-i0002.jpg,<image>This image can be classified as a,photo,postcard.  It is a view of the Chateau de Chenonceau from the river
+../data/test/photo/IMP-1969-01-25-a-i0104.jpg,<image>This image can be classified as a,photo,black-and-white photograph of a group of children sitting at a table in a dining room.
+../data/test/photo/EXP-1945-12-13-a-i0079.jpg,<image>This image can be classified as a,photo,black and white photograph of a candelabra.
+../data/test/photo/EXP-2015-02-05-a-i0115.jpg,<image>This image can be classified as a,photo,close-up of a person smoking a joint.
+../data/test/photo/JDG-1936-12-30-a-i0033.jpg,<image>This image can be classified as a,photo,"photograph, but it is not a photograph.  It is a collage of photographs of soldiers in"
+../data/test/photo/IMP-1931-02-18-a-i0004.jpg,<image>This image can be classified as a,photo,clipping from a newspaper. It is a photograph of a man in a military uniform. He is
+../data/test/photo/IMP-1935-05-23-a-i0005.jpg,<image>This image can be classified as a,photo,black and white photo of a group of African Americans carrying boxes of food.
+../data/test/photo/EXP-2008-10-10-a-i0155.jpg,<image>This image can be classified as a,photo,golf shot.
+../data/test/photo/EXP-2010-02-01-a-i0162.jpg,<image>This image can be classified as a,photo,photo of a football player
+../data/test/photo/JDG-1959-09-30-a-i0045.jpg,<image>This image can be classified as a,photo,postcard. It is a photograph of a house that has been washed away by a flood. The
+../data/test/photo/EXP-1932-04-08-a-i0060.jpg,<image>This image can be classified as a,photo,caricature. It shows a man in a suit and a woman in a dress. The man
+../data/test/photo/IMP-2006-06-27-a-i0272.jpg,<image>This image can be classified as a,photo,rain poncho.
+../data/test/photo/IMP-1983-03-10-a-i0177.jpg,<image>This image can be classified as a,photo,black-and-white photo of a group of women sitting on a park bench. They are all
+../data/test/photo/IMP-2003-08-30-a-i0229.jpg,<image>This image can be classified as a,photo,"goal-scorer, but it is not a goal-getter. It is, however,"
+../data/test/photo/LCE-1983-10-04-a-i0034.jpg,<image>This image can be classified as a,photo,still from a video. It is a still from a video of a street market in France. The
+../data/test/photo/EXP-1996-11-16-a-i0042.jpg,<image>This image can be classified as a,photo,black and white photograph of a woman standing in front of a display case. She is wearing a black
+../data/test/photo/EXP-1936-06-20-a-i0103.jpg,<image>This image can be classified as a,photo,cabinet meeting.
+../data/test/photo/LCE-1969-02-14-a-i0005.jpg,<image>This image can be classified as a,photo,postcard.  It is a black and white photograph of a building in the background.  The
+../data/test/photo/EXP-1967-05-05-a-i0062.jpg,<image>This image can be classified as a,photo,black and white photo of a bus.
+../data/test/photo/EXP-2010-03-27-a-i0274.jpg,<image>This image can be classified as a,photo,publicity still from the film
+../data/test/photo/IMP-2009-03-21-a-i0313.jpg,<image>This image can be classified as a,photo,still from a movie. It shows a man and a woman sitting on a deck of a ship.
+../data/test/photo/IMP-1963-09-05-a-i0007.jpg,<image>This image can be classified as a,photo,post-mortem photograph of the crash site.
+../data/test/photo/IMP-1982-07-02-a-i0242.jpg,<image>This image can be classified as a,photo,newspaper clipping.
+../data/test/photo/GDL-1989-04-08-a-i0200.jpg,<image>This image can be classified as a,photo,propaganda poster. It shows a man climbing a ladder to the top of a building. He is wearing
+../data/test/photo/EXP-1931-12-17-a-i0121.jpg,<image>This image can be classified as a,photo,newspaper clipping. It is a black and white photograph of a man wearing a hat and a suit
+../data/test/photo/GDL-1982-12-02-a-i0053.jpg,<image>This image can be classified as a,photo,medical imaging device.
+../data/test/photo/EXP-2000-09-13-a-i0271.jpg,<image>This image can be classified as a,photo,stamp
+../data/test/photo/IMP-1976-03-11-a-i0063.jpg,<image>This image can be classified as a,photo,black and white photo of a woman in a black dress holding a ball in her hand. She is
+../data/test/photo/GDL-1967-01-16-a-i0140.jpg,<image>This image can be classified as a,photo,"propaganda image. It shows a crowd of people, all of whom are holding up their hands in the"
+../data/test/photo/EXP-2007-07-26-a-i0207.jpg,<image>This image can be classified as a,photo,public domain photo. It is in the public domain because its copyright has expired or is no longer valid
+../data/test/photo/EXP-2014-12-16-a-i0190.jpg,<image>This image can be classified as a,photo,screenshot from a video of the meeting of the Commission for the Protection of the Rights of the Child (
+../data/test/photo/EXP-1995-11-24-a-i0048.jpg,<image>This image can be classified as a,photo,black and white or sepia photograph of a man wearing a striped shirt and glasses. He is
+../data/test/photo/EXP-1929-08-09-a-i0096.jpg,<image>This image can be classified as a,photo,"postcard.  It is a view of the beach at St Helier, Jersey.  The"
+../data/test/photo/JDG-1992-09-07-a-i0165.jpg,<image>This image can be classified as a,photo,black-and-white photograph of a woman standing in front of a group of people in a street
+../data/test/photo/IMP-1915-11-10-a-i0006_2.jpg,<image>This image can be classified as a,photo,World War I propaganda poster.
+../data/test/photo/IMP-1973-02-06-a-i0033.jpg,<image>This image can be classified as a,photo,black and white photo of a car parked on a snowy street.
+../data/test/photo/EXP-1977-07-23-a-i0116.jpg,<image>This image can be classified as a,photo,"black-and-white photo, but it is actually a color photo. It is a photo of"
+../data/test/graph/GDL-1989-04-17-a-i0064_2.jpg,<image>This image can be classified as a,graph,bar chart. It shows the performance of the Morgan Stanley International Index
+../data/test/graph/EXP-1911-12-09-a-i0115.jpg,<image>This image can be classified as a,graph,"woodcut, engraving, or line drawing. It is a woodcut, engraving, or"
+../data/test/graph/GDL-1989-04-17-a-i0064.jpg,<image>This image can be classified as a,graph,stock chart.
+../data/test/graph/EXP-1912-02-02-a-i0108.jpg,<image>This image can be classified as a,graph,histogram.
+../data/test/graph/EXP-1923-03-21-a-i0095.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/EXP-1913-04-28-a-i0115.jpg,<image>This image can be classified as a,graph,histogram.
+../data/test/graph/EXP-1903-11-30-a-i0052.jpg,<image>This image can be classified as a,graph,"graph, but it is not a graph. It is a chart."
+../data/test/graph/EXP-1908-07-09-a-i0073_2.jpg,<image>This image can be classified as a,graph,medical chart.
+../data/test/graph/GDL-1996-02-01-a-i0256.jpg,<image>This image can be classified as a,graph,stock chart.
+../data/test/graph/JDG-1976-01-09-a-i0041.jpg,<image>This image can be classified as a,graph,stock chart.
+../data/test/graph/EXP-1935-03-04-a-i0105.jpg,<image>This image can be classified as a,graph,"bar chart. It shows the number of days in a month, the number of days in a week"
+../data/test/graph/EXP-1903-12-16-a-i0044.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/EXP-1921-08-31-a-i0070.jpg,<image>This image can be classified as a,graph,histogram.
+../data/test/graph/EXP-1915-02-26-a-i0072.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/EXP-1923-08-21-a-i0071.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/GDL-1979-10-09-a-i0095.jpg,<image>This image can be classified as a,graph,stock chart.
+../data/test/graph/EXP-1913-11-07-a-i0100.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/EXP-1912-11-26-a-i0106.jpg,<image>This image can be classified as a,graph,"diagram, a chart, or a graph. It is a graph of the number of deaths per day"
+../data/test/graph/EXP-1962-11-21-a-i0136.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/IMP-1994-10-29-a-i0103.jpg,<image>This image can be classified as a,graph,stock chart.
+../data/test/graph/EXP-1945-04-05-a-i0192.jpg,<image>This image can be classified as a,graph,bar graph. It shows the average temperature in degrees Celsius for each month of the year.
+../data/test/graph/EXP-1913-09-08-a-i0104.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/EXP-1948-05-28-a-i0189.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/JDG-1907-09-14-a-i0064.jpg,<image>This image can be classified as a,graph,line graph.
+../data/test/graph/EXP-1923-03-16-a-i0102.jpg,<image>This image can be classified as a,graph,bar chart.
+../data/test/graph/EXP-1936-05-22-a-i0112.jpg,<image>This image can be classified as a,graph,bar graph. It shows the number of days in a month.
+../data/test/graph/JDG-1997-05-01-a-i0235.jpg,<image>This image can be classified as a,graph,"stock chart, a bar chart, and a line graph."
+../data/test/graph/GDL-1979-02-05-a-i0102.jpg,<image>This image can be classified as a,graph,"graph, but it is not a graph. It is a chart."
+../data/test/graph/EXP-1916-01-19-a-i0064.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/JDG-1908-10-10-a-i0031.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/EXP-1920-10-02-a-i0159.jpg,<image>This image can be classified as a,graph,histogram.
+../data/test/graph/EXP-1913-02-21-a-i0127.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/EXP-1970-01-17-a-i0061.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/EXP-1951-01-29-a-i0116.jpg,<image>This image can be classified as a,graph,bar graph.
+../data/test/graph/EXP-1931-10-26-a-i0101_2.jpg,<image>This image can be classified as a,graph,"graph, but it is not a graph. It is a chart. It is a table. It"
+../data/test/graph/EXP-1918-02-08-a-i0068.jpg,<image>This image can be classified as a,graph,table or a chart. It is a table with rows and columns.
+../data/test/drawing/JDG-1966-05-31-a-i0021.jpg,<image>This image can be classified as a,drawing,"woodcut, a linoleum block print, or a wood engraving."
+../data/test/drawing/EXP-1988-07-13-a-i0007.jpg,<image>This image can be classified as a,drawing,press cuttings item
+../data/test/drawing/IMP-1911-01-14-a-i0027.jpg,<image>This image can be classified as a,drawing,comic strip. It shows a group of birds flying through the sky.
+../data/test/drawing/EXP-1932-07-26-a-i0078.jpg,<image>This image can be classified as a,drawing,vintage sewing pattern.
+../data/test/drawing/EXP-1990-11-26-a-i0245.jpg,<image>This image can be classified as a,drawing,portrait of a young woman.
+../data/test/drawing/IMP-1981-02-18-a-i0085_4.jpg,<image>This image can be classified as a,drawing,drawing of a ship.
+../data/test/drawing/IMP-1906-12-16-a-i0013.jpg,<image>This image can be classified as a,drawing,black and white engraving of a dog.
+../data/test/drawing/GDL-1966-04-22-a-i0067.jpg,<image>This image can be classified as a,drawing,"self-portrait. It is a charcoal drawing of a woman's head and shoulders, with a"
+../data/test/drawing/IMP-1904-04-09-a-i0002_3.jpg,<image>This image can be classified as a,drawing,newspaper clipping.  It is a reproduction of a page from a French newspaper.  It is
+../data/test/drawing/EXP-1957-12-06-a-i0008.jpg,<image>This image can be classified as a,drawing,drawing of a flying saucer.
+../data/test/drawing/IMP-1929-10-16-a-i0005.jpg,<image>This image can be classified as a,drawing,"woodcut, but it is not a woodcut. It is an engraving, and it is"
+../data/test/drawing/IMP-1910-05-01-a-i0094_10.jpg,<image>This image can be classified as a,drawing,fashion plate.
+../data/test/drawing/IMP-1923-12-21-a-i0030.jpg,<image>This image can be classified as a,drawing,fashion illustration. It shows a woman wearing a black and white dress with a black and white pattern.
+../data/test/drawing/IMP-1904-04-09-a-i0002.jpg,<image>This image can be classified as a,drawing,sketch of a building.
+../data/test/drawing/IMP-1913-11-22-a-i0062.jpg,<image>This image can be classified as a,drawing,woodcut or a wood engraving. It was published in the
+../data/test/drawing/JDG-1994-06-10-a-i0250.jpg,<image>This image can be classified as a,drawing,postage stamp.
+../data/test/drawing/EXP-1972-07-08-a-i0361_3.jpg,<image>This image can be classified as a,drawing,"caricature, but it is based on a true story."
+../data/test/drawing/GDL-1951-10-24-a-i0014.jpg,<image>This image can be classified as a,drawing,bookplate.
+../data/test/drawing/LCE-1952-09-22-a-i0041_2.jpg,<image>This image can be classified as a,drawing,caricature. It shows a man in a striped shirt and black and white striped pants
+../data/test/drawing/IMP-1993-09-25-a-i0275.jpg,<image>This image can be classified as a,drawing,black and white line drawing of a crowd of people.
+../data/test/drawing/IMP-1981-02-18-a-i0085_5.jpg,<image>This image can be classified as a,drawing,collage. It is a collage of drawings and photographs.
+../data/test/drawing/LCE-1919-05-03-a-i0022.jpg,<image>This image can be classified as a,drawing,tattoo.
+../data/test/drawing/JDG-1958-02-15-a-i0052_2.jpg,<image>This image can be classified as a,drawing,wood engraving. It shows a man sitting in a room with a book in front of him.
+../data/test/drawing/IMP-1920-03-19-a-i0002.jpg,<image>This image can be classified as a,drawing,newspaper clipping. It is a black and white image of a man in a suit and tie.
+../data/test/drawing/IMP-1955-08-01-a-i0038.jpg,<image>This image can be classified as a,drawing,black and white cartoon of a woman and a boy. The woman is wearing a hat and a dress
+../data/test/drawing/IMP-1989-08-28-a-i0011.jpg,<image>This image can be classified as a,drawing,caricature. It shows a man and a woman sitting on a bench. The man is holding
+../data/test/drawing/IMP-2001-07-17-a-i0177.jpg,<image>This image can be classified as a,drawing,black and white line drawing of an open book with an eyeball peering out of it.
+../data/test/drawing/GDL-1949-09-03-a-i0216.jpg,<image>This image can be classified as a,drawing,"cartoon, but it is not a political cartoon.  It is a cartoon of a soldier in a"
+../data/test/drawing/IMP-1915-04-08-a-i0038_2.jpg,<image>This image can be classified as a,drawing,musical staff.
+../data/test/drawing/IMP-1946-02-01-a-i0084.jpg,<image>This image can be classified as a,drawing,sewing pattern.
+../data/test/drawing/IMP-2001-07-17-a-i0177_2.jpg,<image>This image can be classified as a,drawing,wheel.
+../data/test/drawing/IMP-1955-01-31-a-i0053.jpg,<image>This image can be classified as a,drawing,political cartoon. It shows a group of people gathered around a man who is standing in front of a
+../data/test/drawing/EXP-1906-03-31-a-i0134.jpg,<image>This image can be classified as a,drawing,"cartoon, but it is not a cartoon.  It is a drawing of a man being hanged"
+../data/test/drawing/JDG-1977-06-04-a-i0219.jpg,<image>This image can be classified as a,drawing,cartoon. It shows a group of people in a gondola. The gondolier is holding a
+../data/test/drawing/IMP-1981-02-18-a-i0085_13.jpg,<image>This image can be classified as a,drawing,collage. It is a drawing of a building with people walking on top of it.
+../data/test/drawing/EXP-1950-01-28-a-i0233.jpg,<image>This image can be classified as a,drawing,street map of the city of Paris.
+../data/test/drawing/EXP-1973-09-01-a-i0451_4.jpg,<image>This image can be classified as a,drawing,black and white drawing of a woman talking on the phone.
+../data/test/drawing/JDG-1956-12-12-a-i0230_2.jpg,<image>This image can be classified as a,drawing,drawing of a bearing.
+../data/test/drawing/IMP-1989-05-31-a-i0100.jpg,<image>This image can be classified as a,drawing,black and white cartoon of a man in a suit.
+../data/test/drawing/LCE-1901-07-31-a-i0023.jpg,<image>This image can be classified as a,drawing,biographical sketch. It is a portrait of a young woman. She is wearing a long-s
+../data/test/drawing/IMP-1937-02-16-a-i0012.jpg,<image>This image can be classified as a,drawing,cartoon. It shows a man walking with a cane.
+../data/test/drawing/JDG-1971-07-24-a-i0130.jpg,<image>This image can be classified as a,drawing,woodcut or a woodcut-like engraving.
+../data/test/drawing/IMP-1992-02-10-a-i0160.jpg,<image>This image can be classified as a,drawing,black and white cartoon of a frog in a trench coat holding a raincoat.
+../data/test/drawing/EXP-1979-08-17-a-i0337.jpg,<image>This image can be classified as a,drawing,black and white drawing of three women laughing.
+../data/test/drawing/IMP-2000-09-15-a-i0197_3.jpg,<image>This image can be classified as a,drawing,caricature of a man reading a book.
+../data/test/drawing/EXP-1966-11-25-a-i0334.jpg,<image>This image can be classified as a,drawing,woodcut.
+../data/test/drawing/IMP-1925-01-09-a-i0030.jpg,<image>This image can be classified as a,drawing,black and white line drawing of a woman sitting on a couch with her children. She is talking to
+../data/test/drawing/GDL-1953-05-30-a-i0173.jpg,<image>This image can be classified as a,drawing,nude drawing.
+../data/test/drawing/JDG-1974-01-17-a-i0097.jpg,<image>This image can be classified as a,drawing,cartoon. It shows two men in a car. One is wearing a seat belt and the other is
+../data/test/drawing/LCE-1908-02-29-a-i0040.jpg,<image>This image can be classified as a,drawing,caricature of a knight on horseback.
+../data/test/drawing/IMP-1936-06-23-a-i0069.jpg,<image>This image can be classified as a,drawing,newspaper clipping. It is a black and white image of a man wearing a hat and a suit
+../data/test/drawing/IMP-1976-01-24-a-i0073.jpg,<image>This image can be classified as a,drawing,newspaper clipping.
+../data/test/drawing/LCE-1992-06-12-a-i0032.jpg,<image>This image can be classified as a,drawing,calligraphic text.
+../data/test/drawing/EXP-1959-06-19-a-i0106_3.jpg,<image>This image can be classified as a,drawing,cartoon. It shows a man sitting in a hammock with a dog on his lap. The
+../data/test/drawing/IMP-1951-08-20-a-i0080.jpg,<image>This image can be classified as a,drawing,comic strip.
+../data/test/drawing/IMP-1984-11-06-a-i0005.jpg,<image>This image can be classified as a,drawing,political cartoon
+../data/test/drawing/IMP-1915-05-18-a-i0007.jpg,<image>This image can be classified as a,drawing,stereograph. It is a stereograph of the battleship H.M.S.
+../data/test/drawing/GDL-1959-02-03-a-i0097_2.jpg,<image>This image can be classified as a,drawing,medical cartoon.
+../data/test/drawing/EXP-1994-10-24-a-i0110.jpg,<image>This image can be classified as a,drawing,comic strip.
+../data/test/drawing/IMP-1903-01-14-a-i0031.jpg,<image>This image can be classified as a,drawing,newspaper clipping. It is a black and white image of a young man in a tuxedo
+../data/test/drawing/EXP-1914-02-11-a-i0087.jpg,<image>This image can be classified as a,drawing,"drawing of a building, but it is not a drawing of a building. It is a drawing of"
+../data/test/drawing/GDL-1979-06-15-a-i0026_2.jpg,<image>This image can be classified as a,drawing,sketch of a staircase.
+../data/test/drawing/IMP-1980-02-04-a-i0078_3.jpg,<image>This image can be classified as a,drawing,self-portrait. It is a photograph of a man in a suit and tie. He is
+../data/test/drawing/JDG-1992-04-25-a-i0255_3.jpg,<image>This image can be classified as a,drawing,black and white line drawing of a battle scene.
+../data/test/drawing/GDL-1975-12-13-a-i0099.jpg,<image>This image can be classified as a,drawing,woodcut.
+../data/test/drawing/EXP-1972-07-08-a-i0361.jpg,<image>This image can be classified as a,drawing,"political cartoon, but it is not a political cartoon."
+../data/test/drawing/EXP-1974-05-25-a-i0325_2.jpg,<image>This image can be classified as a,drawing,coloring page.
+../data/test/drawing/JDG-1904-10-21-a-i0066.jpg,<image>This image can be classified as a,drawing,black and white engraving of a man in a suit.
+../data/test/drawing/EXP-1969-05-13-a-i0056.jpg,<image>This image can be classified as a,drawing,woodcut.
+../data/test/drawing/JDG-1955-02-10-a-i0014.jpg,<image>This image can be classified as a,drawing,sketch or a drawing. It is a study of a man and a dog. The man is holding
+../data/test/drawing/EXP-1974-04-25-a-i0418.jpg,<image>This image can be classified as a,drawing,parody of a romance novel.
+../data/test/drawing/IMP-1958-03-19-a-i0167.jpg,<image>This image can be classified as a,drawing,line drawing of a couple in a garden.
+../data/test/drawing/EXP-1972-12-02-a-i0308.jpg,<image>This image can be classified as a,drawing,symbol or a pictogram.
+../data/test/drawing/GDL-1956-06-30-a-i0255_6.jpg,<image>This image can be classified as a,drawing,sketch of a man playing a flute
+../data/test/drawing/LCE-1915-02-13-a-i0032.jpg,<image>This image can be classified as a,drawing,black and white engraving of a woman's face.
+../data/test/drawing/JDG-1978-10-23-a-i0020.jpg,<image>This image can be classified as a,drawing,caricature. It is a drawing of a man in a trench coat and hat. He is
+../data/test/drawing/IMP-1901-05-29-a-i0035.jpg,<image>This image can be classified as a,drawing,black and white engraving of a young girl.
+../data/test/drawing/LCE-1915-12-25-a-i0042.jpg,<image>This image can be classified as a,drawing,sewing machine.
+../data/test/drawing/EXP-1924-06-06-a-i0046.jpg,<image>This image can be classified as a,drawing,woodcut or engraving.  It is a woodcut.  It is a woodcut.
+../data/test/drawing/IMP-1983-10-03-a-i0220.jpg,<image>This image can be classified as a,drawing,caricature of a man and a woman fighting on the road.
+../data/test/drawing/JDG-1968-10-25-a-i0086.jpg,<image>This image can be classified as a,drawing,technical drawing.  It is a diagram of a laundry basket.  It is a diagram of a
+../data/test/drawing/EXP-1974-05-25-a-i0325_4.jpg,<image>This image can be classified as a,drawing,line drawing of birds on a wire.
+../data/test/drawing/EXP-1974-05-25-a-i0325_8.jpg,<image>This image can be classified as a,drawing,coloring page.
+../data/test/drawing/GDL-1900-03-08-a-i0026.jpg,<image>This image can be classified as a,drawing,portrait of a man with a moustache.
+../data/test/drawing/IMP-1949-09-30-a-i0010.jpg,<image>This image can be classified as a,drawing,caricature. It is a cartoon drawing of a man with a shovel and a woman with a
+../data/test/drawing/IMP-1981-02-18-a-i0085.jpg,<image>This image can be classified as a,drawing,sketch of an ambulance.
+../data/test/drawing/LCE-1908-08-12-a-i0050.jpg,<image>This image can be classified as a,drawing,drawing or a diagram. It is a drawing of a table. It is a diagram of a table
+../data/test/drawing/IMP-1930-02-27-a-i0033.jpg,<image>This image can be classified as a,drawing,sketch of a castle.
+../data/test/drawing/EXP-1986-07-04-a-i0361.jpg,<image>This image can be classified as a,drawing,comic strip.
+../data/test/comic/IMP-1957-11-02-a-i0173_5.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-1962-01-05-a-i0084_2.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-1989-08-16-a-i0308_4.jpg,<image>This image can be classified as a,comic,comic strip.  It shows a man in a hat standing in the middle of a lake.
+../data/test/comic/EXP-1958-01-21-a-i0185.jpg,<image>This image can be classified as a,comic,political cartoon.
+../data/test/comic/EXP-2004-11-03-a-i0131_2.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/IMP-1979-12-03-a-i0187.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-2000-03-18-a-i0362.jpg,<image>This image can be classified as a,comic,political cartoon
+../data/test/comic/IMP-1957-12-16-a-i0087.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-1940-04-09-a-i0069.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-1976-12-31-a-i0420.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-1958-05-20-a-i0092_3.jpg,<image>This image can be classified as a,comic,comic strip or a comic book.
+../data/test/comic/EXP-1968-06-14-a-i0472.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/IMP-1993-04-16-a-i0150.jpg,<image>This image can be classified as a,comic,political cartoon.
+../data/test/comic/EXP-1965-12-24-a-i0313_3.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-1959-02-20-a-i0098_4.jpg,<image>This image can be classified as a,comic,comic strip or a comic book. It is a black and white illustration of a man and a woman
+../data/test/comic/IMP-1960-08-06-a-i0090_7.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/IMP-1965-03-13-a-i0144_3.jpg,<image>This image can be classified as a,comic,newspaper clipping.
+../data/test/comic/LCE-1999-01-22-a-i0030.jpg,<image>This image can be classified as a,comic,political cartoon
+../data/test/comic/IMP-1974-02-12-a-i0183.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/GDL-1936-12-18-a-i0041.jpg,<image>This image can be classified as a,comic,"newspaper clipping. It is a French newspaper clipping of a street scene in Paris, France."
+../data/test/comic/IMP-1949-09-09-a-i0013.jpg,<image>This image can be classified as a,comic,"caricature. It shows a man and a woman, both dressed in black, standing in front"
+../data/test/comic/EXP-1998-11-11-a-i0396.jpg,<image>This image can be classified as a,comic,caricature
+../data/test/comic/IMP-1960-08-06-a-i0090_4.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-1967-01-26-a-i0258_3.jpg,<image>This image can be classified as a,comic,parody of Star Trek.
+../data/test/comic/IMP-2012-10-15-a-i0103.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-1979-12-29-a-i0132.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/IMP-1965-03-13-a-i0144.jpg,<image>This image can be classified as a,comic,cartoon of a man holding a balloon.
+../data/test/comic/LCE-1969-05-19-a-i0016_3.jpg,<image>This image can be classified as a,comic,black and white comic strip or a comic strip in color. It is a comic strip in which the
+../data/test/comic/IMP-1959-02-06-a-i0032.jpg,<image>This image can be classified as a,comic,cartoon. It is a cartoon of a woman walking through a jungle. She is wearing a hat and
+../data/test/comic/IMP-1947-07-04-a-i0016.jpg,<image>This image can be classified as a,comic,cartoon. It is a cartoon of a man and a woman in a campground. The woman is
+../data/test/comic/EXP-1965-01-28-a-i0311.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/GDL-1915-12-05-a-i0098.jpg,<image>This image can be classified as a,comic,comic strip. It shows a man and a woman standing in front of a bar. The man is
+../data/test/comic/IMP-1942-05-29-a-i0016.jpg,<image>This image can be classified as a,comic,cartoon. It is a cartoon of a man and a woman riding bicycles. The man is wearing
+../data/test/comic/IMP-2012-09-01-a-i0115.jpg,<image>This image can be classified as a,comic,double page spread. It shows a man and a woman standing in front of a house. The man
+../data/test/comic/IMP-1992-12-19-a-i0198_2.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-1956-07-25-a-i0105.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/EXP-1966-07-16-a-i0254_6.jpg,<image>This image can be classified as a,comic,comic strip.
+../data/test/comic/IMP-1961-11-01-a-i0016.jpg,<image>This image can be classified as a,comic,black and white illustration of a man in a suit and a man in a tuxedo standing in
+../data/test/comic/IMP-1959-12-05-a-i0123.jpg,<image>This image can be classified as a,comic,political cartoon.
+../data/test/comic/EXP-1966-07-15-a-i0238.jpg,<image>This image can be classified as a,comic,"newspaper clipping. It is a black and white illustration of a man in a trench coat, holding"
