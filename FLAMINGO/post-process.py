@@ -37,13 +37,13 @@ df = pd.read_csv(results_file_path)
 true_labels = list(df['Class Name'].values)
 image_paths = list(df['File Path'].values) #Should be Image Path
 captions = list(df['Predicted Text'].values)
-photo_anot = {"photograph", "photo"}
-drawing_anot = {"drawing", "illustration", "portrait", "fashion", "ornamental"}
+photo_anot = {"photograph", "photo", "view", "close-up"} #screenshot? video? camera?
+drawing_anot = {"drawing", "illustration", "fashion", "ornamental", "cartoon"}
 game_anot = {"puzzle", "sudoku", "chess", "crosswords", "poker", "card games"}
-comic_anot = {"comic", "satirical drawing", "humor drawing", "entertainment drawing", "text bubble", "text description", "graphic novel"}
-graph_anot = {"chart", "graph", "plot"}
+comic_anot = {"comic", "satirical drawing", "humor drawing", "entertainment drawing", "text bubble", "text description", "graphic novel", "cartoon"}
+graph_anot = {"chart", "graph", "plot", "histogram", "diagram"}
 map_anot = {"map", "blueprint", "plan"}
-logo_anot = {"logo", "ad", "advertisement", "publicity", "symbol"}
+logo_anot = {"logo", "ad", "advertisement", "publicity", "symbol"} #brand?
 title_anot = {"title", "letter", "C", "O", "N", "F", "E", "D","R", "Confédéré"}
 
 # Dictionary of words associated to each class
