@@ -73,7 +73,6 @@ img_paths = [item["path"] for item in labelled_data]
 CLASS_PROMPT_LIST = [
     "<image>An image of",
     "<image>This image can be classified as a",
-    "<image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a",
     "<image>Keywords describing this image are",
     "<image>The type of this image is",
 ]
@@ -148,7 +147,7 @@ def open_demo_imgs():
 
     return img_subset1, img_subset2, img_subset3
 
-def settle_flamingo(img_path, prompt, num_shots): 
+def settle_flamingo(img_path, prompt): 
     try: 
         demo1_title = Image.open("../data/train/title/LCE-1900-02-17-a-i0005.jpg")
         demo1_game = Image.open("../data/train/game/EXP-1935-09-13-a-i0054.jpg")
