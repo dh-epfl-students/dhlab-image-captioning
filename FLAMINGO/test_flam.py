@@ -73,6 +73,7 @@ img_paths = [item["path"] for item in labelled_data]
 CLASS_PROMPT_LIST = [
     "<image>An image of",
     "<image>This image can be classified as a",
+    "<image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a",
     "<image>Keywords describing this image are",
     "<image>The type of this image is",
 ]
@@ -147,7 +148,7 @@ def open_demo_imgs():
 
     return img_subset1, img_subset2, img_subset3
 
-def settle_flamingo(img_path, prompt): 
+def settle_flamingo(img_path, prompt, num_shots): 
     try: 
         demo1_title = Image.open("../data/train/title/LCE-1900-02-17-a-i0005.jpg")
         demo1_game = Image.open("../data/train/game/EXP-1935-09-13-a-i0054.jpg")
@@ -271,7 +272,7 @@ if __name__ == '__main__':
     caption = args.caption
 
     folder_index = str(len(os.listdir("./results")) + 1)
-    folder_path = os.path.join("./results", "results" + folder_index)
+    folder_path = os.path.join("./results", "results" + folder_index + f'_{num_shots}_shot' + f'_{prompt_id}_prompt_id')
     #CSV for the results of this prompt
     csv_name = "results" + folder_index + ".csv"
     if not os.path.exists(folder_path):
