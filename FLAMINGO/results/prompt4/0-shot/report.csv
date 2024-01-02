@@ -1,0 +1,15 @@
+              precision    recall  f1-score   support
+
+       title       0.55      0.42      0.48        40
+         map       0.74      0.19      0.30        89
+        logo       1.00      0.73      0.85        45
+        game       0.89      0.22      0.36        36
+       photo       0.43      0.13      0.20        45
+       graph       0.86      0.75      0.80        16
+     drawing       0.98      0.29      0.45       374
+       comic       0.73      0.30      0.42        80
+      unclas       0.00      0.00      0.00         0
+
+    accuracy                           0.31       725
+   macro avg       0.69      0.34      0.43       725
+weighted avg       0.86      0.31      0.44       725

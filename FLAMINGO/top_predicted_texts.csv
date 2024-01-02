@@ -1,0 +1,41 @@
+Prompt,Number of Shots,Predicted Text,Frequency
+1,0,a crossword puzzle.,21
+1,0,a Sudoku puzzle.,9
+1,0,a chess board with a chess piece on it.,7
+1,0,the letter R.,6
+1,0,the letter C.,5
+2,1,This image can be classified as a logo.<|endofchunk|>,131
+2,1,This image can be classified as a logo. This image can be classifed as a painting. This image can be classifed,55
+2,1,This image can be classified as a photograph. This image can be classifed as a painting. This image can be classifed,48
+2,1,This image can be classified as a graph.<|endofchunk|>,35
+2,1,This image can be classified as a portrait. This image can be classifed as a portrait. This image can be classifed,32
+3,1,Keywords describing this image are letter and title-font.<|endofchunk|>,68
+3,1,Keywords describing this image are graph and chart.<|endofchunk|>,38
+3,1,Keywords describing this image are logo and sign.<|endofchunk|>,32
+3,1,Keywords describing this image are man and portrait.<|endofchunk|>,21
+3,1,Keywords describing this image are man and woman.<|endofchunk|>,18
+2,0,monogram.,37
+2,0,crossword puzzle.,27
+2,0,comic strip.,21
+2,0,bar graph.,13
+2,0,chess diagram.,7
+4,1,The type of this image is a logo. The type of this image is a logo. The type of this image is a logo,45
+4,1,The type of this image is a comic strip. The type of this image is a logo. The type of this image is a,33
+4,1,The type of this image is a photograph. The type of this image is a photograph. The type of this image is a photograph,32
+4,1,The type of this image is a photograph.<|endofchunk|>,30
+4,1,The type of this image is a cartoon.<|endofchunk|>,26
+3,0,Keywords describing this image are: (b/w photo) ; (b/w photo) ; (b/w photo,20
+3,0,Keywords describing this image are:  :  :  :  :  :  :  :  :  :  ,11
+3,0,"Keywords describing this image are letter, capital, capital letter, capital letter D, capital letter D, capital letter D, capital",6
+3,0,"Keywords describing this image are:  people, people, people, people, people, people, people, people, people,",6
+3,0,"Keywords describing this image are: , , , , , , , , ,  ",6
+4,0,The type of this image is a crossword puzzle.<|endofchunk|>,28
+4,0,The type of this image is not known.<|endofchunk|>,15
+4,0,The type of this image is called a comic strip.<|endofchunk|>,12
+4,0,The type of this image is: E<|endofchunk|>,11
+4,0,The type of this image is called R<|endofchunk|>,6
+1,1,An image of a crossword puzzle. An image of a painting. An image of a poster. An image of,24
+1,1,An image of a cartoon.<|endofchunk|>,21
+1,1,An image of a comic strip.<|endofchunk|>,17
+1,1,An image of a building.<|endofchunk|>,14
+1,1,An image of a letter.<|endofchunk|>,13

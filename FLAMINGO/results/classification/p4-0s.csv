@@ -1,0 +1,726 @@
+File Path,Prompt,Class Name,Predicted Text,Prompt ID,Number of Shots
+../data/test/title/LCE-1913-01-08-a-i0015.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1911-12-06-a-i0016.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1948-06-09-a-i0015.jpg,<image>The type of this image is,title,The type of this image is a capital letter E.<|endofchunk|>,4,0
+../data/test/title/LCE-1943-01-27-a-i0017.jpg,<image>The type of this image is,title,The type of this image is the typeface used in the title of this book.<|endofchunk|>,4,0
+../data/test/title/LCE-1907-08-14-a-i0009.jpg,<image>The type of this image is,title,The type of this image is called N<|endofchunk|>,4,0
+../data/test/title/LCE-1952-02-27-a-i0002.jpg,<image>The type of this image is,title,The type of this image is called L.<|endofchunk|>,4,0
+../data/test/title/LCE-1906-02-03-a-i0003.jpg,<image>The type of this image is,title,The type of this image is the letter L.<|endofchunk|>,4,0
+../data/test/title/LCE-1912-11-23-a-i0020.jpg,<image>The type of this image is,title,The type of this image is: R<|endofchunk|>,4,0
+../data/test/title/LCE-1913-02-15-a-i0009.jpg,<image>The type of this image is,title,The type of this image is called 'F'<|endofchunk|>,4,0
+../data/test/title/LCE-1913-03-01-a-i0008.jpg,<image>The type of this image is,title,The type of this image is the typeface used in the newspaper.<|endofchunk|>,4,0
+../data/test/title/LCE-1910-04-27-a-i0002.jpg,<image>The type of this image is,title,The type of this image is: C<|endofchunk|>,4,0
+../data/test/title/LCE-1942-01-02-a-i0012.jpg,<image>The type of this image is,title,The type of this image is: D<|endofchunk|>,4,0
+../data/test/title/LCE-1908-10-07-a-i0011.jpg,<image>The type of this image is,title,The type of this image is the only known example of the letter E.<|endofchunk|>,4,0
+../data/test/title/LCE-1904-07-02-a-i0002.jpg,<image>The type of this image is,title,The type of this image is called 'L'<|endofchunk|>,4,0
+../data/test/title/LCE-1923-03-09-a-i0051.jpg,<image>The type of this image is,title,The type of this image is called R<|endofchunk|>,4,0
+../data/test/title/LCE-1907-01-01-a-i0016.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1912-10-19-a-i0010.jpg,<image>The type of this image is,title,The type of this image is called F.<|endofchunk|>,4,0
+../data/test/title/LCE-1904-06-15-a-i0019.jpg,<image>The type of this image is,title,The type of this image is the letter R.<|endofchunk|>,4,0
+../data/test/title/LCE-1933-05-03-a-i0012.jpg,<image>The type of this image is,title,The type of this image is: F<|endofchunk|>,4,0
+../data/test/title/LCE-1948-09-17-a-i0020.jpg,<image>The type of this image is,title,The type of this image is called E.<|endofchunk|>,4,0
+../data/test/title/LCE-1911-10-18-a-i0084.jpg,<image>The type of this image is,title,The type of this image is called R<|endofchunk|>,4,0
+../data/test/title/LCE-1908-03-07-a-i0008.jpg,<image>The type of this image is,title,The type of this image is called F.<|endofchunk|>,4,0
+../data/test/title/LCE-1933-10-09-a-i0017.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1949-12-19-a-i0016.jpg,<image>The type of this image is,title,The type of this image is: D<|endofchunk|>,4,0
+../data/test/title/LCE-1909-05-01-a-i0001.jpg,<image>The type of this image is,title,The type of this image is: O<|endofchunk|>,4,0
+../data/test/title/LCE-1944-03-31-a-i0017.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1908-08-05-a-i0017.jpg,<image>The type of this image is,title,The type of this image is the 'E' from the 'E' typeface.<|endofchunk|>,4,0
+../data/test/title/LCE-1935-06-10-a-i0011.jpg,<image>The type of this image is,title,The type of this image is called E.<|endofchunk|>,4,0
+../data/test/title/LCE-1906-03-14-a-i0020.jpg,<image>The type of this image is,title,The type of this image is a C.<|endofchunk|>,4,0
+../data/test/title/LCE-1943-01-27-a-i0008.jpg,<image>The type of this image is,title,The type of this image is called an 'O'<|endofchunk|>,4,0
+../data/test/title/LCE-1900-08-29-a-i0011.jpg,<image>The type of this image is,title,The type of this image is called R<|endofchunk|>,4,0
+../data/test/title/LCE-1915-04-07-a-i0012.jpg,<image>The type of this image is,title,The type of this image is called C.<|endofchunk|>,4,0
+../data/test/title/LCE-1908-01-22-a-i0011_2.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1911-10-18-a-i0002.jpg,<image>The type of this image is,title,The type of this image is: C<|endofchunk|>,4,0
+../data/test/title/LCE-1919-12-12-a-i0013.jpg,<image>The type of this image is,title,The type of this image is: F<|endofchunk|>,4,0
+../data/test/title/LCE-1958-06-16-a-i0011.jpg,<image>The type of this image is,title,The type of this image is the typeface used in the logo of the French magazine Le Figaro.<|endofchunk|>,4,0
+../data/test/title/LCE-1903-04-15-a-i0005.jpg,<image>The type of this image is,title,The type of this image is: N<|endofchunk|>,4,0
+../data/test/title/LCE-1906-07-25-a-i0010.jpg,<image>The type of this image is,title,The type of this image is called an 'O'<|endofchunk|>,4,0
+../data/test/title/LCE-1912-10-12-a-i0009.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1915-12-08-a-i0013.jpg,<image>The type of this image is,title,The type of this image is: R<|endofchunk|>,4,0
+../data/test/title/LCE-1932-07-15-a-i0019.jpg,<image>The type of this image is,title,The type of this image is the letter R.<|endofchunk|>,4,0
+../data/test/title/LCE-1900-03-17-a-i0006.jpg,<image>The type of this image is,title,The type of this image is called 'N'<|endofchunk|>,4,0
+../data/test/title/LCE-1914-05-11-a-i0016.jpg,<image>The type of this image is,title,The type of this image is the letter L.<|endofchunk|>,4,0
+../data/test/title/LCE-1907-12-28-a-i0001.jpg,<image>The type of this image is,title,The type of this image is: O<|endofchunk|>,4,0
+../data/test/title/LCE-1933-09-15-a-i0015.jpg,<image>The type of this image is,title,The type of this image is: D<|endofchunk|>,4,0
+../data/test/title/LCE-1919-07-12-a-i0020.jpg,<image>The type of this image is,title,The type of this image is: O<|endofchunk|>,4,0
+../data/test/title/LCE-1905-04-08-a-i0010.jpg,<image>The type of this image is,title,The type of this image is: O<|endofchunk|>,4,0
+../data/test/title/LCE-1950-02-24-a-i0001.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1914-05-01-a-i0002.jpg,<image>The type of this image is,title,The type of this image is the type of the letter L.<|endofchunk|>,4,0
+../data/test/title/LCE-1920-12-03-a-i0084.jpg,<image>The type of this image is,title,The type of this image is: D<|endofchunk|>,4,0
+../data/test/title/LCE-1941-08-18-a-i0015.jpg,<image>The type of this image is,title,The type of this image is called R<|endofchunk|>,4,0
+../data/test/title/LCE-1942-05-20-a-i0019.jpg,<image>The type of this image is,title,The type of this image is called 'F'<|endofchunk|>,4,0
+../data/test/title/LCE-1908-09-26-a-i0010.jpg,<image>The type of this image is,title,The type of this image is: The New York Times<|endofchunk|>,4,0
+../data/test/title/LCE-1908-03-28-a-i0012.jpg,<image>The type of this image is,title,The type of this image is the typeface used for the letter E.<|endofchunk|>,4,0
+../data/test/title/LCE-1914-07-10-a-i0015.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1921-12-09-a-i0059.jpg,<image>The type of this image is,title,The type of this image is the R<|endofchunk|>,4,0
+../data/test/title/LCE-1915-04-17-a-i0011.jpg,<image>The type of this image is,title,The type of this image is called E.<|endofchunk|>,4,0
+../data/test/title/LCE-1904-01-20-a-i0002.jpg,<image>The type of this image is,title,The type of this image is a C.<|endofchunk|>,4,0
+../data/test/title/LCE-1914-06-19-a-i0015.jpg,<image>The type of this image is,title,The type of this image is called N<|endofchunk|>,4,0
+../data/test/title/LCE-1901-02-16-a-i0011.jpg,<image>The type of this image is,title,The type of this image is called B.<|endofchunk|>,4,0
+../data/test/title/LCE-1931-05-08-a-i0014.jpg,<image>The type of this image is,title,The type of this image is: D<|endofchunk|>,4,0
+../data/test/title/LCE-1926-12-24-a-i0057.jpg,<image>The type of this image is,title,The type of this image is the letter D.<|endofchunk|>,4,0
+../data/test/title/LCE-1942-01-21-a-i0014.jpg,<image>The type of this image is,title,The type of this image is called D.<|endofchunk|>,4,0
+../data/test/title/LCE-1914-05-15-a-i0014.jpg,<image>The type of this image is,title,The type of this image is called C.<|endofchunk|>,4,0
+../data/test/title/LCE-1953-06-26-a-i0014.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1952-05-02-a-i0002.jpg,<image>The type of this image is,title,The type of this image is called 'L'<|endofchunk|>,4,0
+../data/test/title/LCE-1901-06-01-a-i0012.jpg,<image>The type of this image is,title,The type of this image is called 'R'<|endofchunk|>,4,0
+../data/test/title/LCE-1909-08-11-a-i0007_2.jpg,<image>The type of this image is,title,The type of this image is: E<|endofchunk|>,4,0
+../data/test/title/LCE-1910-04-02-a-i0009.jpg,<image>The type of this image is,title,The type of this image is called N<|endofchunk|>,4,0
+../data/test/title/LCE-1904-03-09-a-i0001.jpg,<image>The type of this image is,title,The type of this image is called E.<|endofchunk|>,4,0
+../data/test/title/LCE-1904-07-27-a-i0010.jpg,<image>The type of this image is,title,The type of this image is the number 0.<|endofchunk|>,4,0
+../data/test/title/LCE-1906-06-09-a-i0002.jpg,<image>The type of this image is,title,The type of this image is a C.<|endofchunk|>,4,0
+../data/test/title/LCE-1906-06-06-a-i0018.jpg,<image>The type of this image is,title,The type of this image is called 'L'<|endofchunk|>,4,0
+../data/test/title/LCE-1906-10-13-a-i0019.jpg,<image>The type of this image is,title,The type of this image is called R<|endofchunk|>,4,0
+../data/test/title/LCE-1931-07-10-a-i0012.jpg,<image>The type of this image is,title,The type of this image is called F.<|endofchunk|>,4,0
+../data/test/title/LCE-1933-02-01-a-i0009.jpg,<image>The type of this image is,title,The type of this image is: O<|endofchunk|>,4,0
+../data/test/title/LCE-1913-04-09-a-i0015.jpg,<image>The type of this image is,title,The type of this image is: D<|endofchunk|>,4,0
+../data/test/title/LCE-1910-12-31-a-i0018.jpg,<image>The type of this image is,title,The type of this image is called R<|endofchunk|>,4,0
+../data/test/title/LCE-1902-02-19-a-i0007.jpg,<image>The type of this image is,title,The type of this image is: N<|endofchunk|>,4,0
+../data/test/title/LCE-1948-04-05-a-i0009.jpg,<image>The type of this image is,title,The type of this image is the letter O.<|endofchunk|>,4,0
+../data/test/map/GDL-1991-06-01-a-i0298.jpg,<image>The type of this image is,map,The type of this image is the type of this image is the type of this image is the type of this image is the type,4,0
+../data/test/map/EXP-1992-02-14-a-i0439_3.jpg,<image>The type of this image is,map,The type of this image is a map of the weather in Europe.<|endofchunk|>,4,0
+../data/test/map/JDG-1940-03-08-a-i0008.jpg,<image>The type of this image is,map,The type of this image is from a map of the Caucasus region in the early 20th century.<|endofchunk|>,4,0
+../data/test/map/EXP-1957-07-04-a-i0103_2.jpg,<image>The type of this image is,map,The type of this image is based on a map of the route of the first Trans-Siberian Railway from Moscow to Vlad,4,0
+../data/test/map/EXP-1979-10-23-a-i0132_2.jpg,<image>The type of this image is,map,"The type of this image is not known, but it is likely to have been taken from a map of the area.<|endofchunk|>",4,0
+../data/test/map/IMP-1960-01-16-a-i0024.jpg,<image>The type of this image is,map,The type of this image is a map of the Soviet Union and its allies in the Cold War.<|endofchunk|>,4,0
+../data/test/map/EXP-2003-09-29-a-i0014.jpg,<image>The type of this image is,map,The type of this image is a map of Hong Kong.<|endofchunk|>,4,0
+../data/test/map/GDL-1907-04-02-a-i0069.jpg,<image>The type of this image is,map,"The type of this image is not known, but it appears to be a drawing of a mine.<|endofchunk|>",4,0
+../data/test/map/JDG-1959-02-02-a-i0018.jpg,<image>The type of this image is,map,"The type of this image is not known, but it appears to be a map of the French Alsace-Lorraine",4,0
+../data/test/map/GDL-1950-05-17-a-i0056.jpg,<image>The type of this image is,map,The type of this image is: Le Combattant Goural-Koubass<|endofchunk|>,4,0
+../data/test/map/EXP-2017-08-02-a-i0209.jpg,<image>The type of this image is,map,"The type of this image is wrong. It is not a map of France, it is a map of the weather in France.",4,0
+../data/test/map/GDL-1918-12-02-a-i0002.jpg,<image>The type of this image is,map,The type of this image is based on a map of the Zambezi River.<|endofchunk|>,4,0
+../data/test/map/EXP-2009-01-31-a-i0302_2.jpg,<image>The type of this image is,map,The type of this image is a weather map.<|endofchunk|>,4,0
+../data/test/map/LCE-1998-03-06-a-i0015_2.jpg,<image>The type of this image is,map,The type of this image is:  Geological map of the area of the Gorges du Tarn and the Gorg,4,0
+../data/test/map/GDL-1941-07-15-a-i0121.jpg,<image>The type of this image is,map,The type of this image is based on a map of the Middle East published by the U.S. Office of War Information in,4,0
+../data/test/map/JDG-1987-04-10-a-i0203_2.jpg,<image>The type of this image is,map,The type of this image is: International Business Park<|endofchunk|>,4,0
+../data/test/logo/JDG-1925-08-29-a-i0041.jpg,<image>The type of this image is,logo,The type of this image is called the 'Democratic Party Emblem' and was used by the Democratic Party of the United States,4,0
+../data/test/logo/JDG-1977-12-17-a-i0244.jpg,<image>The type of this image is,logo,The type of this image is: FLORE<|endofchunk|>,4,0
+../data/test/logo/LCE-1977-11-18-a-i0010.jpg,<image>The type of this image is,logo,The type of this image is: EEC<|endofchunk|>,4,0
+../data/test/logo/EXP-1979-05-04-a-i0025.jpg,<image>The type of this image is,logo,The type of this image is a logo of the police of Neuchâtel.<|endofchunk|>,4,0
+../data/test/logo/LCE-1952-08-29-a-i0021.jpg,<image>The type of this image is,logo,The type of this image is a logo for the Rubber Trifit Company.<|endofchunk|>,4,0
+../data/test/logo/LCE-1939-02-22-a-i0036.jpg,<image>The type of this image is,logo,The type of this image is the Bauhaus logo.<|endofchunk|>,4,0
+../data/test/logo/LCE-1981-02-17-a-i0063_2.jpg,<image>The type of this image is,logo,The type of this image is: ASSA<|endofchunk|>,4,0
+../data/test/logo/IMP-1979-12-27-a-i0050.jpg,<image>The type of this image is,logo,The type of this image is the title page of the magazine 'Anglaise'<|endofchunk|>,4,0
+../data/test/logo/JDG-1907-11-03-a-i0012.jpg,<image>The type of this image is,logo,The type of this image is called the 'Devil's Cross' and was used by the Freemasons.<|endofchunk|>,4,0
+../data/test/logo/IMP-1973-01-30-a-i0025.jpg,<image>The type of this image is,logo,The type of this image is called Page 2.<|endofchunk|>,4,0
+../data/test/logo/LCE-1909-05-26-a-i0023.jpg,<image>The type of this image is,logo,The type of this image is: Haas & Vogt<|endofchunk|>,4,0
+../data/test/logo/GDL-1978-02-27-a-i0145.jpg,<image>The type of this image is,logo,The type of this image is: Rooster<|endofchunk|>,4,0
+../data/test/logo/JDG-1909-10-12-a-i0099.jpg,<image>The type of this image is,logo,The type of this image is called a 'roundel' and was used by the British Army during the First World War. It,4,0
+../data/test/logo/IMP-1915-06-08-a-i0031.jpg,<image>The type of this image is,logo,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/logo/LCE-1924-03-03-a-i0033.jpg,<image>The type of this image is,logo,The type of this image is: Hotel Klüsera Poste<|endofchunk|>,4,0
+../data/test/logo/EXP-1923-03-21-a-i0023.jpg,<image>The type of this image is,logo,The type of this image is: 'Aux Armoiries'<|endofchunk|>,4,0
+../data/test/logo/JDG-1907-12-13-a-i0050.jpg,<image>The type of this image is,logo,The type of this image is called the 'Sacred Heart of Jesus' and was used by the Knights Templar.,4,0
+../data/test/logo/LCE-1970-06-23-a-i0095_2.jpg,<image>The type of this image is,logo,The type of this image is: Porsche<|endofchunk|>,4,0
+../data/test/logo/IMP-1980-04-03-a-i0263.jpg,<image>The type of this image is,logo,The type of this image is a logo of a TV station.<|endofchunk|>,4,0
+../data/test/logo/LCE-1903-12-23-a-i0048.jpg,<image>The type of this image is,logo,The type of this image is called Chocolate Kohller.<|endofchunk|>,4,0
+../data/test/logo/LCE-1952-05-16-a-i0010.jpg,<image>The type of this image is,logo,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/logo/EXP-1966-11-11-a-i0429.jpg,<image>The type of this image is,logo,The type of this image is the type used for the logo of the TV-tribute magazine.<|endofchunk|>,4,0
+../data/test/logo/LCE-1908-11-04-a-i0048.jpg,<image>The type of this image is,logo,The type of this image is the Coat of Arms of the Kingdom of the Two Sicilies<|endofchunk|>,4,0
+../data/test/logo/IMP-1915-03-27-a-i0043.jpg,<image>The type of this image is,logo,"The type of this image is not known, but it is likely to be from the late 19th or early 20th century.",4,0
+../data/test/logo/LCE-1929-06-14-a-i0044.jpg,<image>The type of this image is,logo,The type of this image is the Citroën Citroën Citroën Citroën Citroë,4,0
+../data/test/logo/EXP-2003-01-31-a-i0051.jpg,<image>The type of this image is,logo,The type of this image is: Service d'Inspection de Secours<|endofchunk|>,4,0
+../data/test/logo/LCE-1904-11-26-a-i0031.jpg,<image>The type of this image is,logo,The type of this image is: Saxon<|endofchunk|>,4,0
+../data/test/logo/EXP-2017-10-24-a-i0150.jpg,<image>The type of this image is,logo,"The type of this image is Marigot Maouz, Chauffeur, Marigot Maouz, Ch",4,0
+../data/test/logo/IMP-2016-11-03-a-i0254.jpg,<image>The type of this image is,logo,The type of this image is La Mejor<|endofchunk|>,4,0
+../data/test/logo/LCE-1970-04-14-a-i0026.jpg,<image>The type of this image is,logo,The type of this image is the type used in the 1950s.<|endofchunk|>,4,0
+../data/test/logo/IMP-2014-01-03-a-i0088.jpg,<image>The type of this image is,logo,The type of this image is: Agenda<|endofchunk|>,4,0
+../data/test/logo/LCE-1952-05-09-a-i0053_2.jpg,<image>The type of this image is,logo,The type of this image is called 'Nouvelle Elna'<|endofchunk|>,4,0
+../data/test/logo/EXP-2005-11-16-a-i0232_2.jpg,<image>The type of this image is,logo,The type of this image is the logo for the National Basketball Association.<|endofchunk|>,4,0
+../data/test/logo/GDL-1965-04-27-a-i0119.jpg,<image>The type of this image is,logo,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/logo/JDG-1982-07-05-a-i0042.jpg,<image>The type of this image is,logo,The type of this image is: #flore<|endofchunk|>,4,0
+../data/test/logo/EXP-2016-03-11-a-i0182.jpg,<image>The type of this image is,logo,The type of this image is: Indicateurs<|endofchunk|>,4,0
+../data/test/logo/EXP-1906-02-05-a-i0060.jpg,<image>The type of this image is,logo,The type of this image is the name of the album: 'Jeremy Simon'<|endofchunk|>,4,0
+../data/test/logo/LCE-1903-11-04-a-i0027.jpg,<image>The type of this image is,logo,The type of this image is the typeface used for the title of the film.<|endofchunk|>,4,0
+../data/test/logo/IMP-1963-03-12-a-i0199.jpg,<image>The type of this image is,logo,The type of this image is a crown.<|endofchunk|>,4,0
+../data/test/logo/JDG-1970-04-09-a-i0185.jpg,<image>The type of this image is,logo,The type of this image is called 'Made in France'<|endofchunk|>,4,0
+../data/test/logo/IMP-1996-03-27-a-i0210_2.jpg,<image>The type of this image is,logo,The type of this image is called a Gothic mask.<|endofchunk|>,4,0
+../data/test/logo/LCE-1923-06-22-a-i0016.jpg,<image>The type of this image is,logo,The type of this image is the Citroën Citroën Citroën Citroën Citroë,4,0
+../data/test/logo/EXP-1953-05-30-a-i0157.jpg,<image>The type of this image is,logo,The type of this image is the type that was used in the 1930s and 1940s.<|endofchunk|>,4,0
+../data/test/logo/LCE-1975-02-14-a-i0004.jpg,<image>The type of this image is,logo,"The type of this image is the typeface used for the title of the film, directed by Jean-Luc Godard.<|endofchunk|>",4,0
+../data/test/logo/IMP-1990-08-22-a-i0508.jpg,<image>The type of this image is,logo,The type of this image is: FC Saint-Blaise<|endofchunk|>,4,0
+../data/test/game/IMP-2002-05-06-a-i0141.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/GDL-1926-07-12-a-i0063_2.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/IMP-2008-10-15-a-i0133_3.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/IMP-1985-07-06-a-i0063.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-1936-02-14-a-i0035.jpg,<image>The type of this image is,game,The type of this image is known as a Chess Board.<|endofchunk|>,4,0
+../data/test/game/GDL-1971-03-06-a-i0329.jpg,<image>The type of this image is,game,"The type of this image is: Chess Board, Chess Pieces, Chess Pieces, Chess, Chess",4,0
+../data/test/game/EXP-1939-12-13-a-i0083.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/JDG-1974-09-14-a-i0221.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/JDG-1943-06-09-a-i0074.jpg,<image>The type of this image is,game,"The type of this image is not known, but it appears to be a grid of squares.<|endofchunk|>",4,0
+../data/test/game/EXP-1996-12-30-a-i0048.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/IMP-1958-06-25-a-i0118.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-1981-09-01-a-i0332_3.jpg,<image>The type of this image is,game,"The type of this image is not known, but it is likely to be from Star Wars: The Empire Strikes Back.<|endofchunk|>",4,0
+../data/test/game/JDG-1942-06-09-a-i0052.jpg,<image>The type of this image is,game,"The type of this image is: Chess Board, Chess, Chess Pieces, Chess Pieces, Chess",4,0
+../data/test/game/GDL-1958-03-15-a-i0317.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/IMP-1973-09-01-a-i0208.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/IMP-1981-10-23-a-i0114.jpg,<image>The type of this image is,game,The type of this image is: Word Search<|endofchunk|>,4,0
+../data/test/game/EXP-2013-08-14-a-i0109.jpg,<image>The type of this image is,game,The type of this image is: Word Search<|endofchunk|>,4,0
+../data/test/game/EXP-2011-10-25-a-i0292.jpg,<image>The type of this image is,game,The type of this image is a Sudoku puzzle.<|endofchunk|>,4,0
+../data/test/game/IMP-1989-07-01-a-i0086_3.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-1956-03-05-a-i0103.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/IMP-2017-11-18-a-i0260.jpg,<image>The type of this image is,game,The type of this image is a Sudoku puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-2000-11-14-a-i0347_2.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-2014-07-11-a-i0125.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-1976-05-15-a-i0373.jpg,<image>The type of this image is,game,The type of this image is a grid of squares.<|endofchunk|>,4,0
+../data/test/game/GDL-1938-09-18-a-i0054.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/IMP-1973-10-31-a-i0019.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/JDG-1988-01-20-a-i0172.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-2017-07-07-a-i0104.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-1967-09-29-a-i0450_2.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/GDL-1964-05-30-a-i0320.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-1965-10-04-a-i0242.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/JDG-1987-11-06-a-i0201.jpg,<image>The type of this image is,game,"The type of this image is: Chess, Chessboard, Chess, Chess, Chess, Chess,",4,0
+../data/test/game/JDG-1936-02-07-a-i0064.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-1959-02-20-a-i0098.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/GDL-1974-11-02-a-i0180_9.jpg,<image>The type of this image is,game,"The type of this image is not known, but it is likely to be a diagram of a chess board.<|endofchunk|>",4,0
+../data/test/game/GDL-1915-07-04-a-i0099.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/IMP-1967-05-03-a-i0276.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/JDG-1974-05-18-a-i0221_2.jpg,<image>The type of this image is,game,The type of this image is a chess diagram.<|endofchunk|>,4,0
+../data/test/game/JDG-1947-12-27-a-i0052.jpg,<image>The type of this image is,game,The type of this image is: Pampelone - Pampelone - Pampelone - Pampelone,4,0
+../data/test/game/EXP-1972-06-12-a-i0345_2.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/GDL-1964-05-30-a-i0320_6.jpg,<image>The type of this image is,game,The type of this image is known as a chess diagram.<|endofchunk|>,4,0
+../data/test/game/GDL-1961-04-08-a-i0326.jpg,<image>The type of this image is,game,"The type of this image is not known, but it appears to be a chess board with a chess piece on it.<|endofchunk|>",4,0
+../data/test/game/EXP-1981-09-01-a-i0332.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/game/EXP-2009-03-18-a-i0136.jpg,<image>The type of this image is,game,The type of this image is: Wordsearch<|endofchunk|>,4,0
+../data/test/game/IMP-1941-10-18-a-i0034.jpg,<image>The type of this image is,game,The type of this image is a crossword puzzle.<|endofchunk|>,4,0
+../data/test/photo/EXP-1929-08-19-a-i0011.jpg,<image>The type of this image is,photo,The type of this image is: Portrait of a man.<|endofchunk|>,4,0
+../data/test/photo/IMP-1977-11-14-a-i0107.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the early 1980s. It is believed to be",4,0
+../data/test/photo/EXP-2012-03-20-a-i0180.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image of Marine Le Pen<|endofchunk|>",4,0
+../data/test/photo/IMP-1915-05-01-a-i0007.jpg,<image>The type of this image is,photo,The type of this image is based on an engraving from the Illustrated London News.<|endofchunk|>,4,0
+../data/test/photo/GDL-1928-01-12-a-i0003.jpg,<image>The type of this image is,photo,The type of this image is based on a photograph of a man in a military uniform.<|endofchunk|>,4,0
+../data/test/photo/IMP-1976-06-14-a-i0140.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken at a gymnastics event in the 1960s",4,0
+../data/test/photo/IMP-2015-06-19-a-i0017.jpg,<image>The type of this image is,photo,"The type of this image is a residential building in the city of Maribor, Slovenia.<|endofchunk|>",4,0
+../data/test/photo/IMP-2017-05-10-a-i0059.jpg,<image>The type of this image is,photo,The type of this image is a photo of a dump truck driving on a road.<|endofchunk|>,4,0
+../data/test/photo/IMP-1944-04-03-a-i0005.jpg,<image>The type of this image is,photo,"The type of this image is not identified, but it appears to be a tree stump with a rope attached to it.<|endofchunk|>",4,0
+../data/test/photo/IMP-2010-08-14-a-i0188.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image with the caption: 'Megan Rapinoe and",4,0
+../data/test/photo/LCE-1989-09-22-a-i0018.jpg,<image>The type of this image is,photo,"The type of this image is known as a Château, which is a fortified wine estate.<|endofchunk|>",4,0
+../data/test/photo/IMP-1913-07-31-a-i0020.jpg,<image>The type of this image is,photo,"The type of this image is known as a collage. It is a composite of several photographs, each of which is a separate",4,0
+../data/test/photo/EXP-1967-08-21-a-i0234.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a Porsche 912.<|endofchunk|>",4,0
+../data/test/photo/LCE-1970-07-28-a-i0070.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a man in a suit and tie. He is smiling at the viewer,4,0
+../data/test/photo/EXP-2012-06-14-a-i0072.jpg,<image>The type of this image is,photo,The type of this image is a photo of a man buying a bottle of vodka from a vendor.<|endofchunk|>,4,0
+../data/test/photo/JDG-1945-02-16-a-i0075_2.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a publicity still from the film.<|endofchunk|>",4,0
+../data/test/photo/IMP-1997-08-09-a-i0216.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a man and a woman standing in front of a man and a woman,4,0
+../data/test/photo/EXP-1971-12-02-a-i0451.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a woman in a white dress and hat. She is standing in front,4,0
+../data/test/photo/EXP-1971-08-30-a-i0012.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a man in a bathing suit.<|endofchunk|>,4,0
+../data/test/photo/EXP-1913-03-10-a-i0089.jpg,<image>The type of this image is,photo,"The type of this image is known as a panorama. It is a photograph of a large city or town, taken from a",4,0
+../data/test/photo/GDL-1940-07-31-a-i0068.jpg,<image>The type of this image is,photo,The type of this image is a newspaper clipping of a young girl wearing a hat.<|endofchunk|>,4,0
+../data/test/photo/IMP-1972-04-20-a-i0026.jpg,<image>The type of this image is,photo,The type of this image is the type of this image is the type of this image is the type of this image is the type,4,0
+../data/test/photo/IMP-1981-01-08-a-i0013.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the Philippines during the Second World War.",4,0
+../data/test/photo/EXP-1940-12-13-a-i0002.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely that it is a portrait of the author.<|endofchunk|>",4,0
+../data/test/photo/EXP-1940-06-14-a-i0005.jpg,<image>The type of this image is,photo,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/photo/EXP-2010-12-02-a-i0036.jpg,<image>The type of this image is,photo,The type of this image is: Blood test<|endofchunk|>,4,0
+../data/test/photo/EXP-2007-10-16-a-i0176.jpg,<image>The type of this image is,photo,The type of this image is a newspaper clipping of a soccer player kicking the ball.<|endofchunk|>,4,0
+../data/test/photo/IMP-2012-11-05-a-i0101.jpg,<image>The type of this image is,photo,The type of this image is a picture of a man praying.<|endofchunk|>,4,0
+../data/test/photo/IMP-1990-10-02-a-i0036.jpg,<image>The type of this image is,photo,The type of this image is a photograph of a road sign with the words 'Poubelles' and 'Nuclé,4,0
+../data/test/photo/JDG-1979-05-09-a-i0130.jpg,<image>The type of this image is,photo,The type of this image is known as a 'bomb squad'<|endofchunk|>,4,0
+../data/test/photo/EXP-1957-05-08-a-i0009.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a re-enactment of the capture of the",4,0
+../data/test/photo/JDG-1959-11-11-a-i0141.jpg,<image>The type of this image is,photo,The type of this image is a pencil drawing.<|endofchunk|>,4,0
+../data/test/photo/IMP-2010-01-14-a-i0019.jpg,<image>The type of this image is,photo,"The type of this image is not clear, but it is a picture of a Haitian mother and her children.<|endofchunk|>",4,0
+../data/test/photo/IMP-1969-09-13-a-i0155.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a construction site.<|endofchunk|>",4,0
+../data/test/photo/EXP-1966-02-18-a-i0473.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be the Saturn V.<|endofchunk|>",4,0
+../data/test/photo/IMP-1980-11-07-a-i0383.jpg,<image>The type of this image is,photo,The type of this image is known as a 'rugby union' or 'rugby league' photograph.<|endofchunk|>,4,0
+../data/test/photo/IMP-1969-10-06-a-i0157.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a model of the type of display table used at the",4,0
+../data/test/photo/IMP-1949-12-22-a-i0014.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a man standing in front of a plaque with the words 'Dr.,4,0
+../data/test/photo/EXP-1999-02-26-a-i0228.jpg,<image>The type of this image is,photo,"The type of this image is not available. If you need it, please contact us at [email protected] and it will be",4,0
+../data/test/photo/EXP-1929-04-20-a-i0006.jpg,<image>The type of this image is,photo,The type of this image is known as a 'breechloader' or 'breechloader rifle' and was used,4,0
+../data/test/photo/IMP-1961-09-04-a-i0048.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the late 1950s or early 1960s",4,0
+../data/test/photo/IMP-1961-09-08-a-i0166.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a portrait of a man.<|endofchunk|>",4,0
+../data/test/photo/IMP-2016-03-02-a-i0381.jpg,<image>The type of this image is,photo,The type of this image is a car mirror with a woman looking at herself in the mirror.<|endofchunk|>,4,0
+../data/test/photo/IMP-1982-06-11-a-i0227.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a view of the tower from the south-west.",4,0
+../data/test/photo/IMP-1914-04-14-a-i0002.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a portrait of Queen Victoria (1819-1901",4,0
+../data/test/photo/JDG-1990-05-08-a-i0116.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1970s. It shows the",4,0
+../data/test/photo/EXP-1988-06-27-a-i0026.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the Isle of Man TT.<|endofchunk|>",4,0
+../data/test/photo/EXP-1975-11-27-a-i0296.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be the type used in the early 20th century.<|endofchunk|>",4,0
+../data/test/photo/JDG-1989-11-07-a-i0090.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1970s. It shows a",4,0
+../data/test/photo/IMP-2006-03-11-a-i0243.jpg,<image>The type of this image is,photo,The type of this image is a photo of a man in a suit and tie. He is standing in front of a basketball court,4,0
+../data/test/photo/IMP-2012-06-27-a-i0062.jpg,<image>The type of this image is,photo,"The type of this image is the title of the episode, and it is a picture of a man and a woman in a laboratory",4,0
+../data/test/photo/EXP-1993-11-12-a-i0261.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the 1980s or early 1990s. It shows",4,0
+../data/test/photo/JDG-1937-11-19-a-i0106.jpg,<image>The type of this image is,photo,The type of this image is the type of fur coat worn by a woman in the early 20th century.<|endofchunk|>,4,0
+../data/test/photo/LCE-1969-07-09-a-i0083.jpg,<image>The type of this image is,photo,The type of this image is known as a bridge under construction.<|endofchunk|>,4,0
+../data/test/photo/IMP-1945-05-09-a-i0006.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a portrait of a soldier.<|endofchunk|>",4,0
+../data/test/photo/IMP-1943-06-05-a-i0002.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in 1915.<|endofchunk|>",4,0
+../data/test/photo/JDG-1943-09-20-a-i0023.jpg,<image>The type of this image is,photo,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/photo/EXP-1962-02-01-a-i0167.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a building in the town of Bremen, Germany",4,0
+../data/test/photo/JDG-1945-04-11-a-i0005.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photo of a meeting between Hitler and a group of",4,0
+../data/test/photo/EXP-2005-01-21-a-i0307.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a man and a woman sitting on a bench. The woman is wearing,4,0
+../data/test/photo/IMP-1960-07-16-a-i0064.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a giraffe.<|endofchunk|>",4,0
+../data/test/photo/EXP-1925-02-14-a-i0084.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a de Havilland DH.82 Dragon Rapide",4,0
+../data/test/photo/EXP-1996-09-14-a-i0295.jpg,<image>The type of this image is,photo,The type of this image is: Old woman in snow<|endofchunk|>,4,0
+../data/test/photo/LCE-1970-06-23-a-i0095.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a Jaguar XK120.<|endofchunk|>",4,0
+../data/test/photo/EXP-2014-01-10-a-i0101_2.jpg,<image>The type of this image is,photo,"The type of this image is the title of this image: Dubai, United Arab Emirates, Burj Al-Arab, Palm J",4,0
+../data/test/photo/EXP-1936-12-25-a-i0104.jpg,<image>The type of this image is,photo,The type of this image is known as a 'bomb hole' - a hole in the ground caused by the explosion of a,4,0
+../data/test/photo/EXP-1938-12-12-a-i0119.jpg,<image>The type of this image is,photo,The type of this image is known as a'shed roof'<|endofchunk|>,4,0
+../data/test/photo/LCE-1974-11-05-a-i0010.jpg,<image>The type of this image is,photo,The type of this image is a basketball game.<|endofchunk|>,4,0
+../data/test/photo/IMP-2015-06-29-a-i0115.jpg,<image>The type of this image is,photo,The type of this image is a photo of a burning tent.<|endofchunk|>,4,0
+../data/test/photo/IMP-1946-05-06-a-i0008.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a group of people standing in front of a line of luggage",4,0
+../data/test/photo/EXP-2007-06-21-a-i0331.jpg,<image>The type of this image is,photo,"The type of this image is called 'Tall Trees' and was taken in the Everglades National Park, Florida.",4,0
+../data/test/photo/EXP-1950-03-31-a-i0008.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photograph of General Sir Bernard Freyberg (right",4,0
+../data/test/photo/IMP-1958-10-24-a-i0187.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a captured German tank.<|endofchunk|>",4,0
+../data/test/photo/EXP-1978-11-11-a-i0510.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of a man and a woman. The woman",4,0
+../data/test/photo/EXP-1957-02-04-a-i0014.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken at the time of the coronation of King",4,0
+../data/test/photo/IMP-1967-04-21-a-i0279.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1950s. It shows the",4,0
+../data/test/photo/EXP-1940-07-24-a-i0012.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a group of men standing in front of a building. The men are,4,0
+../data/test/photo/JDG-1945-02-16-a-i0075.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a publicity still from the film.<|endofchunk|>",4,0
+../data/test/photo/IMP-1928-07-27-a-i0003.jpg,<image>The type of this image is,photo,The type of this image is based on a photograph of a man in a military uniform. The man in the image is wearing a,4,0
+../data/test/photo/EXP-1987-06-09-a-i0138.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from a concert at the Royal Albert Hall, London,",4,0
+../data/test/photo/IMP-2002-06-13-a-i0314.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the aftermath of the massacre.<|endofchunk|>",4,0
+../data/test/photo/IMP-1956-01-23-a-i0034.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken during the Jallianwala Bagh",4,0
+../data/test/photo/IMP-1939-04-29-a-i0002.jpg,<image>The type of this image is,photo,The type of this image is a swimsuit.<|endofchunk|>,4,0
+../data/test/photo/GDL-1951-03-09-a-i0008.jpg,<image>The type of this image is,photo,The type of this image is based on a portrait of a soldier.<|endofchunk|>,4,0
+../data/test/photo/EXP-2006-08-03-a-i0195.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image with a watermark still on it to sign up for",4,0
+../data/test/photo/EXP-2003-04-09-a-i0164.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can click here to see a similar one<|endofchunk|>",4,0
+../data/test/photo/IMP-1998-07-13-a-i0062.jpg,<image>The type of this image is,photo,The type of this image is: La Poste<|endofchunk|>,4,0
+../data/test/photo/IMP-1936-03-10-a-i0003.jpg,<image>The type of this image is,photo,The type of this image is known as a 'carte de visite' or 'CDV' - a photograph of a,4,0
+../data/test/photo/JDG-1941-10-29-a-i0004.jpg,<image>The type of this image is,photo,The type of this image is known as a stereograph.<|endofchunk|>,4,0
+../data/test/photo/EXP-1941-04-19-a-i0003.jpg,<image>The type of this image is,photo,The type of this image is known as a Panoramic View. It was taken from the waterfront of the Greek port of,4,0
+../data/test/photo/IMP-1936-05-11-a-i0011.jpg,<image>The type of this image is,photo,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/photo/EXP-2004-11-29-a-i0091.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be Sister Helen Prejean.<|endofchunk|>",4,0
+../data/test/photo/GDL-1985-09-04-a-i0027.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of a man in a suit and tie.",4,0
+../data/test/photo/GDL-1927-10-20-a-i0005.jpg,<image>The type of this image is,photo,The type of this image is: Newspaper clipping<|endofchunk|>,4,0
+../data/test/photo/IMP-2005-05-30-a-i0078.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a woman wearing a traditional Bavarian costume.<|endofchunk|>,4,0
+../data/test/photo/IMP-1964-09-14-a-i0232.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a horse-drawn carriage.<|endofchunk|>",4,0
+../data/test/photo/IMP-1938-02-02-a-i0008.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a nurse.<|endofchunk|>",4,0
+../data/test/photo/IMP-2016-04-07-a-i0034.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can click here to view a similar one<|endofchunk|>",4,0
+../data/test/photo/GDL-1925-12-14-a-i0044.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photograph of a sledding hill.<|endofchunk|>",4,0
+../data/test/photo/EXP-1956-04-06-a-i0012.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of the wreckage of a passenger train.",4,0
+../data/test/photo/EXP-2016-03-22-a-i0009.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can click for a bigger picture!<|endofchunk|>",4,0
+../data/test/photo/EXP-2011-06-01-a-i0189.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photo of the former head of the Central Bank of",4,0
+../data/test/photo/IMP-2001-08-24-a-i0185.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to have been taken in the late 1950s or early 1960s",4,0
+../data/test/photo/EXP-2007-09-04-a-i0328.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this photo as your background or screen saver<|endofchunk|>",4,0
+../data/test/photo/IMP-1913-01-18-a-i0043.jpg,<image>The type of this image is,photo,The type of this image is: Newspaper clipping<|endofchunk|>,4,0
+../data/test/photo/IMP-1948-10-02-a-i0104.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of the United States delegation to the United Nations",4,0
+../data/test/photo/EXP-1968-07-02-a-i0132.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a farmstead with hay bales in the foreground and a",4,0
+../data/test/photo/IMP-1944-08-08-a-i0008.jpg,<image>The type of this image is,photo,The type of this image is known as a'saddlebred' horse.<|endofchunk|>,4,0
+../data/test/photo/EXP-1988-05-07-a-i0236.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photo of the first generation of the Toshib",4,0
+../data/test/photo/LCE-1969-01-09-a-i0002.jpg,<image>The type of this image is,photo,The type of this image is called a'silhouette'<|endofchunk|>,4,0
+../data/test/photo/IMP-1943-02-06-a-i0003_3.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to have been taken in the late 1920s or early 1930s",4,0
+../data/test/photo/IMP-2002-11-08-a-i0065.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1990s. It shows a",4,0
+../data/test/photo/EXP-2007-12-27-a-i0146.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image with the following credits: football, football player, football",4,0
+../data/test/photo/EXP-2003-10-16-a-i0129.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a woman lying on a bed with a gun in her hand.<|endofchunk|>,4,0
+../data/test/photo/GDL-1993-03-13-a-i0130.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a Formula One driver in the cockpit of a car<|endofchunk|>,4,0
+../data/test/photo/EXP-1928-11-07-a-i0065.jpg,<image>The type of this image is,photo,The type of this image is known as a postcard.<|endofchunk|>,4,0
+../data/test/photo/EXP-2009-06-27-a-i0182.jpg,<image>The type of this image is,photo,The type of this image is: Roger Federer<|endofchunk|>,4,0
+../data/test/photo/IMP-1965-12-30-a-i0057.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a man in a suit standing at a podium. He is wearing a,4,0
+../data/test/photo/EXP-1965-12-16-a-i0130.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken during the Great Flood of 1927.<|endofchunk|>",4,0
+../data/test/photo/IMP-1926-12-28-a-i0009.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be from the 1920s or early 1930s. It is",4,0
+../data/test/photo/IMP-1969-10-08-a-i0121.jpg,<image>The type of this image is,photo,The type of this image is called 'Abstract Composition'<|endofchunk|>,4,0
+../data/test/photo/LCE-1988-01-12-a-i0057.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be the logo for the Olympic Games in Los Angeles in 1932.",4,0
+../data/test/photo/EXP-2012-06-13-a-i0167.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can click on this link to see a similar one<|endofchunk|>",4,0
+../data/test/photo/IMP-1968-02-01-a-i0304.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a Porsche 356.<|endofchunk|>",4,0
+../data/test/photo/IMP-2008-02-13-a-i0283.jpg,<image>The type of this image is,photo,The type of this image is a picture of a robot in a hospital operating room.<|endofchunk|>,4,0
+../data/test/photo/EXP-1972-07-26-a-i0286.jpg,<image>The type of this image is,photo,The type of this image is a portrait of a young woman. She is wearing a black dress and has her hair in a bun,4,0
+../data/test/photo/EXP-1962-08-21-a-i0108.jpg,<image>The type of this image is,photo,The type of this image is known as a 'Superbike'<|endofchunk|>,4,0
+../data/test/photo/EXP-2000-01-31-a-i0255.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a publicity shot for the film. It was taken in",4,0
+../data/test/photo/JDG-1975-10-18-a-i0186.jpg,<image>The type of this image is,photo,The type of this image is known as a 'champagne saucer'<|endofchunk|>,4,0
+../data/test/photo/JDG-1937-11-21-a-i0098.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photo of a garage.<|endofchunk|>",4,0
+../data/test/photo/EXP-2000-10-18-a-i0167.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a woman. She is wearing a long black dress and has her hair,4,0
+../data/test/photo/EXP-1988-08-20-a-i0138.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a newspaper clipping of a group of elderly people sitting",4,0
+../data/test/photo/JDG-1969-07-12-a-i0114.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to have been taken in the late 1960s or early 1970s",4,0
+../data/test/photo/EXP-2002-02-14-a-i0206.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a photo of a woman and a man in a library.",4,0
+../data/test/photo/IMP-1941-08-29-a-i0071.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be from the 1920s or 1930s.<|endofchunk|>",4,0
+../data/test/photo/EXP-1940-11-05-a-i0011.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a bust of Jefferson Davis, the President of the Confederate States",4,0
+../data/test/photo/IMP-2004-06-19-a-i0149.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken at the set of the film 'The Tal",4,0
+../data/test/photo/EXP-1912-07-13-a-i0109.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the early 1900s.<|endofchunk|>",4,0
+../data/test/photo/GDL-1991-06-01-a-i0197.jpg,<image>The type of this image is,photo,The type of this image is: Black and white photograph of a group of children digging a hole in the ground.<|endofchunk|>,4,0
+../data/test/photo/EXP-1989-06-08-a-i0011.jpg,<image>The type of this image is,photo,The type of this image is a Bell UH-1 Iroquois.<|endofchunk|>,4,0
+../data/test/photo/IMP-1977-11-07-a-i0242.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the 1920s or 1930s. It shows a",4,0
+../data/test/photo/EXP-1969-10-17-a-i0065.jpg,<image>The type of this image is,photo,The type of this image is known as a 'farm boy' or 'farm girl'<|endofchunk|>,4,0
+../data/test/photo/IMP-1944-09-14-a-i0067.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be the wreckage of a Douglas C-47 Skyt",4,0
+../data/test/photo/EXP-1990-11-24-a-i0086.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a woman sitting on the floor with her legs crossed and a man sitting,4,0
+../data/test/photo/GDL-1935-05-12-a-i0074.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken during the Second World War. It shows the",4,0
+../data/test/photo/IMP-1993-07-05-a-i0166.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a group of children playing with boxes.<|endofchunk|>",4,0
+../data/test/photo/EXP-2010-05-04-a-i0036.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can click here to view a similar one<|endofchunk|>",4,0
+../data/test/photo/JDG-1984-01-16-a-i0145.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a man wearing a black cap and a black jacket. He is standing,4,0
+../data/test/photo/EXP-2002-11-14-a-i0041.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a stage set for a performance.<|endofchunk|>",4,0
+../data/test/photo/IMP-2013-01-24-a-i0107.jpg,<image>The type of this image is,photo,"The type of this image is the title of the article, and the author is the author of the article.  The title of",4,0
+../data/test/photo/GDL-1934-07-16-a-i0002.jpg,<image>The type of this image is,photo,The type of this image is known as a negative<|endofchunk|>,4,0
+../data/test/photo/LCE-1978-10-27-a-i0067.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1980s. It shows a",4,0
+../data/test/photo/EXP-2017-04-22-a-i0197.jpg,<image>The type of this image is,photo,The type of this image is: Volleyball<|endofchunk|>,4,0
+../data/test/photo/IMP-1945-07-28-a-i0096.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photograph of a group of officers of the Italian Army",4,0
+../data/test/photo/EXP-1987-01-03-a-i0205.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the 1970s. It shows a man",4,0
+../data/test/photo/EXP-1970-06-20-a-i0575.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a man in a suit and tie. He is looking at the camera,4,0
+../data/test/photo/EXP-1936-07-17-a-i0002.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a group of boys marching in a parade.<|endofchunk|>",4,0
+../data/test/photo/IMP-1953-12-23-a-i0123.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be from the 1930s or 1940s. It shows a",4,0
+../data/test/photo/IMP-1940-06-22-a-i0008.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a portrait of Fidel Castro.<|endofchunk|>",4,0
+../data/test/photo/IMP-1946-09-13-a-i0004.jpg,<image>The type of this image is,photo,"The type of this image is a black and white photograph of the President of the United States of America, John F. Kennedy,",4,0
+../data/test/photo/IMP-1952-08-07-a-i0004.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a view of the lake from the summit of Mt.",4,0
+../data/test/photo/IMP-1983-10-28-a-i0354.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a window in a house.<|endofchunk|>",4,0
+../data/test/photo/JDG-1990-02-23-a-i0168.jpg,<image>The type of this image is,photo,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/photo/IMP-1932-09-19-a-i0005.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of Queen Elizabeth II and the Duke of Edinburgh",4,0
+../data/test/photo/IMP-2013-01-05-a-i0213.jpg,<image>The type of this image is,photo,The type of this image is a close-up of a waitress in a restaurant.<|endofchunk|>,4,0
+../data/test/photo/GDL-1939-10-30-a-i0044.jpg,<image>The type of this image is,photo,"The type of this image is not identified, but it appears to be a photo of a large cannon.<|endofchunk|>",4,0
+../data/test/photo/IMP-2009-12-01-a-i0072.jpg,<image>The type of this image is,photo,The type of this image is: Santa Claus<|endofchunk|>,4,0
+../data/test/photo/EXP-1913-09-17-a-i0084_2.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of the Duke of York (later King George",4,0
+../data/test/photo/GDL-1980-05-08-a-i0114.jpg,<image>The type of this image is,photo,The type of this image is known as a 'flicker' or 'flickering' image. This is because the,4,0
+../data/test/photo/EXP-1928-01-09-a-i0056.jpg,<image>The type of this image is,photo,The type of this image is: Portrait of a man.<|endofchunk|>,4,0
+../data/test/photo/IMP-1968-08-09-a-i0158.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a hospital building.<|endofchunk|>",4,0
+../data/test/photo/IMP-2011-11-08-a-i0030.jpg,<image>The type of this image is,photo,"The type of this image is a rainbow over the city of Zürich, Switzerland.<|endofchunk|>",4,0
+../data/test/photo/EXP-1979-08-10-a-i0158.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the 1950s.<|endofchunk|>",4,0
+../data/test/photo/EXP-1928-03-06-a-i0061.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of the interior of St. Peter's Church",4,0
+../data/test/photo/EXP-1900-12-31-a-i0138_2.jpg,<image>The type of this image is,photo,The type of this image is called 'The Nurse'<|endofchunk|>,4,0
+../data/test/photo/EXP-2012-02-11-a-i0244.jpg,<image>The type of this image is,photo,"The type of this image is the title of the episode, and the image is a close-up of a man and a woman",4,0
+../data/test/photo/IMP-2008-03-18-a-i0121.jpg,<image>The type of this image is,photo,The type of this image is a photo of a man in a white shirt with a bow tie.<|endofchunk|>,4,0
+../data/test/photo/IMP-1917-02-20-a-i0007.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a German officer giving a salute to a British officer",4,0
+../data/test/photo/IMP-2014-03-27-a-i0062.jpg,<image>The type of this image is,photo,The type of this image is: Hip Hop<|endofchunk|>,4,0
+../data/test/photo/EXP-1994-08-23-a-i0129.jpg,<image>The type of this image is,photo,The type of this image is a black and white portrait of a middle-aged man. He is wearing a grey suit and a,4,0
+../data/test/photo/EXP-1971-09-15-a-i0392.jpg,<image>The type of this image is,photo,The type of this image is known as a'sabre-toothed tiger' or'sabre-to,4,0
+../data/test/photo/IMP-1927-03-07-a-i0026.jpg,<image>The type of this image is,photo,The type of this image is known as a lithograph.<|endofchunk|>,4,0
+../data/test/photo/IMP-2015-08-22-a-i0196.jpg,<image>The type of this image is,photo,The type of this image is the title of the article. It is a photo of a woman and a man playing with balloons.,4,0
+../data/test/photo/EXP-1970-05-26-a-i0397.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1970s. It shows the",4,0
+../data/test/photo/EXP-2015-04-24-a-i0167.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in Dhaka, the capital of Bangladesh.",4,0
+../data/test/photo/IMP-2014-01-29-a-i0191.jpg,<image>The type of this image is,photo,The type of this image is a photo of a ice hockey player.<|endofchunk|>,4,0
+../data/test/photo/EXP-1913-11-21-a-i0082.jpg,<image>The type of this image is,photo,The type of this image is known as a 'railway accident'<|endofchunk|>,4,0
+../data/test/photo/EXP-1915-11-19-a-i0077.jpg,<image>The type of this image is,photo,The type of this image is known as a'steamer'<|endofchunk|>,4,0
+../data/test/photo/IMP-1948-06-24-a-i0036.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to have been taken in the late 1950s or early 1960s",4,0
+../data/test/photo/GDL-1985-05-04-a-i0023.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a woman typing on a computer.<|endofchunk|>",4,0
+../data/test/photo/IMP-1960-07-25-a-i0010.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a publicity still from a film.<|endofchunk|>",4,0
+../data/test/photo/JDG-1937-10-07-a-i0003.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photo of the Royal Air Force's first Spit",4,0
+../data/test/photo/GDL-1966-07-28-a-i0169.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a bride in a wedding dress<|endofchunk|>,4,0
+../data/test/photo/IMP-1992-10-17-a-i0264.jpg,<image>The type of this image is,photo,The type of this image is known as a 'double exposure'<|endofchunk|>,4,0
+../data/test/photo/IMP-1941-09-09-a-i0010.jpg,<image>The type of this image is,photo,The type of this image is known as a stereograph.<|endofchunk|>,4,0
+../data/test/photo/EXP-1938-03-31-a-i0087.jpg,<image>The type of this image is,photo,The type of this image is known as a 'puppet'<|endofchunk|>,4,0
+../data/test/photo/IMP-1923-05-14-a-i0034.jpg,<image>The type of this image is,photo,The type of this image is known as a boxing match.<|endofchunk|>,4,0
+../data/test/photo/IMP-1963-07-24-a-i0171.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a man and woman standing in front of a group of people. The,4,0
+../data/test/photo/IMP-1966-10-07-a-i0138.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a football match. There is a player in the centre of the picture,4,0
+../data/test/photo/IMP-1974-11-11-a-i0066.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be from the 1960s or early 1970s. It is",4,0
+../data/test/photo/IMP-2004-02-19-a-i0002.jpg,<image>The type of this image is,photo,The type of this image is a black and white image of children sitting on a stage.<|endofchunk|>,4,0
+../data/test/photo/EXP-1987-03-11-a-i0009.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to have been taken in the early 1970s. It shows a",4,0
+../data/test/photo/IMP-1934-12-26-a-i0010.jpg,<image>The type of this image is,photo,The type of this image is known as a 'battledress' or 'battledress-type' uniform.,4,0
+../data/test/photo/JDG-1978-12-19-a-i0056.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be the signing of the Treaty of Peace and Friendship between",4,0
+../data/test/photo/EXP-1993-11-05-a-i0131.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of Joan Baez<|endofchunk|>,4,0
+../data/test/photo/EXP-2002-04-06-a-i0048.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a record store.<|endofchunk|>",4,0
+../data/test/photo/IMP-2010-01-26-a-i0273.jpg,<image>The type of this image is,photo,The type of this image is a portrait of a woman with short brown hair. She is wearing glasses and a white shirt. She,4,0
+../data/test/photo/JDG-1986-08-16-a-i0178.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the demolition of the old Grandstand at the",4,0
+../data/test/photo/GDL-1982-03-17-a-i0121.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a man in a suit and tie. He is standing in front of,4,0
+../data/test/photo/IMP-2012-05-18-a-i0083.jpg,<image>The type of this image is,photo,The type of this image is Renault Laguna.<|endofchunk|>,4,0
+../data/test/photo/IMP-1966-12-10-a-i0326.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of the signing of the agreement between the United",4,0
+../data/test/photo/JDG-1958-01-11-a-i0079.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be of Jawaharlal Nehru and his",4,0
+../data/test/photo/IMP-2015-06-23-a-i0053.jpg,<image>The type of this image is,photo,The type of this image is: 'Mother and Babies'. The title of this image is: 'Mother and Babies'.,4,0
+../data/test/photo/IMP-1949-07-18-a-i0007.jpg,<image>The type of this image is,photo,The type of this image is known as a fresco.<|endofchunk|>,4,0
+../data/test/photo/JDG-1982-04-21-a-i0076.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to have been taken in the 1930s.<|endofchunk|>",4,0
+../data/test/photo/IMP-2001-08-15-a-i0127.jpg,<image>The type of this image is,photo,The type of this image is known as an 'anti-terrorist' image. It shows a tank in front of a mosque,4,0
+../data/test/photo/LCE-1982-12-14-a-i0038.jpg,<image>The type of this image is,photo,"The type of this image is a black and white photo of a man wearing a black jacket, a white shirt, and black pants",4,0
+../data/test/photo/EXP-1961-06-08-a-i0104.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken at the Le Mans 24 hour race in 1967",4,0
+../data/test/photo/IMP-1949-03-03-a-i0063.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photograph of a parade in France during the First World",4,0
+../data/test/photo/IMP-1966-12-26-a-i0116.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a match report from a match played in Malmö",4,0
+../data/test/photo/IMP-2000-05-29-a-i0059.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a young girl standing in front of a market stall. She is wearing,4,0
+../data/test/photo/IMP-2016-08-05-a-i0071.jpg,<image>The type of this image is,photo,The type of this image is a photo of a woman taking a photo with a mobile phone.<|endofchunk|>,4,0
+../data/test/photo/EXP-2002-11-11-a-i0237.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image in your articles. The image can be downloaded here.",4,0
+../data/test/photo/IMP-1949-04-14-a-i0055.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of the funeral of the Duke and Duchess of",4,0
+../data/test/photo/EXP-2016-01-22-a-i0238.jpg,<image>The type of this image is,photo,The type of this image is a still from a movie. It shows a man sitting in a car. He is wearing a suit,4,0
+../data/test/photo/JDG-1979-11-20-a-i0091.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1980s. It shows a",4,0
+../data/test/photo/EXP-1948-12-08-a-i0100.jpg,<image>The type of this image is,photo,The type of this image is a photograph of a map.<|endofchunk|>,4,0
+../data/test/photo/EXP-1987-08-13-a-i0007.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely that it is a photograph of the late Dr. John A.",4,0
+../data/test/photo/EXP-1963-12-18-a-i0160.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1970s. It shows the",4,0
+../data/test/photo/IMP-2001-10-11-a-i0283.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a fireplace.<|endofchunk|>",4,0
+../data/test/photo/LCE-1969-11-08-a-i0113.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a Soviet-made diesel-electric locomotive.<|endofchunk|>",4,0
+../data/test/photo/EXP-1932-03-16-a-i0064.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of the first meeting of the Labour Party in",4,0
+../data/test/photo/IMP-1986-09-08-a-i0222.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a prototype of the type of tram that was built for",4,0
+../data/test/photo/GDL-1965-11-27-a-i0316.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken at the time of the crash.<|endofchunk|>",4,0
+../data/test/photo/IMP-1941-06-23-a-i0009.jpg,<image>The type of this image is,photo,The type of this image is known as a 'battlefield' photograph.<|endofchunk|>,4,0
+../data/test/photo/EXP-2016-04-04-a-i0128.jpg,<image>The type of this image is,photo,"The type of this image is not available, but the building is a water tower.<|endofchunk|>",4,0
+../data/test/photo/EXP-1938-06-07-a-i0066.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be the Swiss team at the 1930 FIFA World Cup in U",4,0
+../data/test/photo/IMP-2004-09-04-a-i0354.jpg,<image>The type of this image is,photo,The type of this image is known as a'silhouette'<|endofchunk|>,4,0
+../data/test/photo/GDL-1958-02-01-a-i0009.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a portrait of the artist.<|endofchunk|>",4,0
+../data/test/photo/EXP-2017-05-03-a-i0038.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can find more similar images in our Hairdressing category.<|endofchunk|>",4,0
+../data/test/photo/IMP-1999-05-27-a-i0288.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of a child wearing sunglasses.<|endofchunk|>",4,0
+../data/test/photo/IMP-1962-03-23-a-i0300.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1940s. It shows a",4,0
+../data/test/photo/IMP-1999-12-31-a-i0037.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a snowboarder.<|endofchunk|>",4,0
+../data/test/photo/LCE-1943-07-12-a-i0010.jpg,<image>The type of this image is,photo,The type of this image is the type specimen of this species.<|endofchunk|>,4,0
+../data/test/photo/EXP-1982-07-29-a-i0138.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the early 1980s. It shows a goalkeeper",4,0
+../data/test/photo/JDG-1979-10-17-a-i0143.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a man's head and shoulders. He is wearing a suit and tie,4,0
+../data/test/photo/IMP-1996-09-21-a-i0207.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a portrait of the couple.<|endofchunk|>",4,0
+../data/test/photo/EXP-1988-12-22-a-i0069.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a replica of a statue of the Hindu god Shiva",4,0
+../data/test/photo/EXP-2002-11-01-a-i0192.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a man wearing a black suit and a white shirt. He is smiling,4,0
+../data/test/photo/IMP-2006-10-05-a-i0259.jpg,<image>The type of this image is,photo,The type of this image is a close-up of a man and a woman in a restaurant. The man is wearing a black,4,0
+../data/test/photo/IMP-1974-11-29-a-i0092.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photograph of a railway viaduct.<|endofchunk|>",4,0
+../data/test/photo/GDL-1984-06-26-a-i0081.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken during the 1982 World Cup in Spain.<|endofchunk|>",4,0
+../data/test/photo/EXP-1926-08-11-a-i0064.jpg,<image>The type of this image is,photo,The type of this image is known as a Bicycle Postcard.<|endofchunk|>,4,0
+../data/test/photo/EXP-1991-06-10-a-i0093.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the early 1980s.<|endofchunk|>",4,0
+../data/test/photo/EXP-1989-12-22-a-i0227.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a hockey player in action. The player is wearing a black and white,4,0
+../data/test/photo/EXP-1914-06-02-a-i0100.jpg,<image>The type of this image is,photo,The type of this image is based on a drawing of the Titanic.<|endofchunk|>,4,0
+../data/test/photo/EXP-1979-10-23-a-i0132.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a group of men working on a fence.<|endofchunk|>",4,0
+../data/test/photo/EXP-1970-05-26-a-i0220.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a building in the city of Zürich, Switzerland",4,0
+../data/test/photo/LCE-1909-06-23-a-i0020.jpg,<image>The type of this image is,photo,The type of this image is: Newspaper Clipping<|endofchunk|>,4,0
+../data/test/photo/EXP-2008-06-21-a-i0182.jpg,<image>The type of this image is,photo,The type of this image is: Cristiano Ronaldo<|endofchunk|>,4,0
+../data/test/photo/EXP-1975-09-10-a-i0205.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the late 1980s. The player is",4,0
+../data/test/photo/IMP-1978-09-23-a-i0009.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of a parade.<|endofchunk|>",4,0
+../data/test/photo/IMP-2008-11-18-a-i0067.jpg,<image>The type of this image is,photo,"The type of this image is: Food & Drink, Food & Drink, Food & Drink, Food & Drink",4,0
+../data/test/photo/IMP-1984-09-11-a-i0275.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken at the time of the assassination of President John",4,0
+../data/test/photo/IMP-1938-03-17-a-i0003.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a photograph of two men. The man on the left is",4,0
+../data/test/photo/EXP-2001-03-16-a-i0237.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be from the 1990-91 season.<|endofchunk|>",4,0
+../data/test/photo/EXP-1934-09-17-a-i0013.jpg,<image>The type of this image is,photo,The type of this image is known as a 'trestle bridge'<|endofchunk|>,4,0
+../data/test/photo/IMP-2017-12-23-a-i0248.jpg,<image>The type of this image is,photo,The type of this image is a picture of a man wearing a top hat and a red jacket. He is standing in front of,4,0
+../data/test/photo/IMP-2017-07-05-a-i0077.jpg,<image>The type of this image is,photo,The type of this image is: Portrait of a woman with long hair<|endofchunk|>,4,0
+../data/test/photo/JDG-1928-05-27-a-i0061.jpg,<image>The type of this image is,photo,The type of this image is called a woodcut.<|endofchunk|>,4,0
+../data/test/photo/IMP-1993-05-08-a-i0276.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a man wearing a checkered shirt and holding a glass of water,4,0
+../data/test/photo/IMP-1966-07-23-a-i0027.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a family camping in the mountains.<|endofchunk|>",4,0
+../data/test/photo/IMP-2003-01-17-a-i0027.jpg,<image>The type of this image is,photo,The type of this image is a close-up of a man's face. He is wearing a dark suit and a dark tie,4,0
+../data/test/photo/EXP-1968-12-12-a-i0341.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photograph of a racing driver.<|endofchunk|>",4,0
+../data/test/photo/IMP-1960-06-16-a-i0011.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a publicity still from the film 'The Devil's Disc",4,0
+../data/test/photo/LCE-1970-03-16-a-i0098.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a photograph of a man wearing glasses and smoking a cigarette.",4,0
+../data/test/photo/EXP-1930-06-03-a-i0004.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a British Railways (BR) 4-4-",4,0
+../data/test/photo/EXP-2007-08-03-a-i0293.jpg,<image>The type of this image is,photo,The type of this image is not available<|endofchunk|>,4,0
+../data/test/photo/JDG-1974-05-18-a-i0221.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from a production of 'The Rivals' at the",4,0
+../data/test/photo/EXP-2016-09-17-a-i0140.jpg,<image>The type of this image is,photo,The type of this image is: Indicateurs<|endofchunk|>,4,0
+../data/test/photo/EXP-1954-02-16-a-i0010.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a hockey game.<|endofchunk|>",4,0
+../data/test/photo/IMP-1914-05-30-a-i0005.jpg,<image>The type of this image is,photo,The type of this image is a portrait of a woman.<|endofchunk|>,4,0
+../data/test/photo/IMP-1943-02-06-a-i0003_2.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a Panzer IV.<|endofchunk|>",4,0
+../data/test/photo/IMP-1956-04-24-a-i0007.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be the aftermath of a house fire.<|endofchunk|>",4,0
+../data/test/photo/EXP-2004-11-04-a-i0200.jpg,<image>The type of this image is,photo,"The type of this image is not available, but the image is used here under a CC BY-NC-ND 2.0",4,0
+../data/test/photo/EXP-1998-10-09-a-i0256.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a man wearing a racing suit and glasses. He is standing on a,4,0
+../data/test/photo/EXP-1964-05-26-a-i0222.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a re-enactment of the Battle of Hastings",4,0
+../data/test/photo/IMP-2013-04-30-a-i0141.jpg,<image>The type of this image is,photo,The type of this image is: French<|endofchunk|>,4,0
+../data/test/photo/EXP-1937-02-20-a-i0144.jpg,<image>The type of this image is,photo,The type of this image is known as a poster.<|endofchunk|>,4,0
+../data/test/photo/EXP-2001-10-30-a-i0026.jpg,<image>The type of this image is,photo,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/photo/IMP-1940-02-08-a-i0008.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of a man and a woman. The woman",4,0
+../data/test/photo/IMP-1926-08-25-a-i0008.jpg,<image>The type of this image is,photo,The type of this image is known as a stereograph.<|endofchunk|>,4,0
+../data/test/photo/IMP-2016-04-04-a-i0034.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image in your articles. Click on the images to see the",4,0
+../data/test/photo/IMP-1938-12-15-a-i0014.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be from the 1930s or 1940s.<|endofchunk|>",4,0
+../data/test/photo/EXP-1996-09-10-a-i0259.jpg,<image>The type of this image is,photo,The type of this image is: Steve Jobs<|endofchunk|>,4,0
+../data/test/photo/IMP-1929-08-23-a-i0002.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 20th century. It shows",4,0
+../data/test/photo/LCE-1956-11-16-a-i0030.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a portrait of a track and field athlete.<|endofchunk|>",4,0
+../data/test/photo/IMP-1965-04-20-a-i0007.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the 1970 World Cup<|endofchunk|>",4,0
+../data/test/photo/IMP-1940-08-06-a-i0014.jpg,<image>The type of this image is,photo,The type of this image is a portrait of a man.<|endofchunk|>,4,0
+../data/test/photo/EXP-1989-07-29-a-i0029.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1990s. It shows a",4,0
+../data/test/photo/IMP-1958-01-03-a-i0117.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a view of the city of Lima, Peru,",4,0
+../data/test/photo/EXP-1930-08-27-a-i0004.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a group of men standing in front of a flag.<|endofchunk|>",4,0
+../data/test/photo/IMP-1972-11-23-a-i0328.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photograph of a man and a woman on skis",4,0
+../data/test/photo/IMP-1985-11-11-a-i0143.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a portrait of the late John Lennon.<|endofchunk|>",4,0
+../data/test/photo/GDL-1995-11-18-a-i0107.jpg,<image>The type of this image is,photo,The type of this image is: 'Genève'<|endofchunk|>,4,0
+../data/test/photo/EXP-1937-04-29-a-i0053.jpg,<image>The type of this image is,photo,The type of this image is known as a'moonlight' photograph.<|endofchunk|>,4,0
+../data/test/photo/IMP-1940-02-21-a-i0005.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a group of British soldiers in winter dress.<|endofchunk|>",4,0
+../data/test/photo/EXP-1946-03-15-a-i0147.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photo of a German army train.<|endofchunk|>",4,0
+../data/test/photo/IMP-1968-08-23-a-i0248.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a rugby match.<|endofchunk|>",4,0
+../data/test/photo/IMP-1989-08-16-a-i0106.jpg,<image>The type of this image is,photo,"The type of this image is not available. If you know what it is, please let us know!<|endofchunk|>",4,0
+../data/test/photo/IMP-1959-03-13-a-i0169.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a prototype of the car.<|endofchunk|>",4,0
+../data/test/photo/IMP-2008-10-13-a-i0075.jpg,<image>The type of this image is,photo,The type of this image is: Drummer<|endofchunk|>,4,0
+../data/test/photo/EXP-1999-12-02-a-i0140.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to have been taken in the late 1970s or early 1980s",4,0
+../data/test/photo/IMP-2008-02-13-a-i0010.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image with a click on this link: http://www.",4,0
+../data/test/photo/EXP-1995-06-24-a-i0240.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a cyclist and a cyclist. The cyclist is wearing a,4,0
+../data/test/photo/EXP-1953-08-18-a-i0007.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of a woman standing in front of a tree",4,0
+../data/test/photo/EXP-1970-05-04-a-i0007.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a M113 armoured personnel carrier.<|endofchunk|>",4,0
+../data/test/photo/EXP-1935-06-11-a-i0006.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken at the Nuremberg Rally in",4,0
+../data/test/photo/EXP-1958-06-30-a-i0012.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a group of people standing in front of a plane.<|endofchunk|>,4,0
+../data/test/photo/LCE-1977-12-20-a-i0030.jpg,<image>The type of this image is,photo,The type of this image is: 'Au Beau Troubadour'<|endofchunk|>,4,0
+../data/test/photo/IMP-2008-09-16-a-i0309.jpg,<image>The type of this image is,photo,The type of this image is known as a goal-line technology (GLT) goal-line technology (GLT) is,4,0
+../data/test/photo/IMP-1930-01-08-a-i0004.jpg,<image>The type of this image is,photo,The type of this image is based on a photograph of King Edward VII.<|endofchunk|>,4,0
+../data/test/photo/EXP-2015-07-13-a-i0127.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image in your website/blog without any restrictions. Use the",4,0
+../data/test/photo/EXP-1967-04-24-a-i0127.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a photo of a man holding a picture frame.<|endofchunk|>",4,0
+../data/test/photo/EXP-1987-10-22-a-i0509.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken at the time of the crash.<|endofchunk|>",4,0
+../data/test/photo/IMP-2016-05-31-a-i0193.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image in your articles. Click the picture to go to the",4,0
+../data/test/photo/IMP-1929-08-10-a-i0004.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of a man sitting at a desk with a",4,0
+../data/test/photo/IMP-1965-04-03-a-i0361.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a man in a white shirt and a black jacket. He is standing,4,0
+../data/test/photo/GDL-1970-05-21-a-i0034.jpg,<image>The type of this image is,photo,The type of this image is called 'The Black Vase' by Pablo Picasso (1881-1973)<|endofchunk|>,4,0
+../data/test/photo/IMP-2008-06-02-a-i0067.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image in your web site or report by clicking on it.",4,0
+../data/test/photo/GDL-1979-05-08-a-i0045.jpg,<image>The type of this image is,photo,The type of this image is a newspaper clipping of a man in a suit. He is wearing glasses and has a mustache,4,0
+../data/test/photo/IMP-1948-05-05-a-i0044.jpg,<image>The type of this image is,photo,The type of this image is the type of image that was used for the cover of the first issue of Vogue magazine in the,4,0
+../data/test/photo/JDG-1995-03-30-a-i0189.jpg,<image>The type of this image is,photo,The type of this image is a black and white photo of a man and a woman standing in front of each other. The woman,4,0
+../data/test/photo/JDG-1909-11-09-a-i0050.jpg,<image>The type of this image is,photo,The type of this image is a portrait of a man wearing a top hat. He has a mustache and a moustache,4,0
+../data/test/photo/EXP-2010-07-14-a-i0108.jpg,<image>The type of this image is,photo,The type of this image is: Toy Story<|endofchunk|>,4,0
+../data/test/photo/IMP-2009-05-04-a-i0182.jpg,<image>The type of this image is,photo,The type of this image is a photo of a man in a suit and glasses. He is standing in front of a hockey r,4,0
+../data/test/photo/IMP-2002-12-28-a-i0029.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the late 1980s or early 1990s. It",4,0
+../data/test/photo/GDL-1955-07-23-a-i0002.jpg,<image>The type of this image is,photo,The type of this image is known as a postcard. It was made in the late 19th or early 20th century.,4,0
+../data/test/photo/IMP-1969-01-25-a-i0104.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be from the 1970s or early 1980s. It is",4,0
+../data/test/photo/EXP-1945-12-13-a-i0079.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a candelabra. The candelabra is made of,4,0
+../data/test/photo/EXP-2015-02-05-a-i0115.jpg,<image>The type of this image is,photo,The type of this image is: Cigarettes<|endofchunk|>,4,0
+../data/test/photo/JDG-1936-12-30-a-i0033.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be the type used by the British Army during the First World",4,0
+../data/test/photo/IMP-1931-02-18-a-i0004.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a portrait of the Duke of Wellington.<|endofchunk|>",4,0
+../data/test/photo/IMP-1935-05-23-a-i0005.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a group of African Americans carrying boxes of food.<|endofchunk|>,4,0
+../data/test/photo/EXP-2008-10-10-a-i0155.jpg,<image>The type of this image is,photo,"The type of this image is not available, but the image is from the Golf Channel.<|endofchunk|>",4,0
+../data/test/photo/EXP-2010-02-01-a-i0162.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image with a click on this link: http://www.",4,0
+../data/test/photo/JDG-1959-09-30-a-i0045.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the aftermath of the 1906 San Francisco earthquake",4,0
+../data/test/photo/EXP-1932-04-08-a-i0060.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be from a comic strip.<|endofchunk|>",4,0
+../data/test/photo/IMP-2006-06-27-a-i0272.jpg,<image>The type of this image is,photo,The type of this image is: Rain or Shine. People in raincoats and umbrellas.<|endofchunk|>,4,0
+../data/test/photo/IMP-1983-03-10-a-i0177.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a group of women sitting on the ground outside a house. They are,4,0
+../data/test/photo/IMP-2003-08-30-a-i0229.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 2000s. The player is",4,0
+../data/test/photo/LCE-1983-10-04-a-i0034.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be from the 1980s.<|endofchunk|>",4,0
+../data/test/photo/EXP-1996-11-16-a-i0042.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a photograph of a woman looking at a jewellery display",4,0
+../data/test/photo/EXP-1936-06-20-a-i0103.jpg,<image>The type of this image is,photo,The type of this image is known as a Cabinet Meeting.<|endofchunk|>,4,0
+../data/test/photo/LCE-1969-02-14-a-i0005.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a view of the castle from the south-east.",4,0
+../data/test/photo/EXP-1967-05-05-a-i0062.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1970s. It shows a",4,0
+../data/test/photo/EXP-2010-03-27-a-i0274.jpg,<image>The type of this image is,photo,The type of this image is the title of the film: The Impossible.<|endofchunk|>,4,0
+../data/test/photo/IMP-2009-03-21-a-i0313.jpg,<image>The type of this image is,photo,The type of this image is a still from the movie 'The Bourne Ultimatum' with Jeremy Renner and Rachel We,4,0
+../data/test/photo/IMP-1963-09-05-a-i0007.jpg,<image>The type of this image is,photo,The type of this image is known as an oblique aerial view.<|endofchunk|>,4,0
+../data/test/photo/IMP-1982-07-02-a-i0242.jpg,<image>The type of this image is,photo,"The type of this image is not clear, but it appears to be a photo of a man carving a sculpture of a man",4,0
+../data/test/photo/GDL-1989-04-08-a-i0200.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a photograph of a man climbing a ladder to the top",4,0
+../data/test/photo/EXP-1931-12-17-a-i0121.jpg,<image>The type of this image is,photo,The type of this image is based on a photograph of a man in a suit and hat. He is wearing a top hat and,4,0
+../data/test/photo/GDL-1982-12-02-a-i0053.jpg,<image>The type of this image is,photo,The type of this image is the X-ray machine.<|endofchunk|>,4,0
+../data/test/photo/EXP-2000-09-13-a-i0271.jpg,<image>The type of this image is,photo,The type of this image is a stamp.<|endofchunk|>,4,0
+../data/test/photo/IMP-1976-03-11-a-i0063.jpg,<image>The type of this image is,photo,"The type of this image is a black and white photo of a woman with long hair, wearing a black dress and holding a ball",4,0
+../data/test/photo/GDL-1967-01-16-a-i0140.jpg,<image>The type of this image is,photo,The type of this image is known as a propaganda photograph.<|endofchunk|>,4,0
+../data/test/photo/EXP-2007-07-26-a-i0207.jpg,<image>The type of this image is,photo,"The type of this image is not available, but the image is used here under a CC BY-NC-ND 2.0",4,0
+../data/test/photo/EXP-2014-12-16-a-i0190.jpg,<image>The type of this image is,photo,"The type of this image is not available, but you can use this image in your articles. Click here to find out more about",4,0
+../data/test/photo/EXP-1995-11-24-a-i0048.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is likely to be a photograph of the author.<|endofchunk|>",4,0
+../data/test/photo/EXP-1929-08-09-a-i0096.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to be a view of the pier at St Helier, Jersey",4,0
+../data/test/photo/JDG-1992-09-07-a-i0165.jpg,<image>The type of this image is,photo,The type of this image is a black and white photograph of a woman standing in front of a group of people. The woman is,4,0
+../data/test/photo/IMP-1915-11-10-a-i0006_2.jpg,<image>The type of this image is,photo,"The type of this image is: World War I. The caption for this image is 'The Battle of the Somme, 1916",4,0
+../data/test/photo/IMP-1973-02-06-a-i0033.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it is believed to have been taken in the early 1980s. It shows a",4,0
+../data/test/photo/EXP-1977-07-23-a-i0116.jpg,<image>The type of this image is,photo,"The type of this image is not known, but it appears to be a photograph of a woman holding a piece of wood in her",4,0
+../data/test/graph/GDL-1989-04-17-a-i0064_2.jpg,<image>The type of this image is,graph,"The type of this image is: United Kingdom, Morgan Stanley Capital International<|endofchunk|>",4,0
+../data/test/graph/EXP-1911-12-09-a-i0115.jpg,<image>The type of this image is,graph,The type of this image is:  (http://upload.wikimedia.org/wikipedia/commons/thumb/a/,4,0
+../data/test/graph/GDL-1989-04-17-a-i0064.jpg,<image>The type of this image is,graph,The type of this image is: Morgan Stanley<|endofchunk|>,4,0
+../data/test/graph/EXP-1912-02-02-a-i0108.jpg,<image>The type of this image is,graph,"The type of this image is not known.  It may be a photograph of a graph, or it may be a photograph of",4,0
+../data/test/graph/EXP-1923-03-21-a-i0095.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it is likely to be from a French newspaper of the time.<|endofchunk|>",4,0
+../data/test/graph/EXP-1913-04-28-a-i0115.jpg,<image>The type of this image is,graph,The type of this image is based on the typeface used in the original publication.<|endofchunk|>,4,0
+../data/test/graph/EXP-1903-11-30-a-i0052.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it appears to be a graph of the number of people who died from the plague",4,0
+../data/test/graph/EXP-1908-07-09-a-i0073_2.jpg,<image>The type of this image is,graph,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/graph/GDL-1996-02-01-a-i0256.jpg,<image>The type of this image is,graph,The type of this image is a line graph. It shows the price of a stock over a period of time.<|endofchunk|>,4,0
+../data/test/graph/JDG-1976-01-09-a-i0041.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it appears to be a chart of the Dow Jones Industrial Average (DJIA)",4,0
+../data/test/graph/EXP-1935-03-04-a-i0105.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it is likely to be from the French Revolution.<|endofchunk|>",4,0
+../data/test/graph/EXP-1903-12-16-a-i0044.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it is likely to have been taken at the end of World War II. The",4,0
+../data/test/graph/EXP-1921-08-31-a-i0070.jpg,<image>The type of this image is,graph,The type of this image is not known.  It may be from a newspaper or a magazine.  It may be from a,4,0
+../data/test/graph/EXP-1915-02-26-a-i0072.jpg,<image>The type of this image is,graph,The type of this image is based on the original size of the image. The original size of the image is listed in the image,4,0
+../data/test/graph/EXP-1923-08-21-a-i0071.jpg,<image>The type of this image is,graph,The type of this image is based on the typeface used.<|endofchunk|>,4,0
+../data/test/graph/GDL-1979-10-09-a-i0095.jpg,<image>The type of this image is,graph,The type of this image is: Market Value vs. Price<|endofchunk|>,4,0
+../data/test/graph/EXP-1913-11-07-a-i0100.jpg,<image>The type of this image is,graph,The type of this image is the type of this image is the type of this image is the type of this image is the type,4,0
+../data/test/graph/EXP-1912-11-26-a-i0106.jpg,<image>The type of this image is,graph,The type of this image is the type of this image is the type of this image is the type of this image is the type,4,0
+../data/test/graph/EXP-1962-11-21-a-i0136.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it is likely to be from the 1920s or 1930s. It shows the",4,0
+../data/test/graph/IMP-1994-10-29-a-i0103.jpg,<image>The type of this image is,graph,The type of this image is: Swiss Market Index<|endofchunk|>,4,0
+../data/test/graph/EXP-1945-04-05-a-i0192.jpg,<image>The type of this image is,graph,The type of this image is based on the typeface used in the original publication.<|endofchunk|>,4,0
+../data/test/graph/EXP-1913-09-08-a-i0104.jpg,<image>The type of this image is,graph,The type of this image is not known.  It may be from a book or a magazine.  It may be from a,4,0
+../data/test/graph/EXP-1948-05-28-a-i0189.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it appears to be a graph of the temperature of a room.<|endofchunk|>",4,0
+../data/test/graph/JDG-1907-09-14-a-i0064.jpg,<image>The type of this image is,graph,"The type of this image is: 'A chart of the temperature of the air in the year 1816, from the thermometer",4,0
+../data/test/graph/EXP-1923-03-16-a-i0102.jpg,<image>The type of this image is,graph,The type of this image is based on the title of the image. The image title is in French. The image title is in,4,0
+../data/test/graph/EXP-1936-05-22-a-i0112.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it is likely to be from the period of the Second World War. It shows",4,0
+../data/test/graph/JDG-1997-05-01-a-i0235.jpg,<image>The type of this image is,graph,The type of this image is a page from a French newspaper. The headline is in English and the text is in French. The,4,0
+../data/test/graph/GDL-1979-02-05-a-i0102.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it appears to be a graph of the unemployment rate in the United States.<|endofchunk|>",4,0
+../data/test/graph/EXP-1916-01-19-a-i0064.jpg,<image>The type of this image is,graph,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/graph/JDG-1908-10-10-a-i0031.jpg,<image>The type of this image is,graph,The type of this image is a line graph.<|endofchunk|>,4,0
+../data/test/graph/EXP-1920-10-02-a-i0159.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it is likely to be from the 1920s or 1930s.<|endofchunk|>",4,0
+../data/test/graph/EXP-1913-02-21-a-i0127.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it is likely to be from the 18th century.<|endofchunk|>",4,0
+../data/test/graph/EXP-1970-01-17-a-i0061.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it is likely to be the type used by the British Army in the First World",4,0
+../data/test/graph/EXP-1951-01-29-a-i0116.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it is likely to be from the 1920s or 1930s. It shows the",4,0
+../data/test/graph/EXP-1931-10-26-a-i0101_2.jpg,<image>The type of this image is,graph,"The type of this image is not known, but it is likely to be the type of chart that was used to measure the height",4,0
+../data/test/graph/EXP-1918-02-08-a-i0068.jpg,<image>The type of this image is,graph,The type of this image is based on the typeface used in the original print.<|endofchunk|>,4,0
+../data/test/drawing/JDG-1966-05-31-a-i0021.jpg,<image>The type of this image is,drawing,The type of this image is known as a Chalk Drawing.<|endofchunk|>,4,0
+../data/test/drawing/EXP-1988-07-13-a-i0007.jpg,<image>The type of this image is,drawing,The type of this image is a newspaper clipping. It is a black and white photo of a man in a suit and tie,4,0
+../data/test/drawing/IMP-1911-01-14-a-i0027.jpg,<image>The type of this image is,drawing,The type of this image is a comic strip. It shows a group of birds flying in the sky.<|endofchunk|>,4,0
+../data/test/drawing/EXP-1932-07-26-a-i0078.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it is likely to be from the 1920s or 1930s.<|endofchunk|>",4,0
+../data/test/drawing/EXP-1990-11-26-a-i0245.jpg,<image>The type of this image is,drawing,The type of this image is a portrait of a young woman.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1981-02-18-a-i0085_4.jpg,<image>The type of this image is,drawing,The type of this image is a drawing of a ship.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1906-12-16-a-i0013.jpg,<image>The type of this image is,drawing,The type of this image is a drawing of a wolf.<|endofchunk|>,4,0
+../data/test/drawing/GDL-1966-04-22-a-i0067.jpg,<image>The type of this image is,drawing,The type of this image is called 'Portrait of a Woman' and was painted by Pablo Picasso (1881-1973,4,0
+../data/test/drawing/IMP-1904-04-09-a-i0002_3.jpg,<image>The type of this image is,drawing,The type of this image is the one used by the French government to illustrate a report on the state of French prisons.<|endofchunk|>,4,0
+../data/test/drawing/EXP-1957-12-06-a-i0008.jpg,<image>The type of this image is,drawing,The type of this image is: Airships<|endofchunk|>,4,0
+../data/test/drawing/IMP-1929-10-16-a-i0005.jpg,<image>The type of this image is,drawing,The type of this image is the USS Monitor<|endofchunk|>,4,0
+../data/test/drawing/IMP-1910-05-01-a-i0094_10.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it is believed to be from the late 19th or early 20th century.",4,0
+../data/test/drawing/IMP-1923-12-21-a-i0030.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it is likely to be from the 1920s.<|endofchunk|>",4,0
+../data/test/drawing/IMP-1904-04-09-a-i0002.jpg,<image>The type of this image is,drawing,The type of this image is a wood engraving.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1913-11-22-a-i0062.jpg,<image>The type of this image is,drawing,The type of this image is a woodcut.<|endofchunk|>,4,0
+../data/test/drawing/JDG-1994-06-10-a-i0250.jpg,<image>The type of this image is,drawing,The type of this image is a stamp of the European Union.<|endofchunk|>,4,0
+../data/test/drawing/EXP-1972-07-08-a-i0361_3.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it is likely to be from a French comic book.<|endofchunk|>",4,0
+../data/test/drawing/GDL-1951-10-24-a-i0014.jpg,<image>The type of this image is,drawing,The type of this image is called 'Detective Club'<|endofchunk|>,4,0
+../data/test/drawing/LCE-1952-09-22-a-i0041_2.jpg,<image>The type of this image is,drawing,"The type of this image is a cartoon of a man in a striped t-shirt and striped pants, holding a balloon",4,0
+../data/test/drawing/IMP-1993-09-25-a-i0275.jpg,<image>The type of this image is,drawing,The type of this image is called a 'crowd' or 'crowd of people' or 'crowd of people',4,0
+../data/test/drawing/IMP-1981-02-18-a-i0085_5.jpg,<image>The type of this image is,drawing,The type of this image is called a woodcut.<|endofchunk|>,4,0
+../data/test/drawing/LCE-1919-05-03-a-i0022.jpg,<image>The type of this image is,drawing,The type of this image is known as a caricature.<|endofchunk|>,4,0
+../data/test/drawing/JDG-1958-02-15-a-i0052_2.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it is likely to have been a wood engraving.<|endofchunk|>",4,0
+../data/test/drawing/IMP-1920-03-19-a-i0002.jpg,<image>The type of this image is,drawing,"The type of this image is: The Times (London, England) Newspaper. The date of this image is: Monday,",4,0
+../data/test/drawing/IMP-1955-08-01-a-i0038.jpg,<image>The type of this image is,drawing,The type of this image is a cartoon of a woman in a hat and dress standing in front of a man in a hat and,4,0
+../data/test/drawing/IMP-1989-08-28-a-i0011.jpg,<image>The type of this image is,drawing,The type of this image is called a caricature. It is a humorous drawing of two people in a caricature,4,0
+../data/test/drawing/IMP-2001-07-17-a-i0177.jpg,<image>The type of this image is,drawing,"The type of this image is called 'The Book of Enoch' and was published in The Book of Enoch,",4,0
+../data/test/drawing/GDL-1949-09-03-a-i0216.jpg,<image>The type of this image is,drawing,The type of this image is called a 'cartoon'. It is a black and white drawing of a group of people in a,4,0
+../data/test/drawing/IMP-1915-04-08-a-i0038_2.jpg,<image>The type of this image is,drawing,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1946-02-01-a-i0084.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it appears to be a pattern for a jacket and skirt.<|endofchunk|>",4,0
+../data/test/drawing/IMP-2001-07-17-a-i0177_2.jpg,<image>The type of this image is,drawing,The type of this image is a wheel.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1955-01-31-a-i0053.jpg,<image>The type of this image is,drawing,"The type of this image is called 'Moi au soleil' and it was published in Le Petit Journal, France,",4,0
+../data/test/drawing/EXP-1906-03-31-a-i0134.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it is believed to be a drawing of the execution of the mutineers of",4,0
+../data/test/drawing/JDG-1977-06-04-a-i0219.jpg,<image>The type of this image is,drawing,The type of this image is called a 'cartoon' in French.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1981-02-18-a-i0085_13.jpg,<image>The type of this image is,drawing,The type of this image is called a'sketch' or'sketching' and it was used to illustrate a book,4,0
+../data/test/drawing/EXP-1950-01-28-a-i0233.jpg,<image>The type of this image is,drawing,"The type of this image is a drawing of a street plan of the city of Paris, France.<|endofchunk|>",4,0
+../data/test/drawing/EXP-1973-09-01-a-i0451_4.jpg,<image>The type of this image is,drawing,The type of this image is called 'The Telephone'<|endofchunk|>,4,0
+../data/test/drawing/JDG-1956-12-12-a-i0230_2.jpg,<image>The type of this image is,drawing,The type of this image is: Bearing<|endofchunk|>,4,0
+../data/test/drawing/IMP-1989-05-31-a-i0100.jpg,<image>The type of this image is,drawing,The type of this image is a drawing of a man in a suit.<|endofchunk|>,4,0
+../data/test/drawing/LCE-1901-07-31-a-i0023.jpg,<image>The type of this image is,drawing,The type of this image is based on a portrait of a woman. The woman is wearing a long-sleeved dress,4,0
+../data/test/drawing/IMP-1937-02-16-a-i0012.jpg,<image>The type of this image is,drawing,The type of this image is a cartoon of a man walking with a cane.<|endofchunk|>,4,0
+../data/test/drawing/JDG-1971-07-24-a-i0130.jpg,<image>The type of this image is,drawing,"The type of this image is called 'The Apocalypse of St. John the Baptist', and it dates from the 14th century",4,0
+../data/test/drawing/IMP-1992-02-10-a-i0160.jpg,<image>The type of this image is,drawing,The type of this image is a cartoon of a frog in a raincoat holding a raincoat. The raincoat,4,0
+../data/test/drawing/EXP-1979-08-17-a-i0337.jpg,<image>The type of this image is,drawing,"The type of this image is not clear, but it appears to be a group of women laughing.<|endofchunk|>",4,0
+../data/test/drawing/IMP-2000-09-15-a-i0197_3.jpg,<image>The type of this image is,drawing,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/drawing/EXP-1966-11-25-a-i0334.jpg,<image>The type of this image is,drawing,The type of this image is called 'The Lady of Shalott' and was published in the Illustrated London News on the,4,0
+../data/test/drawing/IMP-1925-01-09-a-i0030.jpg,<image>The type of this image is,drawing,The type of this image is the type that was used in the early 1900s.<|endofchunk|>,4,0
+../data/test/drawing/GDL-1953-05-30-a-i0173.jpg,<image>The type of this image is,drawing,The type of this image is a drawing of a nude woman lying on her back.<|endofchunk|>,4,0
+../data/test/drawing/JDG-1974-01-17-a-i0097.jpg,<image>The type of this image is,drawing,The type of this image is a cartoon of two men in a car. One is driving and the other is sitting in the back,4,0
+../data/test/drawing/LCE-1908-02-29-a-i0040.jpg,<image>The type of this image is,drawing,The type of this image is called 'The Knight of the Round Table'<|endofchunk|>,4,0
+../data/test/drawing/IMP-1936-06-23-a-i0069.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it is likely to be from the 1930s or 1940s. It shows a",4,0
+../data/test/drawing/IMP-1976-01-24-a-i0073.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it is likely to be from a French magazine from the 1960s.<|endofchunk|>",4,0
+../data/test/drawing/LCE-1992-06-12-a-i0032.jpg,<image>The type of this image is,drawing,The type of this image is called the Kufic script.<|endofchunk|>,4,0
+../data/test/drawing/EXP-1959-06-19-a-i0106_3.jpg,<image>The type of this image is,drawing,The type of this image is called 'Hammock'<|endofchunk|>,4,0
+../data/test/drawing/IMP-1951-08-20-a-i0080.jpg,<image>The type of this image is,drawing,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1984-11-06-a-i0005.jpg,<image>The type of this image is,drawing,The type of this image is called a 'cartoon'<|endofchunk|>,4,0
+../data/test/drawing/IMP-1915-05-18-a-i0007.jpg,<image>The type of this image is,drawing,The type of this image is known as the 'Battlecruiser'<|endofchunk|>,4,0
+../data/test/drawing/GDL-1959-02-03-a-i0097_2.jpg,<image>The type of this image is,drawing,The type of this image is a cartoon of two surgeons in a hospital operating room. One surgeon is wearing a surgical mask and the,4,0
+../data/test/drawing/EXP-1994-10-24-a-i0110.jpg,<image>The type of this image is,drawing,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1903-01-14-a-i0031.jpg,<image>The type of this image is,drawing,The type of this image is the one used on the front page of the New York Times for the announcement of the death of the,4,0
+../data/test/drawing/EXP-1914-02-11-a-i0087.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it is believed to be a drawing of the interior of the building.<|endofchunk|>",4,0
+../data/test/drawing/GDL-1979-06-15-a-i0026_2.jpg,<image>The type of this image is,drawing,The type of this image is a drawing of a staircase.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1980-02-04-a-i0078_3.jpg,<image>The type of this image is,drawing,The type of this image is called 'Portrait of a Young Man' and was created by the American artist Edward Hopper.,4,0
+../data/test/drawing/JDG-1992-04-25-a-i0255_3.jpg,<image>The type of this image is,drawing,The type of this image is called 'The Battle of Thermopylae'<|endofchunk|>,4,0
+../data/test/drawing/GDL-1975-12-13-a-i0099.jpg,<image>The type of this image is,drawing,The type of this image is a drawing of a man playing a musical instrument.<|endofchunk|>,4,0
+../data/test/drawing/EXP-1972-07-08-a-i0361.jpg,<image>The type of this image is,drawing,The type of this image is called a 'graphic' or 'graphic illustration' and was used to illustrate a story in,4,0
+../data/test/drawing/EXP-1974-05-25-a-i0325_2.jpg,<image>The type of this image is,drawing,The type of this image is a black and white line drawing of a horse and carriage.<|endofchunk|>,4,0
+../data/test/drawing/JDG-1904-10-21-a-i0066.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it appears to be a portrait of a young man.<|endofchunk|>",4,0
+../data/test/drawing/EXP-1969-05-13-a-i0056.jpg,<image>The type of this image is,drawing,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/drawing/JDG-1955-02-10-a-i0014.jpg,<image>The type of this image is,drawing,The type of this image is called 'The Cat and the Dog' and was drawn by Henri Rousseau. It was published in the,4,0
+../data/test/drawing/EXP-1974-04-25-a-i0418.jpg,<image>The type of this image is,drawing,The type of this image is the one that appears on the cover of the first edition of the book.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1958-03-19-a-i0167.jpg,<image>The type of this image is,drawing,The type of this image is a line drawing of a couple in a garden. The woman is wearing a white dress and the man,4,0
+../data/test/drawing/EXP-1972-12-02-a-i0308.jpg,<image>The type of this image is,drawing,The type of this image is the symbol for a swimming pool.<|endofchunk|>,4,0
+../data/test/drawing/GDL-1956-06-30-a-i0255_6.jpg,<image>The type of this image is,drawing,The type of this image is a drawing of a man playing a flute.<|endofchunk|>,4,0
+../data/test/drawing/LCE-1915-02-13-a-i0032.jpg,<image>The type of this image is,drawing,"The type of this image is called 'The Face' and was created by the American typographer and graphic artist, Paul Rand.",4,0
+../data/test/drawing/JDG-1978-10-23-a-i0020.jpg,<image>The type of this image is,drawing,The type of this image is called a caricature. It is a drawing of a person in a stereotypical pose. The,4,0
+../data/test/drawing/IMP-1901-05-29-a-i0035.jpg,<image>The type of this image is,drawing,The type of this image is called 'The Little Girl' and was published in The Illustrated London News in 1869. It,4,0
+../data/test/drawing/LCE-1915-12-25-a-i0042.jpg,<image>The type of this image is,drawing,The type of this image is: Sewing Machine<|endofchunk|>,4,0
+../data/test/drawing/EXP-1924-06-06-a-i0046.jpg,<image>The type of this image is,drawing,The type of this image is a wood engraving.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1983-10-03-a-i0220.jpg,<image>The type of this image is,drawing,The type of this image is a drawing of a man and a woman fighting on the road.<|endofchunk|>,4,0
+../data/test/drawing/JDG-1968-10-25-a-i0086.jpg,<image>The type of this image is,drawing,The type of this image is the type of the type of the type of the type of the type of the type of the type,4,0
+../data/test/drawing/EXP-1974-05-25-a-i0325_4.jpg,<image>The type of this image is,drawing,The type of this image is: Line Drawing<|endofchunk|>,4,0
+../data/test/drawing/EXP-1974-05-25-a-i0325_8.jpg,<image>The type of this image is,drawing,The type of this image is a black and white line drawing of a man and a woman looking through a telescope.<|endofchunk|>,4,0
+../data/test/drawing/GDL-1900-03-08-a-i0026.jpg,<image>The type of this image is,drawing,The type of this image is based on a portrait of a man with a moustache.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1949-09-30-a-i0010.jpg,<image>The type of this image is,drawing,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/drawing/IMP-1981-02-18-a-i0085.jpg,<image>The type of this image is,drawing,The type of this image is a drawing of a truck.<|endofchunk|>,4,0
+../data/test/drawing/LCE-1908-08-12-a-i0050.jpg,<image>The type of this image is,drawing,"The type of this image is not known, but it is likely to be from the late 19th or early 20th century.",4,0
+../data/test/drawing/IMP-1930-02-27-a-i0033.jpg,<image>The type of this image is,drawing,The type of this image is a woodcut.<|endofchunk|>,4,0
+../data/test/drawing/EXP-1986-07-04-a-i0361.jpg,<image>The type of this image is,drawing,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/comic/IMP-1957-11-02-a-i0173_5.jpg,<image>The type of this image is,comic,The type of this image is a comic strip.<|endofchunk|>,4,0
+../data/test/comic/EXP-1962-01-05-a-i0084_2.jpg,<image>The type of this image is,comic,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/comic/EXP-1989-08-16-a-i0308_4.jpg,<image>The type of this image is,comic,The type of this image is a black and white line drawing of a man in a hat standing in the water with a fishing pole,4,0
+../data/test/comic/EXP-1958-01-21-a-i0185.jpg,<image>The type of this image is,comic,The type of this image is: La journée de M. Mouche<|endofchunk|>,4,0
+../data/test/comic/EXP-2004-11-03-a-i0131_2.jpg,<image>The type of this image is,comic,The type of this image is a comic book.<|endofchunk|>,4,0
+../data/test/comic/IMP-1979-12-03-a-i0187.jpg,<image>The type of this image is,comic,The type of this image is called 'Chilveric'<|endofchunk|>,4,0
+../data/test/comic/EXP-2000-03-18-a-i0362.jpg,<image>The type of this image is,comic,The type of this image is called a caricature. It is a humorous cartoon that depicts a person or group of people,4,0
+../data/test/comic/IMP-1957-12-16-a-i0087.jpg,<image>The type of this image is,comic,The type of this image is the type that was used in the early days of comic strips.<|endofchunk|>,4,0
+../data/test/comic/EXP-1940-04-09-a-i0069.jpg,<image>The type of this image is,comic,The type of this image is a comic strip.<|endofchunk|>,4,0
+../data/test/comic/EXP-1976-12-31-a-i0420.jpg,<image>The type of this image is,comic,The type of this image is called Comic Sans.<|endofchunk|>,4,0
+../data/test/comic/EXP-1958-05-20-a-i0092_3.jpg,<image>The type of this image is,comic,The type of this image is called Comic Strip.<|endofchunk|>,4,0
+../data/test/comic/EXP-1968-06-14-a-i0472.jpg,<image>The type of this image is,comic,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/comic/IMP-1993-04-16-a-i0150.jpg,<image>The type of this image is,comic,The type of this image is a cartoon of a man voting for the first time in his life.<|endofchunk|>,4,0
+../data/test/comic/EXP-1965-12-24-a-i0313_3.jpg,<image>The type of this image is,comic,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/comic/EXP-1959-02-20-a-i0098_4.jpg,<image>The type of this image is,comic,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/comic/IMP-1960-08-06-a-i0090_7.jpg,<image>The type of this image is,comic,The type of this image is called a caricature. It is a caricature because it is a caricature of,4,0
+../data/test/comic/IMP-1965-03-13-a-i0144_3.jpg,<image>The type of this image is,comic,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/comic/LCE-1999-01-22-a-i0030.jpg,<image>The type of this image is,comic,The type of this image is a caricature of a French farmer.<|endofchunk|>,4,0
+../data/test/comic/IMP-1974-02-12-a-i0183.jpg,<image>The type of this image is,comic,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/comic/GDL-1936-12-18-a-i0041.jpg,<image>The type of this image is,comic,The type of this image is the type that was used on the cover of the French edition of The New Yorker.<|endofchunk|>,4,0
+../data/test/comic/IMP-1949-09-09-a-i0013.jpg,<image>The type of this image is,comic,The type of this image is called 'Avant la Braderie' and was published in the French magazine 'Le Petit,4,0
+../data/test/comic/EXP-1998-11-11-a-i0396.jpg,<image>The type of this image is,comic,The type of this image is called a caricature. It is a drawing of a cartoonist's caricature of a,4,0
+../data/test/comic/IMP-1960-08-06-a-i0090_4.jpg,<image>The type of this image is,comic,The type of this image is a cartoon of a man driving a car and a woman sitting in the back seat. The man is,4,0
+../data/test/comic/EXP-1967-01-26-a-i0258_3.jpg,<image>The type of this image is,comic,The type of this image is not the same as the type used in the original comic.<|endofchunk|>,4,0
+../data/test/comic/IMP-2012-10-15-a-i0103.jpg,<image>The type of this image is,comic,The type of this image is called Comic Sans.<|endofchunk|>,4,0
+../data/test/comic/EXP-1979-12-29-a-i0132.jpg,<image>The type of this image is,comic,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/comic/IMP-1965-03-13-a-i0144.jpg,<image>The type of this image is,comic,The type of this image is a drawing of a person hanging from a rope.<|endofchunk|>,4,0
+../data/test/comic/LCE-1969-05-19-a-i0016_3.jpg,<image>The type of this image is,comic,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/comic/IMP-1959-02-06-a-i0032.jpg,<image>The type of this image is,comic,"The type of this image is not clear, but it appears to be from a French children's book.<|endofchunk|>",4,0
+../data/test/comic/IMP-1947-07-04-a-i0016.jpg,<image>The type of this image is,comic,The type of this image is called 'Week-end familial'<|endofchunk|>,4,0
+../data/test/comic/EXP-1965-01-28-a-i0311.jpg,<image>The type of this image is,comic,The type of this image is called a comic strip.<|endofchunk|>,4,0
+../data/test/comic/GDL-1915-12-05-a-i0098.jpg,<image>The type of this image is,comic,The type of this image is: 'A man and a woman in a bar. The man is buying a drink and the woman,4,0
+../data/test/comic/IMP-1942-05-29-a-i0016.jpg,<image>The type of this image is,comic,The type of this image is called 'Le Petit Journal' (The Little Journal) and it was published in France during the,4,0
+../data/test/comic/IMP-2012-09-01-a-i0115.jpg,<image>The type of this image is,comic,The type of this image is the same as the one used in the book.<|endofchunk|>,4,0
+../data/test/comic/IMP-1992-12-19-a-i0198_2.jpg,<image>The type of this image is,comic,The type of this image is a comic strip.<|endofchunk|>,4,0
+../data/test/comic/EXP-1956-07-25-a-i0105.jpg,<image>The type of this image is,comic,The type of this image is not known.<|endofchunk|>,4,0
+../data/test/comic/EXP-1966-07-16-a-i0254_6.jpg,<image>The type of this image is,comic,The type of this image is a cartoon from a French children's magazine.<|endofchunk|>,4,0
+../data/test/comic/IMP-1961-11-01-a-i0016.jpg,<image>The type of this image is,comic,The type of this image is called a 'double-page spread'<|endofchunk|>,4,0
+../data/test/comic/IMP-1959-12-05-a-i0123.jpg,<image>The type of this image is,comic,The type of this image is called 'The Laundress' and was published in the Daily Mail on the 1st of January,4,0
+../data/test/comic/EXP-1966-07-15-a-i0238.jpg,<image>The type of this image is,comic,The type of this image is the type used in the French newspaper Le Petit Journal.<|endofchunk|>,4,0

@@ -1,0 +1,726 @@
+File Path,Prompt,Class Name,Predicted Text
+../data/test/title/LCE-1913-01-08-a-i0015.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is:  E.E.E.E.E.E.E.E.E.E
+../data/test/title/LCE-1911-12-06-a-i0016.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: The letter E.<|endofchunk|>
+../data/test/title/LCE-1948-06-09-a-i0015.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: The letter E<|endofchunk|>
+../data/test/title/LCE-1943-01-27-a-i0017.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: The letter E.<|endofchunk|>
+../data/test/title/LCE-1907-08-14-a-i0009.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: N<|endofchunk|>
+../data/test/title/LCE-1952-02-27-a-i0002.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: L<|endofchunk|>
+../data/test/title/LCE-1906-02-03-a-i0003.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: L<|endofchunk|>
+../data/test/title/LCE-1912-11-23-a-i0020.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1913-02-15-a-i0009.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: F<|endofchunk|>
+../data/test/title/LCE-1913-03-01-a-i0008.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is:<|endofchunk|>
+../data/test/title/LCE-1910-04-27-a-i0002.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: The letter C.<|endofchunk|>
+../data/test/title/LCE-1942-01-02-a-i0012.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: D<|endofchunk|>
+../data/test/title/LCE-1908-10-07-a-i0011.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: The letter E.<|endofchunk|>
+../data/test/title/LCE-1904-07-02-a-i0002.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: L<|endofchunk|>
+../data/test/title/LCE-1923-03-09-a-i0051.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1907-01-01-a-i0016.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: E<|endofchunk|>
+../data/test/title/LCE-1912-10-19-a-i0010.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: F<|endofchunk|>
+../data/test/title/LCE-1904-06-15-a-i0019.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1933-05-03-a-i0012.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: F<|endofchunk|>
+../data/test/title/LCE-1948-09-17-a-i0020.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: E<|endofchunk|>
+../data/test/title/LCE-1911-10-18-a-i0084.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1908-03-07-a-i0008.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: F<|endofchunk|>
+../data/test/title/LCE-1933-10-09-a-i0017.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: E<|endofchunk|>
+../data/test/title/LCE-1949-12-19-a-i0016.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: D<|endofchunk|>
+../data/test/title/LCE-1909-05-01-a-i0001.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: O<|endofchunk|>
+../data/test/title/LCE-1944-03-31-a-i0017.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: The letter E.<|endofchunk|>
+../data/test/title/LCE-1908-08-05-a-i0017.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: The letter E.<|endofchunk|>
+../data/test/title/LCE-1935-06-10-a-i0011.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: E<|endofchunk|>
+../data/test/title/LCE-1906-03-14-a-i0020.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: C<|endofchunk|>
+../data/test/title/LCE-1943-01-27-a-i0008.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: O<|endofchunk|>
+../data/test/title/LCE-1900-08-29-a-i0011.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1915-04-07-a-i0012.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: C<|endofchunk|>
+../data/test/title/LCE-1908-01-22-a-i0011_2.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: 'E'<|endofchunk|>
+../data/test/title/LCE-1911-10-18-a-i0002.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: C<|endofchunk|>
+../data/test/title/LCE-1919-12-12-a-i0013.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: F<|endofchunk|>
+../data/test/title/LCE-1958-06-16-a-i0011.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: FE<|endofchunk|>
+../data/test/title/LCE-1903-04-15-a-i0005.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: N<|endofchunk|>
+../data/test/title/LCE-1906-07-25-a-i0010.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: O<|endofchunk|>
+../data/test/title/LCE-1912-10-12-a-i0009.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is:  E.E.E.E.E.E.E.E.E.E
+../data/test/title/LCE-1915-12-08-a-i0013.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1932-07-15-a-i0019.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1900-03-17-a-i0006.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: N<|endofchunk|>
+../data/test/title/LCE-1914-05-11-a-i0016.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: L<|endofchunk|>
+../data/test/title/LCE-1907-12-28-a-i0001.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: O<|endofchunk|>
+../data/test/title/LCE-1933-09-15-a-i0015.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: D<|endofchunk|>
+../data/test/title/LCE-1919-07-12-a-i0020.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: O<|endofchunk|>
+../data/test/title/LCE-1905-04-08-a-i0010.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: O<|endofchunk|>
+../data/test/title/LCE-1950-02-24-a-i0001.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: E.E.E.E.E.E.E.E.E.E.
+../data/test/title/LCE-1914-05-01-a-i0002.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: Letter L<|endofchunk|>
+../data/test/title/LCE-1920-12-03-a-i0084.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: D<|endofchunk|>
+../data/test/title/LCE-1941-08-18-a-i0015.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1942-05-20-a-i0019.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is:  F.E.<|endofchunk|>
+../data/test/title/LCE-1908-09-26-a-i0010.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is:  The New York Times<|endofchunk|>
+../data/test/title/LCE-1908-03-28-a-i0012.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: The letter E.<|endofchunk|>
+../data/test/title/LCE-1914-07-10-a-i0015.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is:  E.E.E.E.E.E.E.E.E.E
+../data/test/title/LCE-1921-12-09-a-i0059.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1915-04-17-a-i0011.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: E<|endofchunk|>
+../data/test/title/LCE-1904-01-20-a-i0002.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: C<|endofchunk|>
+../data/test/title/LCE-1914-06-19-a-i0015.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: N<|endofchunk|>
+../data/test/title/LCE-1901-02-16-a-i0011.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: B<|endofchunk|>
+../data/test/title/LCE-1931-05-08-a-i0014.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: D<|endofchunk|>
+../data/test/title/LCE-1926-12-24-a-i0057.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: D<|endofchunk|>
+../data/test/title/LCE-1942-01-21-a-i0014.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: D<|endofchunk|>
+../data/test/title/LCE-1914-05-15-a-i0014.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: C<|endofchunk|>
+../data/test/title/LCE-1953-06-26-a-i0014.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: E<|endofchunk|>
+../data/test/title/LCE-1952-05-02-a-i0002.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: L<|endofchunk|>
+../data/test/title/LCE-1901-06-01-a-i0012.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1909-08-11-a-i0007_2.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: E<|endofchunk|>
+../data/test/title/LCE-1910-04-02-a-i0009.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: N<|endofchunk|>
+../data/test/title/LCE-1904-03-09-a-i0001.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: E<|endofchunk|>
+../data/test/title/LCE-1904-07-27-a-i0010.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: O<|endofchunk|>
+../data/test/title/LCE-1906-06-09-a-i0002.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: C<|endofchunk|>
+../data/test/title/LCE-1906-06-06-a-i0018.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: L<|endofchunk|>
+../data/test/title/LCE-1906-10-13-a-i0019.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1931-07-10-a-i0012.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: F<|endofchunk|>
+../data/test/title/LCE-1933-02-01-a-i0009.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: O<|endofchunk|>
+../data/test/title/LCE-1913-04-09-a-i0015.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: D<|endofchunk|>
+../data/test/title/LCE-1910-12-31-a-i0018.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: R<|endofchunk|>
+../data/test/title/LCE-1902-02-19-a-i0007.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: N<|endofchunk|>
+../data/test/title/LCE-1948-04-05-a-i0009.jpg,<image>A complete caption for this image is:,title,A complete caption for this image is: O<|endofchunk|>
+../data/test/map/GDL-1991-06-01-a-i0298.jpg,<image>A complete caption for this image is:,map,A complete caption for this image is: A map of the weather conditions at the time of the accident.<|endofchunk|>
+../data/test/map/EXP-1992-02-14-a-i0439_3.jpg,<image>A complete caption for this image is:,map,"A complete caption for this image is: France, France, France, France, France, France, France, France, France, France,"
+../data/test/map/JDG-1940-03-08-a-i0008.jpg,<image>A complete caption for this image is:,map,"A complete caption for this image is: A map of the Caucasus, showing the boundaries of the various principalities and principalities of the"
+../data/test/map/EXP-1957-07-04-a-i0103_2.jpg,<image>A complete caption for this image is:,map,A complete caption for this image is: Aerial view of the route of the Trans-Siberian Railway from Moscow to Vladivost
+../data/test/map/EXP-1979-10-23-a-i0132_2.jpg,<image>A complete caption for this image is:,map,"A complete caption for this image is:  Aerial view of the proposed site of the new school, showing the proposed site of the new"
+../data/test/map/IMP-1960-01-16-a-i0024.jpg,<image>A complete caption for this image is:,map,A complete caption for this image is: A map of the Soviet Union showing the locations of Soviet military bases in the Far East.<|endofchunk|>
+../data/test/map/EXP-2003-09-29-a-i0014.jpg,<image>A complete caption for this image is:,map,A complete caption for this image is: Hong Kong - Kowloon<|endofchunk|>
+../data/test/map/GDL-1907-04-02-a-i0069.jpg,<image>A complete caption for this image is:,map,"A complete caption for this image is:  Penaflor Mine, Penaflor, Mexico.  The mine is located in"
+../data/test/map/JDG-1959-02-02-a-i0018.jpg,<image>A complete caption for this image is:,map,"A complete caption for this image is:  A map of the French provinces of Alsace, Lorraine, and Alsace-"
+../data/test/map/GDL-1950-05-17-a-i0056.jpg,<image>A complete caption for this image is:,map,A complete caption for this image is: Le Combattant Goural-Koubass<|endofchunk|>
+../data/test/map/EXP-2017-08-02-a-i0209.jpg,<image>A complete caption for this image is:,map,A complete caption for this image is: La Météo<|endofchunk|>
+../data/test/map/GDL-1918-12-02-a-i0002.jpg,<image>A complete caption for this image is:,map,A complete caption for this image is: Map of Zanzibar showing the route of the expedition.<|endofchunk|>
+../data/test/map/EXP-2009-01-31-a-i0302_2.jpg,<image>A complete caption for this image is:,map,A complete caption for this image is: Weather forecast for the next 7 days.<|endofchunk|>
+../data/test/map/LCE-1998-03-06-a-i0015_2.jpg,<image>A complete caption for this image is:,map,A complete caption for this image is: Aerial view of the summit of Mount<|endofchunk|>
+../data/test/map/GDL-1941-07-15-a-i0121.jpg,<image>A complete caption for this image is:,map,"A complete caption for this image is: Map of the Middle East showing the positions of the British, French and Russian forces in the Middle East"
+../data/test/map/JDG-1987-04-10-a-i0203_2.jpg,<image>A complete caption for this image is:,map,A complete caption for this image is: International Business Park<|endofchunk|>
+../data/test/logo/JDG-1925-08-29-a-i0041.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Party Democracy<|endofchunk|>
+../data/test/logo/JDG-1977-12-17-a-i0244.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: FLORE<|endofchunk|>
+../data/test/logo/LCE-1977-11-18-a-i0010.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is:<|endofchunk|>
+../data/test/logo/EXP-1979-05-04-a-i0025.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Au Tribunal de Police de Neuchâtel<|endofchunk|>
+../data/test/logo/LCE-1952-08-29-a-i0021.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is:  FIBERGLASS FIBERGLASS FIBERGLASS FIBERGL
+../data/test/logo/LCE-1939-02-22-a-i0036.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: BAUME ST. JACQUES SOULAGE<|endofchunk|>
+../data/test/logo/LCE-1981-02-17-a-i0063_2.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: ASSA<|endofchunk|>
+../data/test/logo/IMP-1979-12-27-a-i0050.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: ANGELIN<|endofchunk|>
+../data/test/logo/JDG-1907-11-03-a-i0012.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: 'Democratic Party'<|endofchunk|>
+../data/test/logo/IMP-1973-01-30-a-i0025.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Page 2<|endofchunk|>
+../data/test/logo/LCE-1909-05-26-a-i0023.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: HAASSTEIN & VOGEL AGENCE DE PUBLIQUE<|endofchunk|>
+../data/test/logo/GDL-1978-02-27-a-i0145.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Rooster<|endofchunk|>
+../data/test/logo/JDG-1909-10-12-a-i0099.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: The cross on the floor of the church of the Holy Sepulchre in Jerusalem.<|endofchunk|>
+../data/test/logo/IMP-1915-06-08-a-i0031.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is:  The first page of the score of the first movement of the Concerto for Piano and Orchestra
+../data/test/logo/LCE-1924-03-03-a-i0033.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Hotel Klüsera Poste<|endofchunk|>
+../data/test/logo/EXP-1923-03-21-a-i0023.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is:  MODE AUX ARMARIERS<|endofchunk|>
+../data/test/logo/JDG-1907-12-13-a-i0050.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: 'The Rosicrucian Order of Freemasonry. The Rosicrucian
+../data/test/logo/LCE-1970-06-23-a-i0095_2.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Porsche<|endofchunk|>
+../data/test/logo/IMP-1980-04-03-a-i0263.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: VW<|endofchunk|>
+../data/test/logo/LCE-1903-12-23-a-i0048.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: CHOCOLATE HOLLER<|endofchunk|>
+../data/test/logo/LCE-1952-05-16-a-i0010.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Le Grand Duel<|endofchunk|>
+../data/test/logo/EXP-1966-11-11-a-i0429.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Vintage<|endofchunk|>
+../data/test/logo/LCE-1908-11-04-a-i0048.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: The coat of arms of the Republic of Liberia.<|endofchunk|>
+../data/test/logo/IMP-1915-03-27-a-i0043.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is:  Pipe organ pipes.<|endofchunk|>
+../data/test/logo/LCE-1929-06-14-a-i0044.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Citrouille - Citrouille - Citrouille - Citrouille - Citrouille -
+../data/test/logo/EXP-2003-01-31-a-i0051.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Service d'Innovation et de Secours<|endofchunk|>
+../data/test/logo/LCE-1904-11-26-a-i0031.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Saxons & Gélefines Extra Saxon<|endofchunk|>
+../data/test/logo/EXP-2017-10-24-a-i0150.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Margot Maazouz<|endofchunk|>
+../data/test/logo/IMP-2016-11-03-a-i0254.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: La Mejor<|endofchunk|>
+../data/test/logo/LCE-1970-04-14-a-i0026.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: AALAALAALAALAALAALAALAALAALAAL
+../data/test/logo/IMP-2014-01-03-a-i0088.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Agenda<|endofchunk|>
+../data/test/logo/LCE-1952-05-09-a-i0053_2.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: NOUVELLE ELNA<|endofchunk|>
+../data/test/logo/EXP-2005-11-16-a-i0232_2.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is:  NBA logo.<|endofchunk|>
+../data/test/logo/GDL-1965-04-27-a-i0119.jpg,<image>A complete caption for this image is:,logo,"A complete caption for this image is:  The American Bank Note Company, New York, N.Y.<|endofchunk|>"
+../data/test/logo/JDG-1982-07-05-a-i0042.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: FLORE<|endofchunk|>
+../data/test/logo/EXP-2016-03-11-a-i0182.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Indicateurs<|endofchunk|>
+../data/test/logo/EXP-1906-02-05-a-i0060.jpg,<image>A complete caption for this image is:,logo,"A complete caption for this image is:  Romeo Simone,  Romeo Simone,  Romeo Simone"
+../data/test/logo/LCE-1903-11-04-a-i0027.jpg,<image>A complete caption for this image is:,logo,"A complete caption for this image is:  Tirthume, le bonheur, le bonheur, le bonheur"
+../data/test/logo/IMP-1963-03-12-a-i0199.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Owl with crown<|endofchunk|>
+../data/test/logo/JDG-1970-04-09-a-i0185.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Mode Speciale<|endofchunk|>
+../data/test/logo/IMP-1996-03-27-a-i0210_2.jpg,<image>A complete caption for this image is:,logo,"A complete caption for this image is: The head of a man with a long beard and a long nose, with a long beard and a"
+../data/test/logo/LCE-1923-06-22-a-i0016.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Citroën Citroën Citroën Citroën Citroën
+../data/test/logo/EXP-1953-05-30-a-i0157.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Lappenzeppener Synthese Idee<|endofchunk|>
+../data/test/logo/LCE-1975-02-14-a-i0004.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: Direct École<|endofchunk|>
+../data/test/logo/IMP-1990-08-22-a-i0508.jpg,<image>A complete caption for this image is:,logo,A complete caption for this image is: FC Saint-Blaise<|endofchunk|>
+../data/test/game/IMP-2002-05-06-a-i0141.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A crossword puzzle.<|endofchunk|>
+../data/test/game/GDL-1926-07-12-a-i0063_2.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: The word 'HAPPY' appears in the upper-right corner of the puzzle. The word
+../data/test/game/IMP-2008-10-15-a-i0133_3.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A crossword puzzle.<|endofchunk|>
+../data/test/game/IMP-1985-07-06-a-i0063.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/EXP-1936-02-14-a-i0035.jpg,<image>A complete caption for this image is:,game,"A complete caption for this image is: Chess board, with the Queen's Bishop on the right and the King's Bishop on the left"
+../data/test/game/GDL-1971-03-06-a-i0329.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: Chess board with a chess board with a chess board with a chess board with a chess board with
+../data/test/game/EXP-1939-12-13-a-i0083.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A crossword puzzle.<|endofchunk|>
+../data/test/game/JDG-1974-09-14-a-i0221.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A crossword puzzle.<|endofchunk|>
+../data/test/game/JDG-1943-06-09-a-i0074.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/EXP-1996-12-30-a-i0048.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A crossword puzzle.<|endofchunk|>
+../data/test/game/IMP-1958-06-25-a-i0118.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/EXP-1981-09-01-a-i0332_3.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is:  A man and a woman stand in the doorway of a room.  The man is holding a
+../data/test/game/JDG-1942-06-09-a-i0052.jpg,<image>A complete caption for this image is:,game,"A complete caption for this image is: Chess board with a chess piece in the centre. The board is divided into four quadrants,"
+../data/test/game/GDL-1958-03-15-a-i0317.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/IMP-1973-09-01-a-i0208.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/IMP-1981-10-23-a-i0114.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: ETIQUETTE. ETIQUETTE. ETIQUETTE. ETI
+../data/test/game/EXP-2013-08-14-a-i0109.jpg,<image>A complete caption for this image is:,game,"A complete caption for this image is: Sardinians, Sardinians, Sardinians, Sardinians,"
+../data/test/game/EXP-2011-10-25-a-i0292.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: Sudoku<|endofchunk|>
+../data/test/game/IMP-1989-07-01-a-i0086_3.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/EXP-1956-03-05-a-i0103.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/IMP-2017-11-18-a-i0260.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: Sudoku<|endofchunk|>
+../data/test/game/EXP-2000-11-14-a-i0347_2.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A crossword puzzle.<|endofchunk|>
+../data/test/game/EXP-2014-07-11-a-i0125.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/EXP-1976-05-15-a-i0373.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/GDL-1938-09-18-a-i0054.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: Problem du 37.<|endofchunk|>
+../data/test/game/IMP-1973-10-31-a-i0019.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is:  A complete caption for this image is:  A complete caption for this image is:  A
+../data/test/game/JDG-1988-01-20-a-i0172.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/EXP-2017-07-07-a-i0104.jpg,<image>A complete caption for this image is:,game,"A complete caption for this image is: Idealista, Idealista, Idealista, Idealista, Idealista,"
+../data/test/game/EXP-1967-09-29-a-i0450_2.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/GDL-1964-05-30-a-i0320.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/EXP-1965-10-04-a-i0242.jpg,<image>A complete caption for this image is:,game,"A complete caption for this image is:  BIRRIOUSSON, DANIELE, DANIELE BIRRI"
+../data/test/game/JDG-1987-11-06-a-i0201.jpg,<image>A complete caption for this image is:,game,"A complete caption for this image is: Chess board with a chess piece on the board, a chess piece on the board, a chess"
+../data/test/game/JDG-1936-02-07-a-i0064.jpg,<image>A complete caption for this image is:,game,"A complete caption for this image is: University of Paris, Universite Paris, Universite Paris, Universite Paris, Universite Paris,"
+../data/test/game/EXP-1959-02-20-a-i0098.jpg,<image>A complete caption for this image is:,game,"A complete caption for this image is: A grid of squares is shown. Each square is numbered from 1 to 9, and each row and"
+../data/test/game/GDL-1974-11-02-a-i0180_9.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: Fig. 1. (a) A diagram showing the position of the dots in the diagram. (
+../data/test/game/GDL-1915-07-04-a-i0099.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/IMP-1967-05-03-a-i0276.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is:  A complete caption for this image is:  A complete caption for this image is:  A
+../data/test/game/JDG-1974-05-18-a-i0221_2.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: Chess board with a black king and a white queen. The king is in the centre of the
+../data/test/game/JDG-1947-12-27-a-i0052.jpg,<image>A complete caption for this image is:,game,"A complete caption for this image is: Pampelone, Pampelone, Pampelone, Pampelone,"
+../data/test/game/EXP-1972-06-12-a-i0345_2.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A crossword puzzle.<|endofchunk|>
+../data/test/game/GDL-1964-05-30-a-i0320_6.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: Chess board with a chess board with a chess board with a chess board with a chess board with
+../data/test/game/GDL-1961-04-08-a-i0326.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: Chess board with a chess board with a chess board with a chess board with a chess board with
+../data/test/game/EXP-1981-09-01-a-i0332.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A crossword puzzle.<|endofchunk|>
+../data/test/game/EXP-2009-03-18-a-i0136.jpg,<image>A complete caption for this image is:,game,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/game/IMP-1941-10-18-a-i0034.jpg,<image>A complete caption for this image is:,game,"A complete caption for this image is: Notre-Dame-de-la-Sainte-Vierge, Paris,"
+../data/test/photo/EXP-1929-08-19-a-i0011.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Portrait of a man, seated<|endofchunk|>"
+../data/test/photo/IMP-1977-11-14-a-i0107.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A man and a woman stand in front of a microphone.  The man is wearing glasses and
+../data/test/photo/EXP-2012-03-20-a-i0180.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'Marine Le Pen, leader of France's National Front party, arrives at a polling station in"
+../data/test/photo/IMP-1915-05-01-a-i0007.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'S.S. BERMUDA. The Bermuda-bound passenger steamer '
+../data/test/photo/GDL-1928-01-12-a-i0003.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: General George S. Patton<|endofchunk|>
+../data/test/photo/IMP-1976-06-14-a-i0140.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'The girls of St. Mary's School of Gymnastics at the opening of the Gymn
+../data/test/photo/IMP-2015-06-19-a-i0017.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A row of cars parked in front of a building.<|endofchunk|>
+../data/test/photo/IMP-2017-05-10-a-i0059.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Construction of a new road in China.<|endofchunk|>
+../data/test/photo/IMP-1944-04-03-a-i0005.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A tree stump with a hammock hung from it.  The hammock is made
+../data/test/photo/IMP-2010-08-14-a-i0188.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: <br /> <br /> <br /> <br /> <br /> <br /> <br
+../data/test/photo/LCE-1989-09-22-a-i0018.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The vineyards of Chateau Lafite-Rothschild, Bordeaux, France"
+../data/test/photo/IMP-1913-07-31-a-i0020.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The wreckage of the wreckage of the wreckage of the wreckage of the wreckage of
+../data/test/photo/EXP-1967-08-21-a-i0234.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Porsche 917/30<|endofchunk|>
+../data/test/photo/LCE-1970-07-28-a-i0070.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The late Dr. John A. O'Connor, M.D., who died at his home"
+../data/test/photo/EXP-2012-06-14-a-i0072.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A man and a woman at a table at a wine and spirits fair.<|endofchunk|>
+../data/test/photo/JDG-1945-02-16-a-i0075_2.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'Mr. and Mrs. Smith, Mr. and Mrs. Smith, Mr. and Mrs."
+../data/test/photo/IMP-1997-08-09-a-i0216.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Mr. and Mrs. John F. Kennedy, Jr.<|endofchunk|>"
+../data/test/photo/EXP-1971-12-02-a-i0451.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Princess Grace of Monaco<|endofchunk|>
+../data/test/photo/EXP-1971-08-30-a-i0012.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A man in a bathing suit.<|endofchunk|>
+../data/test/photo/EXP-1913-03-10-a-i0089.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'Aerial view of the town and harbour of Port Moresby, Papua New Guinea,"
+../data/test/photo/GDL-1940-07-31-a-i0068.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A little girl in a bonnet.<|endofchunk|>
+../data/test/photo/IMP-1972-04-20-a-i0026.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A young man in a sailor's outfit, wearing a striped shirt and striped trousers,"
+../data/test/photo/IMP-1981-01-08-a-i0013.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A Japanese soldier in a jeep with a gun on the roof of the jeep. The je
+../data/test/photo/EXP-1940-12-13-a-i0002.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Dr. J.H. (John Henry) Watson, M.D., F.R"
+../data/test/photo/EXP-1940-06-14-a-i0005.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: M4A3E8 Sherman medium tank<|endofchunk|>
+../data/test/photo/EXP-2010-12-02-a-i0036.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A blood sample is taken from the arm of a patient at a clinic in London.<|endofchunk|>
+../data/test/photo/EXP-2007-10-16-a-i0176.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: L'Olympique de Marseille<|endofchunk|>
+../data/test/photo/IMP-2012-11-05-a-i0101.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A man prays in front of a container.<|endofchunk|>
+../data/test/photo/IMP-1990-10-02-a-i0036.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'Poubelles, nucleares à l'Ollon'<|endofchunk|>"
+../data/test/photo/JDG-1979-05-09-a-i0130.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A group of armed men stand in front of a shop.<|endofchunk|>
+../data/test/photo/EXP-1957-05-08-a-i0009.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A group of cowboys and cowgirls at a rodeo in the early 1900s.
+../data/test/photo/JDG-1959-11-11-a-i0141.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Le Jour de Four, Pontoise<|endofchunk|>"
+../data/test/photo/IMP-2010-01-14-a-i0019.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Haiti, Port-au-Prince, Port-au-Prince, Haiti, Port-au-"
+../data/test/photo/IMP-1969-09-13-a-i0155.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Aerial view of the construction of a new building on the site of the old building.  
+../data/test/photo/EXP-1966-02-18-a-i0473.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The Saturn V rocket lifts off from the launch pad at Cape Canaveral, Florida, on"
+../data/test/photo/IMP-1980-11-07-a-i0383.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Rugby Football, Rugby Union, Rugby League, Rugby, Rugby League, Rugby Union, Rugby, Rugby"
+../data/test/photo/IMP-1969-10-06-a-i0157.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A display at the Royal Horticultural Society's Chelsea Flower Show in the 1930s.
+../data/test/photo/IMP-1949-12-22-a-i0014.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'Mr. and Mrs. W. H. Hooley, of the Hooley and Hooley"
+../data/test/photo/EXP-1999-02-26-a-i0228.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Odermatt wins the first ever Winter Olympics gold medal in downhill skiing.<|endofchunk|>
+../data/test/photo/EXP-1929-04-20-a-i0006.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A member of the 1st Battalion, Royal Fusiliers, who was killed in action"
+../data/test/photo/IMP-1961-09-04-a-i0048.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A group of women and a man stand on a picnic table in front of a house.  
+../data/test/photo/IMP-1961-09-08-a-i0166.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. J. A. McLean<|endofchunk|>
+../data/test/photo/IMP-2016-03-02-a-i0381.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A woman looks into the rear view mirror of her car.<|endofchunk|>
+../data/test/photo/IMP-1982-06-11-a-i0227.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The tower of St. John's College, Cambridge.<|endofchunk|>"
+../data/test/photo/IMP-1914-04-14-a-i0002.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Queen Victoria of the United Kingdom<|endofchunk|>
+../data/test/photo/JDG-1990-05-08-a-i0116.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The first of a series of pictures showing the workers in action.<|endofchunk|>
+../data/test/photo/EXP-1988-06-27-a-i0026.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  MOTORSPORTS.  MOTORSPORTS.  MOTOR
+../data/test/photo/EXP-1975-11-27-a-i0296.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/photo/JDG-1989-11-07-a-i0090.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A group of people stand in front of a poster with a picture of Saddam Hussein.<|endofchunk|>
+../data/test/photo/IMP-2006-03-11-a-i0243.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Basketball player, coach, coach, coach, coach, coach, coach, coach, coach"
+../data/test/photo/IMP-2012-06-27-a-i0062.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A scientist and his assistant in a laboratory.<|endofchunk|>
+../data/test/photo/EXP-1993-11-12-a-i0261.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  S.D. LABORATORY, GERMANY<|endofchunk|>"
+../data/test/photo/JDG-1937-11-19-a-i0106.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A woman wearing a fur coat.<|endofchunk|>
+../data/test/photo/LCE-1969-07-09-a-i0083.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A bridge over a ravine.<|endofchunk|>
+../data/test/photo/IMP-1945-05-09-a-i0006.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Lieut. W. H. G. H. G. H. G. H.
+../data/test/photo/IMP-1943-06-05-a-i0002.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The first contingent of the 1st Battalion of the Royal Fusiliers marching through the streets of
+../data/test/photo/JDG-1943-09-20-a-i0023.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: German Panzergrenadiers in action.<|endofchunk|>
+../data/test/photo/EXP-1962-02-01-a-i0167.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The old school house, built in 1856, is now the home of the Historical Society."
+../data/test/photo/JDG-1945-04-11-a-i0005.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A group of boys from a school in the town of Krakow, Poland, greet a"
+../data/test/photo/EXP-2005-01-21-a-i0307.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A man and a woman sit on a bench in front of a panel of judges.<|endofchunk|>
+../data/test/photo/IMP-1960-07-16-a-i0064.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Giraffe at the zoo.<|endofchunk|>
+../data/test/photo/EXP-1925-02-14-a-i0084.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'A PBY Catalina of the Royal Canadian Air Force (RCAF) on the ground
+../data/test/photo/EXP-1996-09-14-a-i0295.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A woman in her garden in the snow.<|endofchunk|>
+../data/test/photo/LCE-1970-06-23-a-i0095.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The Jaguar XK-E is a sports car built by Jaguar Cars Ltd. for
+../data/test/photo/EXP-2014-01-10-a-i0101_2.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Burj Al Arab, Dubai, United Arab Emirates<|endofchunk|>"
+../data/test/photo/EXP-1936-12-25-a-i0104.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A German soldier stands in front of a destroyed building in the centre of a street in the town of
+../data/test/photo/EXP-1938-12-12-a-i0119.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'The ruins of the old mill at Bury St Edmunds, Suffolk, after the"
+../data/test/photo/LCE-1974-11-05-a-i0010.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Basketball game between the University of California at Berkeley and the University of California at Los Angeles at the Los
+../data/test/photo/IMP-2015-06-29-a-i0115.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: A fire breaks out at the Burning Man festival in Black Rock Desert, Nevada.<|endofchunk|>"
+../data/test/photo/IMP-1946-05-06-a-i0008.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A group of men and women stand in front of a group of men and women standing in front
+../data/test/photo/EXP-2007-06-21-a-i0331.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A tree in the forest.<|endofchunk|>
+../data/test/photo/EXP-1950-03-31-a-i0008.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The Duke of Connaught (left) and the Duke of York (right) inspecting the
+../data/test/photo/IMP-1958-10-24-a-i0187.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The wreckage of the armoured car which was destroyed by a mine.<|endofchunk|>
+../data/test/photo/EXP-1978-11-11-a-i0510.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Mrs. E. M. (Mrs. E. M.<|endofchunk|>
+../data/test/photo/EXP-1957-02-04-a-i0014.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The King of Saudi Arabia, King Faisal of Saudi Arabia, with his son Prince Fais"
+../data/test/photo/IMP-1967-04-21-a-i0279.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Maurice Chevalier, French actor and singer, at home in Paris, France,"
+../data/test/photo/EXP-1940-07-24-a-i0012.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  (L-R) General Francisco Franco, General Francisco Franco, General Francisco Franco, General Francisco"
+../data/test/photo/JDG-1945-02-16-a-i0075.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'Mr. and Mrs. Smith, Mr. and Mrs. Smith, Mr. and Mrs."
+../data/test/photo/IMP-1928-07-27-a-i0003.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Italian Air Force - Air Force Officer - Air Force - Air Force - Air Force - Air Force -
+../data/test/photo/EXP-1987-06-09-a-i0138.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The band of the Royal Canadian Air Force Band of the R.C.A.F.<|endofchunk|>
+../data/test/photo/IMP-2002-06-13-a-i0314.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A man and a boy stand in front of a crowd of people.<|endofchunk|>
+../data/test/photo/IMP-1956-01-23-a-i0034.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The burning of the British Consulate in Bombay.<|endofchunk|>
+../data/test/photo/IMP-1939-04-29-a-i0002.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A model in a bathing suit.<|endofchunk|>
+../data/test/photo/GDL-1951-03-09-a-i0008.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Lieutenant-General Sir John Maxwell, K.C.B., K.C.M.G"
+../data/test/photo/EXP-2006-08-03-a-i0195.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: (L-R) Jake Paul and Justin Bieber<|endofchunk|>
+../data/test/photo/EXP-2003-04-09-a-i0164.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Dr. Michael A. DeBakey, M.D., M.P.H"
+../data/test/photo/IMP-1998-07-13-a-i0062.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: La Poste<|endofchunk|>
+../data/test/photo/IMP-1936-03-10-a-i0003.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A crowd of people gathers in front of a building in the centre of the city to watch the
+../data/test/photo/JDG-1941-10-29-a-i0004.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The Imperial Palace in St. Petersburg, Russia.<|endofchunk|>"
+../data/test/photo/EXP-1941-04-19-a-i0003.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The burning of the port of Thessaloniki.<|endofchunk|>
+../data/test/photo/IMP-1936-05-11-a-i0011.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Swissair P-51D Mustang<|endofchunk|>
+../data/test/photo/EXP-2004-11-29-a-i0091.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Sister Helen Prejean<|endofchunk|>
+../data/test/photo/GDL-1985-09-04-a-i0027.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Mr. Peter M. Kovacs, President and Chief Executive Officer, M. Kov"
+../data/test/photo/GDL-1927-10-20-a-i0005.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. William H. H. H. H. H. H. H. H.
+../data/test/photo/IMP-2005-05-30-a-i0078.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:<|endofchunk|>
+../data/test/photo/IMP-1964-09-14-a-i0232.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The Duke and Duchess of York on their wedding day. The Duke and Duchess of York on their wedding
+../data/test/photo/IMP-1938-02-02-a-i0008.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Nurse.<|endofchunk|>
+../data/test/photo/IMP-2016-04-07-a-i0034.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Mr. Peter Lougheed, M.P.<|endofchunk|>"
+../data/test/photo/GDL-1925-12-14-a-i0044.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The first man to cross the finish line in a sled in the first Winter Olympic Games in Ch
+../data/test/photo/EXP-1956-04-06-a-i0012.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The wreck of the train, which occurred in the early morning hours of the morning of January 1"
+../data/test/photo/EXP-2016-03-22-a-i0009.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: John Cleese<|endofchunk|>
+../data/test/photo/EXP-2011-06-01-a-i0189.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Dr. Alan Greenspan, Chairman of the Board of Governors of the Federal Reserve System,"
+../data/test/photo/IMP-2001-08-24-a-i0185.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Horses in a field.<|endofchunk|>
+../data/test/photo/EXP-2007-09-04-a-i0328.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: A woman in her kitchen, holding a glass of wine.<|endofchunk|>"
+../data/test/photo/IMP-1913-01-18-a-i0043.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The Rev. William H. Benton, pastor of the First Presbyterian Church, was shot"
+../data/test/photo/IMP-1948-10-02-a-i0104.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: United States. President Harry S. Truman (left) and Secretary of State George C. Marshall (
+../data/test/photo/EXP-1968-07-02-a-i0132.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A view of the farmstead and barns in the foreground, and the farmstead and barn"
+../data/test/photo/IMP-1944-08-08-a-i0008.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Horses in harness.<|endofchunk|>
+../data/test/photo/EXP-1988-05-07-a-i0236.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: (from left to right) Mr. and Mrs. John W. Kemp, Mr. and"
+../data/test/photo/LCE-1969-01-09-a-i0002.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'View of the village from the hillside, with the mountains in the background.'<|endofchunk|>"
+../data/test/photo/IMP-1943-02-06-a-i0003_3.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A swan stands in front of a shop window.<|endofchunk|>
+../data/test/photo/IMP-2002-11-08-a-i0065.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A group of young swimmers in a pool.<|endofchunk|>
+../data/test/photo/EXP-2007-12-27-a-i0146.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: <br /> <br /> <br /> <br /> <br /> <br /> <br
+../data/test/photo/EXP-2003-10-16-a-i0129.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A woman lying on a bed.<|endofchunk|>
+../data/test/photo/GDL-1993-03-13-a-i0130.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: McLaren MP4/1B McLaren MP4/1B McLaren MP4/1
+../data/test/photo/EXP-1928-11-07-a-i0065.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The church of St. Peter in the village of St. Moritz, Switzerland.<|endofchunk|>"
+../data/test/photo/EXP-2009-06-27-a-i0182.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Roger Federer<|endofchunk|>
+../data/test/photo/IMP-1965-12-30-a-i0057.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The late Sir Anthony Eden, Prime Minister of the United Kingdom, speaking at the opening of the"
+../data/test/photo/EXP-1965-12-16-a-i0130.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The old water tower on the campus of St. Mary's College in Winona, Minnesota,"
+../data/test/photo/IMP-1926-12-28-a-i0009.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The winners of the football match between St. Mary's College and St. Joseph's College,"
+../data/test/photo/IMP-1969-10-08-a-i0121.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A view of the interior of a room, with a table and chairs in the foreground.  "
+../data/test/photo/LCE-1988-01-12-a-i0057.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Jeu du Milliard, Olympique de Marseille, Paris, France"
+../data/test/photo/EXP-2012-06-13-a-i0167.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Andrew Mitchell<|endofchunk|>
+../data/test/photo/IMP-1968-02-01-a-i0304.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The first car to cross the English Channel in a Volkswagen Beetle.<|endofchunk|>
+../data/test/photo/IMP-2008-02-13-a-i0283.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A robot is used to perform surgery on a patient.<|endofchunk|>
+../data/test/photo/EXP-1972-07-26-a-i0286.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Portrait of a young woman.<|endofchunk|>
+../data/test/photo/EXP-1962-08-21-a-i0108.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Motorcycle racing.  Motorcycle racing.  Motorcycle racing.  M
+../data/test/photo/EXP-2000-01-31-a-i0255.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Mr. and Mrs. John D. Rockefeller, Jr.<|endofchunk|>"
+../data/test/photo/JDG-1975-10-18-a-i0186.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A glass vase with a carved figure of a bearded man.  The vase is
+../data/test/photo/JDG-1937-11-21-a-i0098.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The building on the left is the old St. Mary's Convent.  The building on
+../data/test/photo/EXP-2000-10-18-a-i0167.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Portrait of a woman.<|endofchunk|>
+../data/test/photo/EXP-1988-08-20-a-i0138.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A group of elderly people enjoying a meal at a restaurant.<|endofchunk|>
+../data/test/photo/JDG-1969-07-12-a-i0114.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A view of the main entrance to the school.<|endofchunk|>
+../data/test/photo/EXP-2002-02-14-a-i0206.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  (left to right)  Dr.  Margaret  B.  Baker,  "
+../data/test/photo/IMP-1941-08-29-a-i0071.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A lady in a wedding dress.<|endofchunk|>
+../data/test/photo/EXP-1940-11-05-a-i0011.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: <br /> <br /> <br /> <br /> <br /> <br /> <br
+../data/test/photo/IMP-2004-06-19-a-i0149.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Actors Kirsten Dunst and Keanu Reeves on the set of the film '
+../data/test/photo/EXP-1912-07-13-a-i0109.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'A group of children in costume dancing in front of a stage set for a performance of 'The
+../data/test/photo/GDL-1991-06-01-a-i0197.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A group of children dig a hole in the ground.<|endofchunk|>
+../data/test/photo/EXP-1989-06-08-a-i0011.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Bell UH-1H Iroquois Helicopter<|endofchunk|>
+../data/test/photo/IMP-1977-11-07-a-i0242.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'Philippe Lors - Lors au chevet du cheval de Belin (Belin
+../data/test/photo/EXP-1969-10-17-a-i0065.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A boy and his father in the fields.<|endofchunk|>
+../data/test/photo/IMP-1944-09-14-a-i0067.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The wreckage of the aircraft is seen on the ground.<|endofchunk|>
+../data/test/photo/EXP-1990-11-24-a-i0086.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A scene from 'The Nutcracker' by Marius Petipa and Pyotr
+../data/test/photo/GDL-1935-05-12-a-i0074.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'The ruins of the house in which Mr. and Mrs. W. H. G. Smith
+../data/test/photo/IMP-1993-07-05-a-i0166.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Children playing in a street parade.<|endofchunk|>
+../data/test/photo/EXP-2010-05-04-a-i0036.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: L'PLR, Les Libraires-Radicaux-Rouge, is a"
+../data/test/photo/JDG-1984-01-16-a-i0145.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  MILITARY OFFICER<|endofchunk|>
+../data/test/photo/EXP-2002-11-14-a-i0041.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A view of the stage from the audience.<|endofchunk|>
+../data/test/photo/IMP-2013-01-24-a-i0107.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Dr. Susan Greenfield is a professor of psychiatry at the University of California, San Francisco"
+../data/test/photo/GDL-1934-07-16-a-i0002.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A view of the camp from the south.<|endofchunk|>
+../data/test/photo/LCE-1978-10-27-a-i0067.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A young man with a moustache.<|endofchunk|>
+../data/test/photo/EXP-2017-04-22-a-i0197.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Women's Volleyball - Fribourg-Gottéron - Fribourg
+../data/test/photo/IMP-1945-07-28-a-i0096.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: General Staff of the Army of the Soviet Union. General Staff of the Army of the Soviet Union.
+../data/test/photo/EXP-1987-01-03-a-i0205.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Mr. John W. Hickman, who was killed in an automobile accident in the early"
+../data/test/photo/EXP-1970-06-20-a-i0575.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. J. A. B. (John Arthur Bevan)<|endofchunk|>
+../data/test/photo/EXP-1936-07-17-a-i0002.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A group of cadets march in a parade at the Naval Academy, Annapolis, Md.,"
+../data/test/photo/IMP-1953-12-23-a-i0123.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  HORSE-DRIVING.  HORSE-DRIVING.<|endofchunk|>
+../data/test/photo/IMP-1940-06-22-a-i0008.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Jamaica's national hero, the late King of Jamaica, the late King of Barbados"
+../data/test/photo/IMP-1946-09-13-a-i0004.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  President John F. Kennedy and Mrs. Jacqueline Kennedy wave to the crowd from the steps
+../data/test/photo/IMP-1952-08-07-a-i0004.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Mount Baldy, Colorado.<|endofchunk|>"
+../data/test/photo/IMP-1983-10-28-a-i0354.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A window in the church of St. George, Paphos, Cyprus.<|endofchunk|>"
+../data/test/photo/JDG-1990-02-23-a-i0168.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Pete Townshend of The Who<|endofchunk|>
+../data/test/photo/IMP-1932-09-19-a-i0005.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Queen Elizabeth II and Prince Philip, Duke of Edinburgh<|endofchunk|>"
+../data/test/photo/IMP-2013-01-05-a-i0213.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A waitress in a restaurant<|endofchunk|>
+../data/test/photo/GDL-1939-10-30-a-i0044.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A view of the guns on the hill.<|endofchunk|>
+../data/test/photo/IMP-2009-12-01-a-i0072.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Santa Claus is coming to town<|endofchunk|>
+../data/test/photo/EXP-1913-09-17-a-i0084_2.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The Duke and Duchess of York (left to right) Prince George, Duke of York and Princess Mary"
+../data/test/photo/GDL-1980-05-08-a-i0114.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The scene at the scene of the crash at the junction of the A1 and the M1 in
+../data/test/photo/EXP-1928-01-09-a-i0056.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. William H. H. H. H. H. H. H. H.
+../data/test/photo/IMP-1968-08-09-a-i0158.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The old school building of the St. Paul's School, now the home of the St. Paul"
+../data/test/photo/IMP-2011-11-08-a-i0030.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: A double rainbow over the city of Zürich, Switzerland.<|endofchunk|>"
+../data/test/photo/EXP-1979-08-10-a-i0158.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Construction of a dam on the Ohio River near the city of Columbus, Ohio.<|endofchunk|>"
+../data/test/photo/EXP-1928-03-06-a-i0061.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The interior of the church of St. Bartholomew in Bamberg, Germany,"
+../data/test/photo/EXP-1900-12-31-a-i0138_2.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A nurse in uniform.<|endofchunk|>
+../data/test/photo/EXP-2012-02-11-a-i0244.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'The Office'<|endofchunk|>
+../data/test/photo/IMP-2008-03-18-a-i0121.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Billy Connolly<|endofchunk|>
+../data/test/photo/IMP-1917-02-20-a-i0007.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'The King's Troop Royal Horse Artillery receiving the Victoria Cross from the King at Buckingham
+../data/test/photo/IMP-2014-03-27-a-i0062.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: French Montana<|endofchunk|>
+../data/test/photo/EXP-1994-08-23-a-i0129.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Dr. Robert E. Larson, M.D., F.A.C.S"
+../data/test/photo/EXP-1971-09-15-a-i0392.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A Bedouin with a sword.<|endofchunk|>
+../data/test/photo/IMP-1927-03-07-a-i0026.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A view of the construction of the railway bridge over the River Severn at Shrewsbury
+../data/test/photo/IMP-2015-08-22-a-i0196.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A woman and a man play with balloons.<|endofchunk|>
+../data/test/photo/EXP-1970-05-26-a-i0397.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Liverpool v Everton, FA Cup Final, Wembley Stadium, London,"
+../data/test/photo/EXP-2015-04-24-a-i0167.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: A Bangladeshi woman holds a picture of the old Dhaka Central Mosque, which was destroyed"
+../data/test/photo/IMP-2014-01-29-a-i0191.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Hockey player in action.<|endofchunk|>
+../data/test/photo/EXP-1913-11-21-a-i0082.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The wreckage of the wreck of the L.T.C.R. No. 1,"
+../data/test/photo/EXP-1915-11-19-a-i0077.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The first steamer to be built in the United States.<|endofchunk|>
+../data/test/photo/IMP-1948-06-24-a-i0036.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The winner of the Tour de France, Gino Bartali (centre) with his wife"
+../data/test/photo/GDL-1985-05-04-a-i0023.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A woman sits at a computer in a computer lab.<|endofchunk|>
+../data/test/photo/IMP-1960-07-25-a-i0010.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A woman wearing a hat with a veil.<|endofchunk|>
+../data/test/photo/JDG-1937-10-07-a-i0003.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The King's Own Scottish Borderers (KOSB) and the King's Royal Rifle
+../data/test/photo/GDL-1966-07-28-a-i0169.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A bride dances during a wedding ceremony at the St. Mary's Cathedral in Port-au-
+../data/test/photo/IMP-1992-10-17-a-i0264.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Le Cadeau-Hauterive<|endofchunk|>
+../data/test/photo/IMP-1941-09-09-a-i0010.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A view of the depot and freight yard, looking north.  The depot was built"
+../data/test/photo/EXP-1938-03-31-a-i0087.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A young man, naked except for a loin-cloth, holds a sword in his right"
+../data/test/photo/IMP-1923-05-14-a-i0034.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Boxing match.<|endofchunk|>
+../data/test/photo/IMP-1963-07-24-a-i0171.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The bride and groom, left to right, are, from left to right, Mr. and"
+../data/test/photo/IMP-1966-10-07-a-i0138.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Bobby Charlton scores the winning goal for England against Scotland at Wembley in the
+../data/test/photo/IMP-1974-11-11-a-i0066.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A group of young people in the audience at the opening of the new school.<|endofchunk|>
+../data/test/photo/IMP-2004-02-19-a-i0002.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Two boys sitting on the floor.<|endofchunk|>
+../data/test/photo/EXP-1987-03-11-a-i0009.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A woman working in a laboratory.<|endofchunk|>
+../data/test/photo/IMP-1934-12-26-a-i0010.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The King's Royal Rifle Corps (KRRC) on parade at the front of the
+../data/test/photo/JDG-1978-12-19-a-i0056.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The signing of the Treaty of Peace and Friendship between the United States of America and the Soviet Union
+../data/test/photo/EXP-1993-11-05-a-i0131.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Marianne Faithfull<|endofchunk|>
+../data/test/photo/EXP-2002-04-06-a-i0048.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The New York Public Library has a large collection of books, magazines, newspapers, and periodicals"
+../data/test/photo/IMP-2010-01-26-a-i0273.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Dr. Susan Greenfield, Professor of Anthropology at the University of California, Berkeley, is"
+../data/test/photo/JDG-1986-08-16-a-i0178.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A view of the construction site of the new stadium for the New York Giants at Yankee Stadium
+../data/test/photo/GDL-1982-03-17-a-i0121.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The President of the United States, John F. Kennedy.<|endofchunk|>"
+../data/test/photo/IMP-2012-05-18-a-i0083.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: RENAULT MEGANE<|endofchunk|>
+../data/test/photo/IMP-1966-12-10-a-i0326.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The President of the United States of America, Dr. John F. Kennedy, and the Prime Minister"
+../data/test/photo/JDG-1958-01-11-a-i0079.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Prime Minister Jawaharlal Nehru with his wife, Indira Gandhi, and her"
+../data/test/photo/IMP-2015-06-23-a-i0053.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A mother and her twins<|endofchunk|>
+../data/test/photo/IMP-1949-07-18-a-i0007.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'The Crucifixion of Christ and the Virgin Mary, from the Church of the Holy Sep"
+../data/test/photo/JDG-1982-04-21-a-i0076.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The entrance hall of the Museum of Natural History, New York.<|endofchunk|>"
+../data/test/photo/IMP-2001-08-15-a-i0127.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A member of the KGB guards a tank in front of the Lenin Mausoleum in Moscow
+../data/test/photo/LCE-1982-12-14-a-i0038.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A climber on Mt. Rainier.<|endofchunk|>
+../data/test/photo/EXP-1961-06-08-a-i0104.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Lotus-Climax, Porsche, Ferrari, Maserati, Jaguar"
+../data/test/photo/IMP-1949-03-03-a-i0063.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A parade of French soldiers in the streets of Strasbourg, France, during the German occupation"
+../data/test/photo/IMP-1966-12-26-a-i0116.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Maltrie, Stuftor Dornröhre, Stuftor D"
+../data/test/photo/IMP-2000-05-29-a-i0059.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A girl stands in front of a stall selling antiques.<|endofchunk|>
+../data/test/photo/IMP-2016-08-05-a-i0071.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A woman taking a photo of a food product with her mobile phone.<|endofchunk|>
+../data/test/photo/EXP-2002-11-11-a-i0237.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: USA vs Germany<|endofchunk|>
+../data/test/photo/IMP-1949-04-14-a-i0055.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Funeral cortege of the Rev.<|endofchunk|>
+../data/test/photo/EXP-2016-01-22-a-i0238.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A man in a car.<|endofchunk|>
+../data/test/photo/JDG-1979-11-20-a-i0091.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A motorcyclist is stopped at a traffic light by a police officer. The motorcyclist is
+../data/test/photo/EXP-1948-12-08-a-i0100.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Aerial view of the site of the attack on the Japanese airfield at Rabaul, New"
+../data/test/photo/EXP-1987-08-13-a-i0007.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Dr. John J. O'Malley, president of the University of Notre Dame, at"
+../data/test/photo/EXP-1963-12-18-a-i0160.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A complete caption for this image is:  A complete caption for this image is:  A
+../data/test/photo/IMP-2001-10-11-a-i0283.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/photo/LCE-1969-11-08-a-i0113.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'The first Russian tank of the new series, the T-34, is shown at the Moscow"
+../data/test/photo/EXP-1932-03-16-a-i0064.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The first meeting of the National Executive of the National Union of Women's Suffrage Societies, held"
+../data/test/photo/IMP-1986-09-08-a-i0222.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The first train to be run on the new line was the first train to be run on the new
+../data/test/photo/GDL-1965-11-27-a-i0316.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The body of a man is removed from the wreckage of the plane in which he was killed.
+../data/test/photo/IMP-1941-06-23-a-i0009.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Battle of Gallipoli, Turkey, 1915.<|endofchunk|>"
+../data/test/photo/EXP-2016-04-04-a-i0128.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: A view of a residential building in the Old City of Damascus, Syria.<|endofchunk|>"
+../data/test/photo/EXP-1938-06-07-a-i0066.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The Swiss team line up for the national anthem<|endofchunk|>
+../data/test/photo/IMP-2004-09-04-a-i0354.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:<|endofchunk|>
+../data/test/photo/GDL-1958-02-01-a-i0009.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Dr. Robert A. M. Stern, M.D., F.A.C."
+../data/test/photo/EXP-2017-05-03-a-i0038.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A barber cuts the hair of a woman in a barber shop.<|endofchunk|>
+../data/test/photo/IMP-1999-05-27-a-i0288.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A young boy wearing sunglasses.<|endofchunk|>
+../data/test/photo/IMP-1962-03-23-a-i0300.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A French armoured car passes a house in the centre of Beirut, Lebanon, during"
+../data/test/photo/IMP-1999-12-31-a-i0037.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A young girl skates on a snow-covered sidewalk.<|endofchunk|>
+../data/test/photo/LCE-1943-07-12-a-i0010.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: <br /> <br /> <br /> <br /> <br /> <br /> <br
+../data/test/photo/EXP-1982-07-29-a-i0138.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The ball is kicked into the net by the goalkeeper.<|endofchunk|>
+../data/test/photo/JDG-1979-10-17-a-i0143.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. John R. (Jack) McKechnie.<|endofchunk|>
+../data/test/photo/IMP-1996-09-21-a-i0207.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. and Mrs. John W. (Jack) and Mrs. Dorothy (Dottie
+../data/test/photo/EXP-1988-12-22-a-i0069.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Elephant in front of a building.<|endofchunk|>
+../data/test/photo/EXP-2002-11-01-a-i0192.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mario Puzo<|endofchunk|>
+../data/test/photo/IMP-2006-10-05-a-i0259.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'The Usual Suspects'<|endofchunk|>
+../data/test/photo/IMP-1974-11-29-a-i0092.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Tire de la longueur de la ligne.<|endofchunk|>
+../data/test/photo/GDL-1984-06-26-a-i0081.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: England v West Germany, World Cup Finals, Mexico, 1986<|endofchunk|>"
+../data/test/photo/EXP-1926-08-11-a-i0064.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Cyclists at the start of the Paris-Roubaix race. From left to right
+../data/test/photo/EXP-1991-06-10-a-i0093.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The crew of 'The Tonight Show Starring Johnny Carson' rehearses for the taping of
+../data/test/photo/EXP-1989-12-22-a-i0227.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Hockey player in action.<|endofchunk|>
+../data/test/photo/EXP-1914-06-02-a-i0100.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'S.S. Titanic'<|endofchunk|>
+../data/test/photo/EXP-1979-10-23-a-i0132.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A group of men working on a fence.<|endofchunk|>
+../data/test/photo/EXP-1970-05-26-a-i0220.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The building in the background of the picture is the former Stadthaus (City Hall) in
+../data/test/photo/LCE-1909-06-23-a-i0020.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. and Mrs. George W. H. Hoyt.<|endofchunk|>
+../data/test/photo/EXP-2008-06-21-a-i0182.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Cristiano Ronaldo of Portugal celebrates after scoring the opening goal during the UEFA EURO 2012
+../data/test/photo/EXP-1975-09-10-a-i0205.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Soccer - World Cup - England - England - England - England - England - England - England - England
+../data/test/photo/IMP-1978-09-23-a-i0009.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: A view of the construction of the new water tower, taken from the top of the old water tower"
+../data/test/photo/IMP-2008-11-18-a-i0067.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The founders of the bakery, from left to right, are, from left to right,"
+../data/test/photo/IMP-1984-09-11-a-i0275.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The body of a woman is placed on the altar at the funeral of a man who was killed in
+../data/test/photo/IMP-1938-03-17-a-i0003.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  (left to right) Dr. J.B.S. Haldane and Dr.
+../data/test/photo/EXP-2001-03-16-a-i0237.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Hockey, ice hockey, ice hockey, ice hockey, ice hockey, ice hockey, ice hockey,"
+../data/test/photo/EXP-1934-09-17-a-i0013.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The bridge over the Seine at Rouen, France.<|endofchunk|>"
+../data/test/photo/IMP-2017-12-23-a-i0248.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The Mad Hatter (Alice in Wonderland)<|endofchunk|>
+../data/test/photo/IMP-2017-07-05-a-i0077.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: A woman with long brown hair, wearing a white blouse and a white dress.<|endofchunk|>"
+../data/test/photo/JDG-1928-05-27-a-i0061.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A woman dancing in a field of wheat.<|endofchunk|>
+../data/test/photo/IMP-1993-05-08-a-i0276.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Johnny Crawford<|endofchunk|>
+../data/test/photo/IMP-1966-07-23-a-i0027.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Camping in the Alps<|endofchunk|>
+../data/test/photo/IMP-2003-01-17-a-i0027.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A man in a dark suit and tie.<|endofchunk|>
+../data/test/photo/EXP-1968-12-12-a-i0341.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Jochen Rindt.<|endofchunk|>
+../data/test/photo/IMP-1960-06-16-a-i0011.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  'Barbara Cartland'<|endofchunk|>
+../data/test/photo/LCE-1970-03-16-a-i0098.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  John Lennon (born John Winston Ono Lennon; 8 December 1940 – 8 December 1980
+../data/test/photo/EXP-1930-06-03-a-i0004.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'The first train to be run on the new line, the first train to be run on the"
+../data/test/photo/EXP-2007-08-03-a-i0293.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The Phantom of the Opera<|endofchunk|>
+../data/test/photo/JDG-1974-05-18-a-i0221.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The cast of 'The Rivals'<|endofchunk|>
+../data/test/photo/EXP-2016-09-17-a-i0140.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Indicateurs<|endofchunk|>
+../data/test/photo/EXP-1954-02-16-a-i0010.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Hockey game.<|endofchunk|>
+../data/test/photo/IMP-1914-05-30-a-i0005.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Portrait of a young woman.<|endofchunk|>
+../data/test/photo/IMP-1943-02-06-a-i0003_2.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: German troops on the streets of Leningrad.<|endofchunk|>
+../data/test/photo/IMP-1956-04-24-a-i0007.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A house destroyed by fire.<|endofchunk|>
+../data/test/photo/EXP-2004-11-04-a-i0200.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Dr. John Ioannidis is a professor of medicine at Stanford University. He is the author
+../data/test/photo/EXP-1998-10-09-a-i0256.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Bobsleigh.  Bobsleigh.  Bobsleigh.  Bobsleigh.
+../data/test/photo/EXP-1964-05-26-a-i0222.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'The procession of the Royal Regiment of Fusiliers at the opening of the parade at the
+../data/test/photo/IMP-2013-04-30-a-i0141.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: FOUQUET C'EST QUE MARCHE L'AMOUR ET L'AMOUR
+../data/test/photo/EXP-1937-02-20-a-i0144.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'A woman with a sword in her hand and a helmet on her head stands on the deck of
+../data/test/photo/EXP-2001-10-30-a-i0026.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  'The first of a new class of yachts to be built for the Royal Yacht Squadron
+../data/test/photo/IMP-1940-02-08-a-i0008.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A Russian soldier and a German soldier.<|endofchunk|>
+../data/test/photo/IMP-1926-08-25-a-i0008.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: View of the city from the top of the Cathedral of St. John the Baptist, New Orleans,"
+../data/test/photo/IMP-2016-04-04-a-i0034.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: A woman casts her vote at a polling station in Paris, France.<|endofchunk|>"
+../data/test/photo/IMP-1938-12-15-a-i0014.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Christmas decorations on the High Street, Aberdeen.<|endofchunk|>"
+../data/test/photo/EXP-1996-09-10-a-i0259.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Steve Jobs<|endofchunk|>
+../data/test/photo/IMP-1929-08-23-a-i0002.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A man points to a sign in a shop window.  The sign says:  'The
+../data/test/photo/LCE-1956-11-16-a-i0030.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  BOBBY JACKSON (1924-1925)<|endofchunk|>
+../data/test/photo/IMP-1965-04-20-a-i0007.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: England v West Germany, World Cup Final, Wembley, England v West Germany, W"
+../data/test/photo/IMP-1940-08-06-a-i0014.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The late Sir William McAlpine, K.C.M.G., M.P"
+../data/test/photo/EXP-1989-07-29-a-i0029.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A young man with long blond hair, wearing a white T-shirt and black jeans, is"
+../data/test/photo/IMP-1958-01-03-a-i0117.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Aerial view of the city of San Salvador, El Salvador, after the earthquake.<|endofchunk|>"
+../data/test/photo/EXP-1930-08-27-a-i0004.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Members of the First Baptist Church of Pensacola, Florida, pose for a group photograph"
+../data/test/photo/IMP-1972-11-23-a-i0328.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A man and a woman on skis.<|endofchunk|>
+../data/test/photo/IMP-1985-11-11-a-i0143.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: John Lennon (born John Winston Ono Lennon; 8 December 1940 – 8 December 1980)
+../data/test/photo/GDL-1995-11-18-a-i0107.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'Genève - Exposition de Posters' (Genève - Exposition de Post
+../data/test/photo/EXP-1937-04-29-a-i0053.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  The monument to the Unknown Soldier, at Arlington National Cemetery, was dedicated on November 11,"
+../data/test/photo/IMP-1940-02-21-a-i0005.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The British Expeditionary Force in France.<|endofchunk|>
+../data/test/photo/EXP-1946-03-15-a-i0147.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  German soldiers in front of the Dornbusch Station, Dornbusch, Germany,"
+../data/test/photo/IMP-1968-08-23-a-i0248.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The first match of the new season was played between the University of Sydney and the University of Melbourne
+../data/test/photo/IMP-1989-08-16-a-i0106.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: MARTIN LUTHER KING JR.<|endofchunk|>
+../data/test/photo/IMP-1959-03-13-a-i0169.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. and Mrs. John F. Kennedy are shown in the back seat of a car with
+../data/test/photo/IMP-2008-10-13-a-i0075.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Drummer, percussionist, composer, arranger, producer, and bandleader.  "
+../data/test/photo/EXP-1999-12-02-a-i0140.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A man driving a car with a horse on the back.<|endofchunk|>
+../data/test/photo/IMP-2008-02-13-a-i0010.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: A woman stands in front of a street lamp in the city of Graz, Austria.<|endofchunk|>"
+../data/test/photo/EXP-1995-06-24-a-i0240.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Velo Club de Catalunya<|endofchunk|>
+../data/test/photo/EXP-1953-08-18-a-i0007.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A young woman stands in front of a tree in a garden.  She is wearing a white
+../data/test/photo/EXP-1970-05-04-a-i0007.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: US Army M113 Armored Personnel Carrier<|endofchunk|>
+../data/test/photo/EXP-1935-06-11-a-i0006.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The meeting of the Central Committee of the Communist Party of the Soviet Union.<|endofchunk|>
+../data/test/photo/EXP-1958-06-30-a-i0012.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: (L to R) Mr. and Mrs. W. H. (Bill) Hoyt
+../data/test/photo/LCE-1977-12-20-a-i0030.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'Au Beau Troubadour'<|endofchunk|>
+../data/test/photo/IMP-2008-09-16-a-i0309.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: World Cup Final, Brazil v Italy, Maracana Stadium, Rio de Janeiro, Brazil, 14"
+../data/test/photo/IMP-1930-01-08-a-i0004.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: King George V of the United Kingdom<|endofchunk|>
+../data/test/photo/EXP-2015-07-13-a-i0127.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: A man throws a stone at a member of the Croatian parliament during a protest in Zagreb,"
+../data/test/photo/EXP-1967-04-24-a-i0127.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A man holding a picture frame.<|endofchunk|>
+../data/test/photo/EXP-1987-10-22-a-i0509.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The car is being towed away from the scene of the accident.<|endofchunk|>
+../data/test/photo/IMP-2016-05-31-a-i0193.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Tissot Euroleague Basketball<|endofchunk|>
+../data/test/photo/IMP-1929-08-10-a-i0004.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. J. A. B. B. B. B. B. B. B
+../data/test/photo/IMP-1965-04-03-a-i0361.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A man in a white shirt and black pants is seated in a chair. He is wearing a
+../data/test/photo/GDL-1970-05-21-a-i0034.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Still life with a vase and a bottle<|endofchunk|>
+../data/test/photo/IMP-2008-06-02-a-i0067.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A crowd of people gathers at the entrance to the festival.<|endofchunk|>
+../data/test/photo/GDL-1979-05-08-a-i0045.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Mr. John F. B. McIntyre, Chairman of the Board of Directors of"
+../data/test/photo/IMP-1948-05-05-a-i0044.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A woman wearing a hat with daisies on it.<|endofchunk|>
+../data/test/photo/JDG-1995-03-30-a-i0189.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. and Mrs. George M. Cohan<|endofchunk|>
+../data/test/photo/JDG-1909-11-09-a-i0050.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  Mr. J. H. Boulton, proprietor of the Boulton and W"
+../data/test/photo/EXP-2010-07-14-a-i0108.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Toy Story<|endofchunk|>
+../data/test/photo/IMP-2009-05-04-a-i0182.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Hockey player<|endofchunk|>
+../data/test/photo/IMP-2002-12-28-a-i0029.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A young man at a newsagent.<|endofchunk|>
+../data/test/photo/GDL-1955-07-23-a-i0002.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Chateau de Chenonceau.<|endofchunk|>
+../data/test/photo/IMP-1969-01-25-a-i0104.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A group of children in a classroom.  The teacher is seated at the front of the room
+../data/test/photo/EXP-1945-12-13-a-i0079.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Candelabra, candelabra, candelabra, candelabra,"
+../data/test/photo/EXP-2015-02-05-a-i0115.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A person smoking a joint<|endofchunk|>
+../data/test/photo/JDG-1936-12-30-a-i0033.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A complete caption for this image is:  A complete caption for this image is:  A
+../data/test/photo/IMP-1931-02-18-a-i0004.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The Duke of Connaught<|endofchunk|>
+../data/test/photo/IMP-1935-05-23-a-i0005.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'The Indian workers of the British East India Company's factory in Calcutta, carrying boxes of"
+../data/test/photo/EXP-2008-10-10-a-i0155.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Rory McIlroy of Northern Ireland hits out of a bunker during the final round of the
+../data/test/photo/EXP-2010-02-01-a-i0162.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: FC Metz's Jean-Pierre Papin in action during the French Ligue 1 match between Met
+../data/test/photo/JDG-1959-09-30-a-i0045.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A house on the shore of the Pacific Ocean in the aftermath of the earthquake and tsunami of
+../data/test/photo/EXP-1932-04-08-a-i0060.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A man in a suit and a woman in a dress stand in front of a building.<|endofchunk|>
+../data/test/photo/IMP-2006-06-27-a-i0272.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: The rain stopped just in time for the rain ponchos to be passed out.<|endofchunk|>
+../data/test/photo/IMP-1983-03-10-a-i0177.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A mother and her two daughters sit on a bench in a park.  The mother is holding
+../data/test/photo/IMP-2003-08-30-a-i0229.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Aston Villa v Charlton Athletic, FA Cup, First Round, Wembley Stadium,"
+../data/test/photo/LCE-1983-10-04-a-i0034.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: Centre d'accueil, centre d'accueil, centre d'accueil"
+../data/test/photo/EXP-1996-11-16-a-i0042.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A woman looks at a piece of jewelry on display at a jewelry store in New York City.
+../data/test/photo/EXP-1936-06-20-a-i0103.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The Cabinet meeting in the Cabinet Room at Buckingham Palace, London.<|endofchunk|>"
+../data/test/photo/LCE-1969-02-14-a-i0005.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The church of St. Peter and St. Paul in the village of St. Peter in the
+../data/test/photo/EXP-1967-05-05-a-i0062.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A bus driver and his passengers wait for a bus to take them to work.<|endofchunk|>
+../data/test/photo/EXP-2010-03-27-a-i0274.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A scene from the film 'The Tree of Life', starring Brad Pitt, Jessica Chastain"
+../data/test/photo/IMP-2009-03-21-a-i0313.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: 'The Hunt for Red October'<|endofchunk|>
+../data/test/photo/IMP-1963-09-05-a-i0007.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Aerial view of the crash site of a Cessna airplane in the field near the home of
+../data/test/photo/IMP-1982-07-02-a-i0242.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  C'est parfois que le film de Russel Crowe se déroule dans
+../data/test/photo/GDL-1989-04-08-a-i0200.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A worker climbs a ladder on the roof of the Eiffel Tower, Paris, France"
+../data/test/photo/EXP-1931-12-17-a-i0121.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  Mr. K. K. K. K. K. K. K. K. K
+../data/test/photo/GDL-1982-12-02-a-i0053.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  The first X-ray machine to be used in the United States was installed at the University of
+../data/test/photo/EXP-2000-09-13-a-i0271.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Paul et Martin Laciga<|endofchunk|>
+../data/test/photo/IMP-1976-03-11-a-i0063.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A woman dancing in a room.<|endofchunk|>
+../data/test/photo/GDL-1967-01-16-a-i0140.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is:  A crowd of Red Army soldiers in the Soviet Union.<|endofchunk|>
+../data/test/photo/EXP-2007-07-26-a-i0207.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: Professor Sir John Sulston<|endofchunk|>
+../data/test/photo/EXP-2014-12-16-a-i0190.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/photo/EXP-1995-11-24-a-i0048.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: John Betjeman<|endofchunk|>
+../data/test/photo/EXP-1929-08-09-a-i0096.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: The pier at St Helier, Jersey.<|endofchunk|>"
+../data/test/photo/JDG-1992-09-07-a-i0165.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A mother and child in a street in the Jewish ghetto of Lodz, Poland,"
+../data/test/photo/IMP-1915-11-10-a-i0006_2.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is: 'The British Expeditionary Force on the Western Front, 1914-1918. The British Expedition"
+../data/test/photo/IMP-1973-02-06-a-i0033.jpg,<image>A complete caption for this image is:,photo,A complete caption for this image is: A car is parked in front of a building.<|endofchunk|>
+../data/test/photo/EXP-1977-07-23-a-i0116.jpg,<image>A complete caption for this image is:,photo,"A complete caption for this image is:  A group of elderly Jews from the Warsaw ghetto, who had been liberated from the ghetto"
+../data/test/graph/GDL-1989-04-17-a-i0064_2.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is: United Kingdom, Morgan Stanley International Capital (Morgan Stanley Capital International)<|endofchunk|>"
+../data/test/graph/EXP-1911-12-09-a-i0115.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is: A table showing the number of days in a year, the number of months in a year, and"
+../data/test/graph/GDL-1989-04-17-a-i0064.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: Morgan Stanley Capital<|endofchunk|>
+../data/test/graph/EXP-1912-02-02-a-i0108.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: Figure 1.<|endofchunk|>
+../data/test/graph/EXP-1923-03-21-a-i0095.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is:  A chart showing the number of hours of light and darkness in a given year.  The chart
+../data/test/graph/EXP-1913-04-28-a-i0115.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is:  A graph of the number of births in the United States from 1790 to 1810.  
+../data/test/graph/EXP-1903-11-30-a-i0052.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is:  A graph showing the number of deaths per day in the first week of the Spanish Civil War.
+../data/test/graph/EXP-1908-07-09-a-i0073_2.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is:  1.  1.  2.  3.  4.  5.  6
+../data/test/graph/GDL-1996-02-01-a-i0256.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: The stock market crash of 1929.<|endofchunk|>
+../data/test/graph/JDG-1976-01-09-a-i0041.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: A chart of the Dow Jones Industrial Average (DJIA) and the Standard & Poor's 500 Index
+../data/test/graph/EXP-1935-03-04-a-i0105.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: Fevrier Mars - Fevrier Mars - Fevrier Mars - Fevrier Mars -
+../data/test/graph/EXP-1903-12-16-a-i0044.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: The graph shows the number of deaths per day in the first year of the war. The graph shows
+../data/test/graph/EXP-1921-08-31-a-i0070.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: Figure 1.<|endofchunk|>
+../data/test/graph/EXP-1915-02-26-a-i0072.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is: The graph shows the number of deaths per 100,000 population in the United States from 1900 to 1940"
+../data/test/graph/EXP-1923-08-21-a-i0071.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is:  A graph of the temperature of the air in a room, showing the temperature of the air in"
+../data/test/graph/GDL-1979-10-09-a-i0095.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is:  Market Value vs. World Price.<|endofchunk|>
+../data/test/graph/EXP-1913-11-07-a-i0100.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is: A graph of the temperature of the air in a room, showing the rise and fall of the temperature"
+../data/test/graph/EXP-1912-11-26-a-i0106.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is:  A chart of the number of deaths in the United States during the years 1820, 1821"
+../data/test/graph/EXP-1962-11-21-a-i0136.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is:  November, 1915.  Monthly chart.  No. 1.  No. 2."
+../data/test/graph/IMP-1994-10-29-a-i0103.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: Swiss Market Index<|endofchunk|>
+../data/test/graph/EXP-1945-04-05-a-i0192.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is: MARS, AVRIL, MARS, APRIL, MARS, AVRIL,"
+../data/test/graph/EXP-1913-09-08-a-i0104.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: Figure 1.<|endofchunk|>
+../data/test/graph/EXP-1948-05-28-a-i0189.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: The graph shows the average daily temperature for the month of May. The graph shows the average daily temperature
+../data/test/graph/JDG-1907-09-14-a-i0064.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is: The height of a man in inches, from the top of his head to the bottom of his feet"
+../data/test/graph/EXP-1923-03-16-a-i0102.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is:  A chart of the motion of the earth and the moon during the year, from the observations of"
+../data/test/graph/EXP-1936-05-22-a-i0112.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: The graph shows the number of deaths per day in the first week of the war. The graph shows
+../data/test/graph/JDG-1997-05-01-a-i0235.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: LONDON - FRANCE - ITALY - FRANCE - ITALY - FRANCE
+../data/test/graph/GDL-1979-02-05-a-i0102.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is:  A graph of the number of people in the U.S. who were born in the U
+../data/test/graph/EXP-1916-01-19-a-i0064.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is: A chart of the temperature of the air at different altitudes, showing the temperature of the air at"
+../data/test/graph/JDG-1908-10-10-a-i0031.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is:  A graph of the number of days in a year from the beginning of the year to the end
+../data/test/graph/EXP-1920-10-02-a-i0159.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is:  A table showing the number of deaths in the United States during the first half of the twentieth century
+../data/test/graph/EXP-1913-02-21-a-i0127.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is:  A chart of the temperature of the air at different altitudes.<|endofchunk|>
+../data/test/graph/EXP-1970-01-17-a-i0061.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: The graph shows the temperature of the atmosphere at the time of the eruption of Mount Vesuvius in
+../data/test/graph/EXP-1951-01-29-a-i0116.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is: The graph shows the average daily temperature for the month of January. The graph shows the average daily temperature
+../data/test/graph/EXP-1931-10-26-a-i0101_2.jpg,<image>A complete caption for this image is:,graph,"A complete caption for this image is: Nivau du JAC, Nivau du JAC, Nivau du JAC"
+../data/test/graph/EXP-1918-02-08-a-i0068.jpg,<image>A complete caption for this image is:,graph,A complete caption for this image is:  A complete caption for this image is:  A complete caption for this image is:  A
+../data/test/drawing/JDG-1966-05-31-a-i0021.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is: 'A group of men standing in a row, each with a pair of shoes on his feet."
+../data/test/drawing/EXP-1988-07-13-a-i0007.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  Mr. John D. McIntyre, a member of the Board of Directors of the"
+../data/test/drawing/IMP-1911-01-14-a-i0027.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A plane with a parasol and a parasol-wielding bird on its tail flies
+../data/test/drawing/EXP-1932-07-26-a-i0078.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: Robes et tabliers de fillette<|endofchunk|>
+../data/test/drawing/EXP-1990-11-26-a-i0245.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: Portrait of a young woman.<|endofchunk|>
+../data/test/drawing/IMP-1981-02-18-a-i0085_4.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is: 'A model of a ship of the line, with a view of the gun deck, from the"
+../data/test/drawing/IMP-1906-12-16-a-i0013.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  The wolf is the most common of the carnivorous mammals.  It is the largest of
+../data/test/drawing/GDL-1966-04-22-a-i0067.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: Portrait of a young woman.<|endofchunk|>
+../data/test/drawing/IMP-1904-04-09-a-i0002_3.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is: Vue géographique de l'Institut de France, Académie frança"
+../data/test/drawing/EXP-1957-12-06-a-i0008.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: 'Aerial vehicle of the future'<|endofchunk|>
+../data/test/drawing/IMP-1929-10-16-a-i0005.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  'Aerial view of the German U-boat U-505, which was sunk by the"
+../data/test/drawing/IMP-1910-05-01-a-i0094_10.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A woman in a long black dress with a high collar and long sleeves.  She wears a
+../data/test/drawing/IMP-1923-12-21-a-i0030.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A woman wearing a black and white dress with a black and white pattern and a black and white
+../data/test/drawing/IMP-1904-04-09-a-i0002.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A view of the interior of the prison.<|endofchunk|>
+../data/test/drawing/IMP-1913-11-22-a-i0062.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: The procession of the Holy Family.<|endofchunk|>
+../data/test/drawing/JDG-1994-06-10-a-i0250.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: EUROPEAN LIBEREEE NATIONE ET ET ET ET ET ET ET ET ET ET
+../data/test/drawing/EXP-1972-07-08-a-i0361_3.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: 'The police arrest a man suspected of being a member of a criminal gang. The man is led
+../data/test/drawing/GDL-1951-10-24-a-i0014.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: DETECTIVE CLUB<|endofchunk|>
+../data/test/drawing/LCE-1952-09-22-a-i0041_2.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  A man in striped shirt, striped pants, striped shoes, and striped balloons"
+../data/test/drawing/IMP-1993-09-25-a-i0275.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is: A crowd of men and women, some of whom appear to be in the act of throwing something,"
+../data/test/drawing/IMP-1981-02-18-a-i0085_5.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is: 'A wagon with a large tree in the front, a small tree in the back, and a"
+../data/test/drawing/LCE-1919-05-03-a-i0022.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A child's head is cut off by a man with a machete.<|endofchunk|>
+../data/test/drawing/JDG-1958-02-15-a-i0052_2.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: 'A man and a woman in a room with a bookcase in the background. The man is
+../data/test/drawing/IMP-1920-03-19-a-i0002.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  Mr. J. W. H. Smith, President of the Board of Trade.<|endofchunk|>"
+../data/test/drawing/IMP-1955-08-01-a-i0038.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  Mother and son.<|endofchunk|>
+../data/test/drawing/IMP-1989-08-28-a-i0011.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  The old man and the young man<|endofchunk|>
+../data/test/drawing/IMP-2001-07-17-a-i0177.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: The eyes of the book.<|endofchunk|>
+../data/test/drawing/GDL-1949-09-03-a-i0216.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A group of French soldiers in the field.  They are sitting around a campfire.  
+../data/test/drawing/IMP-1915-04-08-a-i0038_2.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  Piano-forte in C minor, Op. 1, No. 1, No."
+../data/test/drawing/IMP-1946-02-01-a-i0084.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  Misses' Coat, Skirt, Belt, and Hat.<|endofchunk|>"
+../data/test/drawing/IMP-2001-07-17-a-i0177_2.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: Wheel of fortune<|endofchunk|>
+../data/test/drawing/IMP-1955-01-31-a-i0053.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is: 'Moi au soleil, une biere'.<|endofchunk|>"
+../data/test/drawing/EXP-1906-03-31-a-i0134.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: The execution of a German spy by the British.<|endofchunk|>
+../data/test/drawing/JDG-1977-06-04-a-i0219.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  POUR LE PROPRIETE EN SUISSE<|endofchunk|>
+../data/test/drawing/IMP-1981-02-18-a-i0085_13.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  A view from the top of the Empire State Building, New York, showing the Empire State Building"
+../data/test/drawing/EXP-1950-01-28-a-i0233.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: Hotel de Ville<|endofchunk|>
+../data/test/drawing/EXP-1973-09-01-a-i0451_4.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A woman on the phone.<|endofchunk|>
+../data/test/drawing/JDG-1956-12-12-a-i0230_2.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: Tapered Roller Bearing<|endofchunk|>
+../data/test/drawing/IMP-1989-05-31-a-i0100.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A man in a white coat with a hat and a cane.<|endofchunk|>
+../data/test/drawing/LCE-1901-07-31-a-i0023.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  The head and shoulders of a young woman, wearing a dress with a high neckline and a"
+../data/test/drawing/IMP-1937-02-16-a-i0012.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A man walking with a cane.<|endofchunk|>
+../data/test/drawing/JDG-1971-07-24-a-i0130.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  A scene from the Book of Revelation, showing the destruction of the city of Sodom by"
+../data/test/drawing/IMP-1992-02-10-a-i0160.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A frog in the rain.<|endofchunk|>
+../data/test/drawing/EXP-1979-08-17-a-i0337.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: 'Three women laughing'<|endofchunk|>
+../data/test/drawing/IMP-2000-09-15-a-i0197_3.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A man sits in a chair reading a book.<|endofchunk|>
+../data/test/drawing/EXP-1966-11-25-a-i0334.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is: 'A Chinese woman in a garden, with a fan in her hand and a parasol in her"
+../data/test/drawing/IMP-1925-01-09-a-i0030.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  Mother and children.<|endofchunk|>
+../data/test/drawing/GDL-1953-05-30-a-i0173.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: 'Nude woman reclining on a sheet of paper'<|endofchunk|>
+../data/test/drawing/JDG-1974-01-17-a-i0097.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A man and a woman in a car.<|endofchunk|>
+../data/test/drawing/LCE-1908-02-29-a-i0040.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A knight on a horse with a lance and shield.<|endofchunk|>
+../data/test/drawing/IMP-1936-06-23-a-i0069.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  A man in a hat and a top hat, holding a pen and a piece of paper."
+../data/test/drawing/IMP-1976-01-24-a-i0073.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: The French magazine 'Le Petit Journal' published this cartoon on the front page of its issue of
+../data/test/drawing/LCE-1992-06-12-a-i0032.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  The text on the surface of the stone is inscribed in a language that is not known.
+../data/test/drawing/EXP-1959-06-19-a-i0106_3.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A man in a hammock with a dog.<|endofchunk|>
+../data/test/drawing/IMP-1951-08-20-a-i0080.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A young man kisses a young woman in front of a castle.  The caption reads:  
+../data/test/drawing/IMP-1984-11-06-a-i0005.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: 'A man and a woman sit on a bench in the rain. The man is smoking a pipe
+../data/test/drawing/IMP-1915-05-18-a-i0007.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: H.M.S.<|endofchunk|>
+../data/test/drawing/GDL-1959-02-03-a-i0097_2.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: The patient is a patient in the operating room. The surgeon is a surgeon in the operating room.
+../data/test/drawing/EXP-1994-10-24-a-i0110.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: DITES S3 TOUSEE S3 DITES S3 TOUSEE S3
+../data/test/drawing/IMP-1903-01-14-a-i0031.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is: ABEBI, ABEBI, ABEBI, ABEBI, ABEBI,"
+../data/test/drawing/EXP-1914-02-11-a-i0087.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: The new building of the National Bank of Mexico.<|endofchunk|>
+../data/test/drawing/GDL-1979-06-15-a-i0026_2.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  Aerial view of the wreckage of the Titanic.<|endofchunk|>
+../data/test/drawing/IMP-1980-02-04-a-i0078_3.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: Portrait of a man in a dark suit.<|endofchunk|>
+../data/test/drawing/JDG-1992-04-25-a-i0255_3.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is: 'The Battle of Thermopylae, 480 B.C.'<|endofchunk|>"
+../data/test/drawing/GDL-1975-12-13-a-i0099.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A man with a pipe and a book.<|endofchunk|>
+../data/test/drawing/EXP-1972-07-08-a-i0361.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: The two men in the foreground are a Russian and a German. The two men in the background are
+../data/test/drawing/EXP-1974-05-25-a-i0325_2.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A horse-drawn carriage carrying a woman and a child.<|endofchunk|>
+../data/test/drawing/JDG-1904-10-21-a-i0066.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  Mr. William H. H. B. (William Henry Boulton)  (18
+../data/test/drawing/EXP-1969-05-13-a-i0056.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is: The church of St. Mary the Virgin, Bury St. Edmunds, Suffolk,"
+../data/test/drawing/JDG-1955-02-10-a-i0014.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  Two figures, one with a dog, the other with a cat.<|endofchunk|>"
+../data/test/drawing/EXP-1974-04-25-a-i0418.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: 'A man and a woman in an office. The man is reading a newspaper and the woman is
+../data/test/drawing/IMP-1958-03-19-a-i0167.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: The bride and groom in a garden.<|endofchunk|>
+../data/test/drawing/EXP-1972-12-02-a-i0308.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A swimmer and a diver.<|endofchunk|>
+../data/test/drawing/GDL-1956-06-30-a-i0255_6.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A man playing a flute.<|endofchunk|>
+../data/test/drawing/LCE-1915-02-13-a-i0032.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A portrait of a young woman smiling.<|endofchunk|>
+../data/test/drawing/JDG-1978-10-23-a-i0020.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A man in a trench coat and hat.<|endofchunk|>
+../data/test/drawing/IMP-1901-05-29-a-i0035.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  A young girl with long black hair, wearing a white dress and a black bonnet.  "
+../data/test/drawing/LCE-1915-12-25-a-i0042.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: Sewing machine<|endofchunk|>
+../data/test/drawing/EXP-1924-06-06-a-i0046.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A man and a woman are standing on the deck of a ship.  The man is holding
+../data/test/drawing/IMP-1983-10-03-a-i0220.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A man and a woman fight on the road.<|endofchunk|>
+../data/test/drawing/JDG-1968-10-25-a-i0086.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A complete caption for this image is: A complete caption for this image is: A complete caption for
+../data/test/drawing/EXP-1974-05-25-a-i0325_4.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: Birds on a wire.<|endofchunk|>
+../data/test/drawing/EXP-1974-05-25-a-i0325_8.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: A woman and a boy look through a telescope.<|endofchunk|>
+../data/test/drawing/GDL-1900-03-08-a-i0026.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: Portrait of a man with a moustache.<|endofchunk|>
+../data/test/drawing/IMP-1949-09-30-a-i0010.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A boy and a girl are playing in the garden.  The boy is holding a spade
+../data/test/drawing/IMP-1981-02-18-a-i0085.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is: 'The first ambulance to be built in Australia was a Ford Model A truck. It was built by
+../data/test/drawing/LCE-1908-08-12-a-i0050.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A complete caption for this image is:  A complete caption for this image is:  A
+../data/test/drawing/IMP-1930-02-27-a-i0033.jpg,<image>A complete caption for this image is:,drawing,"A complete caption for this image is:  The castle of Bruges, Belgium.<|endofchunk|>"
+../data/test/drawing/EXP-1986-07-04-a-i0361.jpg,<image>A complete caption for this image is:,drawing,A complete caption for this image is:  A pear is a fruit.  A pear is a fruit.  A pear is a fruit
+../data/test/comic/IMP-1957-11-02-a-i0173_5.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is:  A man and a woman in bed.  The man is reading a newspaper.  The woman
+../data/test/comic/EXP-1962-01-05-a-i0084_2.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is:  MINDPIECE  MINDPIECE  MINDPIECE  M
+../data/test/comic/EXP-1989-08-16-a-i0308_4.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: A man in a hat is standing in the water with a fishing pole in his hand. He is
+../data/test/comic/EXP-1958-01-21-a-i0185.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: La journée de M. Mouche<|endofchunk|>
+../data/test/comic/EXP-2004-11-03-a-i0131_2.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Le professeur Orik semble un peu ennemi!<|endofchunk|>
+../data/test/comic/IMP-1979-12-03-a-i0187.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Chilveric-Lutin<|endofchunk|>
+../data/test/comic/EXP-2000-03-18-a-i0362.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is:  Dats Armes Soiez Prudents<|endofchunk|>
+../data/test/comic/IMP-1957-12-16-a-i0087.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is:  The penguin and the seal.<|endofchunk|>
+../data/test/comic/EXP-1940-04-09-a-i0069.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: A man and a woman stand in the doorway of a house. The man is holding a bag of
+../data/test/comic/EXP-1976-12-31-a-i0420.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: C'est n'est pas un avocat sans serre les lègères.
+../data/test/comic/EXP-1958-05-20-a-i0092_3.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Copyright Monodji Press<|endofchunk|>
+../data/test/comic/EXP-1968-06-14-a-i0472.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: CLICK CLICK CLICK CLICK CLICK CLICK CLICK CLICK CLICK CLICK
+../data/test/comic/IMP-1993-04-16-a-i0150.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: 'Vote! Vote! Vote! Vote! Vote! Vote! Vote! Vote! Vote!
+../data/test/comic/EXP-1965-12-24-a-i0313_3.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is:  A man in a raincoat and a woman in a raincoat stand in front of
+../data/test/comic/EXP-1959-02-20-a-i0098_4.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Copyright © Mondial Press<|endofchunk|>
+../data/test/comic/IMP-1960-08-06-a-i0090_7.jpg,<image>A complete caption for this image is:,comic,"A complete caption for this image is: Bonjour, passé rétro, bonnes vacances<|endofchunk|>"
+../data/test/comic/IMP-1965-03-13-a-i0144_3.jpg,<image>A complete caption for this image is:,comic,"A complete caption for this image is:  No, I don't want to go with you, I want to go with my car."
+../data/test/comic/LCE-1999-01-22-a-i0030.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Propriétaires de la terre et de la liberté<|endofchunk|>
+../data/test/comic/IMP-1974-02-12-a-i0183.jpg,<image>A complete caption for this image is:,comic,"A complete caption for this image is:  Un voleille, une vileuse...<|endofchunk|>"
+../data/test/comic/GDL-1936-12-18-a-i0041.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: La station parcourue plus acrobatique<|endofchunk|>
+../data/test/comic/IMP-1949-09-09-a-i0013.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Avant la Braderie...<|endofchunk|>
+../data/test/comic/EXP-1998-11-11-a-i0396.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Ministers et britanniques rassient les Américains. Les Américains ass
+../data/test/comic/IMP-1960-08-06-a-i0090_4.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Faites le vide de l'essence!<|endofchunk|>
+../data/test/comic/EXP-1967-01-26-a-i0258_3.jpg,<image>A complete caption for this image is:,comic,"A complete caption for this image is:  'Moi, je connais l'esprit de l'homme.  "
+../data/test/comic/IMP-2012-10-15-a-i0103.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Laquelle hagar?<|endofchunk|>
+../data/test/comic/EXP-1979-12-29-a-i0132.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: REVOLUTION SURPRISE<|endofchunk|>
+../data/test/comic/IMP-1965-03-13-a-i0144.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is:  A man is hanging from a rope.<|endofchunk|>
+../data/test/comic/LCE-1969-05-19-a-i0016_3.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: The rain is coming down.<|endofchunk|>
+../data/test/comic/IMP-1959-02-06-a-i0032.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: 'Tou n'assez pas le mouchoir' (You don't need
+../data/test/comic/IMP-1947-07-04-a-i0016.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Week-end familial<|endofchunk|>
+../data/test/comic/EXP-1965-01-28-a-i0311.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is:  The cat is looking for a place to hide.  The mouse is looking for a place to
+../data/test/comic/GDL-1915-12-05-a-i0098.jpg,<image>A complete caption for this image is:,comic,"A complete caption for this image is: 'A man and a woman in a bar, the man is buying a drink and the woman is"
+../data/test/comic/IMP-1942-05-29-a-i0016.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: Nous sommes champions...<|endofchunk|>
+../data/test/comic/IMP-2012-09-01-a-i0115.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is:  A man and a woman stand in the doorway of a house.  The man is holding a
+../data/test/comic/IMP-1992-12-19-a-i0198_2.jpg,<image>A complete caption for this image is:,comic,"A complete caption for this image is: Héritiers au centre de l'horizon, n'oublions-nous"
+../data/test/comic/EXP-1956-07-25-a-i0105.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is:  A man in a suit and a hat vacuuming the floor.<|endofchunk|>
+../data/test/comic/EXP-1966-07-16-a-i0254_6.jpg,<image>A complete caption for this image is:,comic,"A complete caption for this image is: Homme vive, une vie de poitrine<|endofchunk|>"
+../data/test/comic/IMP-1961-11-01-a-i0016.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: 'Mr. and Mrs. Balfour and Mr. and Mrs. Balfour and Mr
+../data/test/comic/IMP-1959-12-05-a-i0123.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: 4 minutes.<|endofchunk|>
+../data/test/comic/EXP-1966-07-15-a-i0238.jpg,<image>A complete caption for this image is:,comic,A complete caption for this image is: RESEINEUR<|endofchunk|>

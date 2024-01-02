@@ -11,7 +11,7 @@ from tqdm import tqdm
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Suppress all warnings
-#warnings.filterwarnings("ignore")
+warnings.filterwarnings("ignore")
 
 model, image_processor, tokenizer = create_model_and_transforms(
     clip_vision_encoder_path="ViT-L-14",
@@ -73,88 +73,82 @@ img_paths = [item["path"] for item in labelled_data]
 CLASS_PROMPT_LIST = [
     "<image>An image of",
     "<image>This image can be classified as a",
-    "<image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a",
     "<image>Keywords describing this image are",
     "<image>The type of this image is",
 ]
 
 CAP_PROMPT_LIST = [
-    "<image>A complete caption for this image is:"
+    "<image>A complete caption for this image is:",
      "<image>An image of",
+     "<image>Question: What can you say about the location and time of this image? Answer:",
+     "<image>Question: What class does this image belong to? Answer:"
 ]
 
-#prompt = "<image>This image can be classified as a"
-#prompt = "<image>The type of this image is"
-#prompt = "<image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a"
-#prompt = "<image>Keywords describing this image are"
-#misclas_prompt = "<image> Between a logo and a title, this image is classified as a"
-
 def open_demo_imgs(): 
-    demo1_comic = Image.open("../data/train/comic/EXP-1925-01-22-a-i0059.jpg")
+    demo1_comic = Image.open("./data/train/comic/EXP-1925-01-22-a-i0059.jpg")
 
-    demo1_drawing = Image.open("../data/train/drawing/EXP-1900-02-23-a-i0027.jpg")
+    demo1_drawing = Image.open("./data/train/drawing/EXP-1900-02-23-a-i0027.jpg")
 
-    demo1_game = Image.open("../data/train/game/EXP-1935-09-13-a-i0054.jpg")
+    demo1_game = Image.open("./data/train/game/EXP-1935-09-13-a-i0054.jpg")
 
-    demo1_graph = Image.open("../data/train/graph/EXP-1903-09-09-a-i0047.jpg")
+    demo1_graph = Image.open("./data/train/graph/EXP-1903-09-09-a-i0047.jpg")
 
-    demo1_logo = Image.open("../data/train/logo/EXP-1903-12-26-a-i0056.jpg")
+    demo1_logo = Image.open("./data/train/logo/EXP-1903-12-26-a-i0056.jpg")
 
-    demo1_map = Image.open("../data/train/map/EXP-1939-11-27-a-i0011.jpg")
+    demo1_map = Image.open("./data/train/map/EXP-1939-11-27-a-i0011.jpg")
 
-    demo1_photo = Image.open("../data/train/photo/EXP-1900-12-31-a-i0138.jpg")
+    demo1_photo = Image.open("./data/train/photo/EXP-1900-12-31-a-i0138.jpg")
 
-    demo1_title = Image.open("../data/train/title/LCE-1900-02-17-a-i0005.jpg")
+    demo1_title = Image.open("./data/train/title/LCE-1900-02-17-a-i0005.jpg")
 
     img_subset1 = [demo1_comic, demo1_drawing, demo1_game, demo1_graph, demo1_logo, demo1_map, demo1_photo, demo1_title]
 
 
-    demo2_comic = Image.open("../data/train/comic/EXP-1925-04-23-a-i0091.jpg")
+    demo2_comic = Image.open("./data/train/comic/EXP-1925-04-23-a-i0091.jpg")
 
-    demo2_drawing = Image.open("../data/train/drawing/EXP-1906-02-21-a-i0051.jpg")
+    demo2_drawing = Image.open("./data/train/drawing/EXP-1906-02-21-a-i0051.jpg")
 
-    demo2_game = Image.open("../data/train/game/EXP-1937-12-17-a-i0102.jpg")
+    demo2_game = Image.open("./data/train/game/EXP-1937-12-17-a-i0102.jpg")
 
-    demo2_graph = Image.open("../data/train/graph/EXP-1903-09-12-a-i0043.jpg")
+    demo2_graph = Image.open("./data/train/graph/EXP-1903-09-12-a-i0043.jpg")
 
-    demo2_logo = Image.open("../data/train/logo/EXP-1904-02-13-a-i0086_2.jpg")
+    demo2_logo = Image.open("./data/train/logo/EXP-1904-02-13-a-i0086_2.jpg")
 
-    demo2_map = Image.open("../data/train/map/EXP-1940-05-06-a-i0011.jpg")
+    demo2_map = Image.open("./data/train/map/EXP-1940-05-06-a-i0011.jpg")
 
-    demo2_photo = Image.open("../data/train/photo/EXP-1912-05-29-a-i0089.jpg")
+    demo2_photo = Image.open("./data/train/photo/EXP-1912-05-29-a-i0089.jpg")
 
-    demo2_title = Image.open("../data/train/title/LCE-1900-03-07-a-i0012.jpg")
+    demo2_title = Image.open("./data/train/title/LCE-1900-03-07-a-i0012.jpg")
 
     img_subset2 = [demo2_comic, demo2_drawing, demo2_game, demo2_graph, demo2_logo, demo2_map, demo2_photo, demo2_title]
 
 
-    demo3_comic = Image.open("../data/train/comic/EXP-1956-05-02-a-i0129_3.jpg")
+    demo3_comic = Image.open("./data/train/comic/EXP-1956-05-02-a-i0129_3.jpg")
 
-    demo3_drawing = Image.open("../data/train/drawing/EXP-1901-07-17-a-i0091.jpg")
+    demo3_drawing = Image.open("./data/train/drawing/EXP-1901-07-17-a-i0091.jpg")
 
-    demo3_game = Image.open("../data/train/game/EXP-1938-06-03-a-i0063.jpg")
+    demo3_game = Image.open("./data/train/game/EXP-1938-06-03-a-i0063.jpg")
 
-    demo3_graph = Image.open("../data/train/graph/EXP-1950-03-24-a-i0151.jpg")
+    demo3_graph = Image.open("./data/train/graph/EXP-1950-03-24-a-i0151.jpg")
 
-    demo3_logo = Image.open("../data/train/logo/EXP-1915-02-13-a-i0002.jpg")
+    demo3_logo = Image.open("./data/train/logo/EXP-1915-02-13-a-i0002.jpg")
 
-    demo3_map = Image.open("../data/train/map/EXP-1944-06-20-a-i0012_2.jpg")
+    demo3_map = Image.open("./data/train/map/EXP-1944-06-20-a-i0012_2.jpg")
 
-    demo3_photo = Image.open("../data/train/photo/EXP-1905-01-12-a-i0048.jpg")
+    demo3_photo = Image.open("./data/train/photo/EXP-1905-01-12-a-i0048.jpg")
 
-    demo3_title = Image.open("../data/train/title/GDL-1961-10-10-a-i0011.jpg")
+    demo3_title = Image.open("./data/train/title/GDL-1961-10-10-a-i0011.jpg")
 
     img_subset3 = [demo3_comic, demo3_drawing, demo3_game, demo3_graph, demo3_logo, demo3_map, demo3_photo, demo3_title]
 
     return img_subset1, img_subset2, img_subset3
 
-def settle_flamingo(img_path, prompt, num_shots): 
+def settle_flamingo(img_path, prompt): 
     try: 
-        demo1_title = Image.open("../data/train/title/LCE-1900-02-17-a-i0005.jpg")
-        demo1_game = Image.open("../data/train/game/EXP-1935-09-13-a-i0054.jpg")
-        demo1_photo = Image.open("../data/train/photo/EXP-1900-12-31-a-i0138.jpg")
+        demo1_title = Image.open("./data/train/title/LCE-1900-02-17-a-i0005.jpg")
+        demo1_game = Image.open("./data/train/game/EXP-1935-09-13-a-i0054.jpg")
+        demo1_photo = Image.open("./data/train/photo/EXP-1900-12-31-a-i0138.jpg")
         one_shot_str1 = "<image>Between a logo and a title, this image is classifed as a title.<|endofchunk|><image>Between a graph and a game, this image is classified as a game.<|endofchunk|>"
-        #one_shot_str2 = "<image>Between a comic, a drawing, a game, a graph, a logo, a map, a photograph or a title, this image is classified as a photo.<|endofchunk|>"
         adapted_prompt = one_shot_str1 + prompt 
         query_image = Image.open(img_path)
         vision_x = [image_processor(demo1_title).unsqueeze(0), image_processor(demo1_game).unsqueeze(0), image_processor(demo1_photo).unsqueeze(0),  image_processor(query_image).unsqueeze(0)]
@@ -195,9 +189,8 @@ def ask_flamingo(img_path, prompt, num_shots, s1, s2, s3, prompt_id, caption):
             one_shot_strs = [
                 "<image>An image of a comic.<|endofchunk|><image>An image of a drawing.<|endofchunk|><image>An image of a game.<|endofchunk|><image>An image of a graph.<|endofchunk|><image>An image of a logo.<|endofchunk|><image>An image of a map.<|endofchunk|><image>An image of a photograph.<|endofchunk|><image>An image of a title.<|endofchunk|>",
                 "<image>This image can be classifed as a comic.<|endofchunk|><image>This image can be classifed as a drawing.<|endofchunk|><image>This image can be classifed as a game.<|endofchunk|><image>This image can be classifed as a graph.<|endofchunk|><image>This image can be classifed as a logo.<|endofchunk|><image>This image can be classifed as a map.<|endofchunk|><image>This image can be classifed as a photograph.<|endofchunk|><image>This image can be classifed as a title.<|endofchunk|>",
-                "<image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a comic.<|endofchunk|><image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a drawing.<|endofchunk|><image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a game.<|endofchunk|><image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a graph.<|endofchunk|><image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a logo.<|endofchunk|><image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a map.<|endofchunk|><image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a photograph.<|endofchunk|><image>Between the classes comic, drawing, game, graph, logo, map, photograph, title, this image is a title.<|endofchunk|>",
-                "<image>Keywords describing this image are comic and cartoon.<|endofchunk|><image>Keywords describing this image are drawing and illustration.<|endofchunk|><image>Keywords describing this image are game and chess.<|endofchunk|><image>Keywords describing this image are graph and chart.<|endofchunk|><image>Keywords describing this image are logo and sign.<|endofchunk|><image>Keywords describing this image are map and plan.<|endofchunk|><image>Keywords describing this image are photograph and view.<|endofchunk|><image>Keywords describing this image are letter and title-font.<|endofchunk|>", #a photo of people
-                "<image>The type of this image is a comic.<|endofchunk|><image>The type of this image is a drawing.<|endofchunk|><image>The type of this image is a game.<|endofchunk|><image>The type of this image is a graph.<|endofchunk|><image>The type of this image is a logo.<|endofchunk|><image>The type of this image is a map.<|endofchunk|><image>The type of this image is a photograph.<|endofchunk|><image>The type of this image is a title.<|endofchunk|>",
+                "<image>Keywords describing this image are comic and cartoon.<|endofchunk|><image>Keywords describing this image are drawing and illustration.<|endofchunk|><image>Keywords describing this image are game and chess.<|endofchunk|><image>Keywords describing this image are graph and chart.<|endofchunk|><image>Keywords describing this image are logo and sign.<|endofchunk|><image>Keywords describing this image are map and plan.<|endofchunk|><image>Keywords describing this image are photograph and view.<|endofchunk|><image>Keywords describing this image are letter and title-font.<|endofchunk|>",
+                "<image>The type of this image is a comic.<|endofchunk|><image>The type of this image is a drawing.<|endofchunk|><image>The type of this image is a game.<|endofchunk|><image>The type of this image is a graph.<|endofchunk|><image>The type of this image is a logo.<|endofchunk|><image>The type of this image is a map.<|endofchunk|><image>The type of this image is a photograph.<|endofchunk|><image>The type of this image is a title.<|endofchunk|>"
             ]
             one_shot_str = one_shot_strs[prompt_id -1]
         query_image = Image.open(img_path)
@@ -226,7 +219,7 @@ def ask_flamingo(img_path, prompt, num_shots, s1, s2, s3, prompt_id, caption):
         
         vision_x = torch.cat(vision_x, dim=0)
         vision_x = vision_x.unsqueeze(1).unsqueeze(0).to(device)
-
+        tokenizer.padding_side = "left"
         lang_x = tokenizer(
             [adapted_prompt],
             return_tensors="pt",
@@ -261,27 +254,28 @@ def ask_flamingo(img_path, prompt, num_shots, s1, s2, s3, prompt_id, caption):
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description="Generate text for images in given classes.")
-    parser.add_argument('--data_path', type=str, help='Path to the folder with classes subfolders')
     parser.add_argument('--num_shots', type=int, help='Integer n from 0 to 3 for n-shots')
     parser.add_argument('--prompt_id', type=int, help='Integer n from 1 to 5. The index to prompt mapping is in the file flam_classification_prompts.csv')
     parser.add_argument('--caption', action='store_true', help='Set this flag to true if it is a captioning task. Classification task by default')
     args = parser.parse_args()
-    data_path = args.data_path
+    data_path = 'data/test'
     num_shots = args.num_shots
     prompt_id = args.prompt_id
     caption = args.caption
 
-    folder_index = str(len(os.listdir("./results")) + 1)
-    folder_path = os.path.join("./results", "results" + folder_index + f'_{num_shots}_shot' + f'_{prompt_id}_prompt_id')
-    #CSV for the results of this prompt
-    csv_name = "results" + folder_index + ".csv"
-    if not os.path.exists(folder_path):
-        os.makedirs(folder_path)
+    if caption is True: 
+        folder_index = str(len(os.listdir("./FLAMINGO/results/captioning")) + 1)
+        csv_path = os.path.join("./FLAMINGO/results/captioning", "caption" + folder_index + ".csv")
+    else: 
+        folder_path = "./FLAMINGO/results/prompt" + str(prompt_id)
+        folder_path = os.path.join(folder_path, str(prompt_id) + "-shot")
+        csv_path = os.path.join(folder_path, "results.csv")
+        if not os.path.exists(folder_path):
+            os.makedirs(folder_path)
 
-    csv_file_path = os.path.join(folder_path, csv_name)
-    with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
+    with open(csv_path, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['File Path', 'Prompt', 'Class Name', 'Predicted Text'])
+        writer.writerow(['File Path', 'Prompt', 'Class Name', 'Predicted Text', 'Prompt ID', 'Number of Shots'])
 
         # Iterate over subfolders (classes)
         for class_name in os.listdir(data_path):
@@ -300,7 +294,7 @@ if __name__ == '__main__':
                             img_subset1, img_subset2, img_subset3 = open_demo_imgs()
                             decoded_text = ask_flamingo(img_path, prompt, num_shots, img_subset1, img_subset2, img_subset3, prompt_id, caption)
                             print(f"Decoded text: {decoded_text}")
-                            writer.writerow([img_path, prompt, class_name, decoded_text])
+                            writer.writerow([img_path, prompt, class_name, decoded_text, prompt_id, num_shots])
                             file.flush()
                         except Exception as e:
                             print(f"Error processing file {img_path}: {e}")
