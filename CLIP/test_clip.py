@@ -1,5 +1,5 @@
 import torch
-import clip
+from clip_repo import clip
 from PIL import Image
 import os
 import numpy as np
@@ -33,7 +33,6 @@ def produce_report(true_labels, preds, max_percentages):
     print(report)
 
     # Confidence levels for each class
-    # print(f"Confidence level per class:")
     class_max_prob_sums = np.zeros(len(possible_labels))
     class_data_unit_counts = np.zeros(len(possible_labels))
     for pred, percentage in zip(preds, max_percentages):
@@ -41,12 +40,9 @@ def produce_report(true_labels, preds, max_percentages):
         class_data_unit_counts[pred] += 1
     confidence_levels = np.array(
         class_max_prob_sums) / np.array(class_data_unit_counts)
-    # for index, confidence_level in enumerate(confidence_levels):
-    #    print(f"    {possible_labels[index]}: {confidence_level*100.0:.2f} %")
 
     # Avegerage Confidence level of all classes
     avg_confidence_level = np.average(confidence_levels)
-    # print(f"The average confidence level is: {avg_confidence_level:.2f}")
 
     # Accuracy per class
     acc = accuracy_score(true_labels, preds)
@@ -81,19 +77,12 @@ def produce_report(true_labels, preds, max_percentages):
 
 def clip_f(class_descriptions, create_csv, filename, type_of_change):
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    # model, preprocess = clip.load("ViT-B/32", device=device)
     model_id = "openai/clip-vit-base-patch32"
     model = CLIPModel.from_pretrained(model_id)
 
     preprocess = CLIPProcessor.from_pretrained(model_id)
 
-    # tokenizing text (classes)
-
-    # text = clip.tokenize(possible_labels).to(device)
-
     # Preprocessing the images
-    # image = preprocess(Image.open(
-    # "data/test/comic/EXP-1956-07-25-a-i0105.jpg")).unsqueeze(0).to(device)
     image_file_paths = []
     for root, dirs, files in os.walk("data/test"):
         for file in files:
@@ -115,33 +104,24 @@ def clip_f(class_descriptions, create_csv, filename, type_of_change):
     # Encode text tokens with sentence embeddings
     with torch.no_grad():
 
-        # text_features = model.encode_text(text)
         class_emb = model.get_text_features(**class_tokens)
         class_emb = class_emb.detach().cpu().numpy()
         # Normalize class_emb to apply dot product similarity
         class_emb = class_emb / np.linalg.norm(class_emb, axis=0)
         print(f"Shape of class embedding:", class_emb.shape)
 
-        # image_features = model.encode_image(images)
         img_emb = model.get_image_features(images)
         img_emb = img_emb.detach().cpu().numpy()
         print(f"Shape of image embedding:", img_emb.shape)
 
-        # Computes embeddings for both the image and text inputs simultaneously.
-        # logits_per_image, logits_per_text = model(image, text)
-
         # Similarity matrix using dot product
         preds = []
         scores = np.dot(img_emb, class_emb.T)
-        # print(scores[:4])
         preds.extend(np.argmax(scores, axis=1))
         max_scores = np.max(scores, axis=1)
 
         percentages = scipy.special.softmax(scores, 1)
         max_percentages = np.max(percentages, axis=1)
-
-    # for label, prob in zip(possible_labels, probs):
-    # print(f"The probability of the image to be {label} is: {prob*100.0:.2f} %")
 
     # Create the labelled data dictionary
     labelled_data = []
@@ -158,11 +138,7 @@ def clip_f(class_descriptions, create_csv, filename, type_of_change):
 
     true_labels = [item["label_id"] for item in labelled_data]
     img_paths = [item["path"] for item in labelled_data]
-    # score_tuples = [tuple(row) for row in scores]
 
-    print(len(preds))
-    print(len(true_labels))
-    print(len(img_paths))
     if create_csv == True:
         data_dic = {
             "Type_of_change": type_of_change,
@@ -174,34 +150,21 @@ def clip_f(class_descriptions, create_csv, filename, type_of_change):
         }
 
         df = pd.DataFrame(data_dic)
-        df.to_csv('experimental-lang-results/'+filename, index=False)
-        # possible_changes.append(type_of_change)
-    # produce_report(true_labels, preds, max_percentages)
+        df.to_csv('CLIP/spec-paraph-results/'+filename, index=False)
 
 
 def show_results(folder_path):
     results = []
     accs_per_change = []
-    # sort these
     csv_files = [file for file in os.listdir(
         folder_path) if file.endswith('csv')]
     csv_files = sorted(
         csv_files, key=lambda x: int(x.split('_')[1].split('.')[0]))
-    print(csv_files)
-    # Sort the CSV files based on a specific criterion (e.g., by file name)
-
-    # csv_files_english = ("change_0.csv", "change_1.csv", "change_2.csv", "change_3.csv", "change_4.csv", "change_5.csv",
-    #                     "change_6.csv", "change_7.csv", "change_8.csv", "change_9.csv", "change_10.csv", "change_11.csv", "change_12.csv")
-    # csv_files_languages = (
-    #    "change_0.csv", "change_chinese.csv", "change_russian.csv", "change_french.csv")
 
     def plot_f1_vs_change(csv_files, xlabels):
 
         for file in csv_files:
-            df_change_i = pd.read_csv(os.path.join(
-                folder_path, file))
-            # true_labels = [label for label in list(df_change_i['True_label']) if label not in [6, 9]]
-            # preds = [pred for pred in list(df_change_i['Prediction']) if pred not in [6, 9]]
+            df_change_i = pd.read_csv(os.path.join(folder_path, file))
             f1_scores = sklearn.metrics.f1_score(
                 list(df_change_i['True_label']), list(df_change_i['Prediction']), average=None)
             acc = sklearn.metrics.accuracy_score(df_change_i['True_label'], list(
@@ -216,7 +179,7 @@ def show_results(folder_path):
             plt.axvline(x=x, color='lightsteelblue',
                         linestyle='-', linewidth=1)
         plt.show()
-        print(accs_per_change)
+
         for i, col in enumerate(range(len(results[0]))):
             if not (i == 6 or i == 9):
                 column = [row[col] for row in results]
@@ -236,41 +199,36 @@ def show_results(folder_path):
     # heat map showing f1 score increase/decrease/stagnation over changes
     def hm_f1_evolution(csv_files, xlabels):
         hm = pd.DataFrame()
-        # results from f1 change - f1 change_0.csv
+        # Results from f1 change - f1 change_0.csv: change this to CLIP/language-results/<language>/change_0_<language>.csv to get this plot for a specific language
         text_is_class_names = pd.read_csv(
-            "experimental-results-excluding-diverse-other/change_0.csv")
+            "CLIP/spec-paraph-results/change_0.csv")
         f1_scores_0 = sklearn.metrics.f1_score(list(text_is_class_names['True_label']), list(
             text_is_class_names['Prediction']), average=None)
-        for file in csv_files:
-            df_change_i = pd.read_csv(os.path.join(
-                'experimental-results-excluding-diverse-other/', file))
-            f1_scores_i = sklearn.metrics.f1_score(
-                list(df_change_i['True_label']), list(df_change_i['Prediction']), average=None)
-            diff = np.array(f1_scores_i - f1_scores_0)
-            diff = np.round(diff, 2)
-            diff_df = pd.DataFrame(diff)
-            # each vector diff is a column of the hm
-            hm = pd.concat([hm, diff_df], axis=1)
+        for i, file in enumerate(csv_files):
+            if i >= 0 and i < 12:
+                # Change this path to CLIP/language-results/<language>/ for a specific language
+                df_change_i = pd.read_csv(os.path.join(
+                    'CLIP/spec-paraph-results/', file))
+                f1_scores_i = sklearn.metrics.f1_score(
+                    list(df_change_i['True_label']), list(df_change_i['Prediction']), average=None)
+                diff = np.array(f1_scores_i - f1_scores_0)
+                diff = np.round(diff, 2)
+                diff_df = pd.DataFrame(diff)
+                # each vector diff is a column of the hm
+                hm = pd.concat([hm, diff_df], axis=1)
 
         hm_plt = sns.heatmap(hm, cmap=sns.diverging_palette(0, 150, as_cmap=True), center=0, annot=True, yticklabels=(
             "drawing", "game", "graph", "logo", "comic", "map", "photo", "title"))
         hm_plt.set_xticklabels(range(1, 13))
         hm_plt.set(
             xlabel="Class descriptions from simple to complex", ylabel="Accuracy")
-        # hm.set(xlabel=len(xlabels), ylabel=("drawing", "game", "graph", "logo", "comic", "map", "photo", "title"))
+
         plt.show()
         hm_arr = hm.to_numpy()
         average_increase = np.mean(hm_arr, axis=1)
-        print(average_increase)
-        # avg_plot = sns.heatmap(average_increase, cmap=sns.diverging_palette(0, 150, as_cmap=True), center=0, annot= True, xticklabels=range(1, 13))
-        # avg_plot.set(xlabel= "Class descriptions from simple to complex", ylabel="Average change in f1 score")
-        # plt.show()
 
     plot_f1_vs_change(csv_files, range(13))
     hm_f1_evolution(csv_files[1:], range(12))
-    # plot_f1_vs_change(csv_files_languages, ("english", "french", "russian", "chineese"))
-
-    # plot the averages!!!
 
 
 if __name__ == "__main__":
@@ -281,58 +239,57 @@ if __name__ == "__main__":
     # enter --create_csv to create a .csv file
     parser.add_argument('--create_csv', action='store_true',
                         help="Create a .csv file, is false by default.")
-    parser.add_argument('--add_csv_to_results', action='store_true',
-                        help='Appends results of the given .csv to results.csv')
-    parser.add_argument('--add_all_csvs_to_results', action='store_true',
-                        help='Create a file containing the results from all experiments (excluding diverse and other)')
     parser.add_argument('--load_csv', action='store_true',
-                        help='Path to the .csv file to be loaded.')
+                        help='Path to the .csv file to be loaded. Example: spec-paraph-results/change_0.csv or language-results/arabic/change_0_arabic.csv. The report will be printed on the console, the confusion matrix and f1 per class plots will be displayed.')
     parser.add_argument('filename', type=str, nargs='?', const=None,
-                        help="Enter filename.csv if you wish to create a csv file or add the content of a csv file to results.csv.")
+                        help="Enter filename.csv if you wish to create a csv file.")
     parser.add_argument('type_of_change', type=str, nargs='?', const=None,
                         help="Enter the type of change made to the text descriptions if you wish to create a csv file.")
     parser.add_argument('--open_images', action='store_true',
                         help="Opens a list of images")
-
-    # parser.add_argument('--results', action='store_true', help= "Shows results.")
     parser.add_argument('--show_results', action='store_true',
-                        help="loads all csvs from the experimental folder plots")
+                        help="Shows holistic results. Example entry: --show_results x x folder_path")
+    parser.add_argument('folder_path', type=str, nargs='?', const=None,
+                        help="Enter the folder path containing the csv files to get the holistic results.")
     args = parser.parse_args()
     type_of_change = args.type_of_change
-
+    folder_path = args.folder_path
+    print(folder_path)
     true_labels = []
     preds = []
     prefix = "an image of a"
 
     if args.show_results:
-        show_results()
+        if folder_path is None:
+            print("Specify the folder path if you wish to see the holistic results")
+        else:
+            show_results(folder_path)
 
     if args.create_csv and (args.filename is None or args.type_of_change is None):
         parser.error(
             "If --create_csv is chosen, 'filename' and 'type_of_change' are required.")
 
-    if (args.add_csv_to_results or args.load_csv) and args.filename is None:
-        parser.error("'filename' is required.")
-
-    if args.load_csv or args.add_csv_to_results:
-        df = pd.read_csv(args.filename)
+    if args.load_csv:
+        csv_path = os.path.join('CLIP', args.filename)
+        df = pd.read_csv(csv_path)
         true_labels = list(df['True_label'].values)
         preds = list(df['Prediction'].values)
         scores = list(df['Scores'].values)
         max_percentages = list(df['Confidence'].values)
+        produce_report(true_labels, preds, max_percentages)
 
     elif args.clip:
         class_descriptions = [
-            "dibujo",
-            "juego",
-            "gráfico",
-            "logotipo",
-            "cómic",
-            "mapa",
-            "fotografía",
-            "título"
+            "non-textual descriptive drawing or illustrative drawing or portrait drawing or caricatural drawing",
+            "puzzle game or board game or didactic game",
+            "line graph or bar graph",
+            "company logo or brand logo or institution logo",
+            "adventure comic or humour comic or superhero comic or war comic including text",
+            "country map or regional map or weather map",
+            "historical photograph or journal photograph or portait photograph",
+            "title or alphabet letter"
         ]
-        print("here")
+
         clip_f(class_descriptions, args.create_csv,
                args.filename, args.type_of_change)
 
