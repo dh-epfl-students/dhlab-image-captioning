@@ -10,4 +10,5 @@ thumbs.db
 .idea
 my_env/
 my_env2/
+data/.DS_Store
 
