@@ -72,5 +72,5 @@ Ines Bouchama
 
 ## **Supervisors:**
 
-Emanuela Boros
+Emanuela Boros <br />
 Maud Ehrmann
