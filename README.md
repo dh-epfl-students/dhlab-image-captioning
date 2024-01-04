@@ -70,7 +70,7 @@ FLAMINGO:
 
 Ines Bouchama
 
-## **Supervisers:**
+## **Supervisors:**
 
 Emanuela Boros
 Maud Ehrmann
