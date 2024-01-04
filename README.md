@@ -20,7 +20,7 @@ CLIP:
 
 - To run the test_clip.py, execute the following command in your terminal: <br />
 
-- - python3 CLIP/test_clip.py <br />
+`python3 CLIP/test_clip.py`
 
 - The argument options are: <br />
 
