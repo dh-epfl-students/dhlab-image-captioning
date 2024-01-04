@@ -41,8 +41,10 @@ def filter(index, pred):
                 filtered_pred = filter(index, filtered_pred)
             else: 
                 new_prompt = "<image>Between a " + " or a ".join([f'{element}' for element in set(pred)]) + " this image is classified as a"
-                # Should be image_paths[index] if the path is of the form ./data/... and image_paths[index][1:] if the path is of the form ../data/...
-                new_caption = settle_flamingo(image_paths[index], new_prompt)
+                try:
+                    new_caption = settle_flamingo(image_paths[index], new_prompt)
+                except: 
+                    print("Sould be image_paths[index] if the path is of the form ./data/ and image_paths[index][1:] if the path is of the form ../data/")
                 new_prompt = new_prompt.replace("<image>", '')
                 new_caption = new_caption.replace(new_prompt, '')
                 new_pred = caption_to_kw(new_caption)
