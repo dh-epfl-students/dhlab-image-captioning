@@ -34,7 +34,7 @@ CLIP:
     `python3 CLIP/test_clip.py --clip --create_csv <filename.csv> <type-of-change>`
 - - When wanting to load a csv file, this command will print the report, and display the confusion matrix and f1 scores <br />
     `python3 CLIP/test_clip.py --load_csv <file_path>`
-- - Opens the list of desired images from the test data, specified inside the image_paths variable
+- - Opens the list of desired images from the test data, specified inside the image_paths variable <br />
     `python3 CLIP/test_clip.py --open_images`
 
 - To run the test_languages.py, execute the following command in your terminal, adjusting the main() as needed: <br />
@@ -57,13 +57,13 @@ FLAMINGO:
 - To post-process results of a classification prompt, execute the following command in your terminal. It saves the plots inside the corresponding prompt folder. <br />
 `python3 FLAMINGO/post-process.py --folder_path <folder_path>`
 
-- Perform a quantitative analysis of the results running the following command:
+- Perform a quantitative analysis of the results running the following command: <br />
 `python3 FLAMINGO/quantitative-analysis.py`
 
-- Generate one HTML file per class displaying the results of a specific csv result file
+- Generate one HTML file per class displaying the results of a specific csv result file <br />
 `python3 FLAMINGO/single-file-summary.py`
 
-- Generate 2 HTMLs files that displays the results of all captioning prompts and all classification prompts, respectively
+- Generate 2 HTMLs files that displays the results of all captioning prompts and all classification prompts, respectively: <br />
 `python3 FLAMINGO/overview-summaries.py`
 
 ## **Student:**
