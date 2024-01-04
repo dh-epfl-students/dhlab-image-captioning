@@ -268,7 +268,7 @@ if __name__ == '__main__':
         csv_path = os.path.join("./FLAMINGO/results/captioning", "caption" + folder_index + ".csv")
     else: 
         folder_path = "./FLAMINGO/results/prompt" + str(prompt_id)
-        folder_path = os.path.join(folder_path, str(prompt_id) + "-shot")
+        folder_path = os.path.join(folder_path, str(num_shots) + "-shot")
         csv_path = os.path.join(folder_path, "results.csv")
         if not os.path.exists(folder_path):
             os.makedirs(folder_path)
