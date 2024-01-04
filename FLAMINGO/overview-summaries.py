@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 def sample_images_per_class(df, num_samples=5):
     sampled_data = pd.DataFrame()
     for label, group in df.groupby('Class Name'):
-        sampled_group = group.sample(5, random_state=42)
+        sampled_group = group.sample(num_samples, random_state=42)
         sampled_data = pd.concat([sampled_data, sampled_group])
     return sampled_data
 
@@ -42,12 +42,13 @@ for df in captioning_dfs:
     sampled_from_df = df[df['File Path'].isin(samples)]
     captioning_sampled_dfs.append(sampled_from_df)
 
+
 def extract_sort_key(df):
     return int(f"{df['Prompt ID'].iloc[0]}{df['Number of Shots'].iloc[0]}")
 class_sorted_samples = sorted(classification_sampled_dfs, key=extract_sort_key)
 
 
-df = pd.concat(class_sorted_samples, axis = 0, ignore_index=True)
+df = pd.concat(classification_sampled_dfs, axis = 0, ignore_index=True)
 df = df.groupby(['File Path']).agg(list)
 
 
@@ -65,16 +66,15 @@ html_cap += '</tr>'
 #Prepare html for classification results
 html_class = '<table border="1">'
 # Add headers for classification subcolumns
-html_class += f'<td colspan = "4">'
 html_class += f'<th colspan="16" style="text-align: center;">Classification</th></tr>'
 html_class += '<tr>' 
+html_class += f'<th>Index</th><th>File Name</th><th>Image</th><th>Class Name</th><th colspan = "3">Prompt 1: An image of</th><th colspan = "3">Prompt 2: This image can be classified as</th><th colspan = "3">Prompt 3: Keywords describing this image contain</th><th colspan = "3">Prompt 4: The type of this image is</th>'
+html_cap += '</tr>'
 
-html_class += f'<td colspan = "4"> </td><th colspan = "4">Prompt 1: An image of</th><th colspan = "4">Prompt 2: This image can be classified as</th><th colspan = "4">Prompt 3: Keywords describing this image contain</th><th colspan = "4">Prompt 4: The type of this image is</th>'
-html_class += '</tr>'
 html_class += '<tr>'
-html_class += '<tr><th>Index</th><th>File Name</th><th>Image</th><th>Class Name</th>'
+html_class += f'<th></th><th></th><th></th><th></th>'
 for i in range(4):
-        html_class += f'<th>0-shot</th><th>1-shot</th><th>2-shot</th><th>3-shot</th>'
+        html_class += f'<th>0-shot</th><th>1-shot</th><th>2-shot</th>'
 html_class += '</tr>'
 
 #Captioning
@@ -95,9 +95,7 @@ for index, (i, row) in enumerate(df_cap.iterrows()):
     # HTML row for each image
     html_cap += f'<tr><td>{index}</td><td>{img_name}</td><td><img src="data:image/png;base64,{img_base64}" style="max-width: 300px; max-height: 300px; margin-right: 20px;"></td><td>{class_name[0]}</td>'
     #image --> class name --> prompt --> num_shots
-    count = 0
     for pred in row['Predicted Text']:
-            count+=1
             html_cap += f'<td>{pred}</td>'
                  
     #pred = classification_values['Predicted Text']
@@ -112,10 +110,8 @@ for index, (i, row) in enumerate(df.iterrows()):
     img_name = i.split('/')[-1]
     img_path = i
     class_name = row['Class Name']
-    try:
-        img = plt.imread(img_path[1:])
-    except: 
-         print('Try img = plt.imread(img_path) instead')
+    img = plt.imread(img_path)
+    
     # Convert image to base64
     img_buffer = BytesIO()
     plt.imsave(img_buffer, img, format='png')
@@ -127,25 +123,12 @@ for index, (i, row) in enumerate(df.iterrows()):
     html_class += f'<tr><td>{index}</td><td>{img_name}</td><td><img src="data:image/png;base64,{img_base64}" style="max-width: 300px; max-height: 300px; margin-right: 20px;"></td><td>{class_name[0]}</td>'
     #image --> class name --> prompt --> num_shots
     for i, pred in enumerate(row['Predicted Text']):
-            prompt = (i % 4) + 1
-            num_shots = i % 4
-            ###add 2 and 3 shots later
             html_class += f'<td>{pred}</td>'
-            ##temporary: until we get the results for 2-shot and 3-shot
-            #if num_shots == 1 or num_shots == 3:
-                 #pred = " "
-                #html_output += f'<td>{pred}</td><td>{pred}</td>'
-            if prompt == 1 and num_shots == 3:
-                pred = " "
-                html_class += f'<td>{pred}</td><td>{pred}</td>'
-                 
-    #pred = classification_values['Predicted Text']
-    
+        
     html_class += '</tr>'
     # Add classification subcolumns
 html_class += '</table>'     
             
-
 
 # Save HTML file
 with open('class_summary.html', 'w') as html_file:

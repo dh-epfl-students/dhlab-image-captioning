@@ -1,726 +1,726 @@
 File Path,Prompt,Class Name,Predicted Text,Prompt ID,Number of Shots
-../data/test/title/LCE-1913-01-08-a-i0015.jpg,<image>An image of,title,E by,1,0
-../data/test/title/LCE-1911-12-06-a-i0016.jpg,<image>An image of,title,Letter E,1,0
-../data/test/title/LCE-1948-06-09-a-i0015.jpg,<image>An image of,title,the letter E,1,0
-../data/test/title/LCE-1943-01-27-a-i0017.jpg,<image>An image of,title,F.E. by Frank Lloyd Wright,1,0
-../data/test/title/LCE-1907-08-14-a-i0009.jpg,<image>An image of,title,the letter N.,1,0
-../data/test/title/LCE-1952-02-27-a-i0002.jpg,<image>An image of,title,the letter L.,1,0
-../data/test/title/LCE-1906-02-03-a-i0003.jpg,<image>An image of,title,1,1,0
-../data/test/title/LCE-1912-11-23-a-i0020.jpg,<image>An image of,title,Letter R,1,0
-../data/test/title/LCE-1913-02-15-a-i0009.jpg,<image>An image of,title,Letter F,1,0
-../data/test/title/LCE-1913-03-01-a-i0008.jpg,<image>An image of,title,the first page of the letter 'E',1,0
-../data/test/title/LCE-1910-04-27-a-i0002.jpg,<image>An image of,title,the letter C.,1,0
-../data/test/title/LCE-1942-01-02-a-i0012.jpg,<image>An image of,title,D,1,0
-../data/test/title/LCE-1908-10-07-a-i0011.jpg,<image>An image of,title,E by E.E. Cummings,1,0
-../data/test/title/LCE-1904-07-02-a-i0002.jpg,<image>An image of,title,the letter L.,1,0
-../data/test/title/LCE-1923-03-09-a-i0051.jpg,<image>An image of,title,the letter R,1,0
-../data/test/title/LCE-1907-01-01-a-i0016.jpg,<image>An image of,title,E,1,0
-../data/test/title/LCE-1912-10-19-a-i0010.jpg,<image>An image of,title,F,1,0
-../data/test/title/LCE-1904-06-15-a-i0019.jpg,<image>An image of,title,the letter R.,1,0
-../data/test/title/LCE-1933-05-03-a-i0012.jpg,<image>An image of,title,F,1,0
-../data/test/title/LCE-1948-09-17-a-i0020.jpg,<image>An image of,title,the letter E.,1,0
-../data/test/title/LCE-1911-10-18-a-i0084.jpg,<image>An image of,title,the letter R.,1,0
-../data/test/title/LCE-1908-03-07-a-i0008.jpg,<image>An image of,title,F,1,0
-../data/test/title/LCE-1933-10-09-a-i0017.jpg,<image>An image of,title,the letter E.,1,0
-../data/test/title/LCE-1949-12-19-a-i0016.jpg,<image>An image of,title,D,1,0
-../data/test/title/LCE-1909-05-01-a-i0001.jpg,<image>An image of,title,the letter O.,1,0
-../data/test/title/LCE-1944-03-31-a-i0017.jpg,<image>An image of,title,F.E.,1,0
-../data/test/title/LCE-1908-08-05-a-i0017.jpg,<image>An image of,title,E by Edward Gorey,1,0
-../data/test/title/LCE-1935-06-10-a-i0011.jpg,<image>An image of,title,the letter E,1,0
-../data/test/title/LCE-1906-03-14-a-i0020.jpg,<image>An image of,title,the letter C,1,0
-../data/test/title/LCE-1943-01-27-a-i0008.jpg,<image>An image of,title,the number 0,1,0
-../data/test/title/LCE-1900-08-29-a-i0011.jpg,<image>An image of,title,the letter R.,1,0
-../data/test/title/LCE-1915-04-07-a-i0012.jpg,<image>An image of,title,the letter C.,1,0
-../data/test/title/LCE-1908-01-22-a-i0011_2.jpg,<image>An image of,title,Letter E by Anonymous,1,0
-../data/test/title/LCE-1911-10-18-a-i0002.jpg,<image>An image of,title,the letter C,1,0
-../data/test/title/LCE-1919-12-12-a-i0013.jpg,<image>An image of,title,F,1,0
-../data/test/title/LCE-1958-06-16-a-i0011.jpg,<image>An image of,title,the front cover of Lefe,1,0
-../data/test/title/LCE-1903-04-15-a-i0005.jpg,<image>An image of,title,the letter N.,1,0
-../data/test/title/LCE-1906-07-25-a-i0010.jpg,<image>An image of,title,the number 0,1,0
-../data/test/title/LCE-1912-10-12-a-i0009.jpg,<image>An image of,title,E,1,0
-../data/test/title/LCE-1915-12-08-a-i0013.jpg,<image>An image of,title,"R from the front page of the New York Times on October 1, 1857.",1,0
-../data/test/title/LCE-1932-07-15-a-i0019.jpg,<image>An image of,title,the letter R.,1,0
-../data/test/title/LCE-1900-03-17-a-i0006.jpg,<image>An image of,title,N.,1,0
-../data/test/title/LCE-1914-05-11-a-i0016.jpg,<image>An image of,title,Letter L,1,0
-../data/test/title/LCE-1907-12-28-a-i0001.jpg,<image>An image of,title,the letter O.,1,0
-../data/test/title/LCE-1933-09-15-a-i0015.jpg,<image>An image of,title,the letter D.,1,0
-../data/test/title/LCE-1919-07-12-a-i0020.jpg,<image>An image of,title,O,1,0
-../data/test/title/LCE-1905-04-08-a-i0010.jpg,<image>An image of,title,the number 0,1,0
-../data/test/title/LCE-1950-02-24-a-i0001.jpg,<image>An image of,title,E by E E E E E E E E E E E E E E E E E E,1,0
-../data/test/title/LCE-1914-05-01-a-i0002.jpg,<image>An image of,title,Letter L,1,0
-../data/test/title/LCE-1920-12-03-a-i0084.jpg,<image>An image of,title,D,1,0
-../data/test/title/LCE-1941-08-18-a-i0015.jpg,<image>An image of,title,the letter R,1,0
-../data/test/title/LCE-1942-05-20-a-i0019.jpg,<image>An image of,title,F.E.,1,0
-../data/test/title/LCE-1908-09-26-a-i0010.jpg,<image>An image of,title,the poem 'The End' by William Butler Yeats by William Butler Yeats,1,0
-../data/test/title/LCE-1908-03-28-a-i0012.jpg,<image>An image of,title,Letter E,1,0
-../data/test/title/LCE-1914-07-10-a-i0015.jpg,<image>An image of,title,Letter E,1,0
-../data/test/title/LCE-1921-12-09-a-i0059.jpg,<image>An image of,title,Letter R,1,0
-../data/test/title/LCE-1915-04-17-a-i0011.jpg,<image>An image of,title,E,1,0
-../data/test/title/LCE-1904-01-20-a-i0002.jpg,<image>An image of,title,the letter C.,1,0
-../data/test/title/LCE-1914-06-19-a-i0015.jpg,<image>An image of,title,N,1,0
-../data/test/title/LCE-1901-02-16-a-i0011.jpg,<image>An image of,title,the letter B.,1,0
-../data/test/title/LCE-1931-05-08-a-i0014.jpg,<image>An image of,title,the letter D,1,0
-../data/test/title/LCE-1926-12-24-a-i0057.jpg,<image>An image of,title,the letter D.,1,0
-../data/test/title/LCE-1942-01-21-a-i0014.jpg,<image>An image of,title,the letter D.,1,0
-../data/test/title/LCE-1914-05-15-a-i0014.jpg,<image>An image of,title,the letter C.,1,0
-../data/test/title/LCE-1953-06-26-a-i0014.jpg,<image>An image of,title,E,1,0
-../data/test/title/LCE-1952-05-02-a-i0002.jpg,<image>An image of,title,the letter L.,1,0
-../data/test/title/LCE-1901-06-01-a-i0012.jpg,<image>An image of,title,B,1,0
-../data/test/title/LCE-1909-08-11-a-i0007_2.jpg,<image>An image of,title,Letter E,1,0
-../data/test/title/LCE-1910-04-02-a-i0009.jpg,<image>An image of,title,the letter N.,1,0
-../data/test/title/LCE-1904-03-09-a-i0001.jpg,<image>An image of,title,the letter E.,1,0
-../data/test/title/LCE-1904-07-27-a-i0010.jpg,<image>An image of,title,the number 0.,1,0
-../data/test/title/LCE-1906-06-09-a-i0002.jpg,<image>An image of,title,the letter C.,1,0
-../data/test/title/LCE-1906-06-06-a-i0018.jpg,<image>An image of,title,the letter L.,1,0
-../data/test/title/LCE-1906-10-13-a-i0019.jpg,<image>An image of,title,the letter R.,1,0
-../data/test/title/LCE-1931-07-10-a-i0012.jpg,<image>An image of,title,F,1,0
-../data/test/title/LCE-1933-02-01-a-i0009.jpg,<image>An image of,title,the letter O.,1,0
-../data/test/title/LCE-1913-04-09-a-i0015.jpg,<image>An image of,title,the letter D.,1,0
-../data/test/title/LCE-1910-12-31-a-i0018.jpg,<image>An image of,title,the letter R.,1,0
-../data/test/title/LCE-1902-02-19-a-i0007.jpg,<image>An image of,title,the letter N,1,0
-../data/test/title/LCE-1948-04-05-a-i0009.jpg,<image>An image of,title,the number 0,1,0
-../data/test/map/GDL-1991-06-01-a-i0298.jpg,<image>An image of,map,a map of the weather conditions in Europe during the winter of 1940-1941.,1,0
-../data/test/map/EXP-1992-02-14-a-i0439_3.jpg,<image>An image of,map,a map of the European continent showing the weather conditions for the month of May.,1,0
-../data/test/map/JDG-1940-03-08-a-i0008.jpg,<image>An image of,map,a map of the Caucasus,1,0
-../data/test/map/EXP-1957-07-04-a-i0103_2.jpg,<image>An image of,map,the route of the first stage of the Tour de France,1,0
-../data/test/map/EXP-1979-10-23-a-i0132_2.jpg,<image>An image of,map,a map showing the layout of the estate,1,0
-../data/test/map/IMP-1960-01-16-a-i0024.jpg,<image>An image of,map,a map of the Soviet Union and its allies in the Second World War.,1,0
-../data/test/map/EXP-2003-09-29-a-i0014.jpg,<image>An image of,map,Hong Kong,1,0
-../data/test/map/GDL-1907-04-02-a-i0069.jpg,<image>An image of,map,the Penaflor mine,1,0
-../data/test/map/JDG-1959-02-02-a-i0018.jpg,<image>An image of,map,a map of the French Alsace-Lorraine region.,1,0
-../data/test/map/GDL-1950-05-17-a-i0056.jpg,<image>An image of,map,Le Combattant Gauri-Koussef,1,0
-../data/test/map/EXP-2017-08-02-a-i0209.jpg,<image>An image of,map,the La Météo newspaper,1,0
-../data/test/map/GDL-1918-12-02-a-i0002.jpg,<image>An image of,map,the route of the Zambesi Expedition.,1,0
-../data/test/map/EXP-2009-01-31-a-i0302_2.jpg,<image>An image of,map,the weather forecast for the weekend,1,0
-../data/test/map/LCE-1998-03-06-a-i0015_2.jpg,<image>An image of,map,"the Ordnance Survey One-inch to the mile map of the Lake District, c.18",1,0
-../data/test/map/GDL-1941-07-15-a-i0121.jpg,<image>An image of,map,a map of the Middle East during the First World War.,1,0
-../data/test/map/JDG-1987-04-10-a-i0203_2.jpg,<image>An image of,map,a map of the International Business Park,1,0
-../data/test/logo/JDG-1925-08-29-a-i0041.jpg,<image>An image of,logo,the logo of the Party of Democratic Socialism (PDS).,1,0
-../data/test/logo/JDG-1977-12-17-a-i0244.jpg,<image>An image of,logo,a flower.,1,0
-../data/test/logo/LCE-1977-11-18-a-i0010.jpg,<image>An image of,logo,the EEC logo.,1,0
-../data/test/logo/EXP-1979-05-04-a-i0025.jpg,<image>An image of,logo,the logo of the police de Neuchatel.,1,0
-../data/test/logo/LCE-1952-08-29-a-i0021.jpg,<image>An image of,logo,the logo for the Rubber Trifit Company.,1,0
-../data/test/logo/LCE-1939-02-22-a-i0036.jpg,<image>An image of,logo,the front cover of the first edition of Bauhaus St. Jacques,1,0
-../data/test/logo/LCE-1981-02-17-a-i0063_2.jpg,<image>An image of,logo,the ASA logo.,1,0
-../data/test/logo/IMP-1979-12-27-a-i0050.jpg,<image>An image of,logo,"the front page of the French edition of the New York Times, which carried the story of the French",1,0
-../data/test/logo/JDG-1907-11-03-a-i0012.jpg,<image>An image of,logo,the Daughters of the American Revolution logo.,1,0
-../data/test/logo/IMP-1973-01-30-a-i0025.jpg,<image>An image of,logo,page 2,1,0
-../data/test/logo/LCE-1909-05-26-a-i0023.jpg,<image>An image of,logo,the Hässen & Vogt logo.,1,0
-../data/test/logo/GDL-1978-02-27-a-i0145.jpg,<image>An image of,logo,a rooster,1,0
-../data/test/logo/JDG-1909-10-12-a-i0099.jpg,<image>An image of,logo,the Cross of Lorraine.,1,0
-../data/test/logo/IMP-1915-06-08-a-i0031.jpg,<image>An image of,logo,a page from a music score.,1,0
-../data/test/logo/LCE-1924-03-03-a-i0033.jpg,<image>An image of,logo,Hotel Klüsera Poste,1,0
-../data/test/logo/EXP-1923-03-21-a-i0023.jpg,<image>An image of,logo,the label for the Model A armoured car.,1,0
-../data/test/logo/JDG-1907-12-13-a-i0050.jpg,<image>An image of,logo,the Rosicrucian Order.,1,0
-../data/test/logo/LCE-1970-06-23-a-i0095_2.jpg,<image>An image of,logo,the Porsche badge.,1,0
-../data/test/logo/IMP-1980-04-03-a-i0263.jpg,<image>An image of,logo,the VH logo.,1,0
-../data/test/logo/LCE-1903-12-23-a-i0048.jpg,<image>An image of,logo,the cover of a chocolate magazine.,1,0
-../data/test/logo/LCE-1952-05-16-a-i0010.jpg,<image>An image of,logo,the front cover of Le Grand Duel.,1,0
-../data/test/logo/EXP-1966-11-11-a-i0429.jpg,<image>An image of,logo,the title page of the first issue of Vintage.,1,0
-../data/test/logo/LCE-1908-11-04-a-i0048.jpg,<image>An image of,logo,the coat of arms of the House of Orléans.,1,0
-../data/test/logo/IMP-1915-03-27-a-i0043.jpg,<image>An image of,logo,"a page from a music book, showing a musical staff with music notes on it. The notes are",1,0
-../data/test/logo/LCE-1929-06-14-a-i0044.jpg,<image>An image of,logo,the Citröen Citroën Citroën Citroën Citroë,1,0
-../data/test/logo/EXP-2003-01-31-a-i0051.jpg,<image>An image of,logo,the Service d'Informatique et de Securité,1,0
-../data/test/logo/LCE-1904-11-26-a-i0031.jpg,<image>An image of,logo,the Saxon logo.,1,0
-../data/test/logo/EXP-2017-10-24-a-i0150.jpg,<image>An image of,logo,the Margot Maouzou website,1,0
-../data/test/logo/IMP-2016-11-03-a-i0254.jpg,<image>An image of,logo,the La Mer logo.,1,0
-../data/test/logo/LCE-1970-04-14-a-i0026.jpg,<image>An image of,logo,the logo of the National Association for the Advancement of Colored People (NAACP).,1,0
-../data/test/logo/IMP-2014-01-03-a-i0088.jpg,<image>An image of,logo,the Agenda,1,0
-../data/test/logo/LCE-1952-05-09-a-i0053_2.jpg,<image>An image of,logo,'Nouvelle Elna',1,0
-../data/test/logo/EXP-2005-11-16-a-i0232_2.jpg,<image>An image of,logo,the logo for the NBA.,1,0
-../data/test/logo/GDL-1965-04-27-a-i0119.jpg,<image>An image of,logo,the front of a cigarette pack.,1,0
-../data/test/logo/JDG-1982-07-05-a-i0042.jpg,<image>An image of,logo,a flower.,1,0
-../data/test/logo/EXP-2016-03-11-a-i0182.jpg,<image>An image of,logo,Indicateurs,1,0
-../data/test/logo/EXP-1906-02-05-a-i0060.jpg,<image>An image of,logo,the name 'Jeremy Simons',1,0
-../data/test/logo/LCE-1903-11-04-a-i0027.jpg,<image>An image of,logo,the front cover of the French edition of the novel.,1,0
-../data/test/logo/IMP-1963-03-12-a-i0199.jpg,<image>An image of,logo,an owl with a crown on its head.,1,0
-../data/test/logo/JDG-1970-04-09-a-i0185.jpg,<image>An image of,logo,the logo of Mode Speciale.,1,0
-../data/test/logo/IMP-1996-03-27-a-i0210_2.jpg,<image>An image of,logo,the head of a man in a circle.,1,0
-../data/test/logo/LCE-1923-06-22-a-i0016.jpg,<image>An image of,logo,Citroën Citroën Citroën Citroën Citroën,1,0
-../data/test/logo/EXP-1953-05-30-a-i0157.jpg,<image>An image of,logo,the cover of the Sappenzeppelner Syphilitic Ideal,1,0
-../data/test/logo/LCE-1975-02-14-a-i0004.jpg,<image>An image of,logo,the DirecTV logo.,1,0
-../data/test/logo/IMP-1990-08-22-a-i0508.jpg,<image>An image of,logo,the FC Saint-Blaise logo.,1,0
-../data/test/game/IMP-2002-05-06-a-i0141.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/GDL-1926-07-12-a-i0063_2.jpg,<image>An image of,game,a wordsearch puzzle.,1,0
-../data/test/game/IMP-2008-10-15-a-i0133_3.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/IMP-1985-07-06-a-i0063.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/EXP-1936-02-14-a-i0035.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
-../data/test/game/GDL-1971-03-06-a-i0329.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
-../data/test/game/EXP-1939-12-13-a-i0083.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/JDG-1974-09-14-a-i0221.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/JDG-1943-06-09-a-i0074.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
-../data/test/game/EXP-1996-12-30-a-i0048.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/IMP-1958-06-25-a-i0118.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
-../data/test/game/EXP-1981-09-01-a-i0332_3.jpg,<image>An image of,game,"Luke Skywalker, Han Solo, and Chewbacca from Star Wars: The Empire Strikes",1,0
-../data/test/game/JDG-1942-06-09-a-i0052.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
-../data/test/game/GDL-1958-03-15-a-i0317.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/IMP-1973-09-01-a-i0208.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
-../data/test/game/IMP-1981-10-23-a-i0114.jpg,<image>An image of,game,the Word Search,1,0
-../data/test/game/EXP-2013-08-14-a-i0109.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/EXP-2011-10-25-a-i0292.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
-../data/test/game/IMP-1989-07-01-a-i0086_3.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/EXP-1956-03-05-a-i0103.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/IMP-2017-11-18-a-i0260.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
-../data/test/game/EXP-2000-11-14-a-i0347_2.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/EXP-2014-07-11-a-i0125.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/EXP-1976-05-15-a-i0373.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/GDL-1938-09-18-a-i0054.jpg,<image>An image of,game,the first page of the puzzle.,1,0
-../data/test/game/IMP-1973-10-31-a-i0019.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
-../data/test/game/JDG-1988-01-20-a-i0172.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/EXP-2017-07-07-a-i0104.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/EXP-1967-09-29-a-i0450_2.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
-../data/test/game/GDL-1964-05-30-a-i0320.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/EXP-1965-10-04-a-i0242.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/JDG-1987-11-06-a-i0201.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
-../data/test/game/JDG-1936-02-07-a-i0064.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/EXP-1959-02-20-a-i0098.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
-../data/test/game/GDL-1974-11-02-a-i0180_9.jpg,<image>An image of,game,"a diagram of a chess board. The board is divided into four sections, each of which has a",1,0
-../data/test/game/GDL-1915-07-04-a-i0099.jpg,<image>An image of,game,"a crossword puzzle with the letters A, B, C, D, E, F, G",1,0
-../data/test/game/IMP-1967-05-03-a-i0276.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
-../data/test/game/JDG-1974-05-18-a-i0221_2.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
-../data/test/game/JDG-1947-12-27-a-i0052.jpg,<image>An image of,game,a card from a deck of playing cards.,1,0
-../data/test/game/EXP-1972-06-12-a-i0345_2.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/GDL-1964-05-30-a-i0320_6.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
-../data/test/game/GDL-1961-04-08-a-i0326.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
-../data/test/game/EXP-1981-09-01-a-i0332.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/game/EXP-2009-03-18-a-i0136.jpg,<image>An image of,game,the Word Search,1,0
-../data/test/game/IMP-1941-10-18-a-i0034.jpg,<image>An image of,game,a crossword puzzle.,1,0
-../data/test/photo/EXP-1929-08-19-a-i0011.jpg,<image>An image of,photo,the head and shoulders of a middle-aged man. He is wearing a dark suit and has a,1,0
-../data/test/photo/IMP-1977-11-14-a-i0107.jpg,<image>An image of,photo,a man and a woman sitting at a table with a microphone in front of them. The man is,1,0
-../data/test/photo/EXP-2012-03-20-a-i0180.jpg,<image>An image of,photo,Marine Le Pen,1,0
-../data/test/photo/IMP-1915-05-01-a-i0007.jpg,<image>An image of,photo,the Titanic from the Illustrated London News.,1,0
-../data/test/photo/GDL-1928-01-12-a-i0003.jpg,<image>An image of,photo,General George S. Patton.,1,0
-../data/test/photo/IMP-1976-06-14-a-i0140.jpg,<image>An image of,photo,a group of girls doing gymnastics,1,0
-../data/test/photo/IMP-2015-06-19-a-i0017.jpg,<image>An image of,photo,"the outside of the property in Zadar, Croatia",1,0
-../data/test/photo/IMP-2017-05-10-a-i0059.jpg,<image>An image of,photo,a dump truck driving on a construction site.,1,0
-../data/test/photo/IMP-1944-04-03-a-i0005.jpg,<image>An image of,photo,Tree Swing,1,0
-../data/test/photo/IMP-2010-08-14-a-i0188.jpg,<image>An image of,photo,two women standing in a field of grass. They are smiling at the camera.,1,0
-../data/test/photo/LCE-1989-09-22-a-i0018.jpg,<image>An image of,photo,the vineyards of Chateau Lafite Rothschild,1,0
-../data/test/photo/IMP-1913-07-31-a-i0020.jpg,<image>An image of,photo,the wreckage of a train after it collided with a freight train.,1,0
-../data/test/photo/EXP-1967-08-21-a-i0234.jpg,<image>An image of,photo,a Porsche 912,1,0
-../data/test/photo/LCE-1970-07-28-a-i0070.jpg,<image>An image of,photo,"the late Dr. John F. O'Leary, M.D., Ph.D.",1,0
-../data/test/photo/EXP-2012-06-14-a-i0072.jpg,<image>An image of,photo,a man buying a bottle of vodka from a vendor.,1,0
-../data/test/photo/JDG-1945-02-16-a-i0075_2.jpg,<image>An image of,photo,The Man Who Came to Dinner by Noel Coward,1,0
-../data/test/photo/IMP-1997-08-09-a-i0216.jpg,<image>An image of,photo,the cast of the play 'The Ladykillers',1,0
-../data/test/photo/EXP-1971-12-02-a-i0451.jpg,<image>An image of,photo,"Princess Margaret, Duchess of Rothesay.",1,0
-../data/test/photo/EXP-1971-08-30-a-i0012.jpg,<image>An image of,photo,a man in a bathing suit.,1,0
-../data/test/photo/EXP-1913-03-10-a-i0089.jpg,<image>An image of,photo,"the town of Port Moresby, Papua New Guinea, in the early 1900s.",1,0
-../data/test/photo/GDL-1940-07-31-a-i0068.jpg,<image>An image of,photo,a young girl wearing a hat.,1,0
-../data/test/photo/IMP-1972-04-20-a-i0026.jpg,<image>An image of,photo,"a man in a white shirt, blue jeans, and a striped t-shirt. He is",1,0
-../data/test/photo/IMP-1981-01-08-a-i0013.jpg,<image>An image of,photo,a Japanese soldier driving a jeep through the jungle.,1,0
-../data/test/photo/EXP-1940-12-13-a-i0002.jpg,<image>An image of,photo,"the author's father, Georges Simenon.",1,0
-../data/test/photo/EXP-1940-06-14-a-i0005.jpg,<image>An image of,photo,a German Panther tank.,1,0
-../data/test/photo/EXP-2010-12-02-a-i0036.jpg,<image>An image of,photo,a blood test.,1,0
-../data/test/photo/EXP-2007-10-16-a-i0176.jpg,<image>An image of,photo,Thierry Henry from the French newspaper L'Equipe.,1,0
-../data/test/photo/IMP-2012-11-05-a-i0101.jpg,<image>An image of,photo,a man praying on a truck,1,0
-../data/test/photo/IMP-1990-10-02-a-i0036.jpg,<image>An image of,photo,a nuclear power plant in France.,1,0
-../data/test/photo/JDG-1979-05-09-a-i0130.jpg,<image>An image of,photo,"members of the New Zealand Defence Force (NZDF) at a shopping centre in Auckland, New",1,0
-../data/test/photo/EXP-1957-05-08-a-i0009.jpg,<image>An image of,photo,"The Cowboy Rodeo at the Cowboy Hall of Fame in Oklahoma City, Oklahoma.",1,0
-../data/test/photo/JDG-1959-11-11-a-i0141.jpg,<image>An image of,photo,Le Jour de Four (The Day of Four) by Henri Matisse,1,0
-../data/test/photo/IMP-2010-01-14-a-i0019.jpg,<image>An image of,photo,"a Haitian woman and children in Port-au-Prince, Haiti, after a 7.0",1,0
-../data/test/photo/IMP-1969-09-13-a-i0155.jpg,<image>An image of,photo,the excavation of the foundations of the new building.,1,0
-../data/test/photo/EXP-1966-02-18-a-i0473.jpg,<image>An image of,photo,the Saturn V rocket in flight.,1,0
-../data/test/photo/IMP-1980-11-07-a-i0383.jpg,<image>An image of,photo,a rugby team in a scrum,1,0
-../data/test/photo/IMP-1969-10-06-a-i0157.jpg,<image>An image of,photo,"a display at the Royal Horticultural Society's annual show at Wisley, Surrey, in",1,0
-../data/test/photo/IMP-1949-12-22-a-i0014.jpg,<image>An image of,photo,"the plaque on the front of the building, with a picture of a man in front of it.",1,0
-../data/test/photo/EXP-1999-02-26-a-i0228.jpg,<image>An image of,photo,a skier holding a flag.,1,0
-../data/test/photo/EXP-1929-04-20-a-i0006.jpg,<image>An image of,photo,a soldier holding a rifle.,1,0
-../data/test/photo/IMP-1961-09-04-a-i0048.jpg,<image>An image of,photo,"a group of people gathered around a table, with one person standing on the table and another person standing",1,0
-../data/test/photo/IMP-1961-09-08-a-i0166.jpg,<image>An image of,photo,a man in a suit and tie. He is wearing glasses and has a mustache. He is,1,0
-../data/test/photo/IMP-2016-03-02-a-i0381.jpg,<image>An image of,photo,a woman looking at her reflection in the mirror of a car.,1,0
-../data/test/photo/IMP-1982-06-11-a-i0227.jpg,<image>An image of,photo,The Tower of Babel,1,0
-../data/test/photo/IMP-1914-04-14-a-i0002.jpg,<image>An image of,photo,Princess Beatrix of the Netherlands.,1,0
-../data/test/photo/JDG-1990-05-08-a-i0116.jpg,<image>An image of,photo,the Bhopal gas tragedy in 1984.,1,0
-../data/test/photo/EXP-1988-06-27-a-i0026.jpg,<image>An image of,photo,the bike used by John Surtees in the 1970 Isle of Man TT.,1,0
-../data/test/photo/EXP-1975-11-27-a-i0296.jpg,<image>An image of,photo,an old coal-burning boiler in a coal-fired power station.,1,0
-../data/test/photo/JDG-1989-11-07-a-i0090.jpg,<image>An image of,photo,a group of people standing in front of a building holding a poster with a picture of a man and,1,0
-../data/test/photo/IMP-2006-03-11-a-i0243.jpg,<image>An image of,photo,a man in a suit and tie. He is standing in front of a basketball court. He is,1,0
-../data/test/photo/IMP-2012-06-27-a-i0062.jpg,<image>An image of,photo,a man and a woman standing in a laboratory. The man is wearing a white lab coat and the,1,0
-../data/test/photo/EXP-1993-11-12-a-i0261.jpg,<image>An image of,photo,a group of people standing in front of a booth at a trade show.,1,0
-../data/test/photo/JDG-1937-11-19-a-i0106.jpg,<image>An image of,photo,a woman wearing a fur coat.,1,0
-../data/test/photo/LCE-1969-07-09-a-i0083.jpg,<image>An image of,photo,a bridge that collapsed in the 1980s.,1,0
-../data/test/photo/IMP-1945-05-09-a-i0006.jpg,<image>An image of,photo,"Private William Henry Smith of the 2nd Battalion, Royal Sussex Regiment, who was killed in action on",1,0
-../data/test/photo/IMP-1943-06-05-a-i0002.jpg,<image>An image of,photo,a group of soldiers marching in a parade.,1,0
-../data/test/photo/JDG-1943-09-20-a-i0023.jpg,<image>An image of,photo,a German Tiger tank in action.,1,0
-../data/test/photo/EXP-1962-02-01-a-i0167.jpg,<image>An image of,photo,the building in the early 1900s.,1,0
-../data/test/photo/JDG-1945-04-11-a-i0005.jpg,<image>An image of,photo,a group of young men in uniform standing in front of a group of other young men in uniform.,1,0
-../data/test/photo/EXP-2005-01-21-a-i0307.jpg,<image>An image of,photo,a man and a woman sitting on a bench in front of a judge and a panel of judges.,1,0
-../data/test/photo/IMP-1960-07-16-a-i0064.jpg,<image>An image of,photo,a giraffe in a zoo.,1,0
-../data/test/photo/EXP-1925-02-14-a-i0084.jpg,<image>An image of,photo,the Avro Anson,1,0
-../data/test/photo/EXP-1996-09-14-a-i0295.jpg,<image>An image of,photo,a woman in the snow.,1,0
-../data/test/photo/LCE-1970-06-23-a-i0095.jpg,<image>An image of,photo,the car used in the James Bond film 'The Spy Who Loved Me',1,0
-../data/test/photo/EXP-2014-01-10-a-i0101_2.jpg,<image>An image of,photo,the Burj Al Arab,1,0
-../data/test/photo/EXP-1936-12-25-a-i0104.jpg,<image>An image of,photo,"the aftermath of the German bombing of Lille, France, during World War II.",1,0
-../data/test/photo/EXP-1938-12-12-a-i0119.jpg,<image>An image of,photo,the Great Fire of London in 1666,1,0
-../data/test/photo/LCE-1974-11-05-a-i0010.jpg,<image>An image of,photo,a basketball game.,1,0
-../data/test/photo/IMP-2015-06-29-a-i0115.jpg,<image>An image of,photo,the fire at the Glastonbury Festival,1,0
-../data/test/photo/IMP-1946-05-06-a-i0008.jpg,<image>An image of,photo,a group of people standing in front of a group of people standing in front of a group of people,1,0
-../data/test/photo/EXP-2007-06-21-a-i0331.jpg,<image>An image of,photo,a tree in the forest.,1,0
-../data/test/photo/EXP-1950-03-31-a-i0008.jpg,<image>An image of,photo,General Sir Bernard Freyberg (right) and General Sir Bernard Freyberg (left) in,1,0
-../data/test/photo/IMP-1958-10-24-a-i0187.jpg,<image>An image of,photo,the wreckage of a Sherman tank that was hit by a mine during the Battle of Anzio,1,0
-../data/test/photo/EXP-1978-11-11-a-i0510.jpg,<image>An image of,photo,a man and woman standing in front of a door. The man is holding a key and the woman,1,0
-../data/test/photo/EXP-1957-02-04-a-i0014.jpg,<image>An image of,photo,"the late King Hussein of Jordan with his son, Prince Faisal bin Hussein, and the late",1,0
-../data/test/photo/IMP-1967-04-21-a-i0279.jpg,<image>An image of,photo,a man wearing a black jacket and a white cross on his chest. He is sitting on a couch,1,0
-../data/test/photo/EXP-1940-07-24-a-i0012.jpg,<image>An image of,photo,a group of men standing in front of a building,1,0
-../data/test/photo/JDG-1945-02-16-a-i0075.jpg,<image>An image of,photo,The Man Who Came to Dinner by Noel Coward,1,0
-../data/test/photo/IMP-1928-07-27-a-i0003.jpg,<image>An image of,photo,"Lt. Col. John F. Kennedy, who was killed in action during World War II, is",1,0
-../data/test/photo/EXP-1987-06-09-a-i0138.jpg,<image>An image of,photo,the orchestra from the opening night of the concert.,1,0
-../data/test/photo/IMP-2002-06-13-a-i0314.jpg,<image>An image of,photo,a man standing in front of a group of children.,1,0
-../data/test/photo/IMP-1956-01-23-a-i0034.jpg,<image>An image of,photo,"the burning of a police station in Hyderabad, India, during the Quit India Movement.",1,0
-../data/test/photo/IMP-1939-04-29-a-i0002.jpg,<image>An image of,photo,a woman in a bathing suit,1,0
-../data/test/photo/GDL-1951-03-09-a-i0008.jpg,<image>An image of,photo,"Lieutenant-Colonel William Henry Hutton, VC, DSO, MC, DFC and Bar,",1,0
-../data/test/photo/EXP-2006-08-03-a-i0195.jpg,<image>An image of,photo,"two young men, one wearing a red baseball cap and the other wearing a black t-shirt.",1,0
-../data/test/photo/EXP-2003-04-09-a-i0164.jpg,<image>An image of,photo,a man in a suit and tie speaking to a woman in a suit and tie.,1,0
-../data/test/photo/IMP-1998-07-13-a-i0062.jpg,<image>An image of,photo,a man standing in front of a La Poste sign.,1,0
-../data/test/photo/IMP-1936-03-10-a-i0003.jpg,<image>An image of,photo,a crowd of people in the streets of Paris during the German occupation of France during World War I.,1,0
-../data/test/photo/JDG-1941-10-29-a-i0004.jpg,<image>An image of,photo,the Berliner Philharmonie,1,0
-../data/test/photo/EXP-1941-04-19-a-i0003.jpg,<image>An image of,photo,"the fire at the port of Thessaloniki, Greece, during the Greek War of Independence",1,0
-../data/test/photo/IMP-1936-05-11-a-i0011.jpg,<image>An image of,photo,a Swiss Air Force P-51D Mustang,1,0
-../data/test/photo/EXP-2004-11-29-a-i0091.jpg,<image>An image of,photo,"Mother Marianne Cope, the founder of the Sisters of Charity of the Blessed Virgin Mary",1,0
-../data/test/photo/GDL-1985-09-04-a-i0027.jpg,<image>An image of,photo,"the former head of the National Security Agency, General Keith Alexander.",1,0
-../data/test/photo/GDL-1927-10-20-a-i0005.jpg,<image>An image of,photo,the head and shoulders of a middle-aged man in a suit and tie. He is wearing a,1,0
-../data/test/photo/IMP-2005-05-30-a-i0078.jpg,<image>An image of,photo,a woman wearing a traditional Bavarian costume.,1,0
-../data/test/photo/IMP-1964-09-14-a-i0232.jpg,<image>An image of,photo,the funeral of King George V and Queen Mary,1,0
-../data/test/photo/IMP-1938-02-02-a-i0008.jpg,<image>An image of,photo,a nurse in uniform.,1,0
-../data/test/photo/IMP-2016-04-07-a-i0034.jpg,<image>An image of,photo,Peter Greste.,1,0
-../data/test/photo/GDL-1925-12-14-a-i0044.jpg,<image>An image of,photo,a sledding party in the snow,1,0
-../data/test/photo/EXP-1956-04-06-a-i0012.jpg,<image>An image of,photo,a wrecked train.,1,0
-../data/test/photo/EXP-2016-03-22-a-i0009.jpg,<image>An image of,photo,Richard Branson speaking at a conference.,1,0
-../data/test/photo/EXP-2011-06-01-a-i0189.jpg,<image>An image of,photo,"Carlos Slim, the richest man in the world.",1,0
-../data/test/photo/IMP-2001-08-24-a-i0185.jpg,<image>An image of,photo,Two Horses,1,0
-../data/test/photo/EXP-2007-09-04-a-i0328.jpg,<image>An image of,photo,a woman holding a glass of wine,1,0
-../data/test/photo/IMP-1913-01-18-a-i0043.jpg,<image>An image of,photo,"the late Rev. William H. McIntosh, pastor of the First Presbyterian Church, taken",1,0
-../data/test/photo/IMP-1948-10-02-a-i0104.jpg,<image>An image of,photo,Secretary of State George C. Marshall (left) and Secretary of Defense George C. Marshall (right,1,0
-../data/test/photo/EXP-1968-07-02-a-i0132.jpg,<image>An image of,photo,a farm with hay bales in the foreground and a barn in the background.,1,0
-../data/test/photo/IMP-1944-08-08-a-i0008.jpg,<image>An image of,photo,two horses in harness.,1,0
-../data/test/photo/EXP-1988-05-07-a-i0236.jpg,<image>An image of,photo,a group of people standing in front of a stereo system. The man in the middle is holding a,1,0
-../data/test/photo/LCE-1969-01-09-a-i0002.jpg,<image>An image of,photo,Aerial view of a village in the mountains,1,0
-../data/test/photo/IMP-1943-02-06-a-i0003_3.jpg,<image>An image of,photo,a swan in a shop window,1,0
-../data/test/photo/IMP-2002-11-08-a-i0065.jpg,<image>An image of,photo,a group of swimmers in a pool.,1,0
-../data/test/photo/EXP-2007-12-27-a-i0146.jpg,<image>An image of,photo,Jens Lehmann taken during his playing days for Borussia Moenchengladbach,1,0
-../data/test/photo/EXP-2003-10-16-a-i0129.jpg,<image>An image of,photo,a woman lying on a bed with a gun in her hand.,1,0
-../data/test/photo/GDL-1993-03-13-a-i0130.jpg,<image>An image of,photo,Michael Schumacher,1,0
-../data/test/photo/EXP-1928-11-07-a-i0065.jpg,<image>An image of,photo,"the church in St. Moritz, Switzerland.",1,0
-../data/test/photo/EXP-2009-06-27-a-i0182.jpg,<image>An image of,photo,Roger Federer,1,0
-../data/test/photo/IMP-1965-12-30-a-i0057.jpg,<image>An image of,photo,"Sir Anthony Eden, Prime Minister of the United Kingdom, taken in the House of Commons, London,",1,0
-../data/test/photo/EXP-1965-12-16-a-i0130.jpg,<image>An image of,photo,a flooded building in the 1940s.,1,0
-../data/test/photo/IMP-1926-12-28-a-i0009.jpg,<image>An image of,photo,Two young men holding a bouquet of flowers.,1,0
-../data/test/photo/IMP-1969-10-08-a-i0121.jpg,<image>An image of,photo,Untitled (Abstract) by Robert Rauschenberg,1,0
-../data/test/photo/LCE-1988-01-12-a-i0057.jpg,<image>An image of,photo,"the Olympic Games in Los Angeles, 1932.",1,0
-../data/test/photo/EXP-2012-06-13-a-i0167.jpg,<image>An image of,photo,a man wearing a suit and tie. He is smiling and looking at the camera.,1,0
-../data/test/photo/IMP-1968-02-01-a-i0304.jpg,<image>An image of,photo,a Porsche 356 Speedster being driven by a man in a white suit.,1,0
-../data/test/photo/IMP-2008-02-13-a-i0283.jpg,<image>An image of,photo,a robot operating on a patient.,1,0
-../data/test/photo/EXP-1972-07-26-a-i0286.jpg,<image>An image of,photo,Marlene Dietrich,1,0
-../data/test/photo/EXP-1962-08-21-a-i0108.jpg,<image>An image of,photo,a man on a motorbike. He is wearing a white helmet and a black leather jacket.,1,0
-../data/test/photo/EXP-2000-01-31-a-i0255.jpg,<image>An image of,photo,"the author and his wife, taken from a newspaper clipping.",1,0
-../data/test/photo/JDG-1975-10-18-a-i0186.jpg,<image>An image of,photo,a wine glass with a Greek figure on it.,1,0
-../data/test/photo/JDG-1937-11-21-a-i0098.jpg,<image>An image of,photo,the original building in the 1920s. (Courtesy of the City of Los Angeles),1,0
-../data/test/photo/EXP-2000-10-18-a-i0167.jpg,<image>An image of,photo,Mary Dyer,1,0
-../data/test/photo/EXP-1988-08-20-a-i0138.jpg,<image>An image of,photo,a group of elderly people sitting at a table in a restaurant.,1,0
-../data/test/photo/JDG-1969-07-12-a-i0114.jpg,<image>An image of,photo,the exterior of a building with a row of columns in the foreground and a row of columns in the,1,0
-../data/test/photo/EXP-2002-02-14-a-i0206.jpg,<image>An image of,photo,"Dr. Ruth Bader Ginsburg and her mother, Ruth Bader Ginsburg, in",1,0
-../data/test/photo/IMP-1941-08-29-a-i0071.jpg,<image>An image of,photo,a woman wearing a wedding dress.,1,0
-../data/test/photo/EXP-1940-11-05-a-i0011.jpg,<image>An image of,photo,"the bust of General Lafayette in the Lafayette Park in Washington, D.C.",1,0
-../data/test/photo/IMP-2004-06-19-a-i0149.jpg,<image>An image of,photo,Bruce Willis and Demi Moore,1,0
-../data/test/photo/EXP-1912-07-13-a-i0109.jpg,<image>An image of,photo,a group of children dancing in front of a house.,1,0
-../data/test/photo/GDL-1991-06-01-a-i0197.jpg,<image>An image of,photo,a group of children digging in the dirt.,1,0
-../data/test/photo/EXP-1989-06-08-a-i0011.jpg,<image>An image of,photo,"the helicopter that crashed on the roof of a building at the University of the West Indies, Mona",1,0
-../data/test/photo/IMP-1977-11-07-a-i0242.jpg,<image>An image of,photo,Philippe Gallois,1,0
-../data/test/photo/EXP-1969-10-17-a-i0065.jpg,<image>An image of,photo,a man carrying a child on his back.,1,0
-../data/test/photo/IMP-1944-09-14-a-i0067.jpg,<image>An image of,photo,the wreckage of the Lockheed L-1049A Constellation.,1,0
-../data/test/photo/EXP-1990-11-24-a-i0086.jpg,<image>An image of,photo,"Act II, Scene 1 from The Merchant of Venice",1,0
-../data/test/photo/GDL-1935-05-12-a-i0074.jpg,<image>An image of,photo,The ruins of the church of St. John the Baptist in the village of St. John in the,1,0
-../data/test/photo/IMP-1993-07-05-a-i0166.jpg,<image>An image of,photo,children playing with boxes.,1,0
-../data/test/photo/EXP-2010-05-04-a-i0036.jpg,<image>An image of,photo,a woman wearing a grey coat and a scarf. She is standing in front of a sign that reads,1,0
-../data/test/photo/JDG-1984-01-16-a-i0145.jpg,<image>An image of,photo,the man who was shot and killed by police in the early hours of Sunday morning.,1,0
-../data/test/photo/EXP-2002-11-14-a-i0041.jpg,<image>An image of,photo,"the stage at the opening ceremony of the International Festival of Arts and Sciences in Geneva, Switzerland, in",1,0
-../data/test/photo/IMP-2013-01-24-a-i0107.jpg,<image>An image of,photo,"the author, Susan Orlean.",1,0
-../data/test/photo/GDL-1934-07-16-a-i0002.jpg,<image>An image of,photo,the train station at the end of the line in the early 1900s.,1,0
-../data/test/photo/LCE-1978-10-27-a-i0067.jpg,<image>An image of,photo,Richard Pryor,1,0
-../data/test/photo/EXP-2017-04-22-a-i0197.jpg,<image>An image of,photo,a volleyball match between the women's national team of the Netherlands and the women's national team of,1,0
-../data/test/photo/IMP-1945-07-28-a-i0096.jpg,<image>An image of,photo,a group of men standing in front of a building.,1,0
-../data/test/photo/EXP-1987-01-03-a-i0205.jpg,<image>An image of,photo,a man with a moustache.,1,0
-../data/test/photo/EXP-1970-06-20-a-i0575.jpg,<image>An image of,photo,"the author, taken in the 1960s, when he was a member of the Communist Party of Great",1,0
-../data/test/photo/EXP-1936-07-17-a-i0002.jpg,<image>An image of,photo,a group of boys marching in a parade.,1,0
-../data/test/photo/IMP-1953-12-23-a-i0123.jpg,<image>An image of,photo,a team of Clydesdale horses pulling a cart,1,0
-../data/test/photo/IMP-1940-06-22-a-i0008.jpg,<image>An image of,photo,Fidel Castro,1,0
-../data/test/photo/IMP-1946-09-13-a-i0004.jpg,<image>An image of,photo,President John F. Kennedy and First Lady Jacqueline Kennedy on the steps of the U.S,1,0
-../data/test/photo/IMP-1952-08-07-a-i0004.jpg,<image>An image of,photo,the Lake of the Clouds in Glacier National Park.,1,0
-../data/test/photo/IMP-1983-10-28-a-i0354.jpg,<image>An image of,photo,"Window of the Temple of the Sun, Palmyra, Syria by Anonymous",1,0
-../data/test/photo/JDG-1990-02-23-a-i0168.jpg,<image>An image of,photo,the front cover of the band's first album.,1,0
-../data/test/photo/IMP-1932-09-19-a-i0005.jpg,<image>An image of,photo,"Queen Elizabeth II and the Prime Minister of India, Pandit Jawaharlal Nehru",1,0
-../data/test/photo/IMP-2013-01-05-a-i0213.jpg,<image>An image of,photo,a waitress in a restaurant.,1,0
-../data/test/photo/GDL-1939-10-30-a-i0044.jpg,<image>An image of,photo,a cannon,1,0
-../data/test/photo/IMP-2009-12-01-a-i0072.jpg,<image>An image of,photo,Santa Claus holding a gift,1,0
-../data/test/photo/EXP-1913-09-17-a-i0084_2.jpg,<image>An image of,photo,the Duke and Duchess of York (later King George VI and Queen Elizabeth II) leaving Buckingham Palace,1,0
-../data/test/photo/GDL-1980-05-08-a-i0114.jpg,<image>An image of,photo,people standing in a queue outside a car showroom in the early 1980s.,1,0
-../data/test/photo/EXP-1928-01-09-a-i0056.jpg,<image>An image of,photo,the head of a man in a suit and tie. He is wearing a dark suit with a white,1,0
-../data/test/photo/IMP-1968-08-09-a-i0158.jpg,<image>An image of,photo,the building in the early 1900s.,1,0
-../data/test/photo/IMP-2011-11-08-a-i0030.jpg,<image>An image of,photo,"the town of Lucerne, Switzerland, with a rainbow in the foreground.",1,0
-../data/test/photo/EXP-1979-08-10-a-i0158.jpg,<image>An image of,photo,a large hole in the ground.,1,0
-../data/test/photo/EXP-1928-03-06-a-i0061.jpg,<image>An image of,photo,"the interior of St. Peter and Paul Church in Bamberg, Germany.",1,0
-../data/test/photo/EXP-1900-12-31-a-i0138_2.jpg,<image>An image of,photo,a boy in a nurse's uniform.,1,0
-../data/test/photo/EXP-2012-02-11-a-i0244.jpg,<image>An image of,photo,a man and a woman standing in front of a bookshelf. The man is wearing a suit and,1,0
-../data/test/photo/IMP-2008-03-18-a-i0121.jpg,<image>An image of,photo,John Cleese,1,0
-../data/test/photo/IMP-1917-02-20-a-i0007.jpg,<image>An image of,photo,a French soldier saluting a German officer.,1,0
-../data/test/photo/IMP-2014-03-27-a-i0062.jpg,<image>An image of,photo,French Montana,1,0
-../data/test/photo/EXP-1994-08-23-a-i0129.jpg,<image>An image of,photo,"the author, Dr. Robert C. May, taken in the mid-1990s.",1,0
-../data/test/photo/EXP-1971-09-15-a-i0392.jpg,<image>An image of,photo,a Bedouin man holding a sword.,1,0
-../data/test/photo/IMP-1927-03-07-a-i0026.jpg,<image>An image of,photo,the construction of the Great Western Railway viaduct over the River Severn.,1,0
-../data/test/photo/IMP-2015-08-22-a-i0196.jpg,<image>An image of,photo,a woman playing with balloons.,1,0
-../data/test/photo/EXP-1970-05-26-a-i0397.jpg,<image>An image of,photo,a goalkeeper in action.,1,0
-../data/test/photo/EXP-2015-04-24-a-i0167.jpg,<image>An image of,photo,"Bangladesh Prime Minister Sheikh Hasina is displayed during a protest in Dhaka, Bangladesh, Tuesday,",1,0
-../data/test/photo/IMP-2014-01-29-a-i0191.jpg,<image>An image of,photo,the player that this statistic is related to.,1,0
-../data/test/photo/EXP-1913-11-21-a-i0082.jpg,<image>An image of,photo,the wreckage of the Great Northern Railway train,1,0
-../data/test/photo/EXP-1915-11-19-a-i0077.jpg,<image>An image of,photo,a ship docked at a wharf.,1,0
-../data/test/photo/IMP-1948-06-24-a-i0036.jpg,<image>An image of,photo,a cyclist with a group of people in the background. The cyclist is wearing a jersey with,1,0
-../data/test/photo/GDL-1985-05-04-a-i0023.jpg,<image>An image of,photo,a woman sitting at a computer.,1,0
-../data/test/photo/IMP-1960-07-25-a-i0010.jpg,<image>An image of,photo,Marlene Dietrich,1,0
-../data/test/photo/JDG-1937-10-07-a-i0003.jpg,<image>An image of,photo,a group of men in uniform standing in front of a plane.,1,0
-../data/test/photo/GDL-1966-07-28-a-i0169.jpg,<image>An image of,photo,the wedding dress worn by the bride.,1,0
-../data/test/photo/IMP-1992-10-17-a-i0264.jpg,<image>An image of,photo,Le Cadeau Hauterive in the rain,1,0
-../data/test/photo/IMP-1941-09-09-a-i0010.jpg,<image>An image of,photo,a railroad yard in the early 1900s.,1,0
-../data/test/photo/EXP-1938-03-31-a-i0087.jpg,<image>An image of,photo,"a man in a white corset and black stockings, holding a sword in his right hand",1,0
-../data/test/photo/IMP-1923-05-14-a-i0034.jpg,<image>An image of,photo,Boxing by Anonymous,1,0
-../data/test/photo/IMP-1963-07-24-a-i0171.jpg,<image>An image of,photo,the wedding of Princess Margaret and Antony Armstrong-Jones,1,0
-../data/test/photo/IMP-1966-10-07-a-i0138.jpg,<image>An image of,photo,"the match between Dundee United and St Johnstone, played at Dens Park, Dundee on",1,0
-../data/test/photo/IMP-1974-11-11-a-i0066.jpg,<image>An image of,photo,a large gathering of people in a hall.,1,0
-../data/test/photo/IMP-2004-02-19-a-i0002.jpg,<image>An image of,photo,children sitting on a stage,1,0
-../data/test/photo/EXP-1987-03-11-a-i0009.jpg,<image>An image of,photo,a woman working in a laboratory.,1,0
-../data/test/photo/IMP-1934-12-26-a-i0010.jpg,<image>An image of,photo,soldiers from the Royal Scots Greys,1,0
-../data/test/photo/JDG-1978-12-19-a-i0056.jpg,<image>An image of,photo,the signing of the Treaty of Peace and Friendship between the Soviet Union and the United States of America,1,0
-../data/test/photo/EXP-1993-11-05-a-i0131.jpg,<image>An image of,photo,Joan Baez,1,0
-../data/test/photo/EXP-2002-04-06-a-i0048.jpg,<image>An image of,photo,the library in the 1970s.,1,0
-../data/test/photo/IMP-2010-01-26-a-i0273.jpg,<image>An image of,photo,the author.,1,0
-../data/test/photo/JDG-1986-08-16-a-i0178.jpg,<image>An image of,photo,the demolition of the old Wembley Stadium,1,0
-../data/test/photo/GDL-1982-03-17-a-i0121.jpg,<image>An image of,photo,"Robert F. Kennedy at the Democratic National Convention in Chicago, Illinois, in 1968.",1,0
-../data/test/photo/IMP-2012-05-18-a-i0083.jpg,<image>An image of,photo,the Renault Megane.,1,0
-../data/test/photo/IMP-1966-12-10-a-i0326.jpg,<image>An image of,photo,the signing of the agreement between the United States and the Republic of China (Taiwan) in,1,0
-../data/test/photo/JDG-1958-01-11-a-i0079.jpg,<image>An image of,photo,"Indira Gandhi with her husband, Prime Minister Rajiv Gandhi, and her son, Sanjay Gandhi",1,0
-../data/test/photo/IMP-2015-06-23-a-i0053.jpg,<image>An image of,photo,a woman holding two babies.,1,0
-../data/test/photo/IMP-1949-07-18-a-i0007.jpg,<image>An image of,photo,the interior of the Church of the Holy Sepulchre in Jerusalem.,1,0
-../data/test/photo/JDG-1982-04-21-a-i0076.jpg,<image>An image of,photo,the interior of the Museum of Natural History.,1,0
-../data/test/photo/IMP-2001-08-15-a-i0127.jpg,<image>An image of,photo,a tank in front of a mosque.,1,0
-../data/test/photo/LCE-1982-12-14-a-i0038.jpg,<image>An image of,photo,a climber on a mountain,1,0
-../data/test/photo/EXP-1961-06-08-a-i0104.jpg,<image>An image of,photo,Le Mans 24 hour race,1,0
-../data/test/photo/IMP-1949-03-03-a-i0063.jpg,<image>An image of,photo,soldiers marching in a parade.,1,0
-../data/test/photo/IMP-1966-12-26-a-i0116.jpg,<image>An image of,photo,the Malmsteen scorecard.,1,0
-../data/test/photo/IMP-2000-05-29-a-i0059.jpg,<image>An image of,photo,a young girl in a white raincoat with a parasol in her hand. She is standing,1,0
-../data/test/photo/IMP-2016-08-05-a-i0071.jpg,<image>An image of,photo,a woman taking a photo with her phone.,1,0
-../data/test/photo/EXP-2002-11-11-a-i0237.jpg,<image>An image of,photo,a hockey player in action.,1,0
-../data/test/photo/IMP-1949-04-14-a-i0055.jpg,<image>An image of,photo,the funeral of Queen Victoria,1,0
-../data/test/photo/EXP-2016-01-22-a-i0238.jpg,<image>An image of,photo,actor Gerard Butler driving a car.,1,0
-../data/test/photo/JDG-1979-11-20-a-i0091.jpg,<image>An image of,photo,a traffic jam in the 1980s.,1,0
-../data/test/photo/EXP-1948-12-08-a-i0100.jpg,<image>An image of,photo,Aerial view of the area of the attack on the airfield of the airfield of the air,1,0
-../data/test/photo/EXP-1987-08-13-a-i0007.jpg,<image>An image of,photo,the author's father.,1,0
-../data/test/photo/EXP-1963-12-18-a-i0160.jpg,<image>An image of,photo,the inside of a warehouse.,1,0
-../data/test/photo/IMP-2001-10-11-a-i0283.jpg,<image>An image of,photo,"the interior of the house, showing the chimney, the fireplace, and the plant pots.",1,0
-../data/test/photo/LCE-1969-11-08-a-i0113.jpg,<image>An image of,photo,a Soviet tank from the 1950s.,1,0
-../data/test/photo/EXP-1932-03-16-a-i0064.jpg,<image>An image of,photo,a group of men in suits standing in front of a group of men in suits standing in front of,1,0
-../data/test/photo/IMP-1986-09-08-a-i0222.jpg,<image>An image of,photo,the first train to run on the track.,1,0
-../data/test/photo/GDL-1965-11-27-a-i0316.jpg,<image>An image of,photo,"the assassination of President John F. Kennedy in Dallas, Texas, on November 22, 1963.",1,0
-../data/test/photo/IMP-1941-06-23-a-i0009.jpg,<image>An image of,photo,the Battle of Gallipoli,1,0
-../data/test/photo/EXP-2016-04-04-a-i0128.jpg,<image>An image of,photo,"a water tower in the Old City of Damascus, Syria.",1,0
-../data/test/photo/EXP-1938-06-07-a-i0066.jpg,<image>An image of,photo,the Swiss team at the 1930 FIFA World Cup,1,0
-../data/test/photo/IMP-2004-09-04-a-i0354.jpg,<image>An image of,photo,a woman in a white dress with a black veil over her face. She is standing in front of,1,0
-../data/test/photo/GDL-1958-02-01-a-i0009.jpg,<image>An image of,photo,"the author in his office at the University of California, Santa Barbara, where he was a professor of",1,0
-../data/test/photo/EXP-2017-05-03-a-i0038.jpg,<image>An image of,photo,a hairdresser cutting a woman's hair.,1,0
-../data/test/photo/IMP-1999-05-27-a-i0288.jpg,<image>An image of,photo,a child wearing sunglasses.,1,0
-../data/test/photo/IMP-1962-03-23-a-i0300.jpg,<image>An image of,photo,"a French armoured car on the streets of Beirut, Lebanon, during the Second World War",1,0
-../data/test/photo/IMP-1999-12-31-a-i0037.jpg,<image>An image of,photo,a girl snowshoeing.,1,0
-../data/test/photo/LCE-1943-07-12-a-i0010.jpg,<image>An image of,photo,a fly,1,0
-../data/test/photo/EXP-1982-07-29-a-i0138.jpg,<image>An image of,photo,a goalkeeper making a save,1,0
-../data/test/photo/JDG-1979-10-17-a-i0143.jpg,<image>An image of,photo,"Mr. John D. McIntyre, who was killed in the crash of the Trans-",1,0
-../data/test/photo/IMP-1996-09-21-a-i0207.jpg,<image>An image of,photo,"Mr. and Mrs. W.H. (Bill) Hickman, who were killed in",1,0
-../data/test/photo/EXP-1988-12-22-a-i0069.jpg,<image>An image of,photo,the statue of the elephant that was destroyed in the fire.,1,0
-../data/test/photo/EXP-2002-11-01-a-i0192.jpg,<image>An image of,photo,a man wearing a black suit and a white shirt. He is smiling and looking at the camera.,1,0
-../data/test/photo/IMP-2006-10-05-a-i0259.jpg,<image>An image of,photo,Bruce Willis and John Cusack in Goodfellas,1,0
-../data/test/photo/IMP-1974-11-29-a-i0092.jpg,<image>An image of,photo,the construction of the viaduct,1,0
-../data/test/photo/GDL-1984-06-26-a-i0081.jpg,<image>An image of,photo,a game between England and France in the 1982 World Cup,1,0
-../data/test/photo/EXP-1926-08-11-a-i0064.jpg,<image>An image of,photo,a cyclist and a woman standing next to a bicycle. The cyclist is wearing a hat and,1,0
-../data/test/photo/EXP-1991-06-10-a-i0093.jpg,<image>An image of,photo,the set for the first episode of the series.,1,0
-../data/test/photo/EXP-1989-12-22-a-i0227.jpg,<image>An image of,photo,a hockey player in action.,1,0
-../data/test/photo/EXP-1914-06-02-a-i0100.jpg,<image>An image of,photo,the Titanic,1,0
-../data/test/photo/EXP-1979-10-23-a-i0132.jpg,<image>An image of,photo,a group of men working on a fence.,1,0
-../data/test/photo/EXP-1970-05-26-a-i0220.jpg,<image>An image of,photo,the building in the 1920s.,1,0
-../data/test/photo/LCE-1909-06-23-a-i0020.jpg,<image>An image of,photo,Mrs. William H. Hoyt and Mr. William H. Hoyt,1,0
-../data/test/photo/EXP-2008-06-21-a-i0182.jpg,<image>An image of,photo,Cristiano Ronaldo,1,0
-../data/test/photo/EXP-1975-09-10-a-i0205.jpg,<image>An image of,photo,Peter Beardsley in action,1,0
-../data/test/photo/IMP-1978-09-23-a-i0009.jpg,<image>An image of,photo,a parade in the 1950s.,1,0
-../data/test/photo/IMP-2008-11-18-a-i0067.jpg,<image>An image of,photo,three people holding Easter eggs and a cake.,1,0
-../data/test/photo/IMP-1984-09-11-a-i0275.jpg,<image>An image of,photo,a woman kneeling in front of a large painting of a woman kneeling in front of a large,1,0
-../data/test/photo/IMP-1938-03-17-a-i0003.jpg,<image>An image of,photo,"two men, one in a suit and tie, the other in a suit and tie. The man",1,0
-../data/test/photo/EXP-2001-03-16-a-i0237.jpg,<image>An image of,photo,the ice hockey game played between the HC Davos and the HC Thun at the Davos Arena,1,0
-../data/test/photo/EXP-1934-09-17-a-i0013.jpg,<image>An image of,photo,"the Pont de l'Arche de Triomphe, Paris, France, showing the Pont de",1,0
-../data/test/photo/IMP-2017-12-23-a-i0248.jpg,<image>An image of,photo,Alice in Wonderland.,1,0
-../data/test/photo/IMP-2017-07-05-a-i0077.jpg,<image>An image of,photo,a woman with long brown hair and a white blouse. She is looking at the camera.,1,0
-../data/test/photo/JDG-1928-05-27-a-i0061.jpg,<image>An image of,photo,a woman dancing in a field of flowers.,1,0
-../data/test/photo/IMP-1993-05-08-a-i0276.jpg,<image>An image of,photo,Robert Culp,1,0
-../data/test/photo/IMP-1966-07-23-a-i0027.jpg,<image>An image of,photo,a group of people standing in front of a tent.,1,0
-../data/test/photo/IMP-2003-01-17-a-i0027.jpg,<image>An image of,photo,the author's father.,1,0
-../data/test/photo/EXP-1968-12-12-a-i0341.jpg,<image>An image of,photo,John Surtees,1,0
-../data/test/photo/IMP-1960-06-16-a-i0011.jpg,<image>An image of,photo,Marlene Dietrich,1,0
-../data/test/photo/LCE-1970-03-16-a-i0098.jpg,<image>An image of,photo,Robert Rauschenberg,1,0
-../data/test/photo/EXP-1930-06-03-a-i0004.jpg,<image>An image of,photo,a train in the 1920s.,1,0
-../data/test/photo/EXP-2007-08-03-a-i0293.jpg,<image>An image of,photo,a man wearing a mask.,1,0
-../data/test/photo/JDG-1974-05-18-a-i0221.jpg,<image>An image of,photo,The Three Musketeers (1915),1,0
-../data/test/photo/EXP-2016-09-17-a-i0140.jpg,<image>An image of,photo,Indicateurs,1,0
-../data/test/photo/EXP-1954-02-16-a-i0010.jpg,<image>An image of,photo,a hockey game.,1,0
-../data/test/photo/IMP-1914-05-30-a-i0005.jpg,<image>An image of,photo,a woman in a white dress with a black collar and a black hat. She is wearing a black,1,0
-../data/test/photo/IMP-1943-02-06-a-i0003_2.jpg,<image>An image of,photo,a German Panzer Division in action during the Battle of Stalingrad.,1,0
-../data/test/photo/IMP-1956-04-24-a-i0007.jpg,<image>An image of,photo,a house destroyed by fire.,1,0
-../data/test/photo/EXP-2004-11-04-a-i0200.jpg,<image>An image of,photo,a man speaking into a microphone. He is wearing a suit and glasses.,1,0
-../data/test/photo/EXP-1998-10-09-a-i0256.jpg,<image>An image of,photo,a man wearing a racing helmet.,1,0
-../data/test/photo/EXP-1964-05-26-a-i0222.jpg,<image>An image of,photo,the procession of the procession of the procession of the procession of the procession of the procession of the procession,1,0
-../data/test/photo/IMP-2013-04-30-a-i0141.jpg,<image>An image of,photo,the front cover of the French edition of the book.,1,0
-../data/test/photo/EXP-1937-02-20-a-i0144.jpg,<image>An image of,photo,"a woman holding a sword and a shield, with a ship in the background.",1,0
-../data/test/photo/EXP-2001-10-30-a-i0026.jpg,<image>An image of,photo,the boat,1,0
-../data/test/photo/IMP-1940-02-08-a-i0008.jpg,<image>An image of,photo,a man and a woman standing in the snow. The woman is wearing a fur coat and the man,1,0
-../data/test/photo/IMP-1926-08-25-a-i0008.jpg,<image>An image of,photo,View of the City of New Orleans from the Mississippi River by Anonymous,1,0
-../data/test/photo/IMP-2016-04-04-a-i0034.jpg,<image>An image of,photo,a woman voting in a polling station.,1,0
-../data/test/photo/IMP-1938-12-15-a-i0014.jpg,<image>An image of,photo,the Christmas lights in the 1930s.,1,0
-../data/test/photo/EXP-1996-09-10-a-i0259.jpg,<image>An image of,photo,Steven Spielberg,1,0
-../data/test/photo/IMP-1929-08-23-a-i0002.jpg,<image>An image of,photo,a man pointing to a sign in a shop window.,1,0
-../data/test/photo/LCE-1956-11-16-a-i0030.jpg,<image>An image of,photo,Bill Bowerman,1,0
-../data/test/photo/IMP-1965-04-20-a-i0007.jpg,<image>An image of,photo,Peter Beardsley,1,0
-../data/test/photo/IMP-1940-08-06-a-i0014.jpg,<image>An image of,photo,Portrait of a man,1,0
-../data/test/photo/EXP-1989-07-29-a-i0029.jpg,<image>An image of,photo,a smiling young man. He is wearing a white T-shirt and a black baseball cap.,1,0
-../data/test/photo/IMP-1958-01-03-a-i0117.jpg,<image>An image of,photo,"the city of Caracas, Venezuela, in the early 1970s.",1,0
-../data/test/photo/EXP-1930-08-27-a-i0004.jpg,<image>An image of,photo,a group of men standing in front of a flag.,1,0
-../data/test/photo/IMP-1972-11-23-a-i0328.jpg,<image>An image of,photo,a man and a woman on skis.,1,0
-../data/test/photo/IMP-1985-11-11-a-i0143.jpg,<image>An image of,photo,John Lennon,1,0
-../data/test/photo/GDL-1995-11-18-a-i0107.jpg,<image>An image of,photo,a poster for the opening of the exhibition 'Genève' at the Palais des Beaux,1,0
-../data/test/photo/EXP-1937-04-29-a-i0053.jpg,<image>An image of,photo,The Great Pyramid of Giza,1,0
-../data/test/photo/IMP-1940-02-21-a-i0005.jpg,<image>An image of,photo,British soldiers marching in the snow.,1,0
-../data/test/photo/EXP-1946-03-15-a-i0147.jpg,<image>An image of,photo,"the D-Day invasion of Normandy, France, on June 6, 1944.",1,0
-../data/test/photo/IMP-1968-08-23-a-i0248.jpg,<image>An image of,photo,a rugby match.,1,0
-../data/test/photo/IMP-1989-08-16-a-i0106.jpg,<image>An image of,photo,Usain Bolt,1,0
-../data/test/photo/IMP-1959-03-13-a-i0169.jpg,<image>An image of,photo,a man in a suit standing in front of a car with a man in a suit standing next to,1,0
-../data/test/photo/IMP-2008-10-13-a-i0075.jpg,<image>An image of,photo,a drummer playing a snare drum.,1,0
-../data/test/photo/EXP-1999-12-02-a-i0140.jpg,<image>An image of,photo,a man driving a car with a horse on the back.,1,0
-../data/test/photo/IMP-2008-02-13-a-i0010.jpg,<image>An image of,photo,a woman standing in front of a building. She is wearing a long black coat and is leaning against,1,0
-../data/test/photo/EXP-1995-06-24-a-i0240.jpg,<image>An image of,photo,a cyclist on a road bike.,1,0
-../data/test/photo/EXP-1953-08-18-a-i0007.jpg,<image>An image of,photo,"a woman standing in front of a tree in a white wedding dress, holding a bouquet of flowers",1,0
-../data/test/photo/EXP-1970-05-04-a-i0007.jpg,<image>An image of,photo,an armoured personnel carrier (APC),1,0
-../data/test/photo/EXP-1935-06-11-a-i0006.jpg,<image>An image of,photo,Hitler addressing the Reichstag,1,0
-../data/test/photo/EXP-1958-06-30-a-i0012.jpg,<image>An image of,photo,a group of people standing in front of a plane.,1,0
-../data/test/photo/LCE-1977-12-20-a-i0030.jpg,<image>An image of,photo,'Au Beau Troubadour' by Henri de Toulouse-Lautrec,1,0
-../data/test/photo/IMP-2008-09-16-a-i0309.jpg,<image>An image of,photo,the official match ball used during the World Cup in Mexico.,1,0
-../data/test/photo/IMP-1930-01-08-a-i0004.jpg,<image>An image of,photo,King George V of the United Kingdom of Great Britain and Ireland,1,0
-../data/test/photo/EXP-2015-07-13-a-i0127.jpg,<image>An image of,photo,Serbian President Aleksandar Vucic (C) being surrounded by protesters during a rally in,1,0
-../data/test/photo/EXP-1967-04-24-a-i0127.jpg,<image>An image of,photo,Jean-Paul Belmondo taken from the French newspaper L'Humanité on the day of his,1,0
-../data/test/photo/EXP-1987-10-22-a-i0509.jpg,<image>An image of,photo,a car being pushed over by a crane.,1,0
-../data/test/photo/IMP-2016-05-31-a-i0193.jpg,<image>An image of,photo,a player wearing a yellow jersey and black shorts. He is wearing a black headband. He is,1,0
-../data/test/photo/IMP-1929-08-10-a-i0004.jpg,<image>An image of,photo,a man sitting at a desk. He is wearing a black suit and a white shirt. He is,1,0
-../data/test/photo/IMP-1965-04-03-a-i0361.jpg,<image>An image of,photo,John Lennon taken from the cover of the Beatles' Anthology album.,1,0
-../data/test/photo/GDL-1970-05-21-a-i0034.jpg,<image>An image of,photo,"Still life with a vase, a bottle and a pair of shoes by George Bellows",1,0
-../data/test/photo/IMP-2008-06-02-a-i0067.jpg,<image>An image of,photo,a crowd of people at a festival.,1,0
-../data/test/photo/GDL-1979-05-08-a-i0045.jpg,<image>An image of,photo,"Dr. Robert E. Larson, who was a member of the Board of Trustees of the University",1,0
-../data/test/photo/IMP-1948-05-05-a-i0044.jpg,<image>An image of,photo,a woman wearing a hat with flowers in her hair.,1,0
-../data/test/photo/JDG-1995-03-30-a-i0189.jpg,<image>An image of,photo,The Man Who Came to Dinner (1931),1,0
-../data/test/photo/JDG-1909-11-09-a-i0050.jpg,<image>An image of,photo,the head and shoulders of a man with a moustache. He is wearing a dark suit and,1,0
-../data/test/photo/EXP-2010-07-14-a-i0108.jpg,<image>An image of,photo,the characters from Toy Story,1,0
-../data/test/photo/IMP-2009-05-04-a-i0182.jpg,<image>An image of,photo,a man in a suit and glasses standing in front of a hockey rink.,1,0
-../data/test/photo/IMP-2002-12-28-a-i0029.jpg,<image>An image of,photo,a man standing in front of a cash register.,1,0
-../data/test/photo/GDL-1955-07-23-a-i0002.jpg,<image>An image of,photo,Chateau de Chenonceau,1,0
-../data/test/photo/IMP-1969-01-25-a-i0104.jpg,<image>An image of,photo,a group of children sitting at a table.,1,0
-../data/test/photo/EXP-1945-12-13-a-i0079.jpg,<image>An image of,photo,Candlesticks and candelabra,1,0
-../data/test/photo/EXP-2015-02-05-a-i0115.jpg,<image>An image of,photo,a person smoking a joint,1,0
-../data/test/photo/JDG-1936-12-30-a-i0033.jpg,<image>An image of,photo,a row of stretchers in use during the First World War.,1,0
-../data/test/photo/IMP-1931-02-18-a-i0004.jpg,<image>An image of,photo,"General Sir John Moore, K.C.B., K.C.M.G., D",1,0
-../data/test/photo/IMP-1935-05-23-a-i0005.jpg,<image>An image of,photo,a crowd of people carrying boxes of food.,1,0
-../data/test/photo/EXP-2008-10-10-a-i0155.jpg,<image>An image of,photo,Rory McIlroy,1,0
-../data/test/photo/EXP-2010-02-01-a-i0162.jpg,<image>An image of,photo,Jean-Pierre Papin,1,0
-../data/test/photo/JDG-1959-09-30-a-i0045.jpg,<image>An image of,photo,the aftermath of the 1906 San Francisco Earthquake and Fire.,1,0
-../data/test/photo/EXP-1932-04-08-a-i0060.jpg,<image>An image of,photo,a man in a suit and a woman in a dress.,1,0
-../data/test/photo/IMP-2006-06-27-a-i0272.jpg,<image>An image of,photo,people in raincoats and umbrellas,1,0
-../data/test/photo/IMP-1983-03-10-a-i0177.jpg,<image>An image of,photo,"a group of women sitting on a park bench, with a baby carriage in the background.",1,0
-../data/test/photo/IMP-2003-08-30-a-i0229.jpg,<image>An image of,photo,Peter Beardsley playing for Crystal Palace against Manchester United in the 1999 FA Cup Final at Wem,1,0
-../data/test/photo/LCE-1983-10-04-a-i0034.jpg,<image>An image of,photo,a disabled person in a wheelchair at a disabled person's fair.,1,0
-../data/test/photo/EXP-1996-11-16-a-i0042.jpg,<image>An image of,photo,a woman looking at a display of jewelry.,1,0
-../data/test/photo/EXP-1936-06-20-a-i0103.jpg,<image>An image of,photo,the Cabinet meeting at Buckingham Palace,1,0
-../data/test/photo/LCE-1969-02-14-a-i0005.jpg,<image>An image of,photo,the castle in the early 1900s.,1,0
-../data/test/photo/EXP-1967-05-05-a-i0062.jpg,<image>An image of,photo,a bus in Moscow in the 1970s.,1,0
-../data/test/photo/EXP-2010-03-27-a-i0274.jpg,<image>An image of,photo,"the cast of the film The Great Gatsby, from left to right: Tobey Magu",1,0
-../data/test/photo/IMP-2009-03-21-a-i0313.jpg,<image>An image of,photo,the cast of the movie 'The Bourne Ultimatum',1,0
-../data/test/photo/IMP-1963-09-05-a-i0007.jpg,<image>An image of,photo,the crash site of the Cessna. (Photo courtesy of the National Transportation Safety Board),1,0
-../data/test/photo/IMP-1982-07-02-a-i0242.jpg,<image>An image of,photo,a man and a woman standing next to each other in front of a black background. The man is,1,0
-../data/test/photo/GDL-1989-04-08-a-i0200.jpg,<image>An image of,photo,a man climbing a ladder on the roof of a building.,1,0
-../data/test/photo/EXP-1931-12-17-a-i0121.jpg,<image>An image of,photo,"Mitsuo Fuchida, the founder of the Japanese Self-Defense Forces, from the",1,0
-../data/test/photo/GDL-1982-12-02-a-i0053.jpg,<image>An image of,photo,a CT scanner in use.,1,0
-../data/test/photo/EXP-2000-09-13-a-i0271.jpg,<image>An image of,photo,Paul et Martin Laciga from the Stamps of the World collection.,1,0
-../data/test/photo/IMP-1976-03-11-a-i0063.jpg,<image>An image of,photo,"a woman in a black dress, holding a ball in her hand.",1,0
-../data/test/photo/GDL-1967-01-16-a-i0140.jpg,<image>An image of,photo,"a crowd of people, all in black and white, with their hands raised in the air.",1,0
-../data/test/photo/EXP-2007-07-26-a-i0207.jpg,<image>An image of,photo,the late Sir Peter Bazalgette,1,0
-../data/test/photo/EXP-2014-12-16-a-i0190.jpg,<image>An image of,photo,a meeting of the Commission for the Protection of the Rights of Persons with Disabilities (CPR,1,0
-../data/test/photo/EXP-1995-11-24-a-i0048.jpg,<image>An image of,photo,"the author, Sir Terry Pratchett",1,0
-../data/test/photo/EXP-1929-08-09-a-i0096.jpg,<image>An image of,photo,the pier in the 1930s.,1,0
-../data/test/photo/JDG-1992-09-07-a-i0165.jpg,<image>An image of,photo,"a mother and child in the streets of Belfast, Northern Ireland, during the Troubles",1,0
-../data/test/photo/IMP-1915-11-10-a-i0006_2.jpg,<image>An image of,photo,The Gallipoli landings from The Illustrated London News.,1,0
-../data/test/photo/IMP-1973-02-06-a-i0033.jpg,<image>An image of,photo,a car parked on a snowy street.,1,0
-../data/test/photo/EXP-1977-07-23-a-i0116.jpg,<image>An image of,photo,"a woman in a wheelchair holding a bouquet of flowers, surrounded by a group of people.",1,0
-../data/test/graph/GDL-1989-04-17-a-i0064_2.jpg,<image>An image of,graph,the Morgan Stanley International Index,1,0
-../data/test/graph/EXP-1911-12-09-a-i0115.jpg,<image>An image of,graph,a graph showing the number of deaths from the plague in France during the Black Death in 1348.,1,0
-../data/test/graph/GDL-1989-04-17-a-i0064.jpg,<image>An image of,graph,the Morgan Stanley Capital International (MSCI) Index,1,0
-../data/test/graph/EXP-1912-02-02-a-i0108.jpg,<image>An image of,graph,"a graph showing the number of deaths per 100,000 people in the United States from 1918-19",1,0
-../data/test/graph/EXP-1923-03-21-a-i0095.jpg,<image>An image of,graph,a graph showing the number of hours of sleep per day.,1,0
-../data/test/graph/EXP-1913-04-28-a-i0115.jpg,<image>An image of,graph,a graph showing the number of deaths per day in the United States during the 1918 influenza pandemic.,1,0
-../data/test/graph/EXP-1903-11-30-a-i0052.jpg,<image>An image of,graph,a graph showing the number of deaths per day in Italy during World War II.,1,0
-../data/test/graph/EXP-1908-07-09-a-i0073_2.jpg,<image>An image of,graph,a graph showing the number of children born in a given year. The vertical axis is the number of,1,0
-../data/test/graph/GDL-1996-02-01-a-i0256.jpg,<image>An image of,graph,the Dow Jones Industrial Average,1,0
-../data/test/graph/JDG-1976-01-09-a-i0041.jpg,<image>An image of,graph,a stock chart.,1,0
-../data/test/graph/EXP-1935-03-04-a-i0105.jpg,<image>An image of,graph,a graph showing the number of days in a year that the planet Mars is visible to the naked eye,1,0
-../data/test/graph/EXP-1903-12-16-a-i0044.jpg,<image>An image of,graph,a graph showing the number of deaths per day in Italy during World War II.,1,0
-../data/test/graph/EXP-1921-08-31-a-i0070.jpg,<image>An image of,graph,"a graph showing the number of deaths per 100,000 people in the United States from 1918 to 1920",1,0
-../data/test/graph/EXP-1915-02-26-a-i0072.jpg,<image>An image of,graph,"a graph showing the number of deaths per 100,000 people in the United States from 1918 to 1920",1,0
-../data/test/graph/EXP-1923-08-21-a-i0071.jpg,<image>An image of,graph,"a graph showing the number of deaths per 100,000 people in the United States from 1918 to 1920",1,0
-../data/test/graph/GDL-1979-10-09-a-i0095.jpg,<image>An image of,graph,the Dow Jones Industrial Average (DJIA) and the Standard & Poor's 500 (SP500),1,0
-../data/test/graph/EXP-1913-11-07-a-i0100.jpg,<image>An image of,graph,a bar graph showing the number of bars in a row.,1,0
-../data/test/graph/EXP-1912-11-26-a-i0106.jpg,<image>An image of,graph,a graph showing the number of deaths per day in France during the first year of the Franco-Pr,1,0
-../data/test/graph/EXP-1962-11-21-a-i0136.jpg,<image>An image of,graph,a graph showing the number of days in a month.,1,0
-../data/test/graph/IMP-1994-10-29-a-i0103.jpg,<image>An image of,graph,the Swiss Market Index,1,0
-../data/test/graph/EXP-1945-04-05-a-i0192.jpg,<image>An image of,graph,the Mars Orbiter Laser Altimeter (MOLA) instrument on the Mars Global Survey,1,0
-../data/test/graph/EXP-1913-09-08-a-i0104.jpg,<image>An image of,graph,"a graph showing the number of deaths per 100,000 people in the United States from 1918 to 1920",1,0
-../data/test/graph/EXP-1948-05-28-a-i0189.jpg,<image>An image of,graph,a thermometer showing the temperature in degrees Celsius and in degrees Fahrenheit.,1,0
-../data/test/graph/JDG-1907-09-14-a-i0064.jpg,<image>An image of,graph,a graph of the circumference of a circle.,1,0
-../data/test/graph/EXP-1923-03-16-a-i0102.jpg,<image>An image of,graph,a graph showing the number of days in a month.,1,0
-../data/test/graph/EXP-1936-05-22-a-i0112.jpg,<image>An image of,graph,a graph showing the number of deaths per day during the 1918-1919 influenza pandemic.,1,0
-../data/test/graph/JDG-1997-05-01-a-i0235.jpg,<image>An image of,graph,the FTSE 100 and the FTSE 250,1,0
-../data/test/graph/GDL-1979-02-05-a-i0102.jpg,<image>An image of,graph,the U.S. unemployment rate from the Bureau of Labor Statistics.,1,0
-../data/test/graph/EXP-1916-01-19-a-i0064.jpg,<image>An image of,graph,a graph showing the temperature of a room in degrees Fahrenheit.,1,0
-../data/test/graph/JDG-1908-10-10-a-i0031.jpg,<image>An image of,graph,a graph showing the number of days in a month.,1,0
-../data/test/graph/EXP-1920-10-02-a-i0159.jpg,<image>An image of,graph,a graph showing the number of deaths in the United States from 1918 to 1920.,1,0
-../data/test/graph/EXP-1913-02-21-a-i0127.jpg,<image>An image of,graph,a graph showing the number of deaths from cholera in the United States from 1849 to 1850.,1,0
-../data/test/graph/EXP-1970-01-17-a-i0061.jpg,<image>An image of,graph,a graph showing the number of deaths from the Spanish flu in the United States in 1918.,1,0
-../data/test/graph/EXP-1951-01-29-a-i0116.jpg,<image>An image of,graph,a thermometer,1,0
-../data/test/graph/EXP-1931-10-26-a-i0101_2.jpg,<image>An image of,graph,a graph showing the number of days in a month.,1,0
-../data/test/graph/EXP-1918-02-08-a-i0068.jpg,<image>An image of,graph,Table 1 from the report of the Commission of Enquiry into the Condition of the Indian Population in the,1,0
-../data/test/drawing/JDG-1966-05-31-a-i0021.jpg,<image>An image of,drawing,Shoes,1,0
-../data/test/drawing/EXP-1988-07-13-a-i0007.jpg,<image>An image of,drawing,Mr. G. J. McLean who was killed in a road accident in the early hours of,1,0
-../data/test/drawing/IMP-1911-01-14-a-i0027.jpg,<image>An image of,drawing,Flying Pigeons by George Petty,1,0
-../data/test/drawing/EXP-1932-07-26-a-i0078.jpg,<image>An image of,drawing,a 1920s dress pattern.,1,0
-../data/test/drawing/EXP-1990-11-26-a-i0245.jpg,<image>An image of,drawing,Jane Austen,1,0
-../data/test/drawing/IMP-1981-02-18-a-i0085_4.jpg,<image>An image of,drawing,the USS Constitution,1,0
-../data/test/drawing/IMP-1906-12-16-a-i0013.jpg,<image>An image of,drawing,a wolf.,1,0
-../data/test/drawing/GDL-1966-04-22-a-i0067.jpg,<image>An image of,drawing,Portrait of a Woman by Henri Matisse,1,0
-../data/test/drawing/IMP-1904-04-09-a-i0002_3.jpg,<image>An image of,drawing,Vue de la gare de l'Independance,1,0
-../data/test/drawing/EXP-1957-12-06-a-i0008.jpg,<image>An image of,drawing,a flying saucer,1,0
-../data/test/drawing/IMP-1929-10-16-a-i0005.jpg,<image>An image of,drawing,the Titanic from the Illustrated London News.,1,0
-../data/test/drawing/IMP-1910-05-01-a-i0094_10.jpg,<image>An image of,drawing,a woman wearing a long-sleeved jacket.,1,0
-../data/test/drawing/IMP-1923-12-21-a-i0030.jpg,<image>An image of,drawing,a 1920s evening dress.,1,0
-../data/test/drawing/IMP-1904-04-09-a-i0002.jpg,<image>An image of,drawing,the prison in the 18th century.,1,0
-../data/test/drawing/IMP-1913-11-22-a-i0062.jpg,<image>An image of,drawing,a procession of pilgrims in the Holy Land.,1,0
-../data/test/drawing/JDG-1994-06-10-a-i0250.jpg,<image>An image of,drawing,a postage stamp,1,0
-../data/test/drawing/EXP-1972-07-08-a-i0361_3.jpg,<image>An image of,drawing,a man in a suit and a man in a suit and a man in a suit and a man,1,0
-../data/test/drawing/GDL-1951-10-24-a-i0014.jpg,<image>An image of,drawing,an owl on a tree trunk.,1,0
-../data/test/drawing/LCE-1952-09-22-a-i0041_2.jpg,<image>An image of,drawing,a man wearing a striped shirt and holding a balloon.,1,0
-../data/test/drawing/IMP-1993-09-25-a-i0275.jpg,<image>An image of,drawing,a crowd of people.,1,0
-../data/test/drawing/IMP-1981-02-18-a-i0085_5.jpg,<image>An image of,drawing,a child's drawing of a train,1,0
-../data/test/drawing/LCE-1919-05-03-a-i0022.jpg,<image>An image of,drawing,a man with a moustache and a woman with a moustache.,1,0
-../data/test/drawing/JDG-1958-02-15-a-i0052_2.jpg,<image>An image of,drawing,the interior of a room with a man sitting on a chair reading a book and a woman kneeling,1,0
-../data/test/drawing/IMP-1920-03-19-a-i0002.jpg,<image>An image of,drawing,"the late Mr. William H. H. Boulton, M.A., LL.D",1,0
-../data/test/drawing/IMP-1955-08-01-a-i0038.jpg,<image>An image of,drawing,"a woman in a hat and dress standing in front of a man in a straw hat, holding a",1,0
-../data/test/drawing/IMP-1989-08-28-a-i0011.jpg,<image>An image of,drawing,a man and a woman sitting on a bench with their hands on their hips. The man is holding,1,0
-../data/test/drawing/IMP-2001-07-17-a-i0177.jpg,<image>An image of,drawing,an open book with a human eye peering out of it.,1,0
-../data/test/drawing/GDL-1949-09-03-a-i0216.jpg,<image>An image of,drawing,a group of soldiers in a camp.,1,0
-../data/test/drawing/IMP-1915-04-08-a-i0038_2.jpg,<image>An image of,drawing,the first page of the score.,1,0
-../data/test/drawing/IMP-1946-02-01-a-i0084.jpg,<image>An image of,drawing,a Simplicity pattern from the 1940s.,1,0
-../data/test/drawing/IMP-2001-07-17-a-i0177_2.jpg,<image>An image of,drawing,a wheel.,1,0
-../data/test/drawing/IMP-1955-01-31-a-i0053.jpg,<image>An image of,drawing,the cover of the French edition of the comic strip 'Moi au soleil' (My Sun,1,0
-../data/test/drawing/EXP-1906-03-31-a-i0134.jpg,<image>An image of,drawing,a man being shot in the back of the head by a firing squad.,1,0
-../data/test/drawing/JDG-1977-06-04-a-i0219.jpg,<image>An image of,drawing,people on a cable car in the Swiss Alps.,1,0
-../data/test/drawing/IMP-1981-02-18-a-i0085_13.jpg,<image>An image of,drawing,a drawing of a building in the shape of a house.,1,0
-../data/test/drawing/EXP-1950-01-28-a-i0233.jpg,<image>An image of,drawing,the plan of the Conciergerie in Paris.,1,0
-../data/test/drawing/EXP-1973-09-01-a-i0451_4.jpg,<image>An image of,drawing,a woman talking on the phone.,1,0
-../data/test/drawing/JDG-1956-12-12-a-i0230_2.jpg,<image>An image of,drawing,a bearing,1,0
-../data/test/drawing/IMP-1989-05-31-a-i0100.jpg,<image>An image of,drawing,a man in a suit holding a gun.,1,0
-../data/test/drawing/LCE-1901-07-31-a-i0023.jpg,<image>An image of,drawing,the author's great-great-great-great-great-great-great-great-great,1,0
-../data/test/drawing/IMP-1937-02-16-a-i0012.jpg,<image>An image of,drawing,a man walking with a cane.,1,0
-../data/test/drawing/JDG-1971-07-24-a-i0130.jpg,<image>An image of,drawing,Adam and Eve in the Garden of Eden.,1,0
-../data/test/drawing/IMP-1992-02-10-a-i0160.jpg,<image>An image of,drawing,a frog in a raincoat holding a raincoat on his head.,1,0
-../data/test/drawing/EXP-1979-08-17-a-i0337.jpg,<image>An image of,drawing,three women laughing.,1,0
-../data/test/drawing/IMP-2000-09-15-a-i0197_3.jpg,<image>An image of,drawing,a man sitting in a chair reading a book.,1,0
-../data/test/drawing/EXP-1966-11-25-a-i0334.jpg,<image>An image of,drawing,Figure in a Landscape by James McNeill Whistler (1834-1903),1,0
-../data/test/drawing/IMP-1925-01-09-a-i0030.jpg,<image>An image of,drawing,a woman sitting on a couch with her granddaughter and granddaughter's children.,1,0
-../data/test/drawing/GDL-1953-05-30-a-i0173.jpg,<image>An image of,drawing,"Nude (recto) by Edward Hopper (1882-1967, United States)",1,0
-../data/test/drawing/JDG-1974-01-17-a-i0097.jpg,<image>An image of,drawing,two people in a car. One is wearing a seatbelt and the other is not.,1,0
-../data/test/drawing/LCE-1908-02-29-a-i0040.jpg,<image>An image of,drawing,a knight on a horse.,1,0
-../data/test/drawing/IMP-1936-06-23-a-i0069.jpg,<image>An image of,drawing,a man in a hat and a suit holding a pen and a piece of paper.,1,0
-../data/test/drawing/IMP-1976-01-24-a-i0073.jpg,<image>An image of,drawing,the cover of the French edition of the New Scientist magazine.,1,0
-../data/test/drawing/LCE-1992-06-12-a-i0032.jpg,<image>An image of,drawing,Textile (recto) by Andy Warhol,1,0
-../data/test/drawing/EXP-1959-06-19-a-i0106_3.jpg,<image>An image of,drawing,a dog in a hammock.,1,0
-../data/test/drawing/IMP-1951-08-20-a-i0080.jpg,<image>An image of,drawing,a page from a children's book about a prince and a princess kissing in front of a castle.,1,0
-../data/test/drawing/IMP-1984-11-06-a-i0005.jpg,<image>An image of,drawing,two men sitting on a bench. One is smoking a pipe and the other is holding a cigarette.,1,0
-../data/test/drawing/IMP-1915-05-18-a-i0007.jpg,<image>An image of,drawing,H.M.S.,1,0
-../data/test/drawing/GDL-1959-02-03-a-i0097_2.jpg,<image>An image of,drawing,two surgeons in a hospital operating room. One is wearing a surgical mask and the other is wearing a,1,0
-../data/test/drawing/EXP-1994-10-24-a-i0110.jpg,<image>An image of,drawing,a man looking at a computer screen with a heart on it.,1,0
-../data/test/drawing/IMP-1903-01-14-a-i0031.jpg,<image>An image of,drawing,"the head and shoulders of a young man, wearing a bow tie and dark jacket. He has a",1,0
-../data/test/drawing/EXP-1914-02-11-a-i0087.jpg,<image>An image of,drawing,the exterior of the building in which the museum was housed.,1,0
-../data/test/drawing/GDL-1979-06-15-a-i0026_2.jpg,<image>An image of,drawing,a stairway.,1,0
-../data/test/drawing/IMP-1980-02-04-a-i0078_3.jpg,<image>An image of,drawing,Robert Rauschenberg,1,0
-../data/test/drawing/JDG-1992-04-25-a-i0255_3.jpg,<image>An image of,drawing,The Battle of Thermopylae,1,0
-../data/test/drawing/GDL-1975-12-13-a-i0099.jpg,<image>An image of,drawing,a man playing a musical instrument.,1,0
-../data/test/drawing/EXP-1972-07-08-a-i0361.jpg,<image>An image of,drawing,two men smoking a cigarette and looking at each other. The man on the left is wearing a suit,1,0
-../data/test/drawing/EXP-1974-05-25-a-i0325_2.jpg,<image>An image of,drawing,a horse-drawn stagecoach.,1,0
-../data/test/drawing/JDG-1904-10-21-a-i0066.jpg,<image>An image of,drawing,the head and shoulders of a young man in a black suit and a white shirt. He has a,1,0
-../data/test/drawing/EXP-1969-05-13-a-i0056.jpg,<image>An image of,drawing,St. Mary's Church from the book The History and Antiquities of the City of York by,1,0
-../data/test/drawing/JDG-1955-02-10-a-i0014.jpg,<image>An image of,drawing,Two figures (recto and verso) by Tom Thomson (1877-1917),1,0
-../data/test/drawing/EXP-1974-04-25-a-i0418.jpg,<image>An image of,drawing,a man and a woman sitting on a bed. The woman is reading a newspaper and the man is,1,0
-../data/test/drawing/IMP-1958-03-19-a-i0167.jpg,<image>An image of,drawing,a wedding couple in a garden.,1,0
-../data/test/drawing/EXP-1972-12-02-a-i0308.jpg,<image>An image of,drawing,a swimmer and a diver.,1,0
-../data/test/drawing/GDL-1956-06-30-a-i0255_6.jpg,<image>An image of,drawing,a man playing a flute,1,0
-../data/test/drawing/LCE-1915-02-13-a-i0032.jpg,<image>An image of,drawing,Marilyn Monroe,1,0
-../data/test/drawing/JDG-1978-10-23-a-i0020.jpg,<image>An image of,drawing,a man in a trench coat and hat.,1,0
-../data/test/drawing/IMP-1901-05-29-a-i0035.jpg,<image>An image of,drawing,a young girl.,1,0
-../data/test/drawing/LCE-1915-12-25-a-i0042.jpg,<image>An image of,drawing,a sewing machine,1,0
-../data/test/drawing/EXP-1924-06-06-a-i0046.jpg,<image>An image of,drawing,a scene from the play The Merchant of Venice by William Shakespeare.,1,0
-../data/test/drawing/IMP-1983-10-03-a-i0220.jpg,<image>An image of,drawing,a man and a woman fighting on the road.,1,0
-../data/test/drawing/JDG-1968-10-25-a-i0086.jpg,<image>An image of,drawing,Untitled (Hanging Clothes) by Robert Rauschenberg,1,0
-../data/test/drawing/EXP-1974-05-25-a-i0325_4.jpg,<image>An image of,drawing,birds on a wire.,1,0
-../data/test/drawing/EXP-1974-05-25-a-i0325_8.jpg,<image>An image of,drawing,a woman looking through a telescope.,1,0
-../data/test/drawing/GDL-1900-03-08-a-i0026.jpg,<image>An image of,drawing,a man with a moustache,1,0
-../data/test/drawing/IMP-1949-09-30-a-i0010.jpg,<image>An image of,drawing,a boy and a girl playing in a field. The boy is holding a spade and the girl,1,0
-../data/test/drawing/IMP-1981-02-18-a-i0085.jpg,<image>An image of,drawing,an ambulance drawn by a young boy during the First World War.,1,0
-../data/test/drawing/LCE-1908-08-12-a-i0050.jpg,<image>An image of,drawing,the original design of the table.,1,0
-../data/test/drawing/IMP-1930-02-27-a-i0033.jpg,<image>An image of,drawing,"Bruges, Belgium.",1,0
-../data/test/drawing/EXP-1986-07-04-a-i0361.jpg,<image>An image of,drawing,two apples.,1,0
-../data/test/comic/IMP-1957-11-02-a-i0173_5.jpg,<image>An image of,comic,a man and a woman in bed. The man is smoking a pipe and the woman is reading a,1,0
-../data/test/comic/EXP-1962-01-05-a-i0084_2.jpg,<image>An image of,comic,a French comic book from the 1950s.,1,0
-../data/test/comic/EXP-1989-08-16-a-i0308_4.jpg,<image>An image of,comic,a man fishing in the water. He is wearing a hat and a suit. He is holding a,1,0
-../data/test/comic/EXP-1958-01-21-a-i0185.jpg,<image>An image of,comic,La journee de M. Mouche by Georges Barbier,1,0
-../data/test/comic/EXP-2004-11-03-a-i0131_2.jpg,<image>An image of,comic,the cover of the French edition of The Adventures of Tintin by Herge.,1,0
-../data/test/comic/IMP-1979-12-03-a-i0187.jpg,<image>An image of,comic,Chilveric-Lutin,1,0
-../data/test/comic/EXP-2000-03-18-a-i0362.jpg,<image>An image of,comic,a cartoon of the Swiss army with the caption 'Dats Armes Soeurs Prudentes',1,0
-../data/test/comic/IMP-1957-12-16-a-i0087.jpg,<image>An image of,comic,a comic strip featuring a penguin and a seal.,1,0
-../data/test/comic/EXP-1940-04-09-a-i0069.jpg,<image>An image of,comic,a man and a woman in a room. The woman is wearing a black dress and the man is,1,0
-../data/test/comic/EXP-1976-12-31-a-i0420.jpg,<image>An image of,comic,a man in a suit and tie sitting at a desk and a woman in a skirt and blouse,1,0
-../data/test/comic/EXP-1958-05-20-a-i0092_3.jpg,<image>An image of,comic,the cover of a comic book,1,0
-../data/test/comic/EXP-1968-06-14-a-i0472.jpg,<image>An image of,comic,a comic strip from the 1950s.,1,0
-../data/test/comic/IMP-1993-04-16-a-i0150.jpg,<image>An image of,comic,a cartoon showing a man voting in a referendum.,1,0
-../data/test/comic/EXP-1965-12-24-a-i0313_3.jpg,<image>An image of,comic,"a comic strip featuring a man in a raincoat and a woman in a raincoat,",1,0
-../data/test/comic/EXP-1959-02-20-a-i0098_4.jpg,<image>An image of,comic,the cover of the first edition of The Adventures of Tintin.,1,0
-../data/test/comic/IMP-1960-08-06-a-i0090_7.jpg,<image>An image of,comic,"a car with a sign that reads 'Bonjour, pas retour' (Good morning, not",1,0
-../data/test/comic/IMP-1965-03-13-a-i0144_3.jpg,<image>An image of,comic,"a car in a parking lot, with a man and woman in the back seat. The man is",1,0
-../data/test/comic/LCE-1999-01-22-a-i0030.jpg,<image>An image of,comic,a French farmer holding a pickaxe and holding a sign that reads: 'Profit de la,1,0
-../data/test/comic/IMP-1974-02-12-a-i0183.jpg,<image>An image of,comic,Tintin in the Land of the Soviets by Herge,1,0
-../data/test/comic/GDL-1936-12-18-a-i0041.jpg,<image>An image of,comic,La station parcelle plus acceuillante,1,0
-../data/test/comic/IMP-1949-09-09-a-i0013.jpg,<image>An image of,comic,a woman and a man looking at a pile of magazines.,1,0
-../data/test/comic/EXP-1998-11-11-a-i0396.jpg,<image>An image of,comic,a cartoon published in the French daily newspaper Le Figaro.,1,0
-../data/test/comic/IMP-1960-08-06-a-i0090_4.jpg,<image>An image of,comic,a woman driving a car with a man and a woman in the back seat.,1,0
-../data/test/comic/EXP-1967-01-26-a-i0258_3.jpg,<image>An image of,comic,Star Trek: The Motion Picture (1979) comic book page,1,0
-../data/test/comic/IMP-2012-10-15-a-i0103.jpg,<image>An image of,comic,Laquelle Hagar?,1,0
-../data/test/comic/EXP-1979-12-29-a-i0132.jpg,<image>An image of,comic,the cover of the French comic book 'Revolution Surprise',1,0
-../data/test/comic/IMP-1965-03-13-a-i0144.jpg,<image>An image of,comic,a character from the Disney animated film The Lion King.,1,0
-../data/test/comic/LCE-1969-05-19-a-i0016_3.jpg,<image>An image of,comic,"a comic strip featuring a man in a raincoat and a woman in a raincoat,",1,0
-../data/test/comic/IMP-1959-02-06-a-i0032.jpg,<image>An image of,comic,the cover of a French children's book.,1,0
-../data/test/comic/IMP-1947-07-04-a-i0016.jpg,<image>An image of,comic,Week-end familial,1,0
-../data/test/comic/EXP-1965-01-28-a-i0311.jpg,<image>An image of,comic,a comic strip depicting a dog being chased by a cat.,1,0
-../data/test/comic/GDL-1915-12-05-a-i0098.jpg,<image>An image of,comic,a man and a woman standing in a bar. The woman is holding a glass of water and the,1,0
-../data/test/comic/IMP-1942-05-29-a-i0016.jpg,<image>An image of,comic,a cartoon from the French newspaper Le Petit Vingtième.,1,0
-../data/test/comic/IMP-2012-09-01-a-i0115.jpg,<image>An image of,comic,the first page of the first issue of The Sandman: Overture by Neil Gaiman,1,0
-../data/test/comic/IMP-1992-12-19-a-i0198_2.jpg,<image>An image of,comic,"a comic strip by Elvire, a French cartoonist. The strip is about a man who",1,0
-../data/test/comic/EXP-1956-07-25-a-i0105.jpg,<image>An image of,comic,a man in a suit cleaning a rug with a broom.,1,0
-../data/test/comic/EXP-1966-07-16-a-i0254_6.jpg,<image>An image of,comic,a man and a child in a tent.,1,0
-../data/test/comic/IMP-1961-11-01-a-i0016.jpg,<image>An image of,comic,a man and two men standing in front of a man in a suit. The man in the suit,1,0
-../data/test/comic/IMP-1959-12-05-a-i0123.jpg,<image>An image of,comic,a woman standing in front of a washing machine.,1,0
-../data/test/comic/EXP-1966-07-15-a-i0238.jpg,<image>An image of,comic,the cover of the French edition of the comic book 'The Adventures of Tintin' by Her,1,0
+data/test/title/LCE-1913-01-08-a-i0015.jpg,<image>An image of,title,E by,1,0
+data/test/title/LCE-1911-12-06-a-i0016.jpg,<image>An image of,title,Letter E,1,0
+data/test/title/LCE-1948-06-09-a-i0015.jpg,<image>An image of,title,the letter E,1,0
+data/test/title/LCE-1943-01-27-a-i0017.jpg,<image>An image of,title,F.E. by Frank Lloyd Wright,1,0
+data/test/title/LCE-1907-08-14-a-i0009.jpg,<image>An image of,title,the letter N.,1,0
+data/test/title/LCE-1952-02-27-a-i0002.jpg,<image>An image of,title,the letter L.,1,0
+data/test/title/LCE-1906-02-03-a-i0003.jpg,<image>An image of,title,1,1,0
+data/test/title/LCE-1912-11-23-a-i0020.jpg,<image>An image of,title,Letter R,1,0
+data/test/title/LCE-1913-02-15-a-i0009.jpg,<image>An image of,title,Letter F,1,0
+data/test/title/LCE-1913-03-01-a-i0008.jpg,<image>An image of,title,the first page of the letter 'E',1,0
+data/test/title/LCE-1910-04-27-a-i0002.jpg,<image>An image of,title,the letter C.,1,0
+data/test/title/LCE-1942-01-02-a-i0012.jpg,<image>An image of,title,D,1,0
+data/test/title/LCE-1908-10-07-a-i0011.jpg,<image>An image of,title,E by E.E. Cummings,1,0
+data/test/title/LCE-1904-07-02-a-i0002.jpg,<image>An image of,title,the letter L.,1,0
+data/test/title/LCE-1923-03-09-a-i0051.jpg,<image>An image of,title,the letter R,1,0
+data/test/title/LCE-1907-01-01-a-i0016.jpg,<image>An image of,title,E,1,0
+data/test/title/LCE-1912-10-19-a-i0010.jpg,<image>An image of,title,F,1,0
+data/test/title/LCE-1904-06-15-a-i0019.jpg,<image>An image of,title,the letter R.,1,0
+data/test/title/LCE-1933-05-03-a-i0012.jpg,<image>An image of,title,F,1,0
+data/test/title/LCE-1948-09-17-a-i0020.jpg,<image>An image of,title,the letter E.,1,0
+data/test/title/LCE-1911-10-18-a-i0084.jpg,<image>An image of,title,the letter R.,1,0
+data/test/title/LCE-1908-03-07-a-i0008.jpg,<image>An image of,title,F,1,0
+data/test/title/LCE-1933-10-09-a-i0017.jpg,<image>An image of,title,the letter E.,1,0
+data/test/title/LCE-1949-12-19-a-i0016.jpg,<image>An image of,title,D,1,0
+data/test/title/LCE-1909-05-01-a-i0001.jpg,<image>An image of,title,the letter O.,1,0
+data/test/title/LCE-1944-03-31-a-i0017.jpg,<image>An image of,title,F.E.,1,0
+data/test/title/LCE-1908-08-05-a-i0017.jpg,<image>An image of,title,E by Edward Gorey,1,0
+data/test/title/LCE-1935-06-10-a-i0011.jpg,<image>An image of,title,the letter E,1,0
+data/test/title/LCE-1906-03-14-a-i0020.jpg,<image>An image of,title,the letter C,1,0
+data/test/title/LCE-1943-01-27-a-i0008.jpg,<image>An image of,title,the number 0,1,0
+data/test/title/LCE-1900-08-29-a-i0011.jpg,<image>An image of,title,the letter R.,1,0
+data/test/title/LCE-1915-04-07-a-i0012.jpg,<image>An image of,title,the letter C.,1,0
+data/test/title/LCE-1908-01-22-a-i0011_2.jpg,<image>An image of,title,Letter E by Anonymous,1,0
+data/test/title/LCE-1911-10-18-a-i0002.jpg,<image>An image of,title,the letter C,1,0
+data/test/title/LCE-1919-12-12-a-i0013.jpg,<image>An image of,title,F,1,0
+data/test/title/LCE-1958-06-16-a-i0011.jpg,<image>An image of,title,the front cover of Lefe,1,0
+data/test/title/LCE-1903-04-15-a-i0005.jpg,<image>An image of,title,the letter N.,1,0
+data/test/title/LCE-1906-07-25-a-i0010.jpg,<image>An image of,title,the number 0,1,0
+data/test/title/LCE-1912-10-12-a-i0009.jpg,<image>An image of,title,E,1,0
+data/test/title/LCE-1915-12-08-a-i0013.jpg,<image>An image of,title,"R from the front page of the New York Times on October 1, 1857.",1,0
+data/test/title/LCE-1932-07-15-a-i0019.jpg,<image>An image of,title,the letter R.,1,0
+data/test/title/LCE-1900-03-17-a-i0006.jpg,<image>An image of,title,N.,1,0
+data/test/title/LCE-1914-05-11-a-i0016.jpg,<image>An image of,title,Letter L,1,0
+data/test/title/LCE-1907-12-28-a-i0001.jpg,<image>An image of,title,the letter O.,1,0
+data/test/title/LCE-1933-09-15-a-i0015.jpg,<image>An image of,title,the letter D.,1,0
+data/test/title/LCE-1919-07-12-a-i0020.jpg,<image>An image of,title,O,1,0
+data/test/title/LCE-1905-04-08-a-i0010.jpg,<image>An image of,title,the number 0,1,0
+data/test/title/LCE-1950-02-24-a-i0001.jpg,<image>An image of,title,E by E E E E E E E E E E E E E E E E E E,1,0
+data/test/title/LCE-1914-05-01-a-i0002.jpg,<image>An image of,title,Letter L,1,0
+data/test/title/LCE-1920-12-03-a-i0084.jpg,<image>An image of,title,D,1,0
+data/test/title/LCE-1941-08-18-a-i0015.jpg,<image>An image of,title,the letter R,1,0
+data/test/title/LCE-1942-05-20-a-i0019.jpg,<image>An image of,title,F.E.,1,0
+data/test/title/LCE-1908-09-26-a-i0010.jpg,<image>An image of,title,the poem 'The End' by William Butler Yeats by William Butler Yeats,1,0
+data/test/title/LCE-1908-03-28-a-i0012.jpg,<image>An image of,title,Letter E,1,0
+data/test/title/LCE-1914-07-10-a-i0015.jpg,<image>An image of,title,Letter E,1,0
+data/test/title/LCE-1921-12-09-a-i0059.jpg,<image>An image of,title,Letter R,1,0
+data/test/title/LCE-1915-04-17-a-i0011.jpg,<image>An image of,title,E,1,0
+data/test/title/LCE-1904-01-20-a-i0002.jpg,<image>An image of,title,the letter C.,1,0
+data/test/title/LCE-1914-06-19-a-i0015.jpg,<image>An image of,title,N,1,0
+data/test/title/LCE-1901-02-16-a-i0011.jpg,<image>An image of,title,the letter B.,1,0
+data/test/title/LCE-1931-05-08-a-i0014.jpg,<image>An image of,title,the letter D,1,0
+data/test/title/LCE-1926-12-24-a-i0057.jpg,<image>An image of,title,the letter D.,1,0
+data/test/title/LCE-1942-01-21-a-i0014.jpg,<image>An image of,title,the letter D.,1,0
+data/test/title/LCE-1914-05-15-a-i0014.jpg,<image>An image of,title,the letter C.,1,0
+data/test/title/LCE-1953-06-26-a-i0014.jpg,<image>An image of,title,E,1,0
+data/test/title/LCE-1952-05-02-a-i0002.jpg,<image>An image of,title,the letter L.,1,0
+data/test/title/LCE-1901-06-01-a-i0012.jpg,<image>An image of,title,B,1,0
+data/test/title/LCE-1909-08-11-a-i0007_2.jpg,<image>An image of,title,Letter E,1,0
+data/test/title/LCE-1910-04-02-a-i0009.jpg,<image>An image of,title,the letter N.,1,0
+data/test/title/LCE-1904-03-09-a-i0001.jpg,<image>An image of,title,the letter E.,1,0
+data/test/title/LCE-1904-07-27-a-i0010.jpg,<image>An image of,title,the number 0.,1,0
+data/test/title/LCE-1906-06-09-a-i0002.jpg,<image>An image of,title,the letter C.,1,0
+data/test/title/LCE-1906-06-06-a-i0018.jpg,<image>An image of,title,the letter L.,1,0
+data/test/title/LCE-1906-10-13-a-i0019.jpg,<image>An image of,title,the letter R.,1,0
+data/test/title/LCE-1931-07-10-a-i0012.jpg,<image>An image of,title,F,1,0
+data/test/title/LCE-1933-02-01-a-i0009.jpg,<image>An image of,title,the letter O.,1,0
+data/test/title/LCE-1913-04-09-a-i0015.jpg,<image>An image of,title,the letter D.,1,0
+data/test/title/LCE-1910-12-31-a-i0018.jpg,<image>An image of,title,the letter R.,1,0
+data/test/title/LCE-1902-02-19-a-i0007.jpg,<image>An image of,title,the letter N,1,0
+data/test/title/LCE-1948-04-05-a-i0009.jpg,<image>An image of,title,the number 0,1,0
+data/test/map/GDL-1991-06-01-a-i0298.jpg,<image>An image of,map,a map of the weather conditions in Europe during the winter of 1940-1941.,1,0
+data/test/map/EXP-1992-02-14-a-i0439_3.jpg,<image>An image of,map,a map of the European continent showing the weather conditions for the month of May.,1,0
+data/test/map/JDG-1940-03-08-a-i0008.jpg,<image>An image of,map,a map of the Caucasus,1,0
+data/test/map/EXP-1957-07-04-a-i0103_2.jpg,<image>An image of,map,the route of the first stage of the Tour de France,1,0
+data/test/map/EXP-1979-10-23-a-i0132_2.jpg,<image>An image of,map,a map showing the layout of the estate,1,0
+data/test/map/IMP-1960-01-16-a-i0024.jpg,<image>An image of,map,a map of the Soviet Union and its allies in the Second World War.,1,0
+data/test/map/EXP-2003-09-29-a-i0014.jpg,<image>An image of,map,Hong Kong,1,0
+data/test/map/GDL-1907-04-02-a-i0069.jpg,<image>An image of,map,the Penaflor mine,1,0
+data/test/map/JDG-1959-02-02-a-i0018.jpg,<image>An image of,map,a map of the French Alsace-Lorraine region.,1,0
+data/test/map/GDL-1950-05-17-a-i0056.jpg,<image>An image of,map,Le Combattant Gauri-Koussef,1,0
+data/test/map/EXP-2017-08-02-a-i0209.jpg,<image>An image of,map,the La Météo newspaper,1,0
+data/test/map/GDL-1918-12-02-a-i0002.jpg,<image>An image of,map,the route of the Zambesi Expedition.,1,0
+data/test/map/EXP-2009-01-31-a-i0302_2.jpg,<image>An image of,map,the weather forecast for the weekend,1,0
+data/test/map/LCE-1998-03-06-a-i0015_2.jpg,<image>An image of,map,"the Ordnance Survey One-inch to the mile map of the Lake District, c.18",1,0
+data/test/map/GDL-1941-07-15-a-i0121.jpg,<image>An image of,map,a map of the Middle East during the First World War.,1,0
+data/test/map/JDG-1987-04-10-a-i0203_2.jpg,<image>An image of,map,a map of the International Business Park,1,0
+data/test/logo/JDG-1925-08-29-a-i0041.jpg,<image>An image of,logo,the logo of the Party of Democratic Socialism (PDS).,1,0
+data/test/logo/JDG-1977-12-17-a-i0244.jpg,<image>An image of,logo,a flower.,1,0
+data/test/logo/LCE-1977-11-18-a-i0010.jpg,<image>An image of,logo,the EEC logo.,1,0
+data/test/logo/EXP-1979-05-04-a-i0025.jpg,<image>An image of,logo,the logo of the police de Neuchatel.,1,0
+data/test/logo/LCE-1952-08-29-a-i0021.jpg,<image>An image of,logo,the logo for the Rubber Trifit Company.,1,0
+data/test/logo/LCE-1939-02-22-a-i0036.jpg,<image>An image of,logo,the front cover of the first edition of Bauhaus St. Jacques,1,0
+data/test/logo/LCE-1981-02-17-a-i0063_2.jpg,<image>An image of,logo,the ASA logo.,1,0
+data/test/logo/IMP-1979-12-27-a-i0050.jpg,<image>An image of,logo,"the front page of the French edition of the New York Times, which carried the story of the French",1,0
+data/test/logo/JDG-1907-11-03-a-i0012.jpg,<image>An image of,logo,the Daughters of the American Revolution logo.,1,0
+data/test/logo/IMP-1973-01-30-a-i0025.jpg,<image>An image of,logo,page 2,1,0
+data/test/logo/LCE-1909-05-26-a-i0023.jpg,<image>An image of,logo,the Hässen & Vogt logo.,1,0
+data/test/logo/GDL-1978-02-27-a-i0145.jpg,<image>An image of,logo,a rooster,1,0
+data/test/logo/JDG-1909-10-12-a-i0099.jpg,<image>An image of,logo,the Cross of Lorraine.,1,0
+data/test/logo/IMP-1915-06-08-a-i0031.jpg,<image>An image of,logo,a page from a music score.,1,0
+data/test/logo/LCE-1924-03-03-a-i0033.jpg,<image>An image of,logo,Hotel Klüsera Poste,1,0
+data/test/logo/EXP-1923-03-21-a-i0023.jpg,<image>An image of,logo,the label for the Model A armoured car.,1,0
+data/test/logo/JDG-1907-12-13-a-i0050.jpg,<image>An image of,logo,the Rosicrucian Order.,1,0
+data/test/logo/LCE-1970-06-23-a-i0095_2.jpg,<image>An image of,logo,the Porsche badge.,1,0
+data/test/logo/IMP-1980-04-03-a-i0263.jpg,<image>An image of,logo,the VH logo.,1,0
+data/test/logo/LCE-1903-12-23-a-i0048.jpg,<image>An image of,logo,the cover of a chocolate magazine.,1,0
+data/test/logo/LCE-1952-05-16-a-i0010.jpg,<image>An image of,logo,the front cover of Le Grand Duel.,1,0
+data/test/logo/EXP-1966-11-11-a-i0429.jpg,<image>An image of,logo,the title page of the first issue of Vintage.,1,0
+data/test/logo/LCE-1908-11-04-a-i0048.jpg,<image>An image of,logo,the coat of arms of the House of Orléans.,1,0
+data/test/logo/IMP-1915-03-27-a-i0043.jpg,<image>An image of,logo,"a page from a music book, showing a musical staff with music notes on it. The notes are",1,0
+data/test/logo/LCE-1929-06-14-a-i0044.jpg,<image>An image of,logo,the Citröen Citroën Citroën Citroën Citroë,1,0
+data/test/logo/EXP-2003-01-31-a-i0051.jpg,<image>An image of,logo,the Service d'Informatique et de Securité,1,0
+data/test/logo/LCE-1904-11-26-a-i0031.jpg,<image>An image of,logo,the Saxon logo.,1,0
+data/test/logo/EXP-2017-10-24-a-i0150.jpg,<image>An image of,logo,the Margot Maouzou website,1,0
+data/test/logo/IMP-2016-11-03-a-i0254.jpg,<image>An image of,logo,the La Mer logo.,1,0
+data/test/logo/LCE-1970-04-14-a-i0026.jpg,<image>An image of,logo,the logo of the National Association for the Advancement of Colored People (NAACP).,1,0
+data/test/logo/IMP-2014-01-03-a-i0088.jpg,<image>An image of,logo,the Agenda,1,0
+data/test/logo/LCE-1952-05-09-a-i0053_2.jpg,<image>An image of,logo,'Nouvelle Elna',1,0
+data/test/logo/EXP-2005-11-16-a-i0232_2.jpg,<image>An image of,logo,the logo for the NBA.,1,0
+data/test/logo/GDL-1965-04-27-a-i0119.jpg,<image>An image of,logo,the front of a cigarette pack.,1,0
+data/test/logo/JDG-1982-07-05-a-i0042.jpg,<image>An image of,logo,a flower.,1,0
+data/test/logo/EXP-2016-03-11-a-i0182.jpg,<image>An image of,logo,Indicateurs,1,0
+data/test/logo/EXP-1906-02-05-a-i0060.jpg,<image>An image of,logo,the name 'Jeremy Simons',1,0
+data/test/logo/LCE-1903-11-04-a-i0027.jpg,<image>An image of,logo,the front cover of the French edition of the novel.,1,0
+data/test/logo/IMP-1963-03-12-a-i0199.jpg,<image>An image of,logo,an owl with a crown on its head.,1,0
+data/test/logo/JDG-1970-04-09-a-i0185.jpg,<image>An image of,logo,the logo of Mode Speciale.,1,0
+data/test/logo/IMP-1996-03-27-a-i0210_2.jpg,<image>An image of,logo,the head of a man in a circle.,1,0
+data/test/logo/LCE-1923-06-22-a-i0016.jpg,<image>An image of,logo,Citroën Citroën Citroën Citroën Citroën,1,0
+data/test/logo/EXP-1953-05-30-a-i0157.jpg,<image>An image of,logo,the cover of the Sappenzeppelner Syphilitic Ideal,1,0
+data/test/logo/LCE-1975-02-14-a-i0004.jpg,<image>An image of,logo,the DirecTV logo.,1,0
+data/test/logo/IMP-1990-08-22-a-i0508.jpg,<image>An image of,logo,the FC Saint-Blaise logo.,1,0
+data/test/game/IMP-2002-05-06-a-i0141.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/GDL-1926-07-12-a-i0063_2.jpg,<image>An image of,game,a wordsearch puzzle.,1,0
+data/test/game/IMP-2008-10-15-a-i0133_3.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/IMP-1985-07-06-a-i0063.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/EXP-1936-02-14-a-i0035.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
+data/test/game/GDL-1971-03-06-a-i0329.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
+data/test/game/EXP-1939-12-13-a-i0083.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/JDG-1974-09-14-a-i0221.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/JDG-1943-06-09-a-i0074.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
+data/test/game/EXP-1996-12-30-a-i0048.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/IMP-1958-06-25-a-i0118.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
+data/test/game/EXP-1981-09-01-a-i0332_3.jpg,<image>An image of,game,"Luke Skywalker, Han Solo, and Chewbacca from Star Wars: The Empire Strikes",1,0
+data/test/game/JDG-1942-06-09-a-i0052.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
+data/test/game/GDL-1958-03-15-a-i0317.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/IMP-1973-09-01-a-i0208.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
+data/test/game/IMP-1981-10-23-a-i0114.jpg,<image>An image of,game,the Word Search,1,0
+data/test/game/EXP-2013-08-14-a-i0109.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/EXP-2011-10-25-a-i0292.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
+data/test/game/IMP-1989-07-01-a-i0086_3.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/EXP-1956-03-05-a-i0103.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/IMP-2017-11-18-a-i0260.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
+data/test/game/EXP-2000-11-14-a-i0347_2.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/EXP-2014-07-11-a-i0125.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/EXP-1976-05-15-a-i0373.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/GDL-1938-09-18-a-i0054.jpg,<image>An image of,game,the first page of the puzzle.,1,0
+data/test/game/IMP-1973-10-31-a-i0019.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
+data/test/game/JDG-1988-01-20-a-i0172.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/EXP-2017-07-07-a-i0104.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/EXP-1967-09-29-a-i0450_2.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
+data/test/game/GDL-1964-05-30-a-i0320.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/EXP-1965-10-04-a-i0242.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/JDG-1987-11-06-a-i0201.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
+data/test/game/JDG-1936-02-07-a-i0064.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/EXP-1959-02-20-a-i0098.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
+data/test/game/GDL-1974-11-02-a-i0180_9.jpg,<image>An image of,game,"a diagram of a chess board. The board is divided into four sections, each of which has a",1,0
+data/test/game/GDL-1915-07-04-a-i0099.jpg,<image>An image of,game,"a crossword puzzle with the letters A, B, C, D, E, F, G",1,0
+data/test/game/IMP-1967-05-03-a-i0276.jpg,<image>An image of,game,a Sudoku puzzle.,1,0
+data/test/game/JDG-1974-05-18-a-i0221_2.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
+data/test/game/JDG-1947-12-27-a-i0052.jpg,<image>An image of,game,a card from a deck of playing cards.,1,0
+data/test/game/EXP-1972-06-12-a-i0345_2.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/GDL-1964-05-30-a-i0320_6.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
+data/test/game/GDL-1961-04-08-a-i0326.jpg,<image>An image of,game,a chess board with a chess piece on it.,1,0
+data/test/game/EXP-1981-09-01-a-i0332.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/game/EXP-2009-03-18-a-i0136.jpg,<image>An image of,game,the Word Search,1,0
+data/test/game/IMP-1941-10-18-a-i0034.jpg,<image>An image of,game,a crossword puzzle.,1,0
+data/test/photo/EXP-1929-08-19-a-i0011.jpg,<image>An image of,photo,the head and shoulders of a middle-aged man. He is wearing a dark suit and has a,1,0
+data/test/photo/IMP-1977-11-14-a-i0107.jpg,<image>An image of,photo,a man and a woman sitting at a table with a microphone in front of them. The man is,1,0
+data/test/photo/EXP-2012-03-20-a-i0180.jpg,<image>An image of,photo,Marine Le Pen,1,0
+data/test/photo/IMP-1915-05-01-a-i0007.jpg,<image>An image of,photo,the Titanic from the Illustrated London News.,1,0
+data/test/photo/GDL-1928-01-12-a-i0003.jpg,<image>An image of,photo,General George S. Patton.,1,0
+data/test/photo/IMP-1976-06-14-a-i0140.jpg,<image>An image of,photo,a group of girls doing gymnastics,1,0
+data/test/photo/IMP-2015-06-19-a-i0017.jpg,<image>An image of,photo,"the outside of the property in Zadar, Croatia",1,0
+data/test/photo/IMP-2017-05-10-a-i0059.jpg,<image>An image of,photo,a dump truck driving on a construction site.,1,0
+data/test/photo/IMP-1944-04-03-a-i0005.jpg,<image>An image of,photo,Tree Swing,1,0
+data/test/photo/IMP-2010-08-14-a-i0188.jpg,<image>An image of,photo,two women standing in a field of grass. They are smiling at the camera.,1,0
+data/test/photo/LCE-1989-09-22-a-i0018.jpg,<image>An image of,photo,the vineyards of Chateau Lafite Rothschild,1,0
+data/test/photo/IMP-1913-07-31-a-i0020.jpg,<image>An image of,photo,the wreckage of a train after it collided with a freight train.,1,0
+data/test/photo/EXP-1967-08-21-a-i0234.jpg,<image>An image of,photo,a Porsche 912,1,0
+data/test/photo/LCE-1970-07-28-a-i0070.jpg,<image>An image of,photo,"the late Dr. John F. O'Leary, M.D., Ph.D.",1,0
+data/test/photo/EXP-2012-06-14-a-i0072.jpg,<image>An image of,photo,a man buying a bottle of vodka from a vendor.,1,0
+data/test/photo/JDG-1945-02-16-a-i0075_2.jpg,<image>An image of,photo,The Man Who Came to Dinner by Noel Coward,1,0
+data/test/photo/IMP-1997-08-09-a-i0216.jpg,<image>An image of,photo,the cast of the play 'The Ladykillers',1,0
+data/test/photo/EXP-1971-12-02-a-i0451.jpg,<image>An image of,photo,"Princess Margaret, Duchess of Rothesay.",1,0
+data/test/photo/EXP-1971-08-30-a-i0012.jpg,<image>An image of,photo,a man in a bathing suit.,1,0
+data/test/photo/EXP-1913-03-10-a-i0089.jpg,<image>An image of,photo,"the town of Port Moresby, Papua New Guinea, in the early 1900s.",1,0
+data/test/photo/GDL-1940-07-31-a-i0068.jpg,<image>An image of,photo,a young girl wearing a hat.,1,0
+data/test/photo/IMP-1972-04-20-a-i0026.jpg,<image>An image of,photo,"a man in a white shirt, blue jeans, and a striped t-shirt. He is",1,0
+data/test/photo/IMP-1981-01-08-a-i0013.jpg,<image>An image of,photo,a Japanese soldier driving a jeep through the jungle.,1,0
+data/test/photo/EXP-1940-12-13-a-i0002.jpg,<image>An image of,photo,"the author's father, Georges Simenon.",1,0
+data/test/photo/EXP-1940-06-14-a-i0005.jpg,<image>An image of,photo,a German Panther tank.,1,0
+data/test/photo/EXP-2010-12-02-a-i0036.jpg,<image>An image of,photo,a blood test.,1,0
+data/test/photo/EXP-2007-10-16-a-i0176.jpg,<image>An image of,photo,Thierry Henry from the French newspaper L'Equipe.,1,0
+data/test/photo/IMP-2012-11-05-a-i0101.jpg,<image>An image of,photo,a man praying on a truck,1,0
+data/test/photo/IMP-1990-10-02-a-i0036.jpg,<image>An image of,photo,a nuclear power plant in France.,1,0
+data/test/photo/JDG-1979-05-09-a-i0130.jpg,<image>An image of,photo,"members of the New Zealand Defence Force (NZDF) at a shopping centre in Auckland, New",1,0
+data/test/photo/EXP-1957-05-08-a-i0009.jpg,<image>An image of,photo,"The Cowboy Rodeo at the Cowboy Hall of Fame in Oklahoma City, Oklahoma.",1,0
+data/test/photo/JDG-1959-11-11-a-i0141.jpg,<image>An image of,photo,Le Jour de Four (The Day of Four) by Henri Matisse,1,0
+data/test/photo/IMP-2010-01-14-a-i0019.jpg,<image>An image of,photo,"a Haitian woman and children in Port-au-Prince, Haiti, after a 7.0",1,0
+data/test/photo/IMP-1969-09-13-a-i0155.jpg,<image>An image of,photo,the excavation of the foundations of the new building.,1,0
+data/test/photo/EXP-1966-02-18-a-i0473.jpg,<image>An image of,photo,the Saturn V rocket in flight.,1,0
+data/test/photo/IMP-1980-11-07-a-i0383.jpg,<image>An image of,photo,a rugby team in a scrum,1,0
+data/test/photo/IMP-1969-10-06-a-i0157.jpg,<image>An image of,photo,"a display at the Royal Horticultural Society's annual show at Wisley, Surrey, in",1,0
+data/test/photo/IMP-1949-12-22-a-i0014.jpg,<image>An image of,photo,"the plaque on the front of the building, with a picture of a man in front of it.",1,0
+data/test/photo/EXP-1999-02-26-a-i0228.jpg,<image>An image of,photo,a skier holding a flag.,1,0
+data/test/photo/EXP-1929-04-20-a-i0006.jpg,<image>An image of,photo,a soldier holding a rifle.,1,0
+data/test/photo/IMP-1961-09-04-a-i0048.jpg,<image>An image of,photo,"a group of people gathered around a table, with one person standing on the table and another person standing",1,0
+data/test/photo/IMP-1961-09-08-a-i0166.jpg,<image>An image of,photo,a man in a suit and tie. He is wearing glasses and has a mustache. He is,1,0
+data/test/photo/IMP-2016-03-02-a-i0381.jpg,<image>An image of,photo,a woman looking at her reflection in the mirror of a car.,1,0
+data/test/photo/IMP-1982-06-11-a-i0227.jpg,<image>An image of,photo,The Tower of Babel,1,0
+data/test/photo/IMP-1914-04-14-a-i0002.jpg,<image>An image of,photo,Princess Beatrix of the Netherlands.,1,0
+data/test/photo/JDG-1990-05-08-a-i0116.jpg,<image>An image of,photo,the Bhopal gas tragedy in 1984.,1,0
+data/test/photo/EXP-1988-06-27-a-i0026.jpg,<image>An image of,photo,the bike used by John Surtees in the 1970 Isle of Man TT.,1,0
+data/test/photo/EXP-1975-11-27-a-i0296.jpg,<image>An image of,photo,an old coal-burning boiler in a coal-fired power station.,1,0
+data/test/photo/JDG-1989-11-07-a-i0090.jpg,<image>An image of,photo,a group of people standing in front of a building holding a poster with a picture of a man and,1,0
+data/test/photo/IMP-2006-03-11-a-i0243.jpg,<image>An image of,photo,a man in a suit and tie. He is standing in front of a basketball court. He is,1,0
+data/test/photo/IMP-2012-06-27-a-i0062.jpg,<image>An image of,photo,a man and a woman standing in a laboratory. The man is wearing a white lab coat and the,1,0
+data/test/photo/EXP-1993-11-12-a-i0261.jpg,<image>An image of,photo,a group of people standing in front of a booth at a trade show.,1,0
+data/test/photo/JDG-1937-11-19-a-i0106.jpg,<image>An image of,photo,a woman wearing a fur coat.,1,0
+data/test/photo/LCE-1969-07-09-a-i0083.jpg,<image>An image of,photo,a bridge that collapsed in the 1980s.,1,0
+data/test/photo/IMP-1945-05-09-a-i0006.jpg,<image>An image of,photo,"Private William Henry Smith of the 2nd Battalion, Royal Sussex Regiment, who was killed in action on",1,0
+data/test/photo/IMP-1943-06-05-a-i0002.jpg,<image>An image of,photo,a group of soldiers marching in a parade.,1,0
+data/test/photo/JDG-1943-09-20-a-i0023.jpg,<image>An image of,photo,a German Tiger tank in action.,1,0
+data/test/photo/EXP-1962-02-01-a-i0167.jpg,<image>An image of,photo,the building in the early 1900s.,1,0
+data/test/photo/JDG-1945-04-11-a-i0005.jpg,<image>An image of,photo,a group of young men in uniform standing in front of a group of other young men in uniform.,1,0
+data/test/photo/EXP-2005-01-21-a-i0307.jpg,<image>An image of,photo,a man and a woman sitting on a bench in front of a judge and a panel of judges.,1,0
+data/test/photo/IMP-1960-07-16-a-i0064.jpg,<image>An image of,photo,a giraffe in a zoo.,1,0
+data/test/photo/EXP-1925-02-14-a-i0084.jpg,<image>An image of,photo,the Avro Anson,1,0
+data/test/photo/EXP-1996-09-14-a-i0295.jpg,<image>An image of,photo,a woman in the snow.,1,0
+data/test/photo/LCE-1970-06-23-a-i0095.jpg,<image>An image of,photo,the car used in the James Bond film 'The Spy Who Loved Me',1,0
+data/test/photo/EXP-2014-01-10-a-i0101_2.jpg,<image>An image of,photo,the Burj Al Arab,1,0
+data/test/photo/EXP-1936-12-25-a-i0104.jpg,<image>An image of,photo,"the aftermath of the German bombing of Lille, France, during World War II.",1,0
+data/test/photo/EXP-1938-12-12-a-i0119.jpg,<image>An image of,photo,the Great Fire of London in 1666,1,0
+data/test/photo/LCE-1974-11-05-a-i0010.jpg,<image>An image of,photo,a basketball game.,1,0
+data/test/photo/IMP-2015-06-29-a-i0115.jpg,<image>An image of,photo,the fire at the Glastonbury Festival,1,0
+data/test/photo/IMP-1946-05-06-a-i0008.jpg,<image>An image of,photo,a group of people standing in front of a group of people standing in front of a group of people,1,0
+data/test/photo/EXP-2007-06-21-a-i0331.jpg,<image>An image of,photo,a tree in the forest.,1,0
+data/test/photo/EXP-1950-03-31-a-i0008.jpg,<image>An image of,photo,General Sir Bernard Freyberg (right) and General Sir Bernard Freyberg (left) in,1,0
+data/test/photo/IMP-1958-10-24-a-i0187.jpg,<image>An image of,photo,the wreckage of a Sherman tank that was hit by a mine during the Battle of Anzio,1,0
+data/test/photo/EXP-1978-11-11-a-i0510.jpg,<image>An image of,photo,a man and woman standing in front of a door. The man is holding a key and the woman,1,0
+data/test/photo/EXP-1957-02-04-a-i0014.jpg,<image>An image of,photo,"the late King Hussein of Jordan with his son, Prince Faisal bin Hussein, and the late",1,0
+data/test/photo/IMP-1967-04-21-a-i0279.jpg,<image>An image of,photo,a man wearing a black jacket and a white cross on his chest. He is sitting on a couch,1,0
+data/test/photo/EXP-1940-07-24-a-i0012.jpg,<image>An image of,photo,a group of men standing in front of a building,1,0
+data/test/photo/JDG-1945-02-16-a-i0075.jpg,<image>An image of,photo,The Man Who Came to Dinner by Noel Coward,1,0
+data/test/photo/IMP-1928-07-27-a-i0003.jpg,<image>An image of,photo,"Lt. Col. John F. Kennedy, who was killed in action during World War II, is",1,0
+data/test/photo/EXP-1987-06-09-a-i0138.jpg,<image>An image of,photo,the orchestra from the opening night of the concert.,1,0
+data/test/photo/IMP-2002-06-13-a-i0314.jpg,<image>An image of,photo,a man standing in front of a group of children.,1,0
+data/test/photo/IMP-1956-01-23-a-i0034.jpg,<image>An image of,photo,"the burning of a police station in Hyderabad, India, during the Quit India Movement.",1,0
+data/test/photo/IMP-1939-04-29-a-i0002.jpg,<image>An image of,photo,a woman in a bathing suit,1,0
+data/test/photo/GDL-1951-03-09-a-i0008.jpg,<image>An image of,photo,"Lieutenant-Colonel William Henry Hutton, VC, DSO, MC, DFC and Bar,",1,0
+data/test/photo/EXP-2006-08-03-a-i0195.jpg,<image>An image of,photo,"two young men, one wearing a red baseball cap and the other wearing a black t-shirt.",1,0
+data/test/photo/EXP-2003-04-09-a-i0164.jpg,<image>An image of,photo,a man in a suit and tie speaking to a woman in a suit and tie.,1,0
+data/test/photo/IMP-1998-07-13-a-i0062.jpg,<image>An image of,photo,a man standing in front of a La Poste sign.,1,0
+data/test/photo/IMP-1936-03-10-a-i0003.jpg,<image>An image of,photo,a crowd of people in the streets of Paris during the German occupation of France during World War I.,1,0
+data/test/photo/JDG-1941-10-29-a-i0004.jpg,<image>An image of,photo,the Berliner Philharmonie,1,0
+data/test/photo/EXP-1941-04-19-a-i0003.jpg,<image>An image of,photo,"the fire at the port of Thessaloniki, Greece, during the Greek War of Independence",1,0
+data/test/photo/IMP-1936-05-11-a-i0011.jpg,<image>An image of,photo,a Swiss Air Force P-51D Mustang,1,0
+data/test/photo/EXP-2004-11-29-a-i0091.jpg,<image>An image of,photo,"Mother Marianne Cope, the founder of the Sisters of Charity of the Blessed Virgin Mary",1,0
+data/test/photo/GDL-1985-09-04-a-i0027.jpg,<image>An image of,photo,"the former head of the National Security Agency, General Keith Alexander.",1,0
+data/test/photo/GDL-1927-10-20-a-i0005.jpg,<image>An image of,photo,the head and shoulders of a middle-aged man in a suit and tie. He is wearing a,1,0
+data/test/photo/IMP-2005-05-30-a-i0078.jpg,<image>An image of,photo,a woman wearing a traditional Bavarian costume.,1,0
+data/test/photo/IMP-1964-09-14-a-i0232.jpg,<image>An image of,photo,the funeral of King George V and Queen Mary,1,0
+data/test/photo/IMP-1938-02-02-a-i0008.jpg,<image>An image of,photo,a nurse in uniform.,1,0
+data/test/photo/IMP-2016-04-07-a-i0034.jpg,<image>An image of,photo,Peter Greste.,1,0
+data/test/photo/GDL-1925-12-14-a-i0044.jpg,<image>An image of,photo,a sledding party in the snow,1,0
+data/test/photo/EXP-1956-04-06-a-i0012.jpg,<image>An image of,photo,a wrecked train.,1,0
+data/test/photo/EXP-2016-03-22-a-i0009.jpg,<image>An image of,photo,Richard Branson speaking at a conference.,1,0
+data/test/photo/EXP-2011-06-01-a-i0189.jpg,<image>An image of,photo,"Carlos Slim, the richest man in the world.",1,0
+data/test/photo/IMP-2001-08-24-a-i0185.jpg,<image>An image of,photo,Two Horses,1,0
+data/test/photo/EXP-2007-09-04-a-i0328.jpg,<image>An image of,photo,a woman holding a glass of wine,1,0
+data/test/photo/IMP-1913-01-18-a-i0043.jpg,<image>An image of,photo,"the late Rev. William H. McIntosh, pastor of the First Presbyterian Church, taken",1,0
+data/test/photo/IMP-1948-10-02-a-i0104.jpg,<image>An image of,photo,Secretary of State George C. Marshall (left) and Secretary of Defense George C. Marshall (right,1,0
+data/test/photo/EXP-1968-07-02-a-i0132.jpg,<image>An image of,photo,a farm with hay bales in the foreground and a barn in the background.,1,0
+data/test/photo/IMP-1944-08-08-a-i0008.jpg,<image>An image of,photo,two horses in harness.,1,0
+data/test/photo/EXP-1988-05-07-a-i0236.jpg,<image>An image of,photo,a group of people standing in front of a stereo system. The man in the middle is holding a,1,0
+data/test/photo/LCE-1969-01-09-a-i0002.jpg,<image>An image of,photo,Aerial view of a village in the mountains,1,0
+data/test/photo/IMP-1943-02-06-a-i0003_3.jpg,<image>An image of,photo,a swan in a shop window,1,0
+data/test/photo/IMP-2002-11-08-a-i0065.jpg,<image>An image of,photo,a group of swimmers in a pool.,1,0
+data/test/photo/EXP-2007-12-27-a-i0146.jpg,<image>An image of,photo,Jens Lehmann taken during his playing days for Borussia Moenchengladbach,1,0
+data/test/photo/EXP-2003-10-16-a-i0129.jpg,<image>An image of,photo,a woman lying on a bed with a gun in her hand.,1,0
+data/test/photo/GDL-1993-03-13-a-i0130.jpg,<image>An image of,photo,Michael Schumacher,1,0
+data/test/photo/EXP-1928-11-07-a-i0065.jpg,<image>An image of,photo,"the church in St. Moritz, Switzerland.",1,0
+data/test/photo/EXP-2009-06-27-a-i0182.jpg,<image>An image of,photo,Roger Federer,1,0
+data/test/photo/IMP-1965-12-30-a-i0057.jpg,<image>An image of,photo,"Sir Anthony Eden, Prime Minister of the United Kingdom, taken in the House of Commons, London,",1,0
+data/test/photo/EXP-1965-12-16-a-i0130.jpg,<image>An image of,photo,a flooded building in the 1940s.,1,0
+data/test/photo/IMP-1926-12-28-a-i0009.jpg,<image>An image of,photo,Two young men holding a bouquet of flowers.,1,0
+data/test/photo/IMP-1969-10-08-a-i0121.jpg,<image>An image of,photo,Untitled (Abstract) by Robert Rauschenberg,1,0
+data/test/photo/LCE-1988-01-12-a-i0057.jpg,<image>An image of,photo,"the Olympic Games in Los Angeles, 1932.",1,0
+data/test/photo/EXP-2012-06-13-a-i0167.jpg,<image>An image of,photo,a man wearing a suit and tie. He is smiling and looking at the camera.,1,0
+data/test/photo/IMP-1968-02-01-a-i0304.jpg,<image>An image of,photo,a Porsche 356 Speedster being driven by a man in a white suit.,1,0
+data/test/photo/IMP-2008-02-13-a-i0283.jpg,<image>An image of,photo,a robot operating on a patient.,1,0
+data/test/photo/EXP-1972-07-26-a-i0286.jpg,<image>An image of,photo,Marlene Dietrich,1,0
+data/test/photo/EXP-1962-08-21-a-i0108.jpg,<image>An image of,photo,a man on a motorbike. He is wearing a white helmet and a black leather jacket.,1,0
+data/test/photo/EXP-2000-01-31-a-i0255.jpg,<image>An image of,photo,"the author and his wife, taken from a newspaper clipping.",1,0
+data/test/photo/JDG-1975-10-18-a-i0186.jpg,<image>An image of,photo,a wine glass with a Greek figure on it.,1,0
+data/test/photo/JDG-1937-11-21-a-i0098.jpg,<image>An image of,photo,the original building in the 1920s. (Courtesy of the City of Los Angeles),1,0
+data/test/photo/EXP-2000-10-18-a-i0167.jpg,<image>An image of,photo,Mary Dyer,1,0
+data/test/photo/EXP-1988-08-20-a-i0138.jpg,<image>An image of,photo,a group of elderly people sitting at a table in a restaurant.,1,0
+data/test/photo/JDG-1969-07-12-a-i0114.jpg,<image>An image of,photo,the exterior of a building with a row of columns in the foreground and a row of columns in the,1,0
+data/test/photo/EXP-2002-02-14-a-i0206.jpg,<image>An image of,photo,"Dr. Ruth Bader Ginsburg and her mother, Ruth Bader Ginsburg, in",1,0
+data/test/photo/IMP-1941-08-29-a-i0071.jpg,<image>An image of,photo,a woman wearing a wedding dress.,1,0
+data/test/photo/EXP-1940-11-05-a-i0011.jpg,<image>An image of,photo,"the bust of General Lafayette in the Lafayette Park in Washington, D.C.",1,0
+data/test/photo/IMP-2004-06-19-a-i0149.jpg,<image>An image of,photo,Bruce Willis and Demi Moore,1,0
+data/test/photo/EXP-1912-07-13-a-i0109.jpg,<image>An image of,photo,a group of children dancing in front of a house.,1,0
+data/test/photo/GDL-1991-06-01-a-i0197.jpg,<image>An image of,photo,a group of children digging in the dirt.,1,0
+data/test/photo/EXP-1989-06-08-a-i0011.jpg,<image>An image of,photo,"the helicopter that crashed on the roof of a building at the University of the West Indies, Mona",1,0
+data/test/photo/IMP-1977-11-07-a-i0242.jpg,<image>An image of,photo,Philippe Gallois,1,0
+data/test/photo/EXP-1969-10-17-a-i0065.jpg,<image>An image of,photo,a man carrying a child on his back.,1,0
+data/test/photo/IMP-1944-09-14-a-i0067.jpg,<image>An image of,photo,the wreckage of the Lockheed L-1049A Constellation.,1,0
+data/test/photo/EXP-1990-11-24-a-i0086.jpg,<image>An image of,photo,"Act II, Scene 1 from The Merchant of Venice",1,0
+data/test/photo/GDL-1935-05-12-a-i0074.jpg,<image>An image of,photo,The ruins of the church of St. John the Baptist in the village of St. John in the,1,0
+data/test/photo/IMP-1993-07-05-a-i0166.jpg,<image>An image of,photo,children playing with boxes.,1,0
+data/test/photo/EXP-2010-05-04-a-i0036.jpg,<image>An image of,photo,a woman wearing a grey coat and a scarf. She is standing in front of a sign that reads,1,0
+data/test/photo/JDG-1984-01-16-a-i0145.jpg,<image>An image of,photo,the man who was shot and killed by police in the early hours of Sunday morning.,1,0
+data/test/photo/EXP-2002-11-14-a-i0041.jpg,<image>An image of,photo,"the stage at the opening ceremony of the International Festival of Arts and Sciences in Geneva, Switzerland, in",1,0
+data/test/photo/IMP-2013-01-24-a-i0107.jpg,<image>An image of,photo,"the author, Susan Orlean.",1,0
+data/test/photo/GDL-1934-07-16-a-i0002.jpg,<image>An image of,photo,the train station at the end of the line in the early 1900s.,1,0
+data/test/photo/LCE-1978-10-27-a-i0067.jpg,<image>An image of,photo,Richard Pryor,1,0
+data/test/photo/EXP-2017-04-22-a-i0197.jpg,<image>An image of,photo,a volleyball match between the women's national team of the Netherlands and the women's national team of,1,0
+data/test/photo/IMP-1945-07-28-a-i0096.jpg,<image>An image of,photo,a group of men standing in front of a building.,1,0
+data/test/photo/EXP-1987-01-03-a-i0205.jpg,<image>An image of,photo,a man with a moustache.,1,0
+data/test/photo/EXP-1970-06-20-a-i0575.jpg,<image>An image of,photo,"the author, taken in the 1960s, when he was a member of the Communist Party of Great",1,0
+data/test/photo/EXP-1936-07-17-a-i0002.jpg,<image>An image of,photo,a group of boys marching in a parade.,1,0
+data/test/photo/IMP-1953-12-23-a-i0123.jpg,<image>An image of,photo,a team of Clydesdale horses pulling a cart,1,0
+data/test/photo/IMP-1940-06-22-a-i0008.jpg,<image>An image of,photo,Fidel Castro,1,0
+data/test/photo/IMP-1946-09-13-a-i0004.jpg,<image>An image of,photo,President John F. Kennedy and First Lady Jacqueline Kennedy on the steps of the U.S,1,0
+data/test/photo/IMP-1952-08-07-a-i0004.jpg,<image>An image of,photo,the Lake of the Clouds in Glacier National Park.,1,0
+data/test/photo/IMP-1983-10-28-a-i0354.jpg,<image>An image of,photo,"Window of the Temple of the Sun, Palmyra, Syria by Anonymous",1,0
+data/test/photo/JDG-1990-02-23-a-i0168.jpg,<image>An image of,photo,the front cover of the band's first album.,1,0
+data/test/photo/IMP-1932-09-19-a-i0005.jpg,<image>An image of,photo,"Queen Elizabeth II and the Prime Minister of India, Pandit Jawaharlal Nehru",1,0
+data/test/photo/IMP-2013-01-05-a-i0213.jpg,<image>An image of,photo,a waitress in a restaurant.,1,0
+data/test/photo/GDL-1939-10-30-a-i0044.jpg,<image>An image of,photo,a cannon,1,0
+data/test/photo/IMP-2009-12-01-a-i0072.jpg,<image>An image of,photo,Santa Claus holding a gift,1,0
+data/test/photo/EXP-1913-09-17-a-i0084_2.jpg,<image>An image of,photo,the Duke and Duchess of York (later King George VI and Queen Elizabeth II) leaving Buckingham Palace,1,0
+data/test/photo/GDL-1980-05-08-a-i0114.jpg,<image>An image of,photo,people standing in a queue outside a car showroom in the early 1980s.,1,0
+data/test/photo/EXP-1928-01-09-a-i0056.jpg,<image>An image of,photo,the head of a man in a suit and tie. He is wearing a dark suit with a white,1,0
+data/test/photo/IMP-1968-08-09-a-i0158.jpg,<image>An image of,photo,the building in the early 1900s.,1,0
+data/test/photo/IMP-2011-11-08-a-i0030.jpg,<image>An image of,photo,"the town of Lucerne, Switzerland, with a rainbow in the foreground.",1,0
+data/test/photo/EXP-1979-08-10-a-i0158.jpg,<image>An image of,photo,a large hole in the ground.,1,0
+data/test/photo/EXP-1928-03-06-a-i0061.jpg,<image>An image of,photo,"the interior of St. Peter and Paul Church in Bamberg, Germany.",1,0
+data/test/photo/EXP-1900-12-31-a-i0138_2.jpg,<image>An image of,photo,a boy in a nurse's uniform.,1,0
+data/test/photo/EXP-2012-02-11-a-i0244.jpg,<image>An image of,photo,a man and a woman standing in front of a bookshelf. The man is wearing a suit and,1,0
+data/test/photo/IMP-2008-03-18-a-i0121.jpg,<image>An image of,photo,John Cleese,1,0
+data/test/photo/IMP-1917-02-20-a-i0007.jpg,<image>An image of,photo,a French soldier saluting a German officer.,1,0
+data/test/photo/IMP-2014-03-27-a-i0062.jpg,<image>An image of,photo,French Montana,1,0
+data/test/photo/EXP-1994-08-23-a-i0129.jpg,<image>An image of,photo,"the author, Dr. Robert C. May, taken in the mid-1990s.",1,0
+data/test/photo/EXP-1971-09-15-a-i0392.jpg,<image>An image of,photo,a Bedouin man holding a sword.,1,0
+data/test/photo/IMP-1927-03-07-a-i0026.jpg,<image>An image of,photo,the construction of the Great Western Railway viaduct over the River Severn.,1,0
+data/test/photo/IMP-2015-08-22-a-i0196.jpg,<image>An image of,photo,a woman playing with balloons.,1,0
+data/test/photo/EXP-1970-05-26-a-i0397.jpg,<image>An image of,photo,a goalkeeper in action.,1,0
+data/test/photo/EXP-2015-04-24-a-i0167.jpg,<image>An image of,photo,"Bangladesh Prime Minister Sheikh Hasina is displayed during a protest in Dhaka, Bangladesh, Tuesday,",1,0
+data/test/photo/IMP-2014-01-29-a-i0191.jpg,<image>An image of,photo,the player that this statistic is related to.,1,0
+data/test/photo/EXP-1913-11-21-a-i0082.jpg,<image>An image of,photo,the wreckage of the Great Northern Railway train,1,0
+data/test/photo/EXP-1915-11-19-a-i0077.jpg,<image>An image of,photo,a ship docked at a wharf.,1,0
+data/test/photo/IMP-1948-06-24-a-i0036.jpg,<image>An image of,photo,a cyclist with a group of people in the background. The cyclist is wearing a jersey with,1,0
+data/test/photo/GDL-1985-05-04-a-i0023.jpg,<image>An image of,photo,a woman sitting at a computer.,1,0
+data/test/photo/IMP-1960-07-25-a-i0010.jpg,<image>An image of,photo,Marlene Dietrich,1,0
+data/test/photo/JDG-1937-10-07-a-i0003.jpg,<image>An image of,photo,a group of men in uniform standing in front of a plane.,1,0
+data/test/photo/GDL-1966-07-28-a-i0169.jpg,<image>An image of,photo,the wedding dress worn by the bride.,1,0
+data/test/photo/IMP-1992-10-17-a-i0264.jpg,<image>An image of,photo,Le Cadeau Hauterive in the rain,1,0
+data/test/photo/IMP-1941-09-09-a-i0010.jpg,<image>An image of,photo,a railroad yard in the early 1900s.,1,0
+data/test/photo/EXP-1938-03-31-a-i0087.jpg,<image>An image of,photo,"a man in a white corset and black stockings, holding a sword in his right hand",1,0
+data/test/photo/IMP-1923-05-14-a-i0034.jpg,<image>An image of,photo,Boxing by Anonymous,1,0
+data/test/photo/IMP-1963-07-24-a-i0171.jpg,<image>An image of,photo,the wedding of Princess Margaret and Antony Armstrong-Jones,1,0
+data/test/photo/IMP-1966-10-07-a-i0138.jpg,<image>An image of,photo,"the match between Dundee United and St Johnstone, played at Dens Park, Dundee on",1,0
+data/test/photo/IMP-1974-11-11-a-i0066.jpg,<image>An image of,photo,a large gathering of people in a hall.,1,0
+data/test/photo/IMP-2004-02-19-a-i0002.jpg,<image>An image of,photo,children sitting on a stage,1,0
+data/test/photo/EXP-1987-03-11-a-i0009.jpg,<image>An image of,photo,a woman working in a laboratory.,1,0
+data/test/photo/IMP-1934-12-26-a-i0010.jpg,<image>An image of,photo,soldiers from the Royal Scots Greys,1,0
+data/test/photo/JDG-1978-12-19-a-i0056.jpg,<image>An image of,photo,the signing of the Treaty of Peace and Friendship between the Soviet Union and the United States of America,1,0
+data/test/photo/EXP-1993-11-05-a-i0131.jpg,<image>An image of,photo,Joan Baez,1,0
+data/test/photo/EXP-2002-04-06-a-i0048.jpg,<image>An image of,photo,the library in the 1970s.,1,0
+data/test/photo/IMP-2010-01-26-a-i0273.jpg,<image>An image of,photo,the author.,1,0
+data/test/photo/JDG-1986-08-16-a-i0178.jpg,<image>An image of,photo,the demolition of the old Wembley Stadium,1,0
+data/test/photo/GDL-1982-03-17-a-i0121.jpg,<image>An image of,photo,"Robert F. Kennedy at the Democratic National Convention in Chicago, Illinois, in 1968.",1,0
+data/test/photo/IMP-2012-05-18-a-i0083.jpg,<image>An image of,photo,the Renault Megane.,1,0
+data/test/photo/IMP-1966-12-10-a-i0326.jpg,<image>An image of,photo,the signing of the agreement between the United States and the Republic of China (Taiwan) in,1,0
+data/test/photo/JDG-1958-01-11-a-i0079.jpg,<image>An image of,photo,"Indira Gandhi with her husband, Prime Minister Rajiv Gandhi, and her son, Sanjay Gandhi",1,0
+data/test/photo/IMP-2015-06-23-a-i0053.jpg,<image>An image of,photo,a woman holding two babies.,1,0
+data/test/photo/IMP-1949-07-18-a-i0007.jpg,<image>An image of,photo,the interior of the Church of the Holy Sepulchre in Jerusalem.,1,0
+data/test/photo/JDG-1982-04-21-a-i0076.jpg,<image>An image of,photo,the interior of the Museum of Natural History.,1,0
+data/test/photo/IMP-2001-08-15-a-i0127.jpg,<image>An image of,photo,a tank in front of a mosque.,1,0
+data/test/photo/LCE-1982-12-14-a-i0038.jpg,<image>An image of,photo,a climber on a mountain,1,0
+data/test/photo/EXP-1961-06-08-a-i0104.jpg,<image>An image of,photo,Le Mans 24 hour race,1,0
+data/test/photo/IMP-1949-03-03-a-i0063.jpg,<image>An image of,photo,soldiers marching in a parade.,1,0
+data/test/photo/IMP-1966-12-26-a-i0116.jpg,<image>An image of,photo,the Malmsteen scorecard.,1,0
+data/test/photo/IMP-2000-05-29-a-i0059.jpg,<image>An image of,photo,a young girl in a white raincoat with a parasol in her hand. She is standing,1,0
+data/test/photo/IMP-2016-08-05-a-i0071.jpg,<image>An image of,photo,a woman taking a photo with her phone.,1,0
+data/test/photo/EXP-2002-11-11-a-i0237.jpg,<image>An image of,photo,a hockey player in action.,1,0
+data/test/photo/IMP-1949-04-14-a-i0055.jpg,<image>An image of,photo,the funeral of Queen Victoria,1,0
+data/test/photo/EXP-2016-01-22-a-i0238.jpg,<image>An image of,photo,actor Gerard Butler driving a car.,1,0
+data/test/photo/JDG-1979-11-20-a-i0091.jpg,<image>An image of,photo,a traffic jam in the 1980s.,1,0
+data/test/photo/EXP-1948-12-08-a-i0100.jpg,<image>An image of,photo,Aerial view of the area of the attack on the airfield of the airfield of the air,1,0
+data/test/photo/EXP-1987-08-13-a-i0007.jpg,<image>An image of,photo,the author's father.,1,0
+data/test/photo/EXP-1963-12-18-a-i0160.jpg,<image>An image of,photo,the inside of a warehouse.,1,0
+data/test/photo/IMP-2001-10-11-a-i0283.jpg,<image>An image of,photo,"the interior of the house, showing the chimney, the fireplace, and the plant pots.",1,0
+data/test/photo/LCE-1969-11-08-a-i0113.jpg,<image>An image of,photo,a Soviet tank from the 1950s.,1,0
+data/test/photo/EXP-1932-03-16-a-i0064.jpg,<image>An image of,photo,a group of men in suits standing in front of a group of men in suits standing in front of,1,0
+data/test/photo/IMP-1986-09-08-a-i0222.jpg,<image>An image of,photo,the first train to run on the track.,1,0
+data/test/photo/GDL-1965-11-27-a-i0316.jpg,<image>An image of,photo,"the assassination of President John F. Kennedy in Dallas, Texas, on November 22, 1963.",1,0
+data/test/photo/IMP-1941-06-23-a-i0009.jpg,<image>An image of,photo,the Battle of Gallipoli,1,0
+data/test/photo/EXP-2016-04-04-a-i0128.jpg,<image>An image of,photo,"a water tower in the Old City of Damascus, Syria.",1,0
+data/test/photo/EXP-1938-06-07-a-i0066.jpg,<image>An image of,photo,the Swiss team at the 1930 FIFA World Cup,1,0
+data/test/photo/IMP-2004-09-04-a-i0354.jpg,<image>An image of,photo,a woman in a white dress with a black veil over her face. She is standing in front of,1,0
+data/test/photo/GDL-1958-02-01-a-i0009.jpg,<image>An image of,photo,"the author in his office at the University of California, Santa Barbara, where he was a professor of",1,0
+data/test/photo/EXP-2017-05-03-a-i0038.jpg,<image>An image of,photo,a hairdresser cutting a woman's hair.,1,0
+data/test/photo/IMP-1999-05-27-a-i0288.jpg,<image>An image of,photo,a child wearing sunglasses.,1,0
+data/test/photo/IMP-1962-03-23-a-i0300.jpg,<image>An image of,photo,"a French armoured car on the streets of Beirut, Lebanon, during the Second World War",1,0
+data/test/photo/IMP-1999-12-31-a-i0037.jpg,<image>An image of,photo,a girl snowshoeing.,1,0
+data/test/photo/LCE-1943-07-12-a-i0010.jpg,<image>An image of,photo,a fly,1,0
+data/test/photo/EXP-1982-07-29-a-i0138.jpg,<image>An image of,photo,a goalkeeper making a save,1,0
+data/test/photo/JDG-1979-10-17-a-i0143.jpg,<image>An image of,photo,"Mr. John D. McIntyre, who was killed in the crash of the Trans-",1,0
+data/test/photo/IMP-1996-09-21-a-i0207.jpg,<image>An image of,photo,"Mr. and Mrs. W.H. (Bill) Hickman, who were killed in",1,0
+data/test/photo/EXP-1988-12-22-a-i0069.jpg,<image>An image of,photo,the statue of the elephant that was destroyed in the fire.,1,0
+data/test/photo/EXP-2002-11-01-a-i0192.jpg,<image>An image of,photo,a man wearing a black suit and a white shirt. He is smiling and looking at the camera.,1,0
+data/test/photo/IMP-2006-10-05-a-i0259.jpg,<image>An image of,photo,Bruce Willis and John Cusack in Goodfellas,1,0
+data/test/photo/IMP-1974-11-29-a-i0092.jpg,<image>An image of,photo,the construction of the viaduct,1,0
+data/test/photo/GDL-1984-06-26-a-i0081.jpg,<image>An image of,photo,a game between England and France in the 1982 World Cup,1,0
+data/test/photo/EXP-1926-08-11-a-i0064.jpg,<image>An image of,photo,a cyclist and a woman standing next to a bicycle. The cyclist is wearing a hat and,1,0
+data/test/photo/EXP-1991-06-10-a-i0093.jpg,<image>An image of,photo,the set for the first episode of the series.,1,0
+data/test/photo/EXP-1989-12-22-a-i0227.jpg,<image>An image of,photo,a hockey player in action.,1,0
+data/test/photo/EXP-1914-06-02-a-i0100.jpg,<image>An image of,photo,the Titanic,1,0
+data/test/photo/EXP-1979-10-23-a-i0132.jpg,<image>An image of,photo,a group of men working on a fence.,1,0
+data/test/photo/EXP-1970-05-26-a-i0220.jpg,<image>An image of,photo,the building in the 1920s.,1,0
+data/test/photo/LCE-1909-06-23-a-i0020.jpg,<image>An image of,photo,Mrs. William H. Hoyt and Mr. William H. Hoyt,1,0
+data/test/photo/EXP-2008-06-21-a-i0182.jpg,<image>An image of,photo,Cristiano Ronaldo,1,0
+data/test/photo/EXP-1975-09-10-a-i0205.jpg,<image>An image of,photo,Peter Beardsley in action,1,0
+data/test/photo/IMP-1978-09-23-a-i0009.jpg,<image>An image of,photo,a parade in the 1950s.,1,0
+data/test/photo/IMP-2008-11-18-a-i0067.jpg,<image>An image of,photo,three people holding Easter eggs and a cake.,1,0
+data/test/photo/IMP-1984-09-11-a-i0275.jpg,<image>An image of,photo,a woman kneeling in front of a large painting of a woman kneeling in front of a large,1,0
+data/test/photo/IMP-1938-03-17-a-i0003.jpg,<image>An image of,photo,"two men, one in a suit and tie, the other in a suit and tie. The man",1,0
+data/test/photo/EXP-2001-03-16-a-i0237.jpg,<image>An image of,photo,the ice hockey game played between the HC Davos and the HC Thun at the Davos Arena,1,0
+data/test/photo/EXP-1934-09-17-a-i0013.jpg,<image>An image of,photo,"the Pont de l'Arche de Triomphe, Paris, France, showing the Pont de",1,0
+data/test/photo/IMP-2017-12-23-a-i0248.jpg,<image>An image of,photo,Alice in Wonderland.,1,0
+data/test/photo/IMP-2017-07-05-a-i0077.jpg,<image>An image of,photo,a woman with long brown hair and a white blouse. She is looking at the camera.,1,0
+data/test/photo/JDG-1928-05-27-a-i0061.jpg,<image>An image of,photo,a woman dancing in a field of flowers.,1,0
+data/test/photo/IMP-1993-05-08-a-i0276.jpg,<image>An image of,photo,Robert Culp,1,0
+data/test/photo/IMP-1966-07-23-a-i0027.jpg,<image>An image of,photo,a group of people standing in front of a tent.,1,0
+data/test/photo/IMP-2003-01-17-a-i0027.jpg,<image>An image of,photo,the author's father.,1,0
+data/test/photo/EXP-1968-12-12-a-i0341.jpg,<image>An image of,photo,John Surtees,1,0
+data/test/photo/IMP-1960-06-16-a-i0011.jpg,<image>An image of,photo,Marlene Dietrich,1,0
+data/test/photo/LCE-1970-03-16-a-i0098.jpg,<image>An image of,photo,Robert Rauschenberg,1,0
+data/test/photo/EXP-1930-06-03-a-i0004.jpg,<image>An image of,photo,a train in the 1920s.,1,0
+data/test/photo/EXP-2007-08-03-a-i0293.jpg,<image>An image of,photo,a man wearing a mask.,1,0
+data/test/photo/JDG-1974-05-18-a-i0221.jpg,<image>An image of,photo,The Three Musketeers (1915),1,0
+data/test/photo/EXP-2016-09-17-a-i0140.jpg,<image>An image of,photo,Indicateurs,1,0
+data/test/photo/EXP-1954-02-16-a-i0010.jpg,<image>An image of,photo,a hockey game.,1,0
+data/test/photo/IMP-1914-05-30-a-i0005.jpg,<image>An image of,photo,a woman in a white dress with a black collar and a black hat. She is wearing a black,1,0
+data/test/photo/IMP-1943-02-06-a-i0003_2.jpg,<image>An image of,photo,a German Panzer Division in action during the Battle of Stalingrad.,1,0
+data/test/photo/IMP-1956-04-24-a-i0007.jpg,<image>An image of,photo,a house destroyed by fire.,1,0
+data/test/photo/EXP-2004-11-04-a-i0200.jpg,<image>An image of,photo,a man speaking into a microphone. He is wearing a suit and glasses.,1,0
+data/test/photo/EXP-1998-10-09-a-i0256.jpg,<image>An image of,photo,a man wearing a racing helmet.,1,0
+data/test/photo/EXP-1964-05-26-a-i0222.jpg,<image>An image of,photo,the procession of the procession of the procession of the procession of the procession of the procession of the procession,1,0
+data/test/photo/IMP-2013-04-30-a-i0141.jpg,<image>An image of,photo,the front cover of the French edition of the book.,1,0
+data/test/photo/EXP-1937-02-20-a-i0144.jpg,<image>An image of,photo,"a woman holding a sword and a shield, with a ship in the background.",1,0
+data/test/photo/EXP-2001-10-30-a-i0026.jpg,<image>An image of,photo,the boat,1,0
+data/test/photo/IMP-1940-02-08-a-i0008.jpg,<image>An image of,photo,a man and a woman standing in the snow. The woman is wearing a fur coat and the man,1,0
+data/test/photo/IMP-1926-08-25-a-i0008.jpg,<image>An image of,photo,View of the City of New Orleans from the Mississippi River by Anonymous,1,0
+data/test/photo/IMP-2016-04-04-a-i0034.jpg,<image>An image of,photo,a woman voting in a polling station.,1,0
+data/test/photo/IMP-1938-12-15-a-i0014.jpg,<image>An image of,photo,the Christmas lights in the 1930s.,1,0
+data/test/photo/EXP-1996-09-10-a-i0259.jpg,<image>An image of,photo,Steven Spielberg,1,0
+data/test/photo/IMP-1929-08-23-a-i0002.jpg,<image>An image of,photo,a man pointing to a sign in a shop window.,1,0
+data/test/photo/LCE-1956-11-16-a-i0030.jpg,<image>An image of,photo,Bill Bowerman,1,0
+data/test/photo/IMP-1965-04-20-a-i0007.jpg,<image>An image of,photo,Peter Beardsley,1,0
+data/test/photo/IMP-1940-08-06-a-i0014.jpg,<image>An image of,photo,Portrait of a man,1,0
+data/test/photo/EXP-1989-07-29-a-i0029.jpg,<image>An image of,photo,a smiling young man. He is wearing a white T-shirt and a black baseball cap.,1,0
+data/test/photo/IMP-1958-01-03-a-i0117.jpg,<image>An image of,photo,"the city of Caracas, Venezuela, in the early 1970s.",1,0
+data/test/photo/EXP-1930-08-27-a-i0004.jpg,<image>An image of,photo,a group of men standing in front of a flag.,1,0
+data/test/photo/IMP-1972-11-23-a-i0328.jpg,<image>An image of,photo,a man and a woman on skis.,1,0
+data/test/photo/IMP-1985-11-11-a-i0143.jpg,<image>An image of,photo,John Lennon,1,0
+data/test/photo/GDL-1995-11-18-a-i0107.jpg,<image>An image of,photo,a poster for the opening of the exhibition 'Genève' at the Palais des Beaux,1,0
+data/test/photo/EXP-1937-04-29-a-i0053.jpg,<image>An image of,photo,The Great Pyramid of Giza,1,0
+data/test/photo/IMP-1940-02-21-a-i0005.jpg,<image>An image of,photo,British soldiers marching in the snow.,1,0
+data/test/photo/EXP-1946-03-15-a-i0147.jpg,<image>An image of,photo,"the D-Day invasion of Normandy, France, on June 6, 1944.",1,0
+data/test/photo/IMP-1968-08-23-a-i0248.jpg,<image>An image of,photo,a rugby match.,1,0
+data/test/photo/IMP-1989-08-16-a-i0106.jpg,<image>An image of,photo,Usain Bolt,1,0
+data/test/photo/IMP-1959-03-13-a-i0169.jpg,<image>An image of,photo,a man in a suit standing in front of a car with a man in a suit standing next to,1,0
+data/test/photo/IMP-2008-10-13-a-i0075.jpg,<image>An image of,photo,a drummer playing a snare drum.,1,0
+data/test/photo/EXP-1999-12-02-a-i0140.jpg,<image>An image of,photo,a man driving a car with a horse on the back.,1,0
+data/test/photo/IMP-2008-02-13-a-i0010.jpg,<image>An image of,photo,a woman standing in front of a building. She is wearing a long black coat and is leaning against,1,0
+data/test/photo/EXP-1995-06-24-a-i0240.jpg,<image>An image of,photo,a cyclist on a road bike.,1,0
+data/test/photo/EXP-1953-08-18-a-i0007.jpg,<image>An image of,photo,"a woman standing in front of a tree in a white wedding dress, holding a bouquet of flowers",1,0
+data/test/photo/EXP-1970-05-04-a-i0007.jpg,<image>An image of,photo,an armoured personnel carrier (APC),1,0
+data/test/photo/EXP-1935-06-11-a-i0006.jpg,<image>An image of,photo,Hitler addressing the Reichstag,1,0
+data/test/photo/EXP-1958-06-30-a-i0012.jpg,<image>An image of,photo,a group of people standing in front of a plane.,1,0
+data/test/photo/LCE-1977-12-20-a-i0030.jpg,<image>An image of,photo,'Au Beau Troubadour' by Henri de Toulouse-Lautrec,1,0
+data/test/photo/IMP-2008-09-16-a-i0309.jpg,<image>An image of,photo,the official match ball used during the World Cup in Mexico.,1,0
+data/test/photo/IMP-1930-01-08-a-i0004.jpg,<image>An image of,photo,King George V of the United Kingdom of Great Britain and Ireland,1,0
+data/test/photo/EXP-2015-07-13-a-i0127.jpg,<image>An image of,photo,Serbian President Aleksandar Vucic (C) being surrounded by protesters during a rally in,1,0
+data/test/photo/EXP-1967-04-24-a-i0127.jpg,<image>An image of,photo,Jean-Paul Belmondo taken from the French newspaper L'Humanité on the day of his,1,0
+data/test/photo/EXP-1987-10-22-a-i0509.jpg,<image>An image of,photo,a car being pushed over by a crane.,1,0
+data/test/photo/IMP-2016-05-31-a-i0193.jpg,<image>An image of,photo,a player wearing a yellow jersey and black shorts. He is wearing a black headband. He is,1,0
+data/test/photo/IMP-1929-08-10-a-i0004.jpg,<image>An image of,photo,a man sitting at a desk. He is wearing a black suit and a white shirt. He is,1,0
+data/test/photo/IMP-1965-04-03-a-i0361.jpg,<image>An image of,photo,John Lennon taken from the cover of the Beatles' Anthology album.,1,0
+data/test/photo/GDL-1970-05-21-a-i0034.jpg,<image>An image of,photo,"Still life with a vase, a bottle and a pair of shoes by George Bellows",1,0
+data/test/photo/IMP-2008-06-02-a-i0067.jpg,<image>An image of,photo,a crowd of people at a festival.,1,0
+data/test/photo/GDL-1979-05-08-a-i0045.jpg,<image>An image of,photo,"Dr. Robert E. Larson, who was a member of the Board of Trustees of the University",1,0
+data/test/photo/IMP-1948-05-05-a-i0044.jpg,<image>An image of,photo,a woman wearing a hat with flowers in her hair.,1,0
+data/test/photo/JDG-1995-03-30-a-i0189.jpg,<image>An image of,photo,The Man Who Came to Dinner (1931),1,0
+data/test/photo/JDG-1909-11-09-a-i0050.jpg,<image>An image of,photo,the head and shoulders of a man with a moustache. He is wearing a dark suit and,1,0
+data/test/photo/EXP-2010-07-14-a-i0108.jpg,<image>An image of,photo,the characters from Toy Story,1,0
+data/test/photo/IMP-2009-05-04-a-i0182.jpg,<image>An image of,photo,a man in a suit and glasses standing in front of a hockey rink.,1,0
+data/test/photo/IMP-2002-12-28-a-i0029.jpg,<image>An image of,photo,a man standing in front of a cash register.,1,0
+data/test/photo/GDL-1955-07-23-a-i0002.jpg,<image>An image of,photo,Chateau de Chenonceau,1,0
+data/test/photo/IMP-1969-01-25-a-i0104.jpg,<image>An image of,photo,a group of children sitting at a table.,1,0
+data/test/photo/EXP-1945-12-13-a-i0079.jpg,<image>An image of,photo,Candlesticks and candelabra,1,0
+data/test/photo/EXP-2015-02-05-a-i0115.jpg,<image>An image of,photo,a person smoking a joint,1,0
+data/test/photo/JDG-1936-12-30-a-i0033.jpg,<image>An image of,photo,a row of stretchers in use during the First World War.,1,0
+data/test/photo/IMP-1931-02-18-a-i0004.jpg,<image>An image of,photo,"General Sir John Moore, K.C.B., K.C.M.G., D",1,0
+data/test/photo/IMP-1935-05-23-a-i0005.jpg,<image>An image of,photo,a crowd of people carrying boxes of food.,1,0
+data/test/photo/EXP-2008-10-10-a-i0155.jpg,<image>An image of,photo,Rory McIlroy,1,0
+data/test/photo/EXP-2010-02-01-a-i0162.jpg,<image>An image of,photo,Jean-Pierre Papin,1,0
+data/test/photo/JDG-1959-09-30-a-i0045.jpg,<image>An image of,photo,the aftermath of the 1906 San Francisco Earthquake and Fire.,1,0
+data/test/photo/EXP-1932-04-08-a-i0060.jpg,<image>An image of,photo,a man in a suit and a woman in a dress.,1,0
+data/test/photo/IMP-2006-06-27-a-i0272.jpg,<image>An image of,photo,people in raincoats and umbrellas,1,0
+data/test/photo/IMP-1983-03-10-a-i0177.jpg,<image>An image of,photo,"a group of women sitting on a park bench, with a baby carriage in the background.",1,0
+data/test/photo/IMP-2003-08-30-a-i0229.jpg,<image>An image of,photo,Peter Beardsley playing for Crystal Palace against Manchester United in the 1999 FA Cup Final at Wem,1,0
+data/test/photo/LCE-1983-10-04-a-i0034.jpg,<image>An image of,photo,a disabled person in a wheelchair at a disabled person's fair.,1,0
+data/test/photo/EXP-1996-11-16-a-i0042.jpg,<image>An image of,photo,a woman looking at a display of jewelry.,1,0
+data/test/photo/EXP-1936-06-20-a-i0103.jpg,<image>An image of,photo,the Cabinet meeting at Buckingham Palace,1,0
+data/test/photo/LCE-1969-02-14-a-i0005.jpg,<image>An image of,photo,the castle in the early 1900s.,1,0
+data/test/photo/EXP-1967-05-05-a-i0062.jpg,<image>An image of,photo,a bus in Moscow in the 1970s.,1,0
+data/test/photo/EXP-2010-03-27-a-i0274.jpg,<image>An image of,photo,"the cast of the film The Great Gatsby, from left to right: Tobey Magu",1,0
+data/test/photo/IMP-2009-03-21-a-i0313.jpg,<image>An image of,photo,the cast of the movie 'The Bourne Ultimatum',1,0
+data/test/photo/IMP-1963-09-05-a-i0007.jpg,<image>An image of,photo,the crash site of the Cessna. (Photo courtesy of the National Transportation Safety Board),1,0
+data/test/photo/IMP-1982-07-02-a-i0242.jpg,<image>An image of,photo,a man and a woman standing next to each other in front of a black background. The man is,1,0
+data/test/photo/GDL-1989-04-08-a-i0200.jpg,<image>An image of,photo,a man climbing a ladder on the roof of a building.,1,0
+data/test/photo/EXP-1931-12-17-a-i0121.jpg,<image>An image of,photo,"Mitsuo Fuchida, the founder of the Japanese Self-Defense Forces, from the",1,0
+data/test/photo/GDL-1982-12-02-a-i0053.jpg,<image>An image of,photo,a CT scanner in use.,1,0
+data/test/photo/EXP-2000-09-13-a-i0271.jpg,<image>An image of,photo,Paul et Martin Laciga from the Stamps of the World collection.,1,0
+data/test/photo/IMP-1976-03-11-a-i0063.jpg,<image>An image of,photo,"a woman in a black dress, holding a ball in her hand.",1,0
+data/test/photo/GDL-1967-01-16-a-i0140.jpg,<image>An image of,photo,"a crowd of people, all in black and white, with their hands raised in the air.",1,0
+data/test/photo/EXP-2007-07-26-a-i0207.jpg,<image>An image of,photo,the late Sir Peter Bazalgette,1,0
+data/test/photo/EXP-2014-12-16-a-i0190.jpg,<image>An image of,photo,a meeting of the Commission for the Protection of the Rights of Persons with Disabilities (CPR,1,0
+data/test/photo/EXP-1995-11-24-a-i0048.jpg,<image>An image of,photo,"the author, Sir Terry Pratchett",1,0
+data/test/photo/EXP-1929-08-09-a-i0096.jpg,<image>An image of,photo,the pier in the 1930s.,1,0
+data/test/photo/JDG-1992-09-07-a-i0165.jpg,<image>An image of,photo,"a mother and child in the streets of Belfast, Northern Ireland, during the Troubles",1,0
+data/test/photo/IMP-1915-11-10-a-i0006_2.jpg,<image>An image of,photo,The Gallipoli landings from The Illustrated London News.,1,0
+data/test/photo/IMP-1973-02-06-a-i0033.jpg,<image>An image of,photo,a car parked on a snowy street.,1,0
+data/test/photo/EXP-1977-07-23-a-i0116.jpg,<image>An image of,photo,"a woman in a wheelchair holding a bouquet of flowers, surrounded by a group of people.",1,0
+data/test/graph/GDL-1989-04-17-a-i0064_2.jpg,<image>An image of,graph,the Morgan Stanley International Index,1,0
+data/test/graph/EXP-1911-12-09-a-i0115.jpg,<image>An image of,graph,a graph showing the number of deaths from the plague in France during the Black Death in 1348.,1,0
+data/test/graph/GDL-1989-04-17-a-i0064.jpg,<image>An image of,graph,the Morgan Stanley Capital International (MSCI) Index,1,0
+data/test/graph/EXP-1912-02-02-a-i0108.jpg,<image>An image of,graph,"a graph showing the number of deaths per 100,000 people in the United States from 1918-19",1,0
+data/test/graph/EXP-1923-03-21-a-i0095.jpg,<image>An image of,graph,a graph showing the number of hours of sleep per day.,1,0
+data/test/graph/EXP-1913-04-28-a-i0115.jpg,<image>An image of,graph,a graph showing the number of deaths per day in the United States during the 1918 influenza pandemic.,1,0
+data/test/graph/EXP-1903-11-30-a-i0052.jpg,<image>An image of,graph,a graph showing the number of deaths per day in Italy during World War II.,1,0
+data/test/graph/EXP-1908-07-09-a-i0073_2.jpg,<image>An image of,graph,a graph showing the number of children born in a given year. The vertical axis is the number of,1,0
+data/test/graph/GDL-1996-02-01-a-i0256.jpg,<image>An image of,graph,the Dow Jones Industrial Average,1,0
+data/test/graph/JDG-1976-01-09-a-i0041.jpg,<image>An image of,graph,a stock chart.,1,0
+data/test/graph/EXP-1935-03-04-a-i0105.jpg,<image>An image of,graph,a graph showing the number of days in a year that the planet Mars is visible to the naked eye,1,0
+data/test/graph/EXP-1903-12-16-a-i0044.jpg,<image>An image of,graph,a graph showing the number of deaths per day in Italy during World War II.,1,0
+data/test/graph/EXP-1921-08-31-a-i0070.jpg,<image>An image of,graph,"a graph showing the number of deaths per 100,000 people in the United States from 1918 to 1920",1,0
+data/test/graph/EXP-1915-02-26-a-i0072.jpg,<image>An image of,graph,"a graph showing the number of deaths per 100,000 people in the United States from 1918 to 1920",1,0
+data/test/graph/EXP-1923-08-21-a-i0071.jpg,<image>An image of,graph,"a graph showing the number of deaths per 100,000 people in the United States from 1918 to 1920",1,0
+data/test/graph/GDL-1979-10-09-a-i0095.jpg,<image>An image of,graph,the Dow Jones Industrial Average (DJIA) and the Standard & Poor's 500 (SP500),1,0
+data/test/graph/EXP-1913-11-07-a-i0100.jpg,<image>An image of,graph,a bar graph showing the number of bars in a row.,1,0
+data/test/graph/EXP-1912-11-26-a-i0106.jpg,<image>An image of,graph,a graph showing the number of deaths per day in France during the first year of the Franco-Pr,1,0
+data/test/graph/EXP-1962-11-21-a-i0136.jpg,<image>An image of,graph,a graph showing the number of days in a month.,1,0
+data/test/graph/IMP-1994-10-29-a-i0103.jpg,<image>An image of,graph,the Swiss Market Index,1,0
+data/test/graph/EXP-1945-04-05-a-i0192.jpg,<image>An image of,graph,the Mars Orbiter Laser Altimeter (MOLA) instrument on the Mars Global Survey,1,0
+data/test/graph/EXP-1913-09-08-a-i0104.jpg,<image>An image of,graph,"a graph showing the number of deaths per 100,000 people in the United States from 1918 to 1920",1,0
+data/test/graph/EXP-1948-05-28-a-i0189.jpg,<image>An image of,graph,a thermometer showing the temperature in degrees Celsius and in degrees Fahrenheit.,1,0
+data/test/graph/JDG-1907-09-14-a-i0064.jpg,<image>An image of,graph,a graph of the circumference of a circle.,1,0
+data/test/graph/EXP-1923-03-16-a-i0102.jpg,<image>An image of,graph,a graph showing the number of days in a month.,1,0
+data/test/graph/EXP-1936-05-22-a-i0112.jpg,<image>An image of,graph,a graph showing the number of deaths per day during the 1918-1919 influenza pandemic.,1,0
+data/test/graph/JDG-1997-05-01-a-i0235.jpg,<image>An image of,graph,the FTSE 100 and the FTSE 250,1,0
+data/test/graph/GDL-1979-02-05-a-i0102.jpg,<image>An image of,graph,the U.S. unemployment rate from the Bureau of Labor Statistics.,1,0
+data/test/graph/EXP-1916-01-19-a-i0064.jpg,<image>An image of,graph,a graph showing the temperature of a room in degrees Fahrenheit.,1,0
+data/test/graph/JDG-1908-10-10-a-i0031.jpg,<image>An image of,graph,a graph showing the number of days in a month.,1,0
+data/test/graph/EXP-1920-10-02-a-i0159.jpg,<image>An image of,graph,a graph showing the number of deaths in the United States from 1918 to 1920.,1,0
+data/test/graph/EXP-1913-02-21-a-i0127.jpg,<image>An image of,graph,a graph showing the number of deaths from cholera in the United States from 1849 to 1850.,1,0
+data/test/graph/EXP-1970-01-17-a-i0061.jpg,<image>An image of,graph,a graph showing the number of deaths from the Spanish flu in the United States in 1918.,1,0
+data/test/graph/EXP-1951-01-29-a-i0116.jpg,<image>An image of,graph,a thermometer,1,0
+data/test/graph/EXP-1931-10-26-a-i0101_2.jpg,<image>An image of,graph,a graph showing the number of days in a month.,1,0
+data/test/graph/EXP-1918-02-08-a-i0068.jpg,<image>An image of,graph,Table 1 from the report of the Commission of Enquiry into the Condition of the Indian Population in the,1,0
+data/test/drawing/JDG-1966-05-31-a-i0021.jpg,<image>An image of,drawing,Shoes,1,0
+data/test/drawing/EXP-1988-07-13-a-i0007.jpg,<image>An image of,drawing,Mr. G. J. McLean who was killed in a road accident in the early hours of,1,0
+data/test/drawing/IMP-1911-01-14-a-i0027.jpg,<image>An image of,drawing,Flying Pigeons by George Petty,1,0
+data/test/drawing/EXP-1932-07-26-a-i0078.jpg,<image>An image of,drawing,a 1920s dress pattern.,1,0
+data/test/drawing/EXP-1990-11-26-a-i0245.jpg,<image>An image of,drawing,Jane Austen,1,0
+data/test/drawing/IMP-1981-02-18-a-i0085_4.jpg,<image>An image of,drawing,the USS Constitution,1,0
+data/test/drawing/IMP-1906-12-16-a-i0013.jpg,<image>An image of,drawing,a wolf.,1,0
+data/test/drawing/GDL-1966-04-22-a-i0067.jpg,<image>An image of,drawing,Portrait of a Woman by Henri Matisse,1,0
+data/test/drawing/IMP-1904-04-09-a-i0002_3.jpg,<image>An image of,drawing,Vue de la gare de l'Independance,1,0
+data/test/drawing/EXP-1957-12-06-a-i0008.jpg,<image>An image of,drawing,a flying saucer,1,0
+data/test/drawing/IMP-1929-10-16-a-i0005.jpg,<image>An image of,drawing,the Titanic from the Illustrated London News.,1,0
+data/test/drawing/IMP-1910-05-01-a-i0094_10.jpg,<image>An image of,drawing,a woman wearing a long-sleeved jacket.,1,0
+data/test/drawing/IMP-1923-12-21-a-i0030.jpg,<image>An image of,drawing,a 1920s evening dress.,1,0
+data/test/drawing/IMP-1904-04-09-a-i0002.jpg,<image>An image of,drawing,the prison in the 18th century.,1,0
+data/test/drawing/IMP-1913-11-22-a-i0062.jpg,<image>An image of,drawing,a procession of pilgrims in the Holy Land.,1,0
+data/test/drawing/JDG-1994-06-10-a-i0250.jpg,<image>An image of,drawing,a postage stamp,1,0
+data/test/drawing/EXP-1972-07-08-a-i0361_3.jpg,<image>An image of,drawing,a man in a suit and a man in a suit and a man in a suit and a man,1,0
+data/test/drawing/GDL-1951-10-24-a-i0014.jpg,<image>An image of,drawing,an owl on a tree trunk.,1,0
+data/test/drawing/LCE-1952-09-22-a-i0041_2.jpg,<image>An image of,drawing,a man wearing a striped shirt and holding a balloon.,1,0
+data/test/drawing/IMP-1993-09-25-a-i0275.jpg,<image>An image of,drawing,a crowd of people.,1,0
+data/test/drawing/IMP-1981-02-18-a-i0085_5.jpg,<image>An image of,drawing,a child's drawing of a train,1,0
+data/test/drawing/LCE-1919-05-03-a-i0022.jpg,<image>An image of,drawing,a man with a moustache and a woman with a moustache.,1,0
+data/test/drawing/JDG-1958-02-15-a-i0052_2.jpg,<image>An image of,drawing,the interior of a room with a man sitting on a chair reading a book and a woman kneeling,1,0
+data/test/drawing/IMP-1920-03-19-a-i0002.jpg,<image>An image of,drawing,"the late Mr. William H. H. Boulton, M.A., LL.D",1,0
+data/test/drawing/IMP-1955-08-01-a-i0038.jpg,<image>An image of,drawing,"a woman in a hat and dress standing in front of a man in a straw hat, holding a",1,0
+data/test/drawing/IMP-1989-08-28-a-i0011.jpg,<image>An image of,drawing,a man and a woman sitting on a bench with their hands on their hips. The man is holding,1,0
+data/test/drawing/IMP-2001-07-17-a-i0177.jpg,<image>An image of,drawing,an open book with a human eye peering out of it.,1,0
+data/test/drawing/GDL-1949-09-03-a-i0216.jpg,<image>An image of,drawing,a group of soldiers in a camp.,1,0
+data/test/drawing/IMP-1915-04-08-a-i0038_2.jpg,<image>An image of,drawing,the first page of the score.,1,0
+data/test/drawing/IMP-1946-02-01-a-i0084.jpg,<image>An image of,drawing,a Simplicity pattern from the 1940s.,1,0
+data/test/drawing/IMP-2001-07-17-a-i0177_2.jpg,<image>An image of,drawing,a wheel.,1,0
+data/test/drawing/IMP-1955-01-31-a-i0053.jpg,<image>An image of,drawing,the cover of the French edition of the comic strip 'Moi au soleil' (My Sun,1,0
+data/test/drawing/EXP-1906-03-31-a-i0134.jpg,<image>An image of,drawing,a man being shot in the back of the head by a firing squad.,1,0
+data/test/drawing/JDG-1977-06-04-a-i0219.jpg,<image>An image of,drawing,people on a cable car in the Swiss Alps.,1,0
+data/test/drawing/IMP-1981-02-18-a-i0085_13.jpg,<image>An image of,drawing,a drawing of a building in the shape of a house.,1,0
+data/test/drawing/EXP-1950-01-28-a-i0233.jpg,<image>An image of,drawing,the plan of the Conciergerie in Paris.,1,0
+data/test/drawing/EXP-1973-09-01-a-i0451_4.jpg,<image>An image of,drawing,a woman talking on the phone.,1,0
+data/test/drawing/JDG-1956-12-12-a-i0230_2.jpg,<image>An image of,drawing,a bearing,1,0
+data/test/drawing/IMP-1989-05-31-a-i0100.jpg,<image>An image of,drawing,a man in a suit holding a gun.,1,0
+data/test/drawing/LCE-1901-07-31-a-i0023.jpg,<image>An image of,drawing,the author's great-great-great-great-great-great-great-great-great,1,0
+data/test/drawing/IMP-1937-02-16-a-i0012.jpg,<image>An image of,drawing,a man walking with a cane.,1,0
+data/test/drawing/JDG-1971-07-24-a-i0130.jpg,<image>An image of,drawing,Adam and Eve in the Garden of Eden.,1,0
+data/test/drawing/IMP-1992-02-10-a-i0160.jpg,<image>An image of,drawing,a frog in a raincoat holding a raincoat on his head.,1,0
+data/test/drawing/EXP-1979-08-17-a-i0337.jpg,<image>An image of,drawing,three women laughing.,1,0
+data/test/drawing/IMP-2000-09-15-a-i0197_3.jpg,<image>An image of,drawing,a man sitting in a chair reading a book.,1,0
+data/test/drawing/EXP-1966-11-25-a-i0334.jpg,<image>An image of,drawing,Figure in a Landscape by James McNeill Whistler (1834-1903),1,0
+data/test/drawing/IMP-1925-01-09-a-i0030.jpg,<image>An image of,drawing,a woman sitting on a couch with her granddaughter and granddaughter's children.,1,0
+data/test/drawing/GDL-1953-05-30-a-i0173.jpg,<image>An image of,drawing,"Nude (recto) by Edward Hopper (1882-1967, United States)",1,0
+data/test/drawing/JDG-1974-01-17-a-i0097.jpg,<image>An image of,drawing,two people in a car. One is wearing a seatbelt and the other is not.,1,0
+data/test/drawing/LCE-1908-02-29-a-i0040.jpg,<image>An image of,drawing,a knight on a horse.,1,0
+data/test/drawing/IMP-1936-06-23-a-i0069.jpg,<image>An image of,drawing,a man in a hat and a suit holding a pen and a piece of paper.,1,0
+data/test/drawing/IMP-1976-01-24-a-i0073.jpg,<image>An image of,drawing,the cover of the French edition of the New Scientist magazine.,1,0
+data/test/drawing/LCE-1992-06-12-a-i0032.jpg,<image>An image of,drawing,Textile (recto) by Andy Warhol,1,0
+data/test/drawing/EXP-1959-06-19-a-i0106_3.jpg,<image>An image of,drawing,a dog in a hammock.,1,0
+data/test/drawing/IMP-1951-08-20-a-i0080.jpg,<image>An image of,drawing,a page from a children's book about a prince and a princess kissing in front of a castle.,1,0
+data/test/drawing/IMP-1984-11-06-a-i0005.jpg,<image>An image of,drawing,two men sitting on a bench. One is smoking a pipe and the other is holding a cigarette.,1,0
+data/test/drawing/IMP-1915-05-18-a-i0007.jpg,<image>An image of,drawing,H.M.S.,1,0
+data/test/drawing/GDL-1959-02-03-a-i0097_2.jpg,<image>An image of,drawing,two surgeons in a hospital operating room. One is wearing a surgical mask and the other is wearing a,1,0
+data/test/drawing/EXP-1994-10-24-a-i0110.jpg,<image>An image of,drawing,a man looking at a computer screen with a heart on it.,1,0
+data/test/drawing/IMP-1903-01-14-a-i0031.jpg,<image>An image of,drawing,"the head and shoulders of a young man, wearing a bow tie and dark jacket. He has a",1,0
+data/test/drawing/EXP-1914-02-11-a-i0087.jpg,<image>An image of,drawing,the exterior of the building in which the museum was housed.,1,0
+data/test/drawing/GDL-1979-06-15-a-i0026_2.jpg,<image>An image of,drawing,a stairway.,1,0
+data/test/drawing/IMP-1980-02-04-a-i0078_3.jpg,<image>An image of,drawing,Robert Rauschenberg,1,0
+data/test/drawing/JDG-1992-04-25-a-i0255_3.jpg,<image>An image of,drawing,The Battle of Thermopylae,1,0
+data/test/drawing/GDL-1975-12-13-a-i0099.jpg,<image>An image of,drawing,a man playing a musical instrument.,1,0
+data/test/drawing/EXP-1972-07-08-a-i0361.jpg,<image>An image of,drawing,two men smoking a cigarette and looking at each other. The man on the left is wearing a suit,1,0
+data/test/drawing/EXP-1974-05-25-a-i0325_2.jpg,<image>An image of,drawing,a horse-drawn stagecoach.,1,0
+data/test/drawing/JDG-1904-10-21-a-i0066.jpg,<image>An image of,drawing,the head and shoulders of a young man in a black suit and a white shirt. He has a,1,0
+data/test/drawing/EXP-1969-05-13-a-i0056.jpg,<image>An image of,drawing,St. Mary's Church from the book The History and Antiquities of the City of York by,1,0
+data/test/drawing/JDG-1955-02-10-a-i0014.jpg,<image>An image of,drawing,Two figures (recto and verso) by Tom Thomson (1877-1917),1,0
+data/test/drawing/EXP-1974-04-25-a-i0418.jpg,<image>An image of,drawing,a man and a woman sitting on a bed. The woman is reading a newspaper and the man is,1,0
+data/test/drawing/IMP-1958-03-19-a-i0167.jpg,<image>An image of,drawing,a wedding couple in a garden.,1,0
+data/test/drawing/EXP-1972-12-02-a-i0308.jpg,<image>An image of,drawing,a swimmer and a diver.,1,0
+data/test/drawing/GDL-1956-06-30-a-i0255_6.jpg,<image>An image of,drawing,a man playing a flute,1,0
+data/test/drawing/LCE-1915-02-13-a-i0032.jpg,<image>An image of,drawing,Marilyn Monroe,1,0
+data/test/drawing/JDG-1978-10-23-a-i0020.jpg,<image>An image of,drawing,a man in a trench coat and hat.,1,0
+data/test/drawing/IMP-1901-05-29-a-i0035.jpg,<image>An image of,drawing,a young girl.,1,0
+data/test/drawing/LCE-1915-12-25-a-i0042.jpg,<image>An image of,drawing,a sewing machine,1,0
+data/test/drawing/EXP-1924-06-06-a-i0046.jpg,<image>An image of,drawing,a scene from the play The Merchant of Venice by William Shakespeare.,1,0
+data/test/drawing/IMP-1983-10-03-a-i0220.jpg,<image>An image of,drawing,a man and a woman fighting on the road.,1,0
+data/test/drawing/JDG-1968-10-25-a-i0086.jpg,<image>An image of,drawing,Untitled (Hanging Clothes) by Robert Rauschenberg,1,0
+data/test/drawing/EXP-1974-05-25-a-i0325_4.jpg,<image>An image of,drawing,birds on a wire.,1,0
+data/test/drawing/EXP-1974-05-25-a-i0325_8.jpg,<image>An image of,drawing,a woman looking through a telescope.,1,0
+data/test/drawing/GDL-1900-03-08-a-i0026.jpg,<image>An image of,drawing,a man with a moustache,1,0
+data/test/drawing/IMP-1949-09-30-a-i0010.jpg,<image>An image of,drawing,a boy and a girl playing in a field. The boy is holding a spade and the girl,1,0
+data/test/drawing/IMP-1981-02-18-a-i0085.jpg,<image>An image of,drawing,an ambulance drawn by a young boy during the First World War.,1,0
+data/test/drawing/LCE-1908-08-12-a-i0050.jpg,<image>An image of,drawing,the original design of the table.,1,0
+data/test/drawing/IMP-1930-02-27-a-i0033.jpg,<image>An image of,drawing,"Bruges, Belgium.",1,0
+data/test/drawing/EXP-1986-07-04-a-i0361.jpg,<image>An image of,drawing,two apples.,1,0
+data/test/comic/IMP-1957-11-02-a-i0173_5.jpg,<image>An image of,comic,a man and a woman in bed. The man is smoking a pipe and the woman is reading a,1,0
+data/test/comic/EXP-1962-01-05-a-i0084_2.jpg,<image>An image of,comic,a French comic book from the 1950s.,1,0
+data/test/comic/EXP-1989-08-16-a-i0308_4.jpg,<image>An image of,comic,a man fishing in the water. He is wearing a hat and a suit. He is holding a,1,0
+data/test/comic/EXP-1958-01-21-a-i0185.jpg,<image>An image of,comic,La journee de M. Mouche by Georges Barbier,1,0
+data/test/comic/EXP-2004-11-03-a-i0131_2.jpg,<image>An image of,comic,the cover of the French edition of The Adventures of Tintin by Herge.,1,0
+data/test/comic/IMP-1979-12-03-a-i0187.jpg,<image>An image of,comic,Chilveric-Lutin,1,0
+data/test/comic/EXP-2000-03-18-a-i0362.jpg,<image>An image of,comic,a cartoon of the Swiss army with the caption 'Dats Armes Soeurs Prudentes',1,0
+data/test/comic/IMP-1957-12-16-a-i0087.jpg,<image>An image of,comic,a comic strip featuring a penguin and a seal.,1,0
+data/test/comic/EXP-1940-04-09-a-i0069.jpg,<image>An image of,comic,a man and a woman in a room. The woman is wearing a black dress and the man is,1,0
+data/test/comic/EXP-1976-12-31-a-i0420.jpg,<image>An image of,comic,a man in a suit and tie sitting at a desk and a woman in a skirt and blouse,1,0
+data/test/comic/EXP-1958-05-20-a-i0092_3.jpg,<image>An image of,comic,the cover of a comic book,1,0
+data/test/comic/EXP-1968-06-14-a-i0472.jpg,<image>An image of,comic,a comic strip from the 1950s.,1,0
+data/test/comic/IMP-1993-04-16-a-i0150.jpg,<image>An image of,comic,a cartoon showing a man voting in a referendum.,1,0
+data/test/comic/EXP-1965-12-24-a-i0313_3.jpg,<image>An image of,comic,"a comic strip featuring a man in a raincoat and a woman in a raincoat,",1,0
+data/test/comic/EXP-1959-02-20-a-i0098_4.jpg,<image>An image of,comic,the cover of the first edition of The Adventures of Tintin.,1,0
+data/test/comic/IMP-1960-08-06-a-i0090_7.jpg,<image>An image of,comic,"a car with a sign that reads 'Bonjour, pas retour' (Good morning, not",1,0
+data/test/comic/IMP-1965-03-13-a-i0144_3.jpg,<image>An image of,comic,"a car in a parking lot, with a man and woman in the back seat. The man is",1,0
+data/test/comic/LCE-1999-01-22-a-i0030.jpg,<image>An image of,comic,a French farmer holding a pickaxe and holding a sign that reads: 'Profit de la,1,0
+data/test/comic/IMP-1974-02-12-a-i0183.jpg,<image>An image of,comic,Tintin in the Land of the Soviets by Herge,1,0
+data/test/comic/GDL-1936-12-18-a-i0041.jpg,<image>An image of,comic,La station parcelle plus acceuillante,1,0
+data/test/comic/IMP-1949-09-09-a-i0013.jpg,<image>An image of,comic,a woman and a man looking at a pile of magazines.,1,0
+data/test/comic/EXP-1998-11-11-a-i0396.jpg,<image>An image of,comic,a cartoon published in the French daily newspaper Le Figaro.,1,0
+data/test/comic/IMP-1960-08-06-a-i0090_4.jpg,<image>An image of,comic,a woman driving a car with a man and a woman in the back seat.,1,0
+data/test/comic/EXP-1967-01-26-a-i0258_3.jpg,<image>An image of,comic,Star Trek: The Motion Picture (1979) comic book page,1,0
+data/test/comic/IMP-2012-10-15-a-i0103.jpg,<image>An image of,comic,Laquelle Hagar?,1,0
+data/test/comic/EXP-1979-12-29-a-i0132.jpg,<image>An image of,comic,the cover of the French comic book 'Revolution Surprise',1,0
+data/test/comic/IMP-1965-03-13-a-i0144.jpg,<image>An image of,comic,a character from the Disney animated film The Lion King.,1,0
+data/test/comic/LCE-1969-05-19-a-i0016_3.jpg,<image>An image of,comic,"a comic strip featuring a man in a raincoat and a woman in a raincoat,",1,0
+data/test/comic/IMP-1959-02-06-a-i0032.jpg,<image>An image of,comic,the cover of a French children's book.,1,0
+data/test/comic/IMP-1947-07-04-a-i0016.jpg,<image>An image of,comic,Week-end familial,1,0
+data/test/comic/EXP-1965-01-28-a-i0311.jpg,<image>An image of,comic,a comic strip depicting a dog being chased by a cat.,1,0
+data/test/comic/GDL-1915-12-05-a-i0098.jpg,<image>An image of,comic,a man and a woman standing in a bar. The woman is holding a glass of water and the,1,0
+data/test/comic/IMP-1942-05-29-a-i0016.jpg,<image>An image of,comic,a cartoon from the French newspaper Le Petit Vingtième.,1,0
+data/test/comic/IMP-2012-09-01-a-i0115.jpg,<image>An image of,comic,the first page of the first issue of The Sandman: Overture by Neil Gaiman,1,0
+data/test/comic/IMP-1992-12-19-a-i0198_2.jpg,<image>An image of,comic,"a comic strip by Elvire, a French cartoonist. The strip is about a man who",1,0
+data/test/comic/EXP-1956-07-25-a-i0105.jpg,<image>An image of,comic,a man in a suit cleaning a rug with a broom.,1,0
+data/test/comic/EXP-1966-07-16-a-i0254_6.jpg,<image>An image of,comic,a man and a child in a tent.,1,0
+data/test/comic/IMP-1961-11-01-a-i0016.jpg,<image>An image of,comic,a man and two men standing in front of a man in a suit. The man in the suit,1,0
+data/test/comic/IMP-1959-12-05-a-i0123.jpg,<image>An image of,comic,a woman standing in front of a washing machine.,1,0
+data/test/comic/EXP-1966-07-15-a-i0238.jpg,<image>An image of,comic,the cover of the French edition of the comic book 'The Adventures of Tintin' by Her,1,0
