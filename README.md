@@ -4,6 +4,9 @@
 
 _Context_: The impresso project features a dataset of around 90 digitised historical newspapers containing approximately 3 million images. These images have no labels, and only 10% of them have a caption, two aspects that hinder their retrieval.
 Two previous student projects focused on the automatic classification of these images, trying to identify 1. the type of image (e.g. photograph, illustration, drawing, graphic, cartoon, map), and 2. in the case of maps, the country or region of the world represented on that map. Good performances on image type classification were achieved by fine-tuning the VGG-16 pre-trained model (see report).
+
+## Image examples from the test dataset
+
 ![Image examples from the test dataset](class-examples.png)
 
 ## GOALS
