@@ -44,27 +44,27 @@ FLAMINGO:
 
 - To test flamingo, run the test_flam.py, execute the following command in your terminal: <br />
 
-- - python3 FLAMINGO/test_flam.py <br />
+`python3 FLAMINGO/test_flam.py`
 
 - The required and optional arguments are: <br />
 
 - - Number of shots from 0 to 3, and prompt ID from 1 to 4 for classification and 1 to 3 for captioning. For the list of Prompt IDs, refer to the variables CLASS_PROMPT_LIST and CAP_PROMPT_LIST (required) <br />
-- - - --num_shots <num_shots> --prompt_id <prompt_id> <br />
+`--num_shots <num_shots> --prompt_id <prompt_id>`
 
 - - If the desired task is classification, omit this argument. If it is captioning, add this argument. (classification task by default) <br />
-- - - --caption
+`--caption`
 
 - To post-process results of a classification prompt, execute the following command in your terminal. It saves the plots inside the corresponding prompt folder. <br />
-- - python3 FLAMINGO/post-process.py --folder_path <folder_path> <br />
+`python3 FLAMINGO/post-process.py --folder_path <folder_path>`
 
 - Perform a quantitative analysis of the results running the following command:
-- - python3 FLAMINGO/quantitative-analysis.py
+`python3 FLAMINGO/quantitative-analysis.py`
 
 - Generate one HTML file per class displaying the results of a specific csv result file
-- - python3 FLAMINGO/single-file-summary.py
+`python3 FLAMINGO/single-file-summary.py`
 
 - Generate 2 HTMLs files that displays the results of all captioning prompts and all classification prompts, respectively
-- - python3 FLAMINGO/overview-summaries.py
+`python3 FLAMINGO/overview-summaries.py`
 
 ## **Student:**
 
