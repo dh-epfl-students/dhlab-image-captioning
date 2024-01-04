@@ -25,13 +25,13 @@ CLIP:
 - The argument options are: <br />
 
 - - Experiment with different prompts to enter in the class_descriptions variable <br />
-- - - --clip <br />
+`python3 CLIP/test_clip.py --clip`
 - - When wanting to save the results obtained with particular prompts, the csv will be stored in the directory spec-paraph-results <br />
-- - - --clip --create_csv <filename.csv> <type-of-change> <br />
+`python3 CLIP/test_clip.py --clip --create_csv <filename.csv> <type-of-change>`
 - - When wanting to load a csv file, this command will print the report, and display the confusion matrix and f1 scores <br />
-- - - --load_csv <file_path> <br />
+`python3 CLIP/test_clip.py --load_csv <file_path>`
 - - Opens the list of desired images from the test data, specified inside the image_paths variable
-- - - --open_images
+`python3 CLIP/test_clip.py --open_images`
 
 - To run the test_languages.py, execute the following command in your terminal, adjusting the main() as needed: <br />
 - - python3 CLIP/test_languages.py <br />
