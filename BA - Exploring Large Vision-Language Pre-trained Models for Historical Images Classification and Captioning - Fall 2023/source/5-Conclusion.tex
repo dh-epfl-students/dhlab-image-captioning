@@ -1,0 +1,15 @@
+% In this report, we offer insights on several research directions:
+% \begin{enumerate}
+%     \item \textit{Are large vision models good at image classification?} -- We evaluate zero-shot image type classification of the available dataset using the CLIP (Contrastive Language–Image Pretraining) %\parencite{radford2021learning}
+%     , and compare with previous performances;
+%     \item \textit{What are the considerations for choosing a captioning model?} -- We evaluate image captioning of the same dataset, by an explorative study of prompting a multimodal a visual language model, FLAMINGO %\parencite{alayrac2022flamingo}
+% , that is known for its ability in generating captions,  in two settings, zero-shot and few-shot. %This part will require adding caption information on the test part of the dataset. In addition to the fluency and accuracy of the generated captions, a specific aspect that might be taken into account is distinctiveness, i.e. whether the image contains details that differentiate it from similar images.
+% \end{enumerate}
+
+This project aimed at exploring models with the potential of automatically classifying and captioning historical images. These tasks are crucial for the digital preservation and accessibility of historical newspapers and efficiency of research workflows. 
+
+We observed that CLIP excels in image classification when prompted correctly, and we put forward a few guidelines to do so. Evaluating whether prompt engineering, prompt tuning or reinforcement learning \parencite{deng2022rlprompt} enable to systematically prompt CLIP optimally for maximized zero-shot results, and whether this offers significant resource saving compared to traditional fine-tuned machine learning models is an interesting research question. Whereas CLIP achieved state-of-the-art multimodal zero-shot performance at the time it was released in 2021 by OpenAI, it has now been outperformed by models such as BLIP-2 by Salesforce, GPT-4 by OpenAI, PaLM 2, LaMDA or more recently Gemini by Google. However, CLIP is still widely used and there has been research on how to use more recent models like GPT-4 to adapt CLIP to downstream tasks \parencite{maniparambil2023clip-gpt4}, and on how to improve CLIP's performance by training it on diverse variants of each caption \parencite{fan2023improving}.
+
+
+The primary goal of Flamingo was originally to generate accurate and informative descriptions for trending YouTube Shorts, which were then stored as metadata to enhance video categorization and searchability \footnote{\url{https://www.deepmind.com/blog/working-together-with-youtube?utm_source=linkedin&utm_medium=social&utm_campaign=YouTubeShorts}} .  This systematic way of generating metadata could improve retrieval of specific information, enhancing the accessibility of these resources to researchers, historians, and the general public. Exploring whether this can work with historical videos, and how well it would work on noisy data, is an interesting open question.
+

@@ -1,0 +1,77 @@
+\documentclass[11pt,titlepage]{report}
+\usepackage{Preamble}
+\usepackage{titlesec}
+\newcommand{\blank}{\underline{\hspace{1em}}}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[table]{xcolor}
+\definecolor{blue1}{rgb}{50, 90, 168}
+\definecolor{blue2}{rgb}{50, 109, 168}
+\definecolor{blue3}{rgb}{50, 137, 168}
+
+\titleformat{\chapter}[block]
+  {\normalfont\Huge\bfseries}
+  {\thechapter\ }
+  {0pt}
+  {\Huge}
+
+\begin{document}
+
+\begin{titlepage}
+   \newgeometry{margin=3cm}
+	\centering
+    \includegraphics[width=0.5\linewidth]{epfl.png}\\[0.25cm] 	% University Logo
+    \textsc{\LARGE École Polytechnique Fédérale de Lausanne}\\ \vspace{\fill}
+    \textsc{\LARGE Bachelor semester Project - Report}\\ \vspace{\fill}
+    \textbf{\textsc{\fontsize{25}{20}\selectfont Exploring Large Vision-Language Models for Historical Image Classification}}\\ \vspace{\fill}		
+
+	% \rule{\linewidth}{0.2 mm} \\[0.5 cm]
+	\textsc{\LARGE Ines Bouchama}\\[0.4cm]
+    \rule{\linewidth}{0.2 mm} \\[0.5 cm]
+    % \textsc{2023 Fall Semester} \\ \today \\[0.2cm]
+    {\Large \today}\\
+	\rule{\linewidth}{0.2 mm} \\[0.5 cm]
+	\textsc{\Large Project Supervisors:}\\[0.2cm]
+    {\Large Dr. Emanuela Boros} \\[0.2cm]
+    {\Large Dr. Maud Ehrmann}
+    % \rule{\linewidth}{0.2 mm} \\[0.5 cm]
+
+\end{titlepage}
+\restoregeometry
+
+\thispagestyle{numberonly}
+\begin{summary}
+\section*{Abstract}
+
+This semester project delves into the assessment of vision models like CLIP and Flamingo for the \textbf{automatic classification and captioning of historical images}. It confronts the challenges related to the quality of historical images, complex layouts, and artefact noise. The project critically evaluates the models' effectiveness in \textbf{zero-shot and few-shot image classification}, as well as explores the multilingual capabilities of CLIP and the optimal prompting strategies for improved classification. Additionally, it investigates Flamingo’s ability to generate accurate, consistent, and contextually appropriate \textbf{image captions}. The report is distinctive for its comprehensive exploration of \textbf{prompt engineering} and provides a nuanced quantitative and qualitative analysis of the models' performances, shedding light on the advancements and potential future directions in the field of automatic historical image classification and captioning.
+
+\end{summary}
+
+\tableofcontents
+
+\chapter{Introduction}
+% add text here 
+\subfile{1-Introduction}
+
+\chapter{Image Dataset}
+% add text here 
+\subfile{2-Dataset}
+% 2.0-Dataset.tex
+
+\chapter{Image Classification}
+\subfile{3-Methods_Class}
+
+\chapter{Image Captioning}
+\subfile{4-Methods_Cap}
+
+\chapter{Conclusions \& Future Work}
+\subfile{5-Conclusion}
+
+\clearpage
+
+% \bibliographystyle{apalike}
+% \bibliography{bibliography}
+
+\pagestyle{numberonly}
+\printbibliography
+
+\end{document}
